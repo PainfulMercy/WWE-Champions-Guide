@@ -1,1 +1,1 @@
-Files here will be copied as-is to public directory.
+Public files for the website [http://wwe-champions.guide](http://wwe-champions.guide)
