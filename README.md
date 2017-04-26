@@ -1,1 +1,1 @@
-Public files for the website [http://wwe-champions.guide](http://wwe-champions.guide)
+Public files for [WWE Champions Guide](http://wwe-champions.guide/) website
