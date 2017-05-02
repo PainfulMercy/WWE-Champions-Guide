@@ -7,7 +7,7 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="WWE Champions game guide for iOS and Android">
     <meta name="author" content="PainfulMercy">
-    <title>WWE Champions Guide: Game Guide for iOS and Android</title>
+    <title>WWE Champions Guide: Dean&#x27;s Daily Schedule and Rewards</title>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <!-- <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet"> -->
     <link rel="stylesheet" href="css/app.css">
@@ -52,69 +52,57 @@
             <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle nav</button>
           </p>
 
-            <!-- Main jumbotron for a primary marketing message or call to action -->
-  <div class="jumbotron">
-    <h1>WWE Champions Guide</h1>
-    <p>Welcome to the unofficial WWE Champions game guide. Here you will find all the information you need to become a better Champion!</p>
+            <h1>Contact</h1>
+  <hr>
+
+<form class="form-horizontal" action="https://formspree.io/contact@wwe-champions.guide" method="POST" id="contact_form">
+  <input type="text" name="_gotcha" style="display:none" />
+  <fieldset>
+
+  <!-- Text input-->
+  <div class="form-group">
+    <div class="col-md-6 inputGroupContainer">
+      <div class="input-group">
+        <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
+        <input name="name" placeholder="Name" class="form-control" type="text">
+      </div>
+    </div>
   </div>
 
-  <!--
-  <div class="row">
-    <div class="col-xs-6 col-lg-4">
-      <h2>Daily Rewards</h2>
-      <p>See all available daily rewards from the game. </p>
-      <p><a class="btn btn-default" href="daily-rewards.html" role="button">View details &raquo;</a></p>
-    </div>
-    <div class="col-xs-6 col-lg-4">
-      <h2>Level-Up Rewards</h2>
-      <p>See all available rewards when you level-up.</p>
-      <p><a class="btn btn-default" href="level-up-rewards.html" role="button">View details &raquo;</a></p>
-    </div>
-    <div class="col-xs-6 col-lg-4">
-      <h2>Faction Feud</h2>
-      <p>See all the prizes and requirements from the upcoming Faction Feud.</p>
-      <p><a class="btn btn-default" href="faction-feud.html" role="button">View details &raquo;</a></p>
-    </div>
-    <div class="col-xs-6 col-lg-4">
-      <h2>PvP</h2>
-      <p>Get the latest information about PvP, fame points, and league rewards.</p>
-      <p><a class="btn btn-default" href="pvp.html" role="button">View details &raquo;</a></p>
-    </div>
-    <div class="col-xs-6 col-lg-4">
-      <h2>Dean's Daily</h2>
-      <p>Get Dean's daily schedule and rewards.</p>
-      <p><a class="btn btn-default" href="deans-daily.html" role="button">View details &raquo;</a></p>
-    </div>
-    <div class="col-xs-6 col-lg-4">
-      <h2>Recurrent Tours</h2>
-      <p>See all available tours, such as Monday Night RAW, and thier rewards.</p>
-      <p><a class="btn btn-default" href="recurrent-tours.html" role="button">View details &raquo;</a></p>
-    </div>
-    <div class="col-xs-6 col-lg-4">
-      <h2>Upcoming Mega Superstars</h2>
-      <p>Take a peek at what Mega Superstar is coming next.</p>
-      <p><a class="btn btn-default" href="upcoming-mega-superstars.html" role="button">View details &raquo;</a></p>
-    </div>
-
-    <div class="col-xs-6 col-lg-4">
-      <h2>Gauntlet Blitz</h2>
-      <p>See the upcoming Gauntlet Blitz and its requirements and rewards.</p>
-      <p><a class="btn btn-default" href="gauntlet-blitz.html" role="button">View details &raquo;</a></p>
-    </div>
-
-    <div class="col-xs-6 col-lg-4">
-      <h2>Tag Team Bonus</h2>
-      <p>See all available Superstars and thier tag team bonuses.</p>
-      <p><a class="btn btn-default" href="tag-team-bonus.html" role="button">View details &raquo;</a></p>
-    </div>
-
-    <div class="col-xs-6 col-lg-4">
-      <h2>Superstar Evolution</h2>
-      <p>See all the available evolution requirements.</p>
-      <p><a class="btn btn-default" href="superstar-evolution.html" role="button">View details &raquo;</a></p>
+  <!-- Text input-->
+  <div class="form-group">
+    <div class="col-md-6 inputGroupContainer">
+      <div class="input-group">
+        <span class="input-group-addon"><i class="glyphicon glyphicon-envelope"></i></span>
+        <input name="email" placeholder="your@email.com" class="form-control" type="text">
+      </div>
     </div>
   </div>
-  -->
+
+  <!-- Text area -->
+
+  <div class="form-group">
+    <div class="col-md-6 inputGroupContainer">
+      <div class="input-group">
+        <span class="input-group-addon"><i class="glyphicon glyphicon-pencil"></i></span>
+        <textarea class="form-control" name="message" placeholder="Messege" rows="8"></textarea>
+      </div>
+    </div>
+  </div>
+
+  <!-- Success message -->
+  <div class="alert alert-success" role="alert" id="success_message">Success <i class="glyphicon glyphicon-thumbs-up"></i> Thanks for contacting us, we will get back to you shortly.</div>
+
+  <!-- Button -->
+  <div class="form-group">
+    <div class="col-md-6">
+      <button type="submit" class="btn btn-primary" >Send <span class="glyphicon glyphicon-send"></span></button>
+    </div>
+  </div>
+
+  </fieldset>
+</form>
+
 
 
         </div><!--/.col-xs-12.col-sm-9-->

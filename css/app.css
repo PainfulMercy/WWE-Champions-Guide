@@ -7326,6 +7326,9 @@ body {
 footer {
   padding: 30px 0;
 }
+#success_message {
+  display: none;
+}
 /*
  * Off Canvas
  * --------------------------------------------------
