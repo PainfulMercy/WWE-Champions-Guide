@@ -17,10 +17,9 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
-
     <script src="js/app.js"></script>
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/1000hz-bootstrap-validator/0.11.9/validator.js"> </script>
     <script>require('initialize');</script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lazyad-loader/1.1.10/lazyad-loader.js"></script>
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <script>
       (adsbygoogle = window.adsbygoogle || []).push({
@@ -59,6 +58,15 @@
           <p class="pull-right visible-xs">
             <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle nav</button>
           </p>
+
+          <!-- wrap all ad scripts in a lazyad div & lazyad script  -->
+          <div id="adMonitor" class="ad hidden-xs" data-lazyad>
+            <script type="text/lazyad">
+              <!--
+              <script data-cfasync='false' type='text/javascript' src='//p217060.clksite.com/adServe/banners?tid=217060_406267_4'></script>
+              -->
+            </script>
+          </div>
 
             <h1>Daily Rewards</h1>
   <hr>
@@ -2114,7 +2122,19 @@
 
     ga('create', 'UA-98119818-1', 'auto');
     ga('send', 'pageview');
-
+    </script>
+    <script type="text/javascript">
+      // jQuery used as an example of delaying until load.
+      $(function() {
+        // Build url params and make the ad call
+        //postscribe('#adMonitor', '<script data-cfasync=true src="//s.ato.mx/p.js#id=545107&size=728x90"><\/script>', {autoFix: false});
+      });
+    </script>
+    <script type="text/lazyad">
+      <!--
+      <script data-cfasync='false' type='text/javascript' src='//p217060.clksite.com/adServe/banners?tid=217060_406267_3&type=footer&size=728x90'></script>
+      <script type="text/javascript">!function(a,b){var c=b.createElement("script");c.src="//p217060.intrev.co/absd.js",(a._sab=a._sab||[]).push(["217060_406267_3","217060"]),b.body.appendChild(c)}(window,document);</script>
+      -->
     </script>
   </body>
 </html>
