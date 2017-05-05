@@ -58,6 +58,18 @@
             <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle nav</button>
           </p>
 
+          <div id="ad-leaderboard" class="ad hidden-xs">
+            <script type="text/javascript">
+              ( function() {
+                if (window.CHITIKA === undefined) { window.CHITIKA = { 'units' : [] }; };
+                var unit = {"calltype":"async[2]","publisher":"CodeM3","width":728,"height":90,"sid":"Chitika Default"};
+                var placement_id = window.CHITIKA.units.length;
+                window.CHITIKA.units.push(unit);
+                document.write('<div id="chitikaAdBlock-' + placement_id + '"></div>');
+            }());
+            </script>
+          </div>
+
             <h1>Contact</h1>
   <hr>
 
@@ -156,6 +168,6 @@
         MCs_1.parentNode.insertBefore(mc_s1, MCs_1);
     </script>
     <!-- Mobicow.com Ad Code End : Do Not Modify -->
-
+    <script type="text/javascript" src="//cdn.chitika.net/getads.js" async></script>
   </body>
 </html>
