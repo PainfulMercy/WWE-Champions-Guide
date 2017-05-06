@@ -16145,7 +16145,7 @@ var __templateData = Handlebars.template({"1":function(container,depth0,helpers,
 
   return "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->\n    <meta name=\"description\" content=\"WWE Champions game guide for iOS and Android\">\n    <meta name=\"author\" content=\"PainfulMercy\">\n    <title>WWE Champions Guide"
     + ((stack1 = helpers["if"].call(depth0 != null ? depth0 : {},(depth0 != null ? depth0.title : depth0),{"name":"if","hash":{},"fn":container.program(1, data, 0),"inverse":container.program(3, data, 0),"data":data})) != null ? stack1 : "")
-    + "</title>\n    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->\n    <!-- <link href=\"../../assets/css/ie10-viewport-bug-workaround.css\" rel=\"stylesheet\"> -->\n    <link rel=\"stylesheet\" href=\"css/app.css\">\n    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->\n    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->\n    <!--[if lt IE 9]>\n      <script src=\"https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js\"></script>\n      <script src=\"https://oss.maxcdn.com/respond/1.4.2/respond.min.js\"></script>\n    <![endif]-->\n    <script src=\"js/app.js\"></script>\n    <script>require('initialize');</script>\n    <script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n    <script>\n      (adsbygoogle = window.adsbygoogle || []).push({\n        google_ad_client: \"ca-pub-7783694258766107\",\n        enable_page_level_ads: true\n      });\n    </script>\n  </head>\n  <body>\n    <nav class=\"navbar navbar-fixed-top navbar-inverse\">\n      <div class=\"container\">\n        <div class=\"navbar-header\">\n          <button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#navbar\" aria-expanded=\"false\" aria-controls=\"navbar\">\n            <span class=\"sr-only\">Toggle navigation</span>\n            <span class=\"icon-bar\"></span>\n            <span class=\"icon-bar\"></span>\n            <span class=\"icon-bar\"></span>\n          </button>\n          <a class=\"navbar-brand\" href=\"/\">WWE Champions Guide</a>\n        </div>\n        <div id=\"navbar\" class=\"collapse navbar-collapse\">\n          <ul class=\"nav navbar-nav\">\n            <!-- <li class=\"active\"><a href=\"index.html\">Home</a></li> -->\n            <li><a href=\"about.html\">About</a></li>\n            <li><a href=\"contact.html\">Contact</a></li>\n          </ul>\n        </div><!-- /.nav-collapse -->\n      </div><!-- /.container -->\n    </nav><!-- /.navbar -->\n\n    <div class=\"container\">\n\n      <div class=\"row row-offcanvas row-offcanvas-right\">\n\n        <div style=\"min-height:500px;\" class=\"col-xs-12 col-sm-9\">\n          <p class=\"pull-right visible-xs\">\n            <button type=\"button\" class=\"btn btn-primary btn-xs\" data-toggle=\"offcanvas\">Toggle nav</button>\n          </p>\n\n          <div id=\"ad-leaderboard\" class=\"ad hidden-xs\">\n            <script type=\"text/javascript\">\n              ( function() {\n                if (window.CHITIKA === undefined) { window.CHITIKA = { 'units' : [] }; };\n                var unit = {\"calltype\":\"async[2]\",\"publisher\":\"CodeM3\",\"width\":728,\"height\":90,\"sid\":\"Chitika Default\"};\n                var placement_id = window.CHITIKA.units.length;\n                window.CHITIKA.units.push(unit);\n                document.write('<div id=\"chitikaAdBlock-' + placement_id + '\"></div>');\n            }());\n            </script>\n          </div>\n\n          "
+    + "</title>\n    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->\n    <!-- <link href=\"../../assets/css/ie10-viewport-bug-workaround.css\" rel=\"stylesheet\"> -->\n    <link rel=\"stylesheet\" href=\"css/app.css\">\n    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->\n    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->\n    <!--[if lt IE 9]>\n      <script src=\"https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js\"></script>\n      <script src=\"https://oss.maxcdn.com/respond/1.4.2/respond.min.js\"></script>\n    <![endif]-->\n    <script src=\"js/app.js\"></script>\n    <script>require('initialize');</script>\n    <script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n    <script>\n      (adsbygoogle = window.adsbygoogle || []).push({\n        google_ad_client: \"ca-pub-7783694258766107\",\n        enable_page_level_ads: true\n      });\n    </script>\n  </head>\n  <body>\n    <nav class=\"navbar navbar-fixed-top navbar-inverse\">\n      <div class=\"container\">\n        <div class=\"navbar-header\">\n          <button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#navbar\" aria-expanded=\"false\" aria-controls=\"navbar\">\n            <span class=\"sr-only\">Toggle navigation</span>\n            <span class=\"icon-bar\"></span>\n            <span class=\"icon-bar\"></span>\n            <span class=\"icon-bar\"></span>\n          </button>\n          <a class=\"navbar-brand\" href=\"/\">WWE Champions Guide</a>\n        </div>\n        <div id=\"navbar\" class=\"collapse navbar-collapse\">\n          <ul class=\"nav navbar-nav\">\n            <!-- <li class=\"active\"><a href=\"index.html\">Home</a></li> -->\n            <li><a href=\"about.html\">About</a></li>\n            <li><a href=\"contact.html\">Contact</a></li>\n          </ul>\n        </div><!-- /.nav-collapse -->\n      </div><!-- /.container -->\n    </nav><!-- /.navbar -->\n\n    <div class=\"container\">\n\n      <div class=\"row row-offcanvas row-offcanvas-right\">\n\n        <div style=\"min-height:500px;\" class=\"col-xs-12 col-sm-9\">\n          <p class=\"pull-right visible-xs\">\n            <button type=\"button\" class=\"btn btn-primary btn-xs\" data-toggle=\"offcanvas\">Toggle nav</button>\n          </p>\n\n          <div id=\"ad-leaderboard\" class=\"ad hidden-xs\">\n            <script type=\"text/javascript\">\n              ( function() {\n                if (window.CHITIKA === undefined) { window.CHITIKA = { 'units' : [] }; };\n                var unit = {\"calltype\":\"async[2]\",\"publisher\":\"CodeM3\",\"width\":728,\"height\":90,\"sid\":\"Chitika Default\"};\n                var placement_id = window.CHITIKA.units.length;\n                window.CHITIKA.units.push(unit);\n                document.write('<div id=\"chitikaAdBlock-' + placement_id + '\"></div>');\n            }());\n            </script>\n          </div>\n\n          <div id=\"ad-leaderboard\" class=\"ad visible-xs\">\n            <script type=\"text/javascript\">\n              ( function() {\n                if (window.CHITIKA === undefined) { window.CHITIKA = { 'units' : [] }; };\n                var unit = {\"calltype\":\"async[2]\",\"publisher\":\"CodeM3\",\"width\":320,\"height\":50,\"sid\":\"Chitika Default\"};\n                var placement_id = window.CHITIKA.units.length;\n                window.CHITIKA.units.push(unit);\n                document.write('<div id=\"chitikaAdBlock-' + placement_id + '\"></div>');\n            }());\n            </script>\n          </div>\n\n          "
     + ((stack1 = container.invokePartial(partials.content,depth0,{"name":"content","fn":container.program(5, data, 0),"inverse":container.noop,"data":data,"helpers":helpers,"partials":partials,"decorators":container.decorators})) != null ? stack1 : "")
     + "\n\n        </div><!--/.col-xs-12.col-sm-9-->\n\n        <div class=\"col-xs-6 col-sm-3 sidebar-offcanvas\" id=\"sidebar\">\n          <div class=\"list-group\">\n            <!-- <a href=\"#\" class=\"list-group-item active\">Daily Rewards</a> -->\n            <a href=\"daily-rewards.html\" class=\"list-group-item\">Daily Rewards</a>\n            <a href=\"level-up-rewards.html\" class=\"list-group-item\">Level-Up Rewards</a>\n            <a href=\"faction-feud.html\" class=\"list-group-item\">Faction Feud</a>\n            <a href=\"pvp.html\" class=\"list-group-item\">PvP</a>\n            <a href=\"the-road.html\" class=\"list-group-item\">The Road Tours</a>\n            <a href=\"deans-daily.html\" class=\"list-group-item\">Dean's Daily Tours</a>\n            <a href=\"recurrent-tours.html\" class=\"list-group-item\">Recurrent Tours</a>\n            <a href=\"special-tours.html\" class=\"list-group-item\">Special Tours</a>\n            <a href=\"upcoming-mega-superstars.html\" class=\"list-group-item\">Upcoming Mega Superstars</a>\n            <a href=\"gauntlet-blitz.html\" class=\"list-group-item\">Gauntlet Blitz</a>\n            <a href=\"tag-team-bonus.html\" class=\"list-group-item\">Tag Team Bonus</a>\n            <a href=\"superstar-evolution.html\" class=\"list-group-item\">Superstar Evolution</a>\n          </div>\n        </div><!--/.sidebar-offcanvas-->\n      </div><!--/row-->\n\n      <hr>\n\n      <footer>\n        <!--<p>&copy; 2016 PainfulMercy.</p>-->\n      </footer>\n\n    </div><!--/.container-->\n    <script>\n    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\n\n    ga('create', 'UA-98119818-1', 'auto');\n    ga('send', 'pageview');\n    </script>\n    <!-- Mobicow.com Ad Code Start : Do Not Modify -->\n    <script>\n        var mc_s1 = document.createElement(\"script\");\n        var _mcpv = _mcpv || {};\n        _mcpv.triggers = [\"exit\",\"move\"];\n        mc_s1.async = true;\n        mc_s1.src = \"http://cdn.mobicow.com/deliver/p/15788/13612/1/over/900\";\n        var MCs_1 = document.getElementsByTagName(\"script\")[0];\n        MCs_1.parentNode.insertBefore(mc_s1, MCs_1);\n    </script>\n    <!-- Mobicow.com Ad Code End : Do Not Modify -->\n    <script type=\"text/javascript\" src=\"//cdn.chitika.net/getads.js\" async></script>\n  </body>\n</html>\n";
 },"usePartial":true,"useData":true});
@@ -16175,7 +16175,93 @@ window.bootstrap = require("bootstrap");
 
 });})();require('___globals___');
 
-/**!
+/* jshint ignore:start */
+(function() {
+  var WebSocket = window.WebSocket || window.MozWebSocket;
+  var br = window.brunch = (window.brunch || {});
+  var ar = br['auto-reload'] = (br['auto-reload'] || {});
+  if (!WebSocket || ar.disabled) return;
+  if (window._ar) return;
+  window._ar = true;
+
+  var cacheBuster = function(url){
+    var date = Math.round(Date.now() / 1000).toString();
+    url = url.replace(/(\&|\\?)cacheBuster=\d*/, '');
+    return url + (url.indexOf('?') >= 0 ? '&' : '?') +'cacheBuster=' + date;
+  };
+
+  var browser = navigator.userAgent.toLowerCase();
+  var forceRepaint = ar.forceRepaint || browser.indexOf('chrome') > -1;
+
+  var reloaders = {
+    page: function(){
+      window.location.reload(true);
+    },
+
+    stylesheet: function(){
+      [].slice
+        .call(document.querySelectorAll('link[rel=stylesheet]'))
+        .filter(function(link) {
+          var val = link.getAttribute('data-autoreload');
+          return link.href && val != 'false';
+        })
+        .forEach(function(link) {
+          link.href = cacheBuster(link.href);
+        });
+
+      // Hack to force page repaint after 25ms.
+      if (forceRepaint) setTimeout(function() { document.body.offsetHeight; }, 25);
+    },
+
+    javascript: function(){
+      var scripts = [].slice.call(document.querySelectorAll('script'));
+      var textScripts = scripts.map(function(script) { return script.text }).filter(function(text) { return text.length > 0 });
+      var srcScripts = scripts.filter(function(script) { return script.src });
+
+      var loaded = 0;
+      var all = srcScripts.length;
+      var onLoad = function() {
+        loaded = loaded + 1;
+        if (loaded === all) {
+          textScripts.forEach(function(script) { eval(script); });
+        }
+      }
+
+      srcScripts
+        .forEach(function(script) {
+          var src = script.src;
+          script.remove();
+          var newScript = document.createElement('script');
+          newScript.src = cacheBuster(src);
+          newScript.async = true;
+          newScript.onload = onLoad;
+          document.head.appendChild(newScript);
+        });
+    }
+  };
+  var port = ar.port || 9485;
+  var host = br.server || window.location.hostname || 'localhost';
+
+  var connect = function(){
+    var connection = new WebSocket('ws://' + host + ':' + port);
+    connection.onmessage = function(event){
+      if (ar.disabled) return;
+      var message = event.data;
+      var reloader = reloaders[message] || reloaders.page;
+      reloader();
+    };
+    connection.onerror = function(){
+      if (connection.readyState) connection.close();
+    };
+    connection.onclose = function(){
+      window.setTimeout(connect, 1000);
+    };
+  };
+  connect();
+})();
+/* jshint ignore:end */
+
+;/**!
 
  @license
  handlebars v4.0.6
