@@ -7,6 +7,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_1Star_01",
                     "name": "Sleeper Hold",
+                    "levelCap": 2,
+                    "gemType": "Yellow",
+                    "cost": 10,
                     "levels": [
                         {
                             "level": 1,
@@ -21,6 +24,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_1Star_02",
                     "name": "Stun Gun",
+                    "levelCap": 2,
+                    "gemType": "Green",
+                    "cost": 8,
                     "levels": [
                         {
                             "level": 1,
@@ -35,6 +41,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_1Star_03",
                     "name": "Lou Thesz Press",
+                    "levelCap": 2,
+                    "gemType": "Black",
+                    "cost": 7,
                     "levels": [
                         {
                             "level": 1,
@@ -177,6 +186,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_2Star_01",
                     "name": "Sleeper Hold",
+                    "levelCap": 5,
+                    "gemType": "Yellow",
+                    "cost": 10,
                     "levels": [
                         {
                             "level": 1,
@@ -203,6 +215,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_2Star_02",
                     "name": "Stun Gun",
+                    "levelCap": 5,
+                    "gemType": "Green",
+                    "cost": 8,
                     "levels": [
                         {
                             "level": 1,
@@ -229,6 +244,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_2Star_03",
                     "name": "Lou Thesz Press",
+                    "levelCap": 5,
+                    "gemType": "Black",
+                    "cost": 7,
                     "levels": [
                         {
                             "level": 1,
@@ -255,6 +273,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_2Star_04",
                     "name": "Pointed Elbow Drop",
+                    "levelCap": 5,
+                    "gemType": "Yellow",
+                    "cost": 9,
                     "levels": [
                         {
                             "level": 1,
@@ -769,6 +790,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_2Star_01",
                     "name": "Sleeper Hold",
+                    "levelCap": 5,
+                    "gemType": "Yellow",
+                    "cost": 10,
                     "levels": [
                         {
                             "level": 1,
@@ -795,6 +819,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_2Star_02",
                     "name": "Stun Gun",
+                    "levelCap": 5,
+                    "gemType": "Green",
+                    "cost": 8,
                     "levels": [
                         {
                             "level": 1,
@@ -821,6 +848,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_2Star_03",
                     "name": "Lou Thesz Press",
+                    "levelCap": 5,
+                    "gemType": "Black",
+                    "cost": 7,
                     "levels": [
                         {
                             "level": 1,
@@ -847,6 +877,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_2Star_04",
                     "name": "Pointed Elbow Drop",
+                    "levelCap": 5,
+                    "gemType": "Yellow",
+                    "cost": 9,
                     "levels": [
                         {
                             "level": 1,
@@ -1361,6 +1394,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_01",
                     "name": "Sleeper Hold",
+                    "levelCap": 8,
+                    "gemType": "Yellow",
+                    "cost": 10,
                     "levels": [
                         {
                             "level": 1,
@@ -1399,6 +1435,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_02",
                     "name": "Stun Gun",
+                    "levelCap": 8,
+                    "gemType": "Green",
+                    "cost": 8,
                     "levels": [
                         {
                             "level": 1,
@@ -1437,6 +1476,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_03",
                     "name": "Lou Thesz Press",
+                    "levelCap": 8,
+                    "gemType": "Black",
+                    "cost": 7,
                     "levels": [
                         {
                             "level": 1,
@@ -1475,6 +1517,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_04",
                     "name": "Pointed Elbow Drop",
+                    "levelCap": 8,
+                    "gemType": "Yellow",
+                    "cost": 9,
                     "levels": [
                         {
                             "level": 1,
@@ -1513,6 +1558,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_05",
                     "name": "Back Body Drop",
+                    "levelCap": 8,
+                    "gemType": "Green",
+                    "cost": 10,
                     "levels": [
                         {
                             "level": 1,
@@ -2519,6 +2567,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_01",
                     "name": "Sleeper Hold",
+                    "levelCap": 8,
+                    "gemType": "Yellow",
+                    "cost": 10,
                     "levels": [
                         {
                             "level": 1,
@@ -2557,6 +2608,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_02",
                     "name": "Stun Gun",
+                    "levelCap": 8,
+                    "gemType": "Green",
+                    "cost": 8,
                     "levels": [
                         {
                             "level": 1,
@@ -2595,6 +2649,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_03",
                     "name": "Lou Thesz Press",
+                    "levelCap": 8,
+                    "gemType": "Black",
+                    "cost": 7,
                     "levels": [
                         {
                             "level": 1,
@@ -2633,6 +2690,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_04",
                     "name": "Pointed Elbow Drop",
+                    "levelCap": 8,
+                    "gemType": "Yellow",
+                    "cost": 9,
                     "levels": [
                         {
                             "level": 1,
@@ -2671,6 +2731,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_05",
                     "name": "Back Body Drop",
+                    "levelCap": 8,
+                    "gemType": "Green",
+                    "cost": 10,
                     "levels": [
                         {
                             "level": 1,
@@ -3677,6 +3740,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_01",
                     "name": "Sleeper Hold",
+                    "levelCap": 8,
+                    "gemType": "Yellow",
+                    "cost": 10,
                     "levels": [
                         {
                             "level": 1,
@@ -3715,6 +3781,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_02",
                     "name": "Stun Gun",
+                    "levelCap": 8,
+                    "gemType": "Green",
+                    "cost": 8,
                     "levels": [
                         {
                             "level": 1,
@@ -3753,6 +3822,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_03",
                     "name": "Lou Thesz Press",
+                    "levelCap": 8,
+                    "gemType": "Black",
+                    "cost": 7,
                     "levels": [
                         {
                             "level": 1,
@@ -3791,6 +3863,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_04",
                     "name": "Pointed Elbow Drop",
+                    "levelCap": 8,
+                    "gemType": "Yellow",
+                    "cost": 9,
                     "levels": [
                         {
                             "level": 1,
@@ -3829,6 +3904,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_05",
                     "name": "Back Body Drop",
+                    "levelCap": 8,
+                    "gemType": "Green",
+                    "cost": 10,
                     "levels": [
                         {
                             "level": 1,
@@ -4837,6 +4915,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_1Star_01",
                     "name": "Sleeper Hold",
+                    "levelCap": 3,
+                    "gemType": "Yellow",
+                    "cost": 10,
                     "levels": [
                         {
                             "level": 1,
@@ -4855,6 +4936,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_1Star_02",
                     "name": "Stun Gun",
+                    "levelCap": 3,
+                    "gemType": "Green",
+                    "cost": 8,
                     "levels": [
                         {
                             "level": 1,
@@ -4873,6 +4957,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_1Star_03",
                     "name": "Lou Thesz Press",
+                    "levelCap": 3,
+                    "gemType": "Black",
+                    "cost": 7,
                     "levels": [
                         {
                             "level": 1,
@@ -5139,6 +5226,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_2Star_01",
                     "name": "Sleeper Hold",
+                    "levelCap": 6,
+                    "gemType": "Yellow",
+                    "cost": 10,
                     "levels": [
                         {
                             "level": 1,
@@ -5169,6 +5259,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_2Star_02",
                     "name": "Stun Gun",
+                    "levelCap": 6,
+                    "gemType": "Green",
+                    "cost": 8,
                     "levels": [
                         {
                             "level": 1,
@@ -5199,6 +5292,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_2Star_03",
                     "name": "Lou Thesz Press",
+                    "levelCap": 6,
+                    "gemType": "Black",
+                    "cost": 7,
                     "levels": [
                         {
                             "level": 1,
@@ -5229,6 +5325,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_2Star_04",
                     "name": "Pointed Elbow Drop",
+                    "levelCap": 6,
+                    "gemType": "Yellow",
+                    "cost": 9,
                     "levels": [
                         {
                             "level": 1,
@@ -5867,6 +5966,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_2Star_01",
                     "name": "Sleeper Hold",
+                    "levelCap": 6,
+                    "gemType": "Yellow",
+                    "cost": 10,
                     "levels": [
                         {
                             "level": 1,
@@ -5897,6 +5999,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_2Star_02",
                     "name": "Stun Gun",
+                    "levelCap": 6,
+                    "gemType": "Green",
+                    "cost": 8,
                     "levels": [
                         {
                             "level": 1,
@@ -5927,6 +6032,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_2Star_03",
                     "name": "Lou Thesz Press",
+                    "levelCap": 6,
+                    "gemType": "Black",
+                    "cost": 7,
                     "levels": [
                         {
                             "level": 1,
@@ -5957,6 +6065,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_2Star_04",
                     "name": "Pointed Elbow Drop",
+                    "levelCap": 6,
+                    "gemType": "Yellow",
+                    "cost": 9,
                     "levels": [
                         {
                             "level": 1,
@@ -6595,6 +6706,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_01",
                     "name": "Sleeper Hold",
+                    "levelCap": 9,
+                    "gemType": "Yellow",
+                    "cost": 10,
                     "levels": [
                         {
                             "level": 1,
@@ -6637,6 +6751,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_02",
                     "name": "Stun Gun",
+                    "levelCap": 9,
+                    "gemType": "Green",
+                    "cost": 8,
                     "levels": [
                         {
                             "level": 1,
@@ -6679,6 +6796,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_03",
                     "name": "Lou Thesz Press",
+                    "levelCap": 9,
+                    "gemType": "Black",
+                    "cost": 7,
                     "levels": [
                         {
                             "level": 1,
@@ -6721,6 +6841,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_04",
                     "name": "Pointed Elbow Drop",
+                    "levelCap": 9,
+                    "gemType": "Yellow",
+                    "cost": 9,
                     "levels": [
                         {
                             "level": 1,
@@ -6763,6 +6886,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_05",
                     "name": "Back Body Drop",
+                    "levelCap": 9,
+                    "gemType": "Green",
+                    "cost": 10,
                     "levels": [
                         {
                             "level": 1,
@@ -8013,6 +8139,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_01",
                     "name": "Sleeper Hold",
+                    "levelCap": 9,
+                    "gemType": "Yellow",
+                    "cost": 10,
                     "levels": [
                         {
                             "level": 1,
@@ -8055,6 +8184,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_02",
                     "name": "Stun Gun",
+                    "levelCap": 9,
+                    "gemType": "Green",
+                    "cost": 8,
                     "levels": [
                         {
                             "level": 1,
@@ -8097,6 +8229,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_03",
                     "name": "Lou Thesz Press",
+                    "levelCap": 9,
+                    "gemType": "Black",
+                    "cost": 7,
                     "levels": [
                         {
                             "level": 1,
@@ -8139,6 +8274,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_04",
                     "name": "Pointed Elbow Drop",
+                    "levelCap": 9,
+                    "gemType": "Yellow",
+                    "cost": 9,
                     "levels": [
                         {
                             "level": 1,
@@ -8181,6 +8319,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_05",
                     "name": "Back Body Drop",
+                    "levelCap": 9,
+                    "gemType": "Green",
+                    "cost": 10,
                     "levels": [
                         {
                             "level": 1,
@@ -9431,6 +9572,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_01",
                     "name": "Sleeper Hold",
+                    "levelCap": 9,
+                    "gemType": "Yellow",
+                    "cost": 10,
                     "levels": [
                         {
                             "level": 1,
@@ -9473,6 +9617,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_02",
                     "name": "Stun Gun",
+                    "levelCap": 9,
+                    "gemType": "Green",
+                    "cost": 8,
                     "levels": [
                         {
                             "level": 1,
@@ -9515,6 +9662,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_03",
                     "name": "Lou Thesz Press",
+                    "levelCap": 9,
+                    "gemType": "Black",
+                    "cost": 7,
                     "levels": [
                         {
                             "level": 1,
@@ -9557,6 +9707,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_04",
                     "name": "Pointed Elbow Drop",
+                    "levelCap": 9,
+                    "gemType": "Yellow",
+                    "cost": 9,
                     "levels": [
                         {
                             "level": 1,
@@ -9599,6 +9752,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_05",
                     "name": "Back Body Drop",
+                    "levelCap": 9,
+                    "gemType": "Green",
+                    "cost": 10,
                     "levels": [
                         {
                             "level": 1,
@@ -10851,6 +11007,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_1Star_01",
                     "name": "Sleeper Hold",
+                    "levelCap": 4,
+                    "gemType": "Yellow",
+                    "cost": 10,
                     "levels": [
                         {
                             "level": 1,
@@ -10873,6 +11032,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_1Star_02",
                     "name": "Stun Gun",
+                    "levelCap": 4,
+                    "gemType": "Green",
+                    "cost": 8,
                     "levels": [
                         {
                             "level": 1,
@@ -10895,6 +11057,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_1Star_03",
                     "name": "Lou Thesz Press",
+                    "levelCap": 4,
+                    "gemType": "Black",
+                    "cost": 7,
                     "levels": [
                         {
                             "level": 1,
@@ -11285,6 +11450,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_2Star_01",
                     "name": "Sleeper Hold",
+                    "levelCap": 7,
+                    "gemType": "Yellow",
+                    "cost": 10,
                     "levels": [
                         {
                             "level": 1,
@@ -11319,6 +11487,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_2Star_02",
                     "name": "Stun Gun",
+                    "levelCap": 7,
+                    "gemType": "Green",
+                    "cost": 8,
                     "levels": [
                         {
                             "level": 1,
@@ -11353,6 +11524,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_2Star_03",
                     "name": "Lou Thesz Press",
+                    "levelCap": 7,
+                    "gemType": "Black",
+                    "cost": 7,
                     "levels": [
                         {
                             "level": 1,
@@ -11387,6 +11561,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_2Star_04",
                     "name": "Pointed Elbow Drop",
+                    "levelCap": 7,
+                    "gemType": "Yellow",
+                    "cost": 9,
                     "levels": [
                         {
                             "level": 1,
@@ -12149,6 +12326,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_2Star_01",
                     "name": "Sleeper Hold",
+                    "levelCap": 7,
+                    "gemType": "Yellow",
+                    "cost": 10,
                     "levels": [
                         {
                             "level": 1,
@@ -12183,6 +12363,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_2Star_02",
                     "name": "Stun Gun",
+                    "levelCap": 7,
+                    "gemType": "Green",
+                    "cost": 8,
                     "levels": [
                         {
                             "level": 1,
@@ -12217,6 +12400,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_2Star_03",
                     "name": "Lou Thesz Press",
+                    "levelCap": 7,
+                    "gemType": "Black",
+                    "cost": 7,
                     "levels": [
                         {
                             "level": 1,
@@ -12251,6 +12437,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_2Star_04",
                     "name": "Pointed Elbow Drop",
+                    "levelCap": 7,
+                    "gemType": "Yellow",
+                    "cost": 9,
                     "levels": [
                         {
                             "level": 1,
@@ -13013,6 +13202,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_01",
                     "name": "Sleeper Hold",
+                    "levelCap": 10,
+                    "gemType": "Yellow",
+                    "cost": 10,
                     "levels": [
                         {
                             "level": 1,
@@ -13059,6 +13251,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_02",
                     "name": "Stun Gun",
+                    "levelCap": 10,
+                    "gemType": "Green",
+                    "cost": 8,
                     "levels": [
                         {
                             "level": 1,
@@ -13105,6 +13300,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_03",
                     "name": "Lou Thesz Press",
+                    "levelCap": 10,
+                    "gemType": "Black",
+                    "cost": 7,
                     "levels": [
                         {
                             "level": 1,
@@ -13151,6 +13349,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_04",
                     "name": "Pointed Elbow Drop",
+                    "levelCap": 10,
+                    "gemType": "Yellow",
+                    "cost": 9,
                     "levels": [
                         {
                             "level": 1,
@@ -13197,6 +13398,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_05",
                     "name": "Back Body Drop",
+                    "levelCap": 10,
+                    "gemType": "Green",
+                    "cost": 10,
                     "levels": [
                         {
                             "level": 1,
@@ -14691,6 +14895,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_01",
                     "name": "Sleeper Hold",
+                    "levelCap": 10,
+                    "gemType": "Yellow",
+                    "cost": 10,
                     "levels": [
                         {
                             "level": 1,
@@ -14737,6 +14944,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_02",
                     "name": "Stun Gun",
+                    "levelCap": 10,
+                    "gemType": "Green",
+                    "cost": 8,
                     "levels": [
                         {
                             "level": 1,
@@ -14783,6 +14993,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_03",
                     "name": "Lou Thesz Press",
+                    "levelCap": 10,
+                    "gemType": "Black",
+                    "cost": 7,
                     "levels": [
                         {
                             "level": 1,
@@ -14829,6 +15042,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_04",
                     "name": "Pointed Elbow Drop",
+                    "levelCap": 10,
+                    "gemType": "Yellow",
+                    "cost": 9,
                     "levels": [
                         {
                             "level": 1,
@@ -14875,6 +15091,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_05",
                     "name": "Back Body Drop",
+                    "levelCap": 10,
+                    "gemType": "Green",
+                    "cost": 10,
                     "levels": [
                         {
                             "level": 1,
@@ -16369,6 +16588,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_01",
                     "name": "Sleeper Hold",
+                    "levelCap": 10,
+                    "gemType": "Yellow",
+                    "cost": 10,
                     "levels": [
                         {
                             "level": 1,
@@ -16415,6 +16637,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_02",
                     "name": "Stun Gun",
+                    "levelCap": 10,
+                    "gemType": "Green",
+                    "cost": 8,
                     "levels": [
                         {
                             "level": 1,
@@ -16461,6 +16686,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_03",
                     "name": "Lou Thesz Press",
+                    "levelCap": 10,
+                    "gemType": "Black",
+                    "cost": 7,
                     "levels": [
                         {
                             "level": 1,
@@ -16507,6 +16735,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_04",
                     "name": "Pointed Elbow Drop",
+                    "levelCap": 10,
+                    "gemType": "Yellow",
+                    "cost": 9,
                     "levels": [
                         {
                             "level": 1,
@@ -16553,6 +16784,9 @@
                 {
                     "ID": "ABL_StoneCold_Vest_3Star_05",
                     "name": "Back Body Drop",
+                    "levelCap": 10,
+                    "gemType": "Green",
+                    "cost": 10,
                     "levels": [
                         {
                             "level": 1,
