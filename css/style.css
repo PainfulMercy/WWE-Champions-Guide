@@ -16,6 +16,19 @@ footer {
   padding: 30px 0;
 }
 
+.row.display-flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.thumbnail {
+  height: 100%;
+}
+
+.thumb {
+  margin-bottom: 20px;
+}
+
 /*
  * Off Canvas
  * --------------------------------------------------
