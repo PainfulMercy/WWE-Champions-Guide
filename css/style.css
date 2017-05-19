@@ -163,10 +163,13 @@ footer {
 
 }
 
+.ad {
+  margin: 0px 0px 10px 0px;
+}
+
 .ad-frame {
   display:block !important;
   border: 0px;
-  margin: 0px 0px 10px 0px;
   overflow: hidden;
   background-color: transparent;
 }
