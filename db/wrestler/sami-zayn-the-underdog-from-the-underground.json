@@ -30,11 +30,11 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 190 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 183 for 3 Turns."
+                            "text": "Deal 190 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 183 for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 462 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 287 for 3 Turns."
+                            "text": "Deal 462 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 287 for 3 Turns."
                         }
                     ]
                 },
@@ -221,23 +221,23 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 276 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 183 for 3 Turns."
+                            "text": "Deal 276 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 183 for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 801 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 235 for 3 Turns."
+                            "text": "Deal 801 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 235 for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1326 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 287 for 3 Turns."
+                            "text": "Deal 1326 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 287 for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 1851 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 339 for 3 Turns."
+                            "text": "Deal 1851 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 339 for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 2376 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 391 for 3 Turns."
+                            "text": "Deal 2376 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 391 for 3 Turns."
                         }
                     ]
                 },
@@ -825,23 +825,23 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 276 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 183 for 3 Turns."
+                            "text": "Deal 276 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 183 for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 801 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 235 for 3 Turns."
+                            "text": "Deal 801 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 235 for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1326 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 287 for 3 Turns."
+                            "text": "Deal 1326 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 287 for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 1851 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 339 for 3 Turns."
+                            "text": "Deal 1851 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 339 for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 2376 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 391 for 3 Turns."
+                            "text": "Deal 2376 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 391 for 3 Turns."
                         }
                     ]
                 },
@@ -1441,35 +1441,35 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 472 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 384 for 3 Turns."
+                            "text": "Deal 472 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 384 for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1714 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 850 for 3 Turns."
+                            "text": "Deal 1714 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 850 for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 2956 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1316 for 3 Turns."
+                            "text": "Deal 2956 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1316 for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 4198 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1783 for 3 Turns."
+                            "text": "Deal 4198 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1783 for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 5440 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 2249 for 3 Turns."
+                            "text": "Deal 5440 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 2249 for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 6682 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 2715 for 3 Turns."
+                            "text": "Deal 6682 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 2715 for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 7924 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 3182 for 3 Turns."
+                            "text": "Deal 7924 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 3182 for 3 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 9166 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 3648 for 3 Turns."
+                            "text": "Deal 9166 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 3648 for 3 Turns."
                         }
                     ]
                 },
@@ -2614,35 +2614,35 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 472 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 384 for 3 Turns."
+                            "text": "Deal 472 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 384 for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1714 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 850 for 3 Turns."
+                            "text": "Deal 1714 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 850 for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 2956 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1316 for 3 Turns."
+                            "text": "Deal 2956 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1316 for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 4198 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1783 for 3 Turns."
+                            "text": "Deal 4198 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1783 for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 5440 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 2249 for 3 Turns."
+                            "text": "Deal 5440 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 2249 for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 6682 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 2715 for 3 Turns."
+                            "text": "Deal 6682 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 2715 for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 7924 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 3182 for 3 Turns."
+                            "text": "Deal 7924 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 3182 for 3 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 9166 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 3648 for 3 Turns."
+                            "text": "Deal 9166 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 3648 for 3 Turns."
                         }
                     ]
                 },
@@ -3787,35 +3787,35 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 472 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 384 for 3 Turns."
+                            "text": "Deal 472 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 384 for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1714 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 850 for 3 Turns."
+                            "text": "Deal 1714 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 850 for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 2956 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1316 for 3 Turns."
+                            "text": "Deal 2956 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1316 for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 4198 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1783 for 3 Turns."
+                            "text": "Deal 4198 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1783 for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 5440 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 2249 for 3 Turns."
+                            "text": "Deal 5440 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 2249 for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 6682 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 2715 for 3 Turns."
+                            "text": "Deal 6682 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 2715 for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 7924 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 3182 for 3 Turns."
+                            "text": "Deal 7924 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 3182 for 3 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 9166 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 3648 for 3 Turns."
+                            "text": "Deal 9166 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 3648 for 3 Turns."
                         }
                     ]
                 },
@@ -4942,15 +4942,15 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 190 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 183 for 3 Turns."
+                            "text": "Deal 190 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 183 for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 462 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 287 for 3 Turns."
+                            "text": "Deal 462 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 287 for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 735 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 391 for 3 Turns."
+                            "text": "Deal 735 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 391 for 3 Turns."
                         }
                     ]
                 },
@@ -5265,27 +5265,27 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 276 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 183 for 3 Turns."
+                            "text": "Deal 276 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 183 for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 801 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 235 for 3 Turns."
+                            "text": "Deal 801 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 235 for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1326 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 287 for 3 Turns."
+                            "text": "Deal 1326 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 287 for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 1851 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 339 for 3 Turns."
+                            "text": "Deal 1851 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 339 for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 2376 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 391 for 3 Turns."
+                            "text": "Deal 2376 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 391 for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 2901 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 443 for 3 Turns."
+                            "text": "Deal 2901 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 443 for 3 Turns."
                         }
                     ]
                 },
@@ -6005,27 +6005,27 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 276 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 183 for 3 Turns."
+                            "text": "Deal 276 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 183 for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 801 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 235 for 3 Turns."
+                            "text": "Deal 801 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 235 for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1326 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 287 for 3 Turns."
+                            "text": "Deal 1326 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 287 for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 1851 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 339 for 3 Turns."
+                            "text": "Deal 1851 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 339 for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 2376 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 391 for 3 Turns."
+                            "text": "Deal 2376 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 391 for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 2901 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 443 for 3 Turns."
+                            "text": "Deal 2901 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 443 for 3 Turns."
                         }
                     ]
                 },
@@ -6757,39 +6757,39 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 472 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 384 for 3 Turns."
+                            "text": "Deal 472 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 384 for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1714 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 850 for 3 Turns."
+                            "text": "Deal 1714 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 850 for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 2956 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1316 for 3 Turns."
+                            "text": "Deal 2956 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1316 for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 4198 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1783 for 3 Turns."
+                            "text": "Deal 4198 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1783 for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 5440 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 2249 for 3 Turns."
+                            "text": "Deal 5440 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 2249 for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 6682 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 2715 for 3 Turns."
+                            "text": "Deal 6682 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 2715 for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 7924 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 3182 for 3 Turns."
+                            "text": "Deal 7924 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 3182 for 3 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 9166 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 3648 for 3 Turns."
+                            "text": "Deal 9166 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 3648 for 3 Turns."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 10408 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 4114 for 3 Turns."
+                            "text": "Deal 10408 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 4114 for 3 Turns."
                         }
                     ]
                 },
@@ -8190,39 +8190,39 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 472 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 384 for 3 Turns."
+                            "text": "Deal 472 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 384 for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1714 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 850 for 3 Turns."
+                            "text": "Deal 1714 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 850 for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 2956 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1316 for 3 Turns."
+                            "text": "Deal 2956 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1316 for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 4198 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1783 for 3 Turns."
+                            "text": "Deal 4198 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1783 for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 5440 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 2249 for 3 Turns."
+                            "text": "Deal 5440 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 2249 for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 6682 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 2715 for 3 Turns."
+                            "text": "Deal 6682 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 2715 for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 7924 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 3182 for 3 Turns."
+                            "text": "Deal 7924 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 3182 for 3 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 9166 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 3648 for 3 Turns."
+                            "text": "Deal 9166 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 3648 for 3 Turns."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 10408 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 4114 for 3 Turns."
+                            "text": "Deal 10408 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 4114 for 3 Turns."
                         }
                     ]
                 },
@@ -9623,39 +9623,39 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 472 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 384 for 3 Turns."
+                            "text": "Deal 472 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 384 for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1714 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 850 for 3 Turns."
+                            "text": "Deal 1714 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 850 for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 2956 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1316 for 3 Turns."
+                            "text": "Deal 2956 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1316 for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 4198 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1783 for 3 Turns."
+                            "text": "Deal 4198 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1783 for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 5440 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 2249 for 3 Turns."
+                            "text": "Deal 5440 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 2249 for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 6682 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 2715 for 3 Turns."
+                            "text": "Deal 6682 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 2715 for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 7924 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 3182 for 3 Turns."
+                            "text": "Deal 7924 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 3182 for 3 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 9166 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 3648 for 3 Turns."
+                            "text": "Deal 9166 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 3648 for 3 Turns."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 10408 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 4114 for 3 Turns."
+                            "text": "Deal 10408 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 4114 for 3 Turns."
                         }
                     ]
                 },
@@ -11038,19 +11038,19 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 190 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 183 for 3 Turns."
+                            "text": "Deal 190 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 183 for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 462 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 287 for 3 Turns."
+                            "text": "Deal 462 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 287 for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 735 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 391 for 3 Turns."
+                            "text": "Deal 735 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 391 for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 1008 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 495 for 3 Turns."
+                            "text": "Deal 1008 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 495 for 3 Turns."
                         }
                     ]
                 },
@@ -11493,31 +11493,31 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 276 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 183 for 3 Turns."
+                            "text": "Deal 276 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 183 for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 801 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 235 for 3 Turns."
+                            "text": "Deal 801 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 235 for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1326 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 287 for 3 Turns."
+                            "text": "Deal 1326 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 287 for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 1851 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 339 for 3 Turns."
+                            "text": "Deal 1851 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 339 for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 2376 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 391 for 3 Turns."
+                            "text": "Deal 2376 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 391 for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 2901 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 443 for 3 Turns."
+                            "text": "Deal 2901 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 443 for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 3427 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 495 for 3 Turns."
+                            "text": "Deal 3427 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 495 for 3 Turns."
                         }
                     ]
                 },
@@ -12369,31 +12369,31 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 276 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 183 for 3 Turns."
+                            "text": "Deal 276 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 183 for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 801 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 235 for 3 Turns."
+                            "text": "Deal 801 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 235 for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1326 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 287 for 3 Turns."
+                            "text": "Deal 1326 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 287 for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 1851 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 339 for 3 Turns."
+                            "text": "Deal 1851 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 339 for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 2376 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 391 for 3 Turns."
+                            "text": "Deal 2376 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 391 for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 2901 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 443 for 3 Turns."
+                            "text": "Deal 2901 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 443 for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 3427 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 495 for 3 Turns."
+                            "text": "Deal 3427 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 495 for 3 Turns."
                         }
                     ]
                 },
@@ -13257,43 +13257,43 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 472 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 384 for 3 Turns."
+                            "text": "Deal 472 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 384 for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1714 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 850 for 3 Turns."
+                            "text": "Deal 1714 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 850 for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 2956 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1316 for 3 Turns."
+                            "text": "Deal 2956 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1316 for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 4198 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1783 for 3 Turns."
+                            "text": "Deal 4198 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1783 for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 5440 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 2249 for 3 Turns."
+                            "text": "Deal 5440 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 2249 for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 6682 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 2715 for 3 Turns."
+                            "text": "Deal 6682 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 2715 for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 7924 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 3182 for 3 Turns."
+                            "text": "Deal 7924 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 3182 for 3 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 9166 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 3648 for 3 Turns."
+                            "text": "Deal 9166 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 3648 for 3 Turns."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 10408 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 4114 for 3 Turns."
+                            "text": "Deal 10408 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 4114 for 3 Turns."
                         },
                         {
                             "level": 10,
-                            "text": "Deal 11651 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 4581 for 3 Turns."
+                            "text": "Deal 11651 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 4581 for 3 Turns."
                         }
                     ]
                 },
@@ -14950,43 +14950,43 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 472 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 384 for 3 Turns."
+                            "text": "Deal 472 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 384 for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1714 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 850 for 3 Turns."
+                            "text": "Deal 1714 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 850 for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 2956 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1316 for 3 Turns."
+                            "text": "Deal 2956 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1316 for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 4198 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1783 for 3 Turns."
+                            "text": "Deal 4198 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1783 for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 5440 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 2249 for 3 Turns."
+                            "text": "Deal 5440 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 2249 for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 6682 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 2715 for 3 Turns."
+                            "text": "Deal 6682 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 2715 for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 7924 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 3182 for 3 Turns."
+                            "text": "Deal 7924 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 3182 for 3 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 9166 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 3648 for 3 Turns."
+                            "text": "Deal 9166 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 3648 for 3 Turns."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 10408 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 4114 for 3 Turns."
+                            "text": "Deal 10408 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 4114 for 3 Turns."
                         },
                         {
                             "level": 10,
-                            "text": "Deal 11651 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 4581 for 3 Turns."
+                            "text": "Deal 11651 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 4581 for 3 Turns."
                         }
                     ]
                 },
@@ -16643,43 +16643,43 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 472 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 384 for 3 Turns."
+                            "text": "Deal 472 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 384 for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1714 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 850 for 3 Turns."
+                            "text": "Deal 1714 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 850 for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 2956 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1316 for 3 Turns."
+                            "text": "Deal 2956 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1316 for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 4198 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1783 for 3 Turns."
+                            "text": "Deal 4198 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1783 for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 5440 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 2249 for 3 Turns."
+                            "text": "Deal 5440 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 2249 for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 6682 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 2715 for 3 Turns."
+                            "text": "Deal 6682 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 2715 for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 7924 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 3182 for 3 Turns."
+                            "text": "Deal 7924 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 3182 for 3 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 9166 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 3648 for 3 Turns."
+                            "text": "Deal 9166 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 3648 for 3 Turns."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 10408 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 4114 for 3 Turns."
+                            "text": "Deal 10408 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 4114 for 3 Turns."
                         },
                         {
                             "level": 10,
-                            "text": "Deal 11651 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 4581 for 3 Turns."
+                            "text": "Deal 11651 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 4581 for 3 Turns."
                         }
                     ]
                 },

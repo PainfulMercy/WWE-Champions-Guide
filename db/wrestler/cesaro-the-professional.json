@@ -279,23 +279,23 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 341 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 341 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 2,
-                            "text": "Deal 813 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 813 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1286 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 1286 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 4,
-                            "text": "Deal 1759 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 1759 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 5,
-                            "text": "Deal 2231 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 2231 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         }
                     ]
                 }
@@ -883,23 +883,23 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 341 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 341 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 2,
-                            "text": "Deal 813 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 813 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1286 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 1286 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 4,
-                            "text": "Deal 1759 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 1759 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 5,
-                            "text": "Deal 2231 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 2231 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         }
                     ]
                 }
@@ -1523,35 +1523,35 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 582 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 582 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1717 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 1717 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 3,
-                            "text": "Deal 2852 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 2852 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 4,
-                            "text": "Deal 3988 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 3988 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 5,
-                            "text": "Deal 5123 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 5123 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 6,
-                            "text": "Deal 6259 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 6259 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 7,
-                            "text": "Deal 7394 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 7394 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 8,
-                            "text": "Deal 8530 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 8530 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         }
                     ]
                 },
@@ -2696,35 +2696,35 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 582 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 582 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1717 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 1717 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 3,
-                            "text": "Deal 2852 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 2852 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 4,
-                            "text": "Deal 3988 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 3988 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 5,
-                            "text": "Deal 5123 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 5123 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 6,
-                            "text": "Deal 6259 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 6259 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 7,
-                            "text": "Deal 7394 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 7394 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 8,
-                            "text": "Deal 8530 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 8530 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         }
                     ]
                 },
@@ -3869,35 +3869,35 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 582 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 582 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1717 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 1717 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 3,
-                            "text": "Deal 2852 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 2852 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 4,
-                            "text": "Deal 3988 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 3988 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 5,
-                            "text": "Deal 5123 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 5123 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 6,
-                            "text": "Deal 6259 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 6259 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 7,
-                            "text": "Deal 7394 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 7394 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 8,
-                            "text": "Deal 8530 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 8530 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         }
                     ]
                 },
@@ -5331,27 +5331,27 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 341 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 341 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 2,
-                            "text": "Deal 813 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 813 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1286 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 1286 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 4,
-                            "text": "Deal 1759 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 1759 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 5,
-                            "text": "Deal 2231 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 2231 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 6,
-                            "text": "Deal 2704 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 2704 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         }
                     ]
                 }
@@ -6071,27 +6071,27 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 341 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 341 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 2,
-                            "text": "Deal 813 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 813 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1286 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 1286 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 4,
-                            "text": "Deal 1759 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 1759 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 5,
-                            "text": "Deal 2231 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 2231 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 6,
-                            "text": "Deal 2704 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 2704 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         }
                     ]
                 }
@@ -6847,39 +6847,39 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 582 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 582 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1717 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 1717 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 3,
-                            "text": "Deal 2852 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 2852 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 4,
-                            "text": "Deal 3988 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 3988 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 5,
-                            "text": "Deal 5123 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 5123 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 6,
-                            "text": "Deal 6259 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 6259 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 7,
-                            "text": "Deal 7394 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 7394 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 8,
-                            "text": "Deal 8530 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 8530 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 9,
-                            "text": "Deal 9665 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 9665 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         }
                     ]
                 },
@@ -8280,39 +8280,39 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 582 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 582 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1717 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 1717 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 3,
-                            "text": "Deal 2852 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 2852 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 4,
-                            "text": "Deal 3988 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 3988 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 5,
-                            "text": "Deal 5123 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 5123 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 6,
-                            "text": "Deal 6259 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 6259 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 7,
-                            "text": "Deal 7394 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 7394 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 8,
-                            "text": "Deal 8530 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 8530 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 9,
-                            "text": "Deal 9665 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 9665 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         }
                     ]
                 },
@@ -9713,39 +9713,39 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 582 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 582 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1717 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 1717 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 3,
-                            "text": "Deal 2852 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 2852 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 4,
-                            "text": "Deal 3988 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 3988 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 5,
-                            "text": "Deal 5123 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 5123 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 6,
-                            "text": "Deal 6259 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 6259 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 7,
-                            "text": "Deal 7394 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 7394 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 8,
-                            "text": "Deal 8530 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 8530 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 9,
-                            "text": "Deal 9665 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 9665 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         }
                     ]
                 },
@@ -11567,31 +11567,31 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 341 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 341 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 2,
-                            "text": "Deal 813 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 813 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1286 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 1286 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 4,
-                            "text": "Deal 1759 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 1759 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 5,
-                            "text": "Deal 2231 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 2231 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 6,
-                            "text": "Deal 2704 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 2704 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 7,
-                            "text": "Deal 3177 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 3177 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         }
                     ]
                 }
@@ -12443,31 +12443,31 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 341 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 341 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 2,
-                            "text": "Deal 813 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 813 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1286 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 1286 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 4,
-                            "text": "Deal 1759 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 1759 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 5,
-                            "text": "Deal 2231 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 2231 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 6,
-                            "text": "Deal 2704 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 2704 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 7,
-                            "text": "Deal 3177 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 3177 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         }
                     ]
                 }
@@ -13355,43 +13355,43 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 582 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 582 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1717 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 1717 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 3,
-                            "text": "Deal 2852 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 2852 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 4,
-                            "text": "Deal 3988 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 3988 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 5,
-                            "text": "Deal 5123 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 5123 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 6,
-                            "text": "Deal 6259 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 6259 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 7,
-                            "text": "Deal 7394 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 7394 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 8,
-                            "text": "Deal 8530 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 8530 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 9,
-                            "text": "Deal 9665 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 9665 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 10,
-                            "text": "Deal 10801 Damage and Make 2 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 10801 Damage and Make 2 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         }
                     ]
                 },
@@ -15048,43 +15048,43 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 582 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 582 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1717 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 1717 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 3,
-                            "text": "Deal 2852 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 2852 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 4,
-                            "text": "Deal 3988 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 3988 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 5,
-                            "text": "Deal 5123 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 5123 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 6,
-                            "text": "Deal 6259 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 6259 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 7,
-                            "text": "Deal 7394 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 7394 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 8,
-                            "text": "Deal 8530 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 8530 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 9,
-                            "text": "Deal 9665 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 9665 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 10,
-                            "text": "Deal 10801 Damage and Make 2 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 10801 Damage and Make 2 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         }
                     ]
                 },
@@ -16741,43 +16741,43 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 582 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 582 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1717 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 1717 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 3,
-                            "text": "Deal 2852 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 2852 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 4,
-                            "text": "Deal 3988 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 3988 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 5,
-                            "text": "Deal 5123 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 5123 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 6,
-                            "text": "Deal 6259 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 6259 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 7,
-                            "text": "Deal 7394 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 7394 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 8,
-                            "text": "Deal 8530 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 8530 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 9,
-                            "text": "Deal 9665 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 9665 Damage and Make 1 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         },
                         {
                             "level": 10,
-                            "text": "Deal 10801 Damage and Make 2 Random Gem(s) into Countdown Gem(s) that will <GetTriggerScriptParam(TriggerMaxVal3, Description)>"
+                            "text": "Deal 10801 Damage and Make 2 Random Gem(s) into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description)"
                         }
                     ]
                 },

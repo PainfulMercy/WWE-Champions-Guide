@@ -30,11 +30,11 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 182 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 121 for 3 Turns."
+                            "text": "Deal 182 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 121 for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 378 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 287 for 3 Turns."
+                            "text": "Deal 378 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 287 for 3 Turns."
                         }
                     ]
                 },
@@ -221,23 +221,23 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 263 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 188 for 3 Turns."
+                            "text": "Deal 263 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 188 for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 655 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 528 for 3 Turns."
+                            "text": "Deal 655 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 528 for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1048 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 868 for 3 Turns."
+                            "text": "Deal 1048 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 868 for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 1441 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1208 for 3 Turns."
+                            "text": "Deal 1441 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1208 for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 1834 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1548 for 3 Turns."
+                            "text": "Deal 1834 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1548 for 3 Turns."
                         }
                     ]
                 },
@@ -279,23 +279,23 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 363 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 363 Damage and Decrease your opponents Black Gem Damage by -10% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 897 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 897 Damage and Decrease your opponents Black Gem Damage by -11% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1432 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 1432 Damage and Decrease your opponents Black Gem Damage by -13% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 1966 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 1966 Damage and Decrease your opponents Black Gem Damage by -15% for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 2501 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 2501 Damage and Decrease your opponents Black Gem Damage by -16% for 3 Turns."
                         }
                     ]
                 }
@@ -825,23 +825,23 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 263 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 188 for 3 Turns."
+                            "text": "Deal 263 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 188 for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 655 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 528 for 3 Turns."
+                            "text": "Deal 655 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 528 for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1048 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 868 for 3 Turns."
+                            "text": "Deal 1048 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 868 for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 1441 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1208 for 3 Turns."
+                            "text": "Deal 1441 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1208 for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 1834 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1548 for 3 Turns."
+                            "text": "Deal 1834 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1548 for 3 Turns."
                         }
                     ]
                 },
@@ -883,23 +883,23 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 363 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 363 Damage and Decrease your opponents Black Gem Damage by -10% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 897 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 897 Damage and Decrease your opponents Black Gem Damage by -11% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1432 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 1432 Damage and Decrease your opponents Black Gem Damage by -13% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 1966 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 1966 Damage and Decrease your opponents Black Gem Damage by -15% for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 2501 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 2501 Damage and Decrease your opponents Black Gem Damage by -16% for 3 Turns."
                         }
                     ]
                 }
@@ -1441,35 +1441,35 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 450 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 341 for 3 Turns."
+                            "text": "Deal 450 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 341 for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1389 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1194 for 3 Turns."
+                            "text": "Deal 1389 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1194 for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 2329 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 2047 for 3 Turns."
+                            "text": "Deal 2329 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 2047 for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 3269 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 2900 for 3 Turns."
+                            "text": "Deal 3269 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 2900 for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 4209 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 3753 for 3 Turns."
+                            "text": "Deal 4209 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 3753 for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 5149 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 4606 for 3 Turns."
+                            "text": "Deal 5149 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 4606 for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 6089 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 5459 for 3 Turns."
+                            "text": "Deal 6089 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 5459 for 3 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 7029 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 6312 for 3 Turns."
+                            "text": "Deal 7029 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 6312 for 3 Turns."
                         }
                     ]
                 },
@@ -1523,35 +1523,35 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 617 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 617 Damage and Decrease your opponents Black Gem Damage by -20% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1897 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 1897 Damage and Decrease your opponents Black Gem Damage by -20% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 3177 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 3177 Damage and Decrease your opponents Black Gem Damage by -21% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 4457 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 4457 Damage and Decrease your opponents Black Gem Damage by -21% for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 5737 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 5737 Damage and Decrease your opponents Black Gem Damage by -22% for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 7017 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 7017 Damage and Decrease your opponents Black Gem Damage by -22% for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 8297 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 8297 Damage and Decrease your opponents Black Gem Damage by -23% for 3 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 9577 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 9577 Damage and Decrease your opponents Black Gem Damage by -23% for 3 Turns."
                         }
                     ]
                 },
@@ -2614,35 +2614,35 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 450 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 341 for 3 Turns."
+                            "text": "Deal 450 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 341 for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1389 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1194 for 3 Turns."
+                            "text": "Deal 1389 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1194 for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 2329 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 2047 for 3 Turns."
+                            "text": "Deal 2329 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 2047 for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 3269 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 2900 for 3 Turns."
+                            "text": "Deal 3269 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 2900 for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 4209 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 3753 for 3 Turns."
+                            "text": "Deal 4209 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 3753 for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 5149 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 4606 for 3 Turns."
+                            "text": "Deal 5149 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 4606 for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 6089 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 5459 for 3 Turns."
+                            "text": "Deal 6089 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 5459 for 3 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 7029 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 6312 for 3 Turns."
+                            "text": "Deal 7029 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 6312 for 3 Turns."
                         }
                     ]
                 },
@@ -2696,35 +2696,35 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 617 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 617 Damage and Decrease your opponents Black Gem Damage by -20% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1897 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 1897 Damage and Decrease your opponents Black Gem Damage by -20% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 3177 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 3177 Damage and Decrease your opponents Black Gem Damage by -21% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 4457 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 4457 Damage and Decrease your opponents Black Gem Damage by -21% for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 5737 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 5737 Damage and Decrease your opponents Black Gem Damage by -22% for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 7017 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 7017 Damage and Decrease your opponents Black Gem Damage by -22% for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 8297 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 8297 Damage and Decrease your opponents Black Gem Damage by -23% for 3 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 9577 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 9577 Damage and Decrease your opponents Black Gem Damage by -23% for 3 Turns."
                         }
                     ]
                 },
@@ -3787,35 +3787,35 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 450 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 341 for 3 Turns."
+                            "text": "Deal 450 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 341 for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1389 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1194 for 3 Turns."
+                            "text": "Deal 1389 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1194 for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 2329 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 2047 for 3 Turns."
+                            "text": "Deal 2329 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 2047 for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 3269 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 2900 for 3 Turns."
+                            "text": "Deal 3269 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 2900 for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 4209 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 3753 for 3 Turns."
+                            "text": "Deal 4209 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 3753 for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 5149 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 4606 for 3 Turns."
+                            "text": "Deal 5149 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 4606 for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 6089 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 5459 for 3 Turns."
+                            "text": "Deal 6089 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 5459 for 3 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 7029 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 6312 for 3 Turns."
+                            "text": "Deal 7029 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 6312 for 3 Turns."
                         }
                     ]
                 },
@@ -3869,35 +3869,35 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 617 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 617 Damage and Decrease your opponents Black Gem Damage by -20% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1897 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 1897 Damage and Decrease your opponents Black Gem Damage by -20% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 3177 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 3177 Damage and Decrease your opponents Black Gem Damage by -21% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 4457 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 4457 Damage and Decrease your opponents Black Gem Damage by -21% for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 5737 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 5737 Damage and Decrease your opponents Black Gem Damage by -22% for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 7017 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 7017 Damage and Decrease your opponents Black Gem Damage by -22% for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 8297 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 8297 Damage and Decrease your opponents Black Gem Damage by -23% for 3 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 9577 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 9577 Damage and Decrease your opponents Black Gem Damage by -23% for 3 Turns."
                         }
                     ]
                 },
@@ -4942,15 +4942,15 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 182 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 121 for 3 Turns."
+                            "text": "Deal 182 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 121 for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 378 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 287 for 3 Turns."
+                            "text": "Deal 378 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 287 for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 574 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 453 for 3 Turns."
+                            "text": "Deal 574 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 453 for 3 Turns."
                         }
                     ]
                 },
@@ -5265,27 +5265,27 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 263 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 188 for 3 Turns."
+                            "text": "Deal 263 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 188 for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 655 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 528 for 3 Turns."
+                            "text": "Deal 655 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 528 for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1048 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 868 for 3 Turns."
+                            "text": "Deal 1048 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 868 for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 1441 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1208 for 3 Turns."
+                            "text": "Deal 1441 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1208 for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 1834 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1548 for 3 Turns."
+                            "text": "Deal 1834 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1548 for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 2227 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1888 for 3 Turns."
+                            "text": "Deal 2227 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1888 for 3 Turns."
                         }
                     ]
                 },
@@ -5331,27 +5331,27 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 363 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 363 Damage and Decrease your opponents Black Gem Damage by -10% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 897 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 897 Damage and Decrease your opponents Black Gem Damage by -11% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1432 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 1432 Damage and Decrease your opponents Black Gem Damage by -13% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 1966 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 1966 Damage and Decrease your opponents Black Gem Damage by -15% for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 2501 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 2501 Damage and Decrease your opponents Black Gem Damage by -16% for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 3035 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 3035 Damage and Decrease your opponents Black Gem Damage by -18% for 3 Turns."
                         }
                     ]
                 }
@@ -6005,27 +6005,27 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 263 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 188 for 3 Turns."
+                            "text": "Deal 263 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 188 for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 655 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 528 for 3 Turns."
+                            "text": "Deal 655 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 528 for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1048 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 868 for 3 Turns."
+                            "text": "Deal 1048 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 868 for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 1441 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1208 for 3 Turns."
+                            "text": "Deal 1441 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1208 for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 1834 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1548 for 3 Turns."
+                            "text": "Deal 1834 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1548 for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 2227 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1888 for 3 Turns."
+                            "text": "Deal 2227 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1888 for 3 Turns."
                         }
                     ]
                 },
@@ -6071,27 +6071,27 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 363 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 363 Damage and Decrease your opponents Black Gem Damage by -10% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 897 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 897 Damage and Decrease your opponents Black Gem Damage by -11% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1432 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 1432 Damage and Decrease your opponents Black Gem Damage by -13% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 1966 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 1966 Damage and Decrease your opponents Black Gem Damage by -15% for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 2501 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 2501 Damage and Decrease your opponents Black Gem Damage by -16% for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 3035 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 3035 Damage and Decrease your opponents Black Gem Damage by -18% for 3 Turns."
                         }
                     ]
                 }
@@ -6757,39 +6757,39 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 450 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 341 for 3 Turns."
+                            "text": "Deal 450 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 341 for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1389 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1194 for 3 Turns."
+                            "text": "Deal 1389 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1194 for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 2329 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 2047 for 3 Turns."
+                            "text": "Deal 2329 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 2047 for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 3269 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 2900 for 3 Turns."
+                            "text": "Deal 3269 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 2900 for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 4209 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 3753 for 3 Turns."
+                            "text": "Deal 4209 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 3753 for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 5149 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 4606 for 3 Turns."
+                            "text": "Deal 5149 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 4606 for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 6089 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 5459 for 3 Turns."
+                            "text": "Deal 6089 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 5459 for 3 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 7029 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 6312 for 3 Turns."
+                            "text": "Deal 7029 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 6312 for 3 Turns."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 7969 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 7165 for 3 Turns."
+                            "text": "Deal 7969 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 7165 for 3 Turns."
                         }
                     ]
                 },
@@ -6847,39 +6847,39 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 617 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 617 Damage and Decrease your opponents Black Gem Damage by -20% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1897 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 1897 Damage and Decrease your opponents Black Gem Damage by -20% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 3177 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 3177 Damage and Decrease your opponents Black Gem Damage by -21% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 4457 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 4457 Damage and Decrease your opponents Black Gem Damage by -21% for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 5737 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 5737 Damage and Decrease your opponents Black Gem Damage by -22% for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 7017 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 7017 Damage and Decrease your opponents Black Gem Damage by -22% for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 8297 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 8297 Damage and Decrease your opponents Black Gem Damage by -23% for 3 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 9577 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 9577 Damage and Decrease your opponents Black Gem Damage by -23% for 3 Turns."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 10857 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 10857 Damage and Decrease your opponents Black Gem Damage by -24% for 3 Turns."
                         }
                     ]
                 },
@@ -8190,39 +8190,39 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 450 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 341 for 3 Turns."
+                            "text": "Deal 450 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 341 for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1389 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1194 for 3 Turns."
+                            "text": "Deal 1389 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1194 for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 2329 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 2047 for 3 Turns."
+                            "text": "Deal 2329 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 2047 for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 3269 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 2900 for 3 Turns."
+                            "text": "Deal 3269 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 2900 for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 4209 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 3753 for 3 Turns."
+                            "text": "Deal 4209 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 3753 for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 5149 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 4606 for 3 Turns."
+                            "text": "Deal 5149 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 4606 for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 6089 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 5459 for 3 Turns."
+                            "text": "Deal 6089 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 5459 for 3 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 7029 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 6312 for 3 Turns."
+                            "text": "Deal 7029 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 6312 for 3 Turns."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 7969 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 7165 for 3 Turns."
+                            "text": "Deal 7969 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 7165 for 3 Turns."
                         }
                     ]
                 },
@@ -8280,39 +8280,39 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 617 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 617 Damage and Decrease your opponents Black Gem Damage by -20% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1897 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 1897 Damage and Decrease your opponents Black Gem Damage by -20% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 3177 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 3177 Damage and Decrease your opponents Black Gem Damage by -21% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 4457 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 4457 Damage and Decrease your opponents Black Gem Damage by -21% for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 5737 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 5737 Damage and Decrease your opponents Black Gem Damage by -22% for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 7017 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 7017 Damage and Decrease your opponents Black Gem Damage by -22% for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 8297 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 8297 Damage and Decrease your opponents Black Gem Damage by -23% for 3 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 9577 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 9577 Damage and Decrease your opponents Black Gem Damage by -23% for 3 Turns."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 10857 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 10857 Damage and Decrease your opponents Black Gem Damage by -24% for 3 Turns."
                         }
                     ]
                 },
@@ -9623,39 +9623,39 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 450 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 341 for 3 Turns."
+                            "text": "Deal 450 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 341 for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1389 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1194 for 3 Turns."
+                            "text": "Deal 1389 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1194 for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 2329 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 2047 for 3 Turns."
+                            "text": "Deal 2329 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 2047 for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 3269 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 2900 for 3 Turns."
+                            "text": "Deal 3269 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 2900 for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 4209 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 3753 for 3 Turns."
+                            "text": "Deal 4209 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 3753 for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 5149 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 4606 for 3 Turns."
+                            "text": "Deal 5149 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 4606 for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 6089 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 5459 for 3 Turns."
+                            "text": "Deal 6089 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 5459 for 3 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 7029 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 6312 for 3 Turns."
+                            "text": "Deal 7029 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 6312 for 3 Turns."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 7969 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 7165 for 3 Turns."
+                            "text": "Deal 7969 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 7165 for 3 Turns."
                         }
                     ]
                 },
@@ -9713,39 +9713,39 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 617 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 617 Damage and Decrease your opponents Black Gem Damage by -20% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1897 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 1897 Damage and Decrease your opponents Black Gem Damage by -20% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 3177 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 3177 Damage and Decrease your opponents Black Gem Damage by -21% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 4457 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 4457 Damage and Decrease your opponents Black Gem Damage by -21% for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 5737 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 5737 Damage and Decrease your opponents Black Gem Damage by -22% for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 7017 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 7017 Damage and Decrease your opponents Black Gem Damage by -22% for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 8297 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 8297 Damage and Decrease your opponents Black Gem Damage by -23% for 3 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 9577 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 9577 Damage and Decrease your opponents Black Gem Damage by -23% for 3 Turns."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 10857 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 10857 Damage and Decrease your opponents Black Gem Damage by -24% for 3 Turns."
                         }
                     ]
                 },
@@ -11038,19 +11038,19 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 182 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 121 for 3 Turns."
+                            "text": "Deal 182 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 121 for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 378 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 287 for 3 Turns."
+                            "text": "Deal 378 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 287 for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 574 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 453 for 3 Turns."
+                            "text": "Deal 574 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 453 for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 771 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 619 for 3 Turns."
+                            "text": "Deal 771 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 619 for 3 Turns."
                         }
                     ]
                 },
@@ -11493,31 +11493,31 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 263 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 188 for 3 Turns."
+                            "text": "Deal 263 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 188 for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 655 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 528 for 3 Turns."
+                            "text": "Deal 655 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 528 for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1048 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 868 for 3 Turns."
+                            "text": "Deal 1048 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 868 for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 1441 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1208 for 3 Turns."
+                            "text": "Deal 1441 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1208 for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 1834 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1548 for 3 Turns."
+                            "text": "Deal 1834 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1548 for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 2227 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1888 for 3 Turns."
+                            "text": "Deal 2227 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1888 for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 2620 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 2228 for 3 Turns."
+                            "text": "Deal 2620 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 2228 for 3 Turns."
                         }
                     ]
                 },
@@ -11567,31 +11567,31 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 363 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 363 Damage and Decrease your opponents Black Gem Damage by -10% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 897 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 897 Damage and Decrease your opponents Black Gem Damage by -11% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1432 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 1432 Damage and Decrease your opponents Black Gem Damage by -13% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 1966 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 1966 Damage and Decrease your opponents Black Gem Damage by -15% for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 2501 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 2501 Damage and Decrease your opponents Black Gem Damage by -16% for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 3035 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 3035 Damage and Decrease your opponents Black Gem Damage by -18% for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 3570 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 3570 Damage and Decrease your opponents Black Gem Damage by -20% for 3 Turns."
                         }
                     ]
                 }
@@ -12369,31 +12369,31 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 263 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 188 for 3 Turns."
+                            "text": "Deal 263 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 188 for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 655 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 528 for 3 Turns."
+                            "text": "Deal 655 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 528 for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1048 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 868 for 3 Turns."
+                            "text": "Deal 1048 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 868 for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 1441 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1208 for 3 Turns."
+                            "text": "Deal 1441 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1208 for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 1834 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1548 for 3 Turns."
+                            "text": "Deal 1834 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1548 for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 2227 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1888 for 3 Turns."
+                            "text": "Deal 2227 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1888 for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 2620 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 2228 for 3 Turns."
+                            "text": "Deal 2620 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 2228 for 3 Turns."
                         }
                     ]
                 },
@@ -12443,31 +12443,31 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 363 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 363 Damage and Decrease your opponents Black Gem Damage by -10% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 897 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 897 Damage and Decrease your opponents Black Gem Damage by -11% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1432 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 1432 Damage and Decrease your opponents Black Gem Damage by -13% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 1966 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 1966 Damage and Decrease your opponents Black Gem Damage by -15% for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 2501 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 2501 Damage and Decrease your opponents Black Gem Damage by -16% for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 3035 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 3035 Damage and Decrease your opponents Black Gem Damage by -18% for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 3570 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 3570 Damage and Decrease your opponents Black Gem Damage by -20% for 3 Turns."
                         }
                     ]
                 }
@@ -13257,43 +13257,43 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 450 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 341 for 3 Turns."
+                            "text": "Deal 450 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 341 for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1389 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1194 for 3 Turns."
+                            "text": "Deal 1389 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1194 for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 2329 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 2047 for 3 Turns."
+                            "text": "Deal 2329 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 2047 for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 3269 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 2900 for 3 Turns."
+                            "text": "Deal 3269 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 2900 for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 4209 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 3753 for 3 Turns."
+                            "text": "Deal 4209 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 3753 for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 5149 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 4606 for 3 Turns."
+                            "text": "Deal 5149 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 4606 for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 6089 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 5459 for 3 Turns."
+                            "text": "Deal 6089 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 5459 for 3 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 7029 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 6312 for 3 Turns."
+                            "text": "Deal 7029 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 6312 for 3 Turns."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 7969 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 7165 for 3 Turns."
+                            "text": "Deal 7969 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 7165 for 3 Turns."
                         },
                         {
                             "level": 10,
-                            "text": "Deal 8909 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 8019 for 3 Turns."
+                            "text": "Deal 8909 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 8019 for 3 Turns."
                         }
                     ]
                 },
@@ -13355,43 +13355,43 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 617 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 617 Damage and Decrease your opponents Black Gem Damage by -20% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1897 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 1897 Damage and Decrease your opponents Black Gem Damage by -20% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 3177 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 3177 Damage and Decrease your opponents Black Gem Damage by -21% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 4457 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 4457 Damage and Decrease your opponents Black Gem Damage by -21% for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 5737 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 5737 Damage and Decrease your opponents Black Gem Damage by -22% for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 7017 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 7017 Damage and Decrease your opponents Black Gem Damage by -22% for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 8297 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 8297 Damage and Decrease your opponents Black Gem Damage by -23% for 3 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 9577 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 9577 Damage and Decrease your opponents Black Gem Damage by -23% for 3 Turns."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 10857 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 10857 Damage and Decrease your opponents Black Gem Damage by -24% for 3 Turns."
                         },
                         {
                             "level": 10,
-                            "text": "Deal 12137 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 4 Turns."
+                            "text": "Deal 12137 Damage and Decrease your opponents Black Gem Damage by -25% for 4 Turns."
                         }
                     ]
                 },
@@ -14950,43 +14950,43 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 450 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 341 for 3 Turns."
+                            "text": "Deal 450 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 341 for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1389 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1194 for 3 Turns."
+                            "text": "Deal 1389 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1194 for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 2329 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 2047 for 3 Turns."
+                            "text": "Deal 2329 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 2047 for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 3269 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 2900 for 3 Turns."
+                            "text": "Deal 3269 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 2900 for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 4209 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 3753 for 3 Turns."
+                            "text": "Deal 4209 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 3753 for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 5149 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 4606 for 3 Turns."
+                            "text": "Deal 5149 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 4606 for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 6089 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 5459 for 3 Turns."
+                            "text": "Deal 6089 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 5459 for 3 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 7029 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 6312 for 3 Turns."
+                            "text": "Deal 7029 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 6312 for 3 Turns."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 7969 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 7165 for 3 Turns."
+                            "text": "Deal 7969 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 7165 for 3 Turns."
                         },
                         {
                             "level": 10,
-                            "text": "Deal 8909 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 8019 for 3 Turns."
+                            "text": "Deal 8909 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 8019 for 3 Turns."
                         }
                     ]
                 },
@@ -15048,43 +15048,43 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 617 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 617 Damage and Decrease your opponents Black Gem Damage by -20% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1897 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 1897 Damage and Decrease your opponents Black Gem Damage by -20% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 3177 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 3177 Damage and Decrease your opponents Black Gem Damage by -21% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 4457 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 4457 Damage and Decrease your opponents Black Gem Damage by -21% for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 5737 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 5737 Damage and Decrease your opponents Black Gem Damage by -22% for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 7017 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 7017 Damage and Decrease your opponents Black Gem Damage by -22% for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 8297 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 8297 Damage and Decrease your opponents Black Gem Damage by -23% for 3 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 9577 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 9577 Damage and Decrease your opponents Black Gem Damage by -23% for 3 Turns."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 10857 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 10857 Damage and Decrease your opponents Black Gem Damage by -24% for 3 Turns."
                         },
                         {
                             "level": 10,
-                            "text": "Deal 12137 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 4 Turns."
+                            "text": "Deal 12137 Damage and Decrease your opponents Black Gem Damage by -25% for 4 Turns."
                         }
                     ]
                 },
@@ -16643,43 +16643,43 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 450 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 341 for 3 Turns."
+                            "text": "Deal 450 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 341 for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1389 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 1194 for 3 Turns."
+                            "text": "Deal 1389 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 1194 for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 2329 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 2047 for 3 Turns."
+                            "text": "Deal 2329 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 2047 for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 3269 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 2900 for 3 Turns."
+                            "text": "Deal 3269 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 2900 for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 4209 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 3753 for 3 Turns."
+                            "text": "Deal 4209 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 3753 for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 5149 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 4606 for 3 Turns."
+                            "text": "Deal 5149 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 4606 for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 6089 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 5459 for 3 Turns."
+                            "text": "Deal 6089 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 5459 for 3 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 7029 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 6312 for 3 Turns."
+                            "text": "Deal 7029 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 6312 for 3 Turns."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 7969 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 7165 for 3 Turns."
+                            "text": "Deal 7969 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 7165 for 3 Turns."
                         },
                         {
                             "level": 10,
-                            "text": "Deal 8909 Damage, Reduce your Superstar's Yellow MP by <-val1> and Heal 8019 for 3 Turns."
+                            "text": "Deal 8909 Damage, Reduce your Superstar's Yellow MP by -5 and Heal 8019 for 3 Turns."
                         }
                     ]
                 },
@@ -16741,43 +16741,43 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 617 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 617 Damage and Decrease your opponents Black Gem Damage by -20% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1897 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 1897 Damage and Decrease your opponents Black Gem Damage by -20% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 3177 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 3177 Damage and Decrease your opponents Black Gem Damage by -21% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 4457 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 4457 Damage and Decrease your opponents Black Gem Damage by -21% for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 5737 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 5737 Damage and Decrease your opponents Black Gem Damage by -22% for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 7017 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 7017 Damage and Decrease your opponents Black Gem Damage by -22% for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 8297 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 8297 Damage and Decrease your opponents Black Gem Damage by -23% for 3 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 9577 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 9577 Damage and Decrease your opponents Black Gem Damage by -23% for 3 Turns."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 10857 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 3 Turns."
+                            "text": "Deal 10857 Damage and Decrease your opponents Black Gem Damage by -24% for 3 Turns."
                         },
                         {
                             "level": 10,
-                            "text": "Deal 12137 Damage and Decrease your opponents Black Gem Damage by <-val2>% for 4 Turns."
+                            "text": "Deal 12137 Damage and Decrease your opponents Black Gem Damage by -25% for 4 Turns."
                         }
                     ]
                 },
