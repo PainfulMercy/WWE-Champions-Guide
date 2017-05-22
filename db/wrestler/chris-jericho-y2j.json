@@ -30,11 +30,11 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 156 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 156 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 1 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 2,
-                            "text": "Deal 308 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 308 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 2 Random Gem(s) into Green Gem(s) when activated. "
                         }
                     ]
                 },
@@ -221,23 +221,23 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 225 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 225 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 1 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 2,
-                            "text": "Deal 535 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 535 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 1 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 3,
-                            "text": "Deal 846 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 846 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 2 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 4,
-                            "text": "Deal 1156 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 1156 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 3 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 5,
-                            "text": "Deal 1467 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 1467 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 4 Random Gem(s) into Green Gem(s) when activated. "
                         }
                     ]
                 },
@@ -825,23 +825,23 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 225 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 225 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 1 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 2,
-                            "text": "Deal 535 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 535 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 1 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 3,
-                            "text": "Deal 846 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 846 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 2 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 4,
-                            "text": "Deal 1156 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 1156 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 3 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 5,
-                            "text": "Deal 1467 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 1467 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 4 Random Gem(s) into Green Gem(s) when activated. "
                         }
                     ]
                 },
@@ -1441,35 +1441,35 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 386 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 386 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 2 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1132 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 1132 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 2 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1878 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 1878 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 3 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 4,
-                            "text": "Deal 2624 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 2624 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 3 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 5,
-                            "text": "Deal 3370 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 3370 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 4 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 6,
-                            "text": "Deal 4116 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 4116 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 4 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 7,
-                            "text": "Deal 4862 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 4862 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 5 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 8,
-                            "text": "Deal 5608 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 5608 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 5 Random Gem(s) into Green Gem(s) when activated. "
                         }
                     ]
                 },
@@ -2614,35 +2614,35 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 386 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 386 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 2 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1132 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 1132 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 2 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1878 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 1878 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 3 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 4,
-                            "text": "Deal 2624 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 2624 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 3 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 5,
-                            "text": "Deal 3370 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 3370 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 4 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 6,
-                            "text": "Deal 4116 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 4116 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 4 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 7,
-                            "text": "Deal 4862 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 4862 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 5 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 8,
-                            "text": "Deal 5608 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 5608 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 5 Random Gem(s) into Green Gem(s) when activated. "
                         }
                     ]
                 },
@@ -3787,35 +3787,35 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 386 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 386 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 2 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1132 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 1132 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 2 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1878 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 1878 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 3 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 4,
-                            "text": "Deal 2624 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 2624 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 3 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 5,
-                            "text": "Deal 3370 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 3370 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 4 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 6,
-                            "text": "Deal 4116 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 4116 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 4 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 7,
-                            "text": "Deal 4862 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 4862 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 5 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 8,
-                            "text": "Deal 5608 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 5608 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 5 Random Gem(s) into Green Gem(s) when activated. "
                         }
                     ]
                 },
@@ -4942,15 +4942,15 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 156 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 156 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 1 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 2,
-                            "text": "Deal 308 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 308 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 2 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 3,
-                            "text": "Deal 461 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 461 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 3 Random Gem(s) into Green Gem(s) when activated. "
                         }
                     ]
                 },
@@ -5265,27 +5265,27 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 225 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 225 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 1 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 2,
-                            "text": "Deal 535 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 535 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 1 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 3,
-                            "text": "Deal 846 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 846 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 2 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 4,
-                            "text": "Deal 1156 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 1156 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 3 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 5,
-                            "text": "Deal 1467 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 1467 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 4 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 6,
-                            "text": "Deal 1777 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 1777 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 5 Random Gem(s) into Green Gem(s) when activated. "
                         }
                     ]
                 },
@@ -6005,27 +6005,27 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 225 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 225 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 1 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 2,
-                            "text": "Deal 535 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 535 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 1 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 3,
-                            "text": "Deal 846 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 846 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 2 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 4,
-                            "text": "Deal 1156 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 1156 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 3 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 5,
-                            "text": "Deal 1467 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 1467 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 4 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 6,
-                            "text": "Deal 1777 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 1777 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 5 Random Gem(s) into Green Gem(s) when activated. "
                         }
                     ]
                 },
@@ -6757,39 +6757,39 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 386 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 386 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 2 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1132 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 1132 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 2 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1878 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 1878 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 3 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 4,
-                            "text": "Deal 2624 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 2624 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 3 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 5,
-                            "text": "Deal 3370 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 3370 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 4 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 6,
-                            "text": "Deal 4116 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 4116 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 4 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 7,
-                            "text": "Deal 4862 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 4862 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 5 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 8,
-                            "text": "Deal 5608 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 5608 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 5 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 9,
-                            "text": "Deal 6354 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 6354 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 6 Random Gem(s) into Green Gem(s) when activated. "
                         }
                     ]
                 },
@@ -8190,39 +8190,39 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 386 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 386 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 2 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1132 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 1132 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 2 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1878 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 1878 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 3 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 4,
-                            "text": "Deal 2624 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 2624 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 3 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 5,
-                            "text": "Deal 3370 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 3370 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 4 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 6,
-                            "text": "Deal 4116 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 4116 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 4 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 7,
-                            "text": "Deal 4862 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 4862 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 5 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 8,
-                            "text": "Deal 5608 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 5608 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 5 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 9,
-                            "text": "Deal 6354 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 6354 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 6 Random Gem(s) into Green Gem(s) when activated. "
                         }
                     ]
                 },
@@ -9623,39 +9623,39 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 386 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 386 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 2 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1132 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 1132 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 2 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1878 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 1878 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 3 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 4,
-                            "text": "Deal 2624 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 2624 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 3 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 5,
-                            "text": "Deal 3370 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 3370 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 4 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 6,
-                            "text": "Deal 4116 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 4116 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 4 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 7,
-                            "text": "Deal 4862 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 4862 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 5 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 8,
-                            "text": "Deal 5608 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 5608 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 5 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 9,
-                            "text": "Deal 6354 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 6354 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 6 Random Gem(s) into Green Gem(s) when activated. "
                         }
                     ]
                 },
@@ -11038,19 +11038,19 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 156 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 156 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 1 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 2,
-                            "text": "Deal 308 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 308 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 2 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 3,
-                            "text": "Deal 461 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 461 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 3 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 4,
-                            "text": "Deal 614 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 614 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 5 Random Gem(s) into Green Gem(s) when activated. "
                         }
                     ]
                 },
@@ -11493,31 +11493,31 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 225 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 225 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 1 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 2,
-                            "text": "Deal 535 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 535 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 1 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 3,
-                            "text": "Deal 846 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 846 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 2 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 4,
-                            "text": "Deal 1156 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 1156 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 3 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 5,
-                            "text": "Deal 1467 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 1467 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 4 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 6,
-                            "text": "Deal 1777 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 1777 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 5 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 7,
-                            "text": "Deal 2088 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 2088 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 6 Random Gem(s) into Green Gem(s) when activated. "
                         }
                     ]
                 },
@@ -12369,31 +12369,31 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 225 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 225 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 1 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 2,
-                            "text": "Deal 535 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 535 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 1 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 3,
-                            "text": "Deal 846 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 846 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 2 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 4,
-                            "text": "Deal 1156 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 1156 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 3 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 5,
-                            "text": "Deal 1467 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 1467 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 4 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 6,
-                            "text": "Deal 1777 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 1777 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 5 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 7,
-                            "text": "Deal 2088 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 2088 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 6 Random Gem(s) into Green Gem(s) when activated. "
                         }
                     ]
                 },
@@ -13257,43 +13257,43 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 386 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 386 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 2 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1132 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 1132 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 2 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1878 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 1878 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 3 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 4,
-                            "text": "Deal 2624 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 2624 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 3 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 5,
-                            "text": "Deal 3370 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 3370 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 4 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 6,
-                            "text": "Deal 4116 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 4116 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 4 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 7,
-                            "text": "Deal 4862 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 4862 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 5 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 8,
-                            "text": "Deal 5608 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 5608 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 5 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 9,
-                            "text": "Deal 6354 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 6354 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 6 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 10,
-                            "text": "Deal 7100 Damage and Choose 2 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 7100 Damage and Choose 2 Gem(s) to Make into Countdown Gem(s) that will Make 7 Random Gem(s) into Green Gem(s) when activated. "
                         }
                     ]
                 },
@@ -14950,43 +14950,43 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 386 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 386 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 2 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1132 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 1132 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 2 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1878 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 1878 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 3 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 4,
-                            "text": "Deal 2624 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 2624 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 3 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 5,
-                            "text": "Deal 3370 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 3370 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 4 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 6,
-                            "text": "Deal 4116 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 4116 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 4 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 7,
-                            "text": "Deal 4862 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 4862 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 5 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 8,
-                            "text": "Deal 5608 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 5608 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 5 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 9,
-                            "text": "Deal 6354 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 6354 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 6 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 10,
-                            "text": "Deal 7100 Damage and Choose 2 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 7100 Damage and Choose 2 Gem(s) to Make into Countdown Gem(s) that will Make 7 Random Gem(s) into Green Gem(s) when activated. "
                         }
                     ]
                 },
@@ -16643,43 +16643,43 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 386 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 386 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 2 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1132 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 1132 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 2 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1878 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 1878 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 3 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 4,
-                            "text": "Deal 2624 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 2624 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 3 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 5,
-                            "text": "Deal 3370 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 3370 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 4 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 6,
-                            "text": "Deal 4116 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 4116 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 4 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 7,
-                            "text": "Deal 4862 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 4862 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 5 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 8,
-                            "text": "Deal 5608 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 5608 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 5 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 9,
-                            "text": "Deal 6354 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 6354 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Make 6 Random Gem(s) into Green Gem(s) when activated. "
                         },
                         {
                             "level": 10,
-                            "text": "Deal 7100 Damage and Choose 2 Gem(s) to Make into Countdown Gem(s) that will GetTriggerScriptParam(TriggerMaxVal3, Description) "
+                            "text": "Deal 7100 Damage and Choose 2 Gem(s) to Make into Countdown Gem(s) that will Make 7 Random Gem(s) into Green Gem(s) when activated. "
                         }
                     ]
                 },
