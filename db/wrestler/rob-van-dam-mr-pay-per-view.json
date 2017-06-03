@@ -139,32 +139,32 @@
                     "levelCap": 2,
                     "cost": 10,
                     "gemType": "Blue",
-                    "name": "Coup de Grâce",
+                    "name": "Five Star Frog Splash",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 392 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 653 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
                 {
                     "ID": "ABL_RVD_1Star_02",
                     "levelCap": 2,
-                    "cost": 8,
+                    "cost": 6,
                     "gemType": "Black",
                     "name": "Rolling Thunder Senton",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 125 Damage and Increase your Blue Gem Damage by 10% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 255 Damage and Increase your Blue Gem Damage by 11% for 3 Turns."
                         }
                     ]
                 },
@@ -177,11 +177,11 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 115 Damage and Make 1 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 236 Damage and Make 1 Random Yellow Gem(s) into Blue Gem(s)."
                         }
                     ]
                 }
@@ -718,56 +718,56 @@
                     "levelCap": 5,
                     "cost": 10,
                     "gemType": "Blue",
-                    "name": "Coup de Grâce",
+                    "name": "Five Star Frog Splash",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 506 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 995 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 1484 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 1974 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 2463 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
                 {
                     "ID": "ABL_RVD_2Star_02",
                     "levelCap": 5,
-                    "cost": 8,
+                    "cost": 6,
                     "gemType": "Black",
                     "name": "Rolling Thunder Senton",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 182 Damage and Increase your Blue Gem Damage by 15% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 1 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 444 Damage and Increase your Blue Gem Damage by 15% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 707 Damage and Increase your Blue Gem Damage by 16% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 970 Damage and Increase your Blue Gem Damage by 17% for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 1233 Damage and Increase your Blue Gem Damage by 18% for 3 Turns."
                         }
                     ]
                 },
@@ -780,52 +780,52 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 167 Damage and Make 2 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 411 Damage and Make 2 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 655 Damage and Make 2 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 900 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 1144 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_RVD_2Star_04",
                     "levelCap": 5,
-                    "cost": 7,
+                    "cost": 6,
                     "gemType": "Blue",
                     "name": "Monkey Flip",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 188 Damage and Make 2 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 462 Damage and Make 2 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 737 Damage and Make 2 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 1011 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 1286 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         }
                     ]
                 }
@@ -1362,56 +1362,56 @@
                     "levelCap": 5,
                     "cost": 10,
                     "gemType": "Blue",
-                    "name": "Coup de Grâce",
+                    "name": "Five Star Frog Splash",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 506 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 995 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 1484 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 1974 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 2463 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
                 {
                     "ID": "ABL_RVD_2Star_02",
                     "levelCap": 5,
-                    "cost": 8,
+                    "cost": 6,
                     "gemType": "Black",
                     "name": "Rolling Thunder Senton",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 182 Damage and Increase your Blue Gem Damage by 15% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 1 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 444 Damage and Increase your Blue Gem Damage by 15% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 707 Damage and Increase your Blue Gem Damage by 16% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 970 Damage and Increase your Blue Gem Damage by 17% for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 1233 Damage and Increase your Blue Gem Damage by 18% for 3 Turns."
                         }
                     ]
                 },
@@ -1424,52 +1424,52 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 167 Damage and Make 2 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 411 Damage and Make 2 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 655 Damage and Make 2 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 900 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 1144 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_RVD_2Star_04",
                     "levelCap": 5,
-                    "cost": 7,
+                    "cost": 6,
                     "gemType": "Blue",
                     "name": "Monkey Flip",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 188 Damage and Make 2 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 462 Damage and Make 2 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 737 Damage and Make 2 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 1011 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 1286 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         }
                     ]
                 }
@@ -2526,80 +2526,80 @@
                     "levelCap": 8,
                     "cost": 10,
                     "gemType": "Blue",
-                    "name": "Coup de Grâce",
+                    "name": "Five Star Frog Splash",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 754 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 1762 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 2771 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 3779 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 4788 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 5796 Damage, Destroy 4 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 6805 Damage, Destroy 4 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 7813 Damage, Destroy 4 Random Blue Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
                 {
                     "ID": "ABL_RVD_3Star_02",
                     "levelCap": 8,
-                    "cost": 8,
+                    "cost": 6,
                     "gemType": "Black",
                     "name": "Rolling Thunder Senton",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 311 Damage and Increase your Blue Gem Damage by 20% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 1 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 941 Damage and Increase your Blue Gem Damage by 20% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 1571 Damage and Increase your Blue Gem Damage by 21% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 2201 Damage and Increase your Blue Gem Damage by 21% for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 2831 Damage and Increase your Blue Gem Damage by 22% for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 3461 Damage and Increase your Blue Gem Damage by 22% for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 4091 Damage and Increase your Blue Gem Damage by 23% for 3 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 4721 Damage and Increase your Blue Gem Damage by 23% for 3 Turns."
                         }
                     ]
                 },
@@ -2612,117 +2612,117 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 286 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 871 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 1456 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 2041 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 2626 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 3211 Damage and Make 4 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 3796 Damage and Make 4 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 4381 Damage and Make 4 Random Yellow Gem(s) into Blue Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_RVD_3Star_04",
                     "levelCap": 8,
-                    "cost": 7,
+                    "cost": 6,
                     "gemType": "Blue",
                     "name": "Monkey Flip",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 321 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 978 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 1636 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 2294 Damage and Make 4 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 2952 Damage and Make 4 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 3609 Damage and Make 4 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 4267 Damage and Make 5 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 4925 Damage and Make 5 Random Gem(s) into Black Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_RVD_3Star_05",
                     "levelCap": 8,
-                    "cost": 6,
+                    "cost": 8,
                     "gemType": "Black",
                     "name": "Missile Dropkick",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 3 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 523 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 3 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 1564 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 3 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 2606 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 4 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 3648 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 4 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 4690 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 5 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 5731 Damage and Make 4 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Make 5 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 6773 Damage and Make 4 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Make 6 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 7815 Damage and Make 4 Heal Gem(s) into Blue Gem(s)."
                         }
                     ]
                 }
@@ -3779,80 +3779,80 @@
                     "levelCap": 8,
                     "cost": 10,
                     "gemType": "Blue",
-                    "name": "Coup de Grâce",
+                    "name": "Five Star Frog Splash",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 754 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 1762 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 2771 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 3779 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 4788 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 5796 Damage, Destroy 4 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 6805 Damage, Destroy 4 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 7813 Damage, Destroy 4 Random Blue Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
                 {
                     "ID": "ABL_RVD_3Star_02",
                     "levelCap": 8,
-                    "cost": 8,
+                    "cost": 6,
                     "gemType": "Black",
                     "name": "Rolling Thunder Senton",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 311 Damage and Increase your Blue Gem Damage by 20% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 1 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 941 Damage and Increase your Blue Gem Damage by 20% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 1571 Damage and Increase your Blue Gem Damage by 21% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 2201 Damage and Increase your Blue Gem Damage by 21% for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 2831 Damage and Increase your Blue Gem Damage by 22% for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 3461 Damage and Increase your Blue Gem Damage by 22% for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 4091 Damage and Increase your Blue Gem Damage by 23% for 3 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 4721 Damage and Increase your Blue Gem Damage by 23% for 3 Turns."
                         }
                     ]
                 },
@@ -3865,117 +3865,117 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 286 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 871 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 1456 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 2041 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 2626 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 3211 Damage and Make 4 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 3796 Damage and Make 4 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 4381 Damage and Make 4 Random Yellow Gem(s) into Blue Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_RVD_3Star_04",
                     "levelCap": 8,
-                    "cost": 7,
+                    "cost": 6,
                     "gemType": "Blue",
                     "name": "Monkey Flip",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 321 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 978 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 1636 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 2294 Damage and Make 4 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 2952 Damage and Make 4 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 3609 Damage and Make 4 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 4267 Damage and Make 5 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 4925 Damage and Make 5 Random Gem(s) into Black Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_RVD_3Star_05",
                     "levelCap": 8,
-                    "cost": 6,
+                    "cost": 8,
                     "gemType": "Black",
                     "name": "Missile Dropkick",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 3 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 523 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 3 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 1564 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 3 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 2606 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 4 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 3648 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 4 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 4690 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 5 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 5731 Damage and Make 4 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Make 5 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 6773 Damage and Make 4 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Make 6 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 7815 Damage and Make 4 Heal Gem(s) into Blue Gem(s)."
                         }
                     ]
                 }
@@ -5032,80 +5032,80 @@
                     "levelCap": 8,
                     "cost": 10,
                     "gemType": "Blue",
-                    "name": "Coup de Grâce",
+                    "name": "Five Star Frog Splash",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 754 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 1762 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 2771 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 3779 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 4788 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 5796 Damage, Destroy 4 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 6805 Damage, Destroy 4 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 7813 Damage, Destroy 4 Random Blue Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
                 {
                     "ID": "ABL_RVD_3Star_02",
                     "levelCap": 8,
-                    "cost": 8,
+                    "cost": 6,
                     "gemType": "Black",
                     "name": "Rolling Thunder Senton",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 311 Damage and Increase your Blue Gem Damage by 20% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 1 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 941 Damage and Increase your Blue Gem Damage by 20% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 1571 Damage and Increase your Blue Gem Damage by 21% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 2201 Damage and Increase your Blue Gem Damage by 21% for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 2831 Damage and Increase your Blue Gem Damage by 22% for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 3461 Damage and Increase your Blue Gem Damage by 22% for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 4091 Damage and Increase your Blue Gem Damage by 23% for 3 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 4721 Damage and Increase your Blue Gem Damage by 23% for 3 Turns."
                         }
                     ]
                 },
@@ -5118,117 +5118,117 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 286 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 871 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 1456 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 2041 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 2626 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 3211 Damage and Make 4 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 3796 Damage and Make 4 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 4381 Damage and Make 4 Random Yellow Gem(s) into Blue Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_RVD_3Star_04",
                     "levelCap": 8,
-                    "cost": 7,
+                    "cost": 6,
                     "gemType": "Blue",
                     "name": "Monkey Flip",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 321 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 978 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 1636 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 2294 Damage and Make 4 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 2952 Damage and Make 4 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 3609 Damage and Make 4 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 4267 Damage and Make 5 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 4925 Damage and Make 5 Random Gem(s) into Black Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_RVD_3Star_05",
                     "levelCap": 8,
-                    "cost": 6,
+                    "cost": 8,
                     "gemType": "Black",
                     "name": "Missile Dropkick",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 3 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 523 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 3 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 1564 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 3 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 2606 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 4 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 3648 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 4 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 4690 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 5 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 5731 Damage and Make 4 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Make 5 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 6773 Damage and Make 4 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Make 6 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 7815 Damage and Make 4 Heal Gem(s) into Blue Gem(s)."
                         }
                     ]
                 }
@@ -5507,40 +5507,40 @@
                     "levelCap": 3,
                     "cost": 10,
                     "gemType": "Blue",
-                    "name": "Coup de Grâce",
+                    "name": "Five Star Frog Splash",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 392 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 653 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 914 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
                 {
                     "ID": "ABL_RVD_1Star_02",
                     "levelCap": 3,
-                    "cost": 8,
+                    "cost": 6,
                     "gemType": "Black",
                     "name": "Rolling Thunder Senton",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 125 Damage and Increase your Blue Gem Damage by 10% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 255 Damage and Increase your Blue Gem Damage by 11% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 386 Damage and Increase your Blue Gem Damage by 13% for 3 Turns."
                         }
                     ]
                 },
@@ -5553,15 +5553,15 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 115 Damage and Make 1 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 236 Damage and Make 1 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 358 Damage and Make 2 Random Yellow Gem(s) into Blue Gem(s)."
                         }
                     ]
                 }
@@ -6228,64 +6228,64 @@
                     "levelCap": 6,
                     "cost": 10,
                     "gemType": "Blue",
-                    "name": "Coup de Grâce",
+                    "name": "Five Star Frog Splash",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 506 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 995 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 1484 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 1974 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 2463 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 2952 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
                 {
                     "ID": "ABL_RVD_2Star_02",
                     "levelCap": 6,
-                    "cost": 8,
+                    "cost": 6,
                     "gemType": "Black",
                     "name": "Rolling Thunder Senton",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 182 Damage and Increase your Blue Gem Damage by 15% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 1 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 444 Damage and Increase your Blue Gem Damage by 15% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 707 Damage and Increase your Blue Gem Damage by 16% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 970 Damage and Increase your Blue Gem Damage by 17% for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 1233 Damage and Increase your Blue Gem Damage by 18% for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 1496 Damage and Increase your Blue Gem Damage by 19% for 3 Turns."
                         }
                     ]
                 },
@@ -6298,60 +6298,60 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 167 Damage and Make 2 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 411 Damage and Make 2 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 655 Damage and Make 2 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 900 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 1144 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 1388 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_RVD_2Star_04",
                     "levelCap": 6,
-                    "cost": 7,
+                    "cost": 6,
                     "gemType": "Blue",
                     "name": "Monkey Flip",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 188 Damage and Make 2 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 462 Damage and Make 2 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 737 Damage and Make 2 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 1011 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 1286 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 1560 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         }
                     ]
                 }
@@ -7018,64 +7018,64 @@
                     "levelCap": 6,
                     "cost": 10,
                     "gemType": "Blue",
-                    "name": "Coup de Grâce",
+                    "name": "Five Star Frog Splash",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 506 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 995 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 1484 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 1974 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 2463 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 2952 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
                 {
                     "ID": "ABL_RVD_2Star_02",
                     "levelCap": 6,
-                    "cost": 8,
+                    "cost": 6,
                     "gemType": "Black",
                     "name": "Rolling Thunder Senton",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 182 Damage and Increase your Blue Gem Damage by 15% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 1 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 444 Damage and Increase your Blue Gem Damage by 15% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 707 Damage and Increase your Blue Gem Damage by 16% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 970 Damage and Increase your Blue Gem Damage by 17% for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 1233 Damage and Increase your Blue Gem Damage by 18% for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 1496 Damage and Increase your Blue Gem Damage by 19% for 3 Turns."
                         }
                     ]
                 },
@@ -7088,60 +7088,60 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 167 Damage and Make 2 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 411 Damage and Make 2 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 655 Damage and Make 2 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 900 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 1144 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 1388 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_RVD_2Star_04",
                     "levelCap": 6,
-                    "cost": 7,
+                    "cost": 6,
                     "gemType": "Blue",
                     "name": "Monkey Flip",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 188 Damage and Make 2 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 462 Damage and Make 2 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 737 Damage and Make 2 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 1011 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 1286 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 1560 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         }
                     ]
                 }
@@ -8458,88 +8458,88 @@
                     "levelCap": 9,
                     "cost": 10,
                     "gemType": "Blue",
-                    "name": "Coup de Grâce",
+                    "name": "Five Star Frog Splash",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 754 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 1762 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 2771 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 3779 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 4788 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 5796 Damage, Destroy 4 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 6805 Damage, Destroy 4 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 7813 Damage, Destroy 4 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 9,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 8822 Damage, Destroy 4 Random Blue Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
                 {
                     "ID": "ABL_RVD_3Star_02",
                     "levelCap": 9,
-                    "cost": 8,
+                    "cost": 6,
                     "gemType": "Black",
                     "name": "Rolling Thunder Senton",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 311 Damage and Increase your Blue Gem Damage by 20% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 1 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 941 Damage and Increase your Blue Gem Damage by 20% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 1571 Damage and Increase your Blue Gem Damage by 21% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 2201 Damage and Increase your Blue Gem Damage by 21% for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 2831 Damage and Increase your Blue Gem Damage by 22% for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 3461 Damage and Increase your Blue Gem Damage by 22% for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 4091 Damage and Increase your Blue Gem Damage by 23% for 3 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 4721 Damage and Increase your Blue Gem Damage by 23% for 3 Turns."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 0 Damage and Make 5 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 5351 Damage and Increase your Blue Gem Damage by 24% for 3 Turns."
                         }
                     ]
                 },
@@ -8552,129 +8552,129 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 286 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 871 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 1456 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 2041 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 2626 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 3211 Damage and Make 4 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 3796 Damage and Make 4 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 4381 Damage and Make 4 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 4966 Damage and Make 4 Random Yellow Gem(s) into Blue Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_RVD_3Star_04",
                     "levelCap": 9,
-                    "cost": 7,
+                    "cost": 6,
                     "gemType": "Blue",
                     "name": "Monkey Flip",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 321 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 978 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 1636 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 2294 Damage and Make 4 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 2952 Damage and Make 4 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 3609 Damage and Make 4 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 4267 Damage and Make 5 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 4925 Damage and Make 5 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 5583 Damage and Make 5 Random Gem(s) into Black Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_RVD_3Star_05",
                     "levelCap": 9,
-                    "cost": 6,
+                    "cost": 8,
                     "gemType": "Black",
                     "name": "Missile Dropkick",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 3 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 523 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 3 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 1564 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 3 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 2606 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 4 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 3648 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 4 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 4690 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 5 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 5731 Damage and Make 4 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Make 5 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 6773 Damage and Make 4 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Make 6 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 7815 Damage and Make 4 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 0 Damage and Make 6 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 8857 Damage and Make 4 Heal Gem(s) into Blue Gem(s)."
                         }
                     ]
                 }
@@ -9991,88 +9991,88 @@
                     "levelCap": 9,
                     "cost": 10,
                     "gemType": "Blue",
-                    "name": "Coup de Grâce",
+                    "name": "Five Star Frog Splash",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 754 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 1762 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 2771 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 3779 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 4788 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 5796 Damage, Destroy 4 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 6805 Damage, Destroy 4 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 7813 Damage, Destroy 4 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 9,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 8822 Damage, Destroy 4 Random Blue Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
                 {
                     "ID": "ABL_RVD_3Star_02",
                     "levelCap": 9,
-                    "cost": 8,
+                    "cost": 6,
                     "gemType": "Black",
                     "name": "Rolling Thunder Senton",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 311 Damage and Increase your Blue Gem Damage by 20% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 1 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 941 Damage and Increase your Blue Gem Damage by 20% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 1571 Damage and Increase your Blue Gem Damage by 21% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 2201 Damage and Increase your Blue Gem Damage by 21% for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 2831 Damage and Increase your Blue Gem Damage by 22% for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 3461 Damage and Increase your Blue Gem Damage by 22% for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 4091 Damage and Increase your Blue Gem Damage by 23% for 3 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 4721 Damage and Increase your Blue Gem Damage by 23% for 3 Turns."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 0 Damage and Make 5 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 5351 Damage and Increase your Blue Gem Damage by 24% for 3 Turns."
                         }
                     ]
                 },
@@ -10085,129 +10085,129 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 286 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 871 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 1456 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 2041 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 2626 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 3211 Damage and Make 4 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 3796 Damage and Make 4 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 4381 Damage and Make 4 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 4966 Damage and Make 4 Random Yellow Gem(s) into Blue Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_RVD_3Star_04",
                     "levelCap": 9,
-                    "cost": 7,
+                    "cost": 6,
                     "gemType": "Blue",
                     "name": "Monkey Flip",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 321 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 978 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 1636 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 2294 Damage and Make 4 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 2952 Damage and Make 4 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 3609 Damage and Make 4 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 4267 Damage and Make 5 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 4925 Damage and Make 5 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 5583 Damage and Make 5 Random Gem(s) into Black Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_RVD_3Star_05",
                     "levelCap": 9,
-                    "cost": 6,
+                    "cost": 8,
                     "gemType": "Black",
                     "name": "Missile Dropkick",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 3 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 523 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 3 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 1564 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 3 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 2606 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 4 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 3648 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 4 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 4690 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 5 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 5731 Damage and Make 4 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Make 5 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 6773 Damage and Make 4 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Make 6 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 7815 Damage and Make 4 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 0 Damage and Make 6 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 8857 Damage and Make 4 Heal Gem(s) into Blue Gem(s)."
                         }
                     ]
                 }
@@ -11524,88 +11524,88 @@
                     "levelCap": 9,
                     "cost": 10,
                     "gemType": "Blue",
-                    "name": "Coup de Grâce",
+                    "name": "Five Star Frog Splash",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 754 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 1762 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 2771 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 3779 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 4788 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 5796 Damage, Destroy 4 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 6805 Damage, Destroy 4 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 7813 Damage, Destroy 4 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 9,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 8822 Damage, Destroy 4 Random Blue Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
                 {
                     "ID": "ABL_RVD_3Star_02",
                     "levelCap": 9,
-                    "cost": 8,
+                    "cost": 6,
                     "gemType": "Black",
                     "name": "Rolling Thunder Senton",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 311 Damage and Increase your Blue Gem Damage by 20% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 1 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 941 Damage and Increase your Blue Gem Damage by 20% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 1571 Damage and Increase your Blue Gem Damage by 21% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 2201 Damage and Increase your Blue Gem Damage by 21% for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 2831 Damage and Increase your Blue Gem Damage by 22% for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 3461 Damage and Increase your Blue Gem Damage by 22% for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 4091 Damage and Increase your Blue Gem Damage by 23% for 3 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 4721 Damage and Increase your Blue Gem Damage by 23% for 3 Turns."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 0 Damage and Make 5 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 5351 Damage and Increase your Blue Gem Damage by 24% for 3 Turns."
                         }
                     ]
                 },
@@ -11618,129 +11618,129 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 286 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 871 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 1456 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 2041 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 2626 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 3211 Damage and Make 4 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 3796 Damage and Make 4 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 4381 Damage and Make 4 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 4966 Damage and Make 4 Random Yellow Gem(s) into Blue Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_RVD_3Star_04",
                     "levelCap": 9,
-                    "cost": 7,
+                    "cost": 6,
                     "gemType": "Blue",
                     "name": "Monkey Flip",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 321 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 978 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 1636 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 2294 Damage and Make 4 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 2952 Damage and Make 4 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 3609 Damage and Make 4 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 4267 Damage and Make 5 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 4925 Damage and Make 5 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 5583 Damage and Make 5 Random Gem(s) into Black Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_RVD_3Star_05",
                     "levelCap": 9,
-                    "cost": 6,
+                    "cost": 8,
                     "gemType": "Black",
                     "name": "Missile Dropkick",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 3 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 523 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 3 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 1564 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 3 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 2606 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 4 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 3648 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 4 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 4690 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 5 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 5731 Damage and Make 4 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Make 5 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 6773 Damage and Make 4 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Make 6 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 7815 Damage and Make 4 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 0 Damage and Make 6 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 8857 Damage and Make 4 Heal Gem(s) into Blue Gem(s)."
                         }
                     ]
                 }
@@ -12149,48 +12149,48 @@
                     "levelCap": 4,
                     "cost": 10,
                     "gemType": "Blue",
-                    "name": "Coup de Grâce",
+                    "name": "Five Star Frog Splash",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 392 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 653 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 914 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 1175 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
                 {
                     "ID": "ABL_RVD_1Star_02",
                     "levelCap": 4,
-                    "cost": 8,
+                    "cost": 6,
                     "gemType": "Black",
                     "name": "Rolling Thunder Senton",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 125 Damage and Increase your Blue Gem Damage by 10% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 255 Damage and Increase your Blue Gem Damage by 11% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 386 Damage and Increase your Blue Gem Damage by 13% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 517 Damage and Increase your Blue Gem Damage by 15% for 3 Turns."
                         }
                     ]
                 },
@@ -12203,19 +12203,19 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 115 Damage and Make 1 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 236 Damage and Make 1 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 358 Damage and Make 2 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 480 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         }
                     ]
                 }
@@ -13012,72 +13012,72 @@
                     "levelCap": 7,
                     "cost": 10,
                     "gemType": "Blue",
-                    "name": "Coup de Grâce",
+                    "name": "Five Star Frog Splash",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 506 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 995 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 1484 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 1974 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 2463 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 2952 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 3442 Damage, Destroy 4 Random Blue Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
                 {
                     "ID": "ABL_RVD_2Star_02",
                     "levelCap": 7,
-                    "cost": 8,
+                    "cost": 6,
                     "gemType": "Black",
                     "name": "Rolling Thunder Senton",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 182 Damage and Increase your Blue Gem Damage by 15% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 1 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 444 Damage and Increase your Blue Gem Damage by 15% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 707 Damage and Increase your Blue Gem Damage by 16% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 970 Damage and Increase your Blue Gem Damage by 17% for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 1233 Damage and Increase your Blue Gem Damage by 18% for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 1496 Damage and Increase your Blue Gem Damage by 19% for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Make 5 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 1759 Damage and Increase your Blue Gem Damage by 20% for 3 Turns."
                         }
                     ]
                 },
@@ -13090,68 +13090,68 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 167 Damage and Make 2 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 411 Damage and Make 2 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 655 Damage and Make 2 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 900 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 1144 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 1388 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 1633 Damage and Make 4 Random Yellow Gem(s) into Blue Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_RVD_2Star_04",
                     "levelCap": 7,
-                    "cost": 7,
+                    "cost": 6,
                     "gemType": "Blue",
                     "name": "Monkey Flip",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 188 Damage and Make 2 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 462 Damage and Make 2 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 737 Damage and Make 2 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 1011 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 1286 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 1560 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 1835 Damage and Make 4 Random Gem(s) into Black Gem(s)."
                         }
                     ]
                 }
@@ -13948,72 +13948,72 @@
                     "levelCap": 7,
                     "cost": 10,
                     "gemType": "Blue",
-                    "name": "Coup de Grâce",
+                    "name": "Five Star Frog Splash",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 506 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 995 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 1484 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 1974 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 2463 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 2952 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 3442 Damage, Destroy 4 Random Blue Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
                 {
                     "ID": "ABL_RVD_2Star_02",
                     "levelCap": 7,
-                    "cost": 8,
+                    "cost": 6,
                     "gemType": "Black",
                     "name": "Rolling Thunder Senton",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 182 Damage and Increase your Blue Gem Damage by 15% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 1 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 444 Damage and Increase your Blue Gem Damage by 15% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 707 Damage and Increase your Blue Gem Damage by 16% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 970 Damage and Increase your Blue Gem Damage by 17% for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 1233 Damage and Increase your Blue Gem Damage by 18% for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 1496 Damage and Increase your Blue Gem Damage by 19% for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Make 5 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 1759 Damage and Increase your Blue Gem Damage by 20% for 3 Turns."
                         }
                     ]
                 },
@@ -14026,68 +14026,68 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 167 Damage and Make 2 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 411 Damage and Make 2 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 655 Damage and Make 2 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 900 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 1144 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 1388 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 1633 Damage and Make 4 Random Yellow Gem(s) into Blue Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_RVD_2Star_04",
                     "levelCap": 7,
-                    "cost": 7,
+                    "cost": 6,
                     "gemType": "Blue",
                     "name": "Monkey Flip",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 188 Damage and Make 2 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 462 Damage and Make 2 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 737 Damage and Make 2 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 1011 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 1286 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 1560 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 1835 Damage and Make 4 Random Gem(s) into Black Gem(s)."
                         }
                     ]
                 }
@@ -15664,96 +15664,96 @@
                     "levelCap": 10,
                     "cost": 10,
                     "gemType": "Blue",
-                    "name": "Coup de Grâce",
+                    "name": "Five Star Frog Splash",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 754 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 1762 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 2771 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 3779 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 4788 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 5796 Damage, Destroy 4 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 6805 Damage, Destroy 4 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 7813 Damage, Destroy 4 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 9,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 8822 Damage, Destroy 4 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 10,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 9831 Damage, Destroy 5 Random Blue Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
                 {
                     "ID": "ABL_RVD_3Star_02",
                     "levelCap": 10,
-                    "cost": 8,
+                    "cost": 6,
                     "gemType": "Black",
                     "name": "Rolling Thunder Senton",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 311 Damage and Increase your Blue Gem Damage by 20% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 1 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 941 Damage and Increase your Blue Gem Damage by 20% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 1571 Damage and Increase your Blue Gem Damage by 21% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 2201 Damage and Increase your Blue Gem Damage by 21% for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 2831 Damage and Increase your Blue Gem Damage by 22% for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 3461 Damage and Increase your Blue Gem Damage by 22% for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 4091 Damage and Increase your Blue Gem Damage by 23% for 3 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 4721 Damage and Increase your Blue Gem Damage by 23% for 3 Turns."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 0 Damage and Make 5 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 5351 Damage and Increase your Blue Gem Damage by 24% for 3 Turns."
                         },
                         {
                             "level": 10,
-                            "text": "Deal 0 Damage and Make 6 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 5982 Damage and Increase your Blue Gem Damage by 25% for 3 Turns."
                         }
                     ]
                 },
@@ -15766,141 +15766,141 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 286 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 871 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 1456 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 2041 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 2626 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 3211 Damage and Make 4 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 3796 Damage and Make 4 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 4381 Damage and Make 4 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 4966 Damage and Make 4 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 10,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 5552 Damage and Make 5 Random Yellow Gem(s) into Blue Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_RVD_3Star_04",
                     "levelCap": 10,
-                    "cost": 7,
+                    "cost": 6,
                     "gemType": "Blue",
                     "name": "Monkey Flip",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 321 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 978 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 1636 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 2294 Damage and Make 4 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 2952 Damage and Make 4 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 3609 Damage and Make 4 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 4267 Damage and Make 5 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 4925 Damage and Make 5 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 5583 Damage and Make 5 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 10,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 6241 Damage and Make 6 Random Gem(s) into Black Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_RVD_3Star_05",
                     "levelCap": 10,
-                    "cost": 6,
+                    "cost": 8,
                     "gemType": "Black",
                     "name": "Missile Dropkick",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 3 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 523 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 3 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 1564 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 3 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 2606 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 4 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 3648 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 4 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 4690 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 5 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 5731 Damage and Make 4 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Make 5 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 6773 Damage and Make 4 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Make 6 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 7815 Damage and Make 4 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 0 Damage and Make 6 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 8857 Damage and Make 4 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 10,
-                            "text": "Deal 0 Damage and Make 7 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 9899 Damage and Make 5 Heal Gem(s) into Blue Gem(s)."
                         }
                     ]
                 }
@@ -17477,96 +17477,96 @@
                     "levelCap": 10,
                     "cost": 10,
                     "gemType": "Blue",
-                    "name": "Coup de Grâce",
+                    "name": "Five Star Frog Splash",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 754 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 1762 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 2771 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 3779 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 4788 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 5796 Damage, Destroy 4 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 6805 Damage, Destroy 4 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 7813 Damage, Destroy 4 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 9,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 8822 Damage, Destroy 4 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 10,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 9831 Damage, Destroy 5 Random Blue Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
                 {
                     "ID": "ABL_RVD_3Star_02",
                     "levelCap": 10,
-                    "cost": 8,
+                    "cost": 6,
                     "gemType": "Black",
                     "name": "Rolling Thunder Senton",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 311 Damage and Increase your Blue Gem Damage by 20% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 1 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 941 Damage and Increase your Blue Gem Damage by 20% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 1571 Damage and Increase your Blue Gem Damage by 21% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 2201 Damage and Increase your Blue Gem Damage by 21% for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 2831 Damage and Increase your Blue Gem Damage by 22% for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 3461 Damage and Increase your Blue Gem Damage by 22% for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 4091 Damage and Increase your Blue Gem Damage by 23% for 3 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 4721 Damage and Increase your Blue Gem Damage by 23% for 3 Turns."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 0 Damage and Make 5 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 5351 Damage and Increase your Blue Gem Damage by 24% for 3 Turns."
                         },
                         {
                             "level": 10,
-                            "text": "Deal 0 Damage and Make 6 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 5982 Damage and Increase your Blue Gem Damage by 25% for 3 Turns."
                         }
                     ]
                 },
@@ -17579,141 +17579,141 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 286 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 871 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 1456 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 2041 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 2626 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 3211 Damage and Make 4 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 3796 Damage and Make 4 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 4381 Damage and Make 4 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 4966 Damage and Make 4 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 10,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 5552 Damage and Make 5 Random Yellow Gem(s) into Blue Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_RVD_3Star_04",
                     "levelCap": 10,
-                    "cost": 7,
+                    "cost": 6,
                     "gemType": "Blue",
                     "name": "Monkey Flip",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 321 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 978 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 1636 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 2294 Damage and Make 4 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 2952 Damage and Make 4 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 3609 Damage and Make 4 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 4267 Damage and Make 5 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 4925 Damage and Make 5 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 5583 Damage and Make 5 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 10,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 6241 Damage and Make 6 Random Gem(s) into Black Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_RVD_3Star_05",
                     "levelCap": 10,
-                    "cost": 6,
+                    "cost": 8,
                     "gemType": "Black",
                     "name": "Missile Dropkick",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 3 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 523 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 3 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 1564 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 3 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 2606 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 4 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 3648 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 4 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 4690 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 5 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 5731 Damage and Make 4 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Make 5 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 6773 Damage and Make 4 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Make 6 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 7815 Damage and Make 4 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 0 Damage and Make 6 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 8857 Damage and Make 4 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 10,
-                            "text": "Deal 0 Damage and Make 7 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 9899 Damage and Make 5 Heal Gem(s) into Blue Gem(s)."
                         }
                     ]
                 }
@@ -19290,96 +19290,96 @@
                     "levelCap": 10,
                     "cost": 10,
                     "gemType": "Blue",
-                    "name": "Coup de Grâce",
+                    "name": "Five Star Frog Splash",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 754 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 1762 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 2771 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 3779 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 4788 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 5796 Damage, Destroy 4 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 6805 Damage, Destroy 4 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 7813 Damage, Destroy 4 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 9,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 8822 Damage, Destroy 4 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 10,
-                            "text": "FINISHER! Deal 0 Damage to opponent, 0 Damage to self and PIN the opponent!"
+                            "text": "FINISHER! Deal 9831 Damage, Destroy 5 Random Blue Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
                 {
                     "ID": "ABL_RVD_3Star_02",
                     "levelCap": 10,
-                    "cost": 8,
+                    "cost": 6,
                     "gemType": "Black",
                     "name": "Rolling Thunder Senton",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 311 Damage and Increase your Blue Gem Damage by 20% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 1 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 941 Damage and Increase your Blue Gem Damage by 20% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 1571 Damage and Increase your Blue Gem Damage by 21% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 2201 Damage and Increase your Blue Gem Damage by 21% for 3 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 2831 Damage and Increase your Blue Gem Damage by 22% for 3 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 3461 Damage and Increase your Blue Gem Damage by 22% for 3 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 4091 Damage and Increase your Blue Gem Damage by 23% for 3 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 4721 Damage and Increase your Blue Gem Damage by 23% for 3 Turns."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 0 Damage and Make 5 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 5351 Damage and Increase your Blue Gem Damage by 24% for 3 Turns."
                         },
                         {
                             "level": 10,
-                            "text": "Deal 0 Damage and Make 6 Random Green Gem(s) into Purple Gem(s)."
+                            "text": "Deal 5982 Damage and Increase your Blue Gem Damage by 25% for 3 Turns."
                         }
                     ]
                 },
@@ -19392,141 +19392,141 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 286 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 871 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 1456 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 2041 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 2626 Damage and Make 3 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 3211 Damage and Make 4 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 3796 Damage and Make 4 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 4381 Damage and Make 4 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 4966 Damage and Make 4 Random Yellow Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 10,
-                            "text": "Deal 0 Damage and Make 1 Random Gem(s) into Row Break Gem(s)."
+                            "text": "Deal 5552 Damage and Make 5 Random Yellow Gem(s) into Blue Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_RVD_3Star_04",
                     "levelCap": 10,
-                    "cost": 7,
+                    "cost": 6,
                     "gemType": "Blue",
                     "name": "Monkey Flip",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 321 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 978 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 1636 Damage and Make 3 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 2294 Damage and Make 4 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 2952 Damage and Make 4 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 3609 Damage and Make 4 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 4267 Damage and Make 5 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 4925 Damage and Make 5 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 5583 Damage and Make 5 Random Gem(s) into Black Gem(s)."
                         },
                         {
                             "level": 10,
-                            "text": "Steal up to 0 Health."
+                            "text": "Deal 6241 Damage and Make 6 Random Gem(s) into Black Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_RVD_3Star_05",
                     "levelCap": 10,
-                    "cost": 6,
+                    "cost": 8,
                     "gemType": "Black",
                     "name": "Missile Dropkick",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 3 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 523 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 3 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 1564 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 3 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 2606 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 4 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 3648 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 4 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 4690 Damage and Make 3 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 5 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 5731 Damage and Make 4 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Make 5 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 6773 Damage and Make 4 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Make 6 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 7815 Damage and Make 4 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 0 Damage and Make 6 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 8857 Damage and Make 4 Heal Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 10,
-                            "text": "Deal 0 Damage and Make 7 Random Gem(s) into Purple Gem(s)."
+                            "text": "Deal 9899 Damage and Make 5 Heal Gem(s) into Blue Gem(s)."
                         }
                     ]
                 }

@@ -143,11 +143,11 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 257 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 429 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 257 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 754 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -160,11 +160,11 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 391 Damage and Make 1 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 389 Damage and Make 1 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 839 Damage and Make 2 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 835 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
                         }
                     ]
                 },
@@ -177,11 +177,11 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 189 Damage and Make 1 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 188 Damage and Make 1 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 371 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 370 Damage and Make 1 Random Black Gem(s) into Red Gem(s)."
                         }
                     ]
                 }
@@ -722,23 +722,23 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 373 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 620 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 459 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 1189 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 545 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 1759 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 631 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 2329 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 717 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 2899 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -751,23 +751,23 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 567 Damage and Make 2 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 564 Damage and Make 1 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1456 Damage and Make 2 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 1449 Damage and Make 1 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 2346 Damage and Make 3 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 2334 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 3235 Damage and Make 4 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 3219 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 4125 Damage and Make 4 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 4104 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
                         }
                     ]
                 },
@@ -780,52 +780,52 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 274 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 272 Damage and Make 1 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 644 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 640 Damage and Make 1 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1014 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 1008 Damage and Make 2 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 1384 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 1376 Damage and Make 2 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 1754 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 1744 Damage and Make 3 Random Black Gem(s) into Red Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BamBamBigelow_Main_2Star_04",
                     "levelCap": 5,
-                    "cost": 10,
+                    "cost": 8,
                     "gemType": "Red",
                     "name": "Scoop Powerslam",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 400 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 398 Damage and Make 1 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 984 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 979 Damage and Make 1 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1568 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 1560 Damage and Make 2 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 2153 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 2142 Damage and Make 3 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 2737 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 2723 Damage and Make 3 Random Multiply Gem(s) into Silence Gems(s)."
                         }
                     ]
                 }
@@ -1366,23 +1366,23 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 373 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 620 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 459 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 1189 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 545 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 1759 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 631 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 2329 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 717 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 2899 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -1395,23 +1395,23 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 567 Damage and Make 2 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 564 Damage and Make 1 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1456 Damage and Make 2 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 1449 Damage and Make 1 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 2346 Damage and Make 3 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 2334 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 3235 Damage and Make 4 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 3219 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 4125 Damage and Make 4 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 4104 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
                         }
                     ]
                 },
@@ -1424,52 +1424,52 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 274 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 272 Damage and Make 1 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 644 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 640 Damage and Make 1 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1014 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 1008 Damage and Make 2 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 1384 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 1376 Damage and Make 2 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 1754 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 1744 Damage and Make 3 Random Black Gem(s) into Red Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BamBamBigelow_Main_2Star_04",
                     "levelCap": 5,
-                    "cost": 10,
+                    "cost": 8,
                     "gemType": "Red",
                     "name": "Scoop Powerslam",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 400 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 398 Damage and Make 1 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 984 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 979 Damage and Make 1 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1568 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 1560 Damage and Make 2 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 2153 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 2142 Damage and Make 3 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 2737 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 2723 Damage and Make 3 Random Multiply Gem(s) into Silence Gems(s)."
                         }
                     ]
                 }
@@ -2530,35 +2530,35 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 1060 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 2190 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 3320 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 4450 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 5580 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Deal 640 Damage, Choose 2 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 6710 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Deal 640 Damage, Choose 2 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 7840 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Deal 640 Damage, Choose 2 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 8970 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -2571,35 +2571,35 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 966 Damage and Make 3 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 961 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 3084 Damage and Make 3 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 3068 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 5202 Damage and Make 3 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 5175 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 7321 Damage and Make 4 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 7283 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 9439 Damage and Make 4 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 9390 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 11557 Damage and Make 5 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 11498 Damage and Make 4 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 13676 Damage and Make 5 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 13605 Damage and Make 4 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 15794 Damage and Make 6 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 15713 Damage and Make 5 Random Blue Gem(s) into Red Gem(s)."
                         }
                     ]
                 },
@@ -2612,76 +2612,76 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 470 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 468 Damage and Make 2 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1359 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 1353 Damage and Make 2 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 2249 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 2238 Damage and Make 2 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 3139 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 3124 Damage and Make 3 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 4029 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 4009 Damage and Make 3 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 4919 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 4894 Damage and Make 3 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 5809 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 5780 Damage and Make 4 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 6699 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 6665 Damage and Make 4 Random Black Gem(s) into Red Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BamBamBigelow_Main_3Star_04",
                     "levelCap": 8,
-                    "cost": 10,
+                    "cost": 8,
                     "gemType": "Red",
                     "name": "Scoop Powerslam",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 681 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 677 Damage and Make 2 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 2081 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 2070 Damage and Make 2 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 3481 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 3463 Damage and Make 2 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 4881 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 4856 Damage and Make 3 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 6281 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 6249 Damage and Make 3 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 7681 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 7642 Damage and Make 4 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 9081 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 9035 Damage and Make 4 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 10481 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 10428 Damage and Make 5 Random Multiply Gem(s) into Silence Gems(s)."
                         }
                     ]
                 },
@@ -2694,35 +2694,35 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 677 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 622 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1971 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 1796 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 3265 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 2970 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 4559 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 4145 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 5853 Damage and Make 4 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 5319 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 7148 Damage and Make 4 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 6493 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 8442 Damage and Make 5 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 7668 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 9736 Damage and Make 5 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 8842 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         }
                     ]
                 }
@@ -3783,35 +3783,35 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 1060 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 2190 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 3320 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 4450 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 5580 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Deal 640 Damage, Choose 2 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 6710 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Deal 640 Damage, Choose 2 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 7840 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Deal 640 Damage, Choose 2 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 8970 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -3824,35 +3824,35 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 966 Damage and Make 3 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 961 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 3084 Damage and Make 3 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 3068 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 5202 Damage and Make 3 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 5175 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 7321 Damage and Make 4 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 7283 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 9439 Damage and Make 4 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 9390 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 11557 Damage and Make 5 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 11498 Damage and Make 4 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 13676 Damage and Make 5 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 13605 Damage and Make 4 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 15794 Damage and Make 6 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 15713 Damage and Make 5 Random Blue Gem(s) into Red Gem(s)."
                         }
                     ]
                 },
@@ -3865,76 +3865,76 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 470 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 468 Damage and Make 2 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1359 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 1353 Damage and Make 2 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 2249 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 2238 Damage and Make 2 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 3139 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 3124 Damage and Make 3 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 4029 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 4009 Damage and Make 3 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 4919 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 4894 Damage and Make 3 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 5809 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 5780 Damage and Make 4 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 6699 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 6665 Damage and Make 4 Random Black Gem(s) into Red Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BamBamBigelow_Main_3Star_04",
                     "levelCap": 8,
-                    "cost": 10,
+                    "cost": 8,
                     "gemType": "Red",
                     "name": "Scoop Powerslam",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 681 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 677 Damage and Make 2 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 2081 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 2070 Damage and Make 2 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 3481 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 3463 Damage and Make 2 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 4881 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 4856 Damage and Make 3 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 6281 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 6249 Damage and Make 3 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 7681 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 7642 Damage and Make 4 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 9081 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 9035 Damage and Make 4 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 10481 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 10428 Damage and Make 5 Random Multiply Gem(s) into Silence Gems(s)."
                         }
                     ]
                 },
@@ -3947,35 +3947,35 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 677 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 622 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1971 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 1796 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 3265 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 2970 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 4559 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 4145 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 5853 Damage and Make 4 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 5319 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 7148 Damage and Make 4 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 6493 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 8442 Damage and Make 5 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 7668 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 9736 Damage and Make 5 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 8842 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         }
                     ]
                 }
@@ -5036,35 +5036,35 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 1060 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 2190 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 3320 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 4450 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 5580 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Deal 640 Damage, Choose 2 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 6710 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Deal 640 Damage, Choose 2 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 7840 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Deal 640 Damage, Choose 2 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 8970 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -5077,35 +5077,35 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 966 Damage and Make 3 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 961 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 3084 Damage and Make 3 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 3068 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 5202 Damage and Make 3 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 5175 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 7321 Damage and Make 4 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 7283 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 9439 Damage and Make 4 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 9390 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 11557 Damage and Make 5 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 11498 Damage and Make 4 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 13676 Damage and Make 5 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 13605 Damage and Make 4 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 15794 Damage and Make 6 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 15713 Damage and Make 5 Random Blue Gem(s) into Red Gem(s)."
                         }
                     ]
                 },
@@ -5118,76 +5118,76 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 470 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 468 Damage and Make 2 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1359 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 1353 Damage and Make 2 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 2249 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 2238 Damage and Make 2 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 3139 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 3124 Damage and Make 3 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 4029 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 4009 Damage and Make 3 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 4919 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 4894 Damage and Make 3 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 5809 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 5780 Damage and Make 4 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 6699 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 6665 Damage and Make 4 Random Black Gem(s) into Red Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BamBamBigelow_Main_3Star_04",
                     "levelCap": 8,
-                    "cost": 10,
+                    "cost": 8,
                     "gemType": "Red",
                     "name": "Scoop Powerslam",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 681 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 677 Damage and Make 2 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 2081 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 2070 Damage and Make 2 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 3481 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 3463 Damage and Make 2 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 4881 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 4856 Damage and Make 3 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 6281 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 6249 Damage and Make 3 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 7681 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 7642 Damage and Make 4 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 9081 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 9035 Damage and Make 4 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 10481 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 10428 Damage and Make 5 Random Multiply Gem(s) into Silence Gems(s)."
                         }
                     ]
                 },
@@ -5200,35 +5200,35 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 677 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 622 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1971 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 1796 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 3265 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 2970 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 4559 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 4145 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 5853 Damage and Make 4 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 5319 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 7148 Damage and Make 4 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 6493 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 8442 Damage and Make 5 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 7668 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 9736 Damage and Make 5 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 8842 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         }
                     ]
                 }
@@ -5511,15 +5511,15 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 257 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 429 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 257 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 754 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 257 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 1079 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -5532,15 +5532,15 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 391 Damage and Make 1 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 389 Damage and Make 1 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 839 Damage and Make 2 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 835 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1288 Damage and Make 3 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 1281 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
                         }
                     ]
                 },
@@ -5553,15 +5553,15 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 189 Damage and Make 1 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 188 Damage and Make 1 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 371 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 370 Damage and Make 1 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 554 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 552 Damage and Make 2 Random Black Gem(s) into Red Gem(s)."
                         }
                     ]
                 }
@@ -6232,27 +6232,27 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 373 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 620 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 459 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 1189 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 545 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 1759 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 631 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 2329 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 717 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 2899 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Deal 803 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 3469 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -6265,27 +6265,27 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 567 Damage and Make 2 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 564 Damage and Make 1 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1456 Damage and Make 2 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 1449 Damage and Make 1 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 2346 Damage and Make 3 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 2334 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 3235 Damage and Make 4 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 3219 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 4125 Damage and Make 4 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 4104 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 5014 Damage and Make 5 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 4989 Damage and Make 4 Random Blue Gem(s) into Red Gem(s)."
                         }
                     ]
                 },
@@ -6298,60 +6298,60 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 274 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 272 Damage and Make 1 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 644 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 640 Damage and Make 1 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1014 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 1008 Damage and Make 2 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 1384 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 1376 Damage and Make 2 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 1754 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 1744 Damage and Make 3 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 2124 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 2112 Damage and Make 3 Random Black Gem(s) into Red Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BamBamBigelow_Main_2Star_04",
                     "levelCap": 6,
-                    "cost": 10,
+                    "cost": 8,
                     "gemType": "Red",
                     "name": "Scoop Powerslam",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 400 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 398 Damage and Make 1 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 984 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 979 Damage and Make 1 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1568 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 1560 Damage and Make 2 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 2153 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 2142 Damage and Make 3 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 2737 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 2723 Damage and Make 3 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 3321 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 3304 Damage and Make 4 Random Multiply Gem(s) into Silence Gems(s)."
                         }
                     ]
                 }
@@ -7022,27 +7022,27 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 373 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 620 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 459 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 1189 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 545 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 1759 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 631 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 2329 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 717 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 2899 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Deal 803 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 3469 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -7055,27 +7055,27 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 567 Damage and Make 2 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 564 Damage and Make 1 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1456 Damage and Make 2 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 1449 Damage and Make 1 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 2346 Damage and Make 3 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 2334 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 3235 Damage and Make 4 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 3219 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 4125 Damage and Make 4 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 4104 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 5014 Damage and Make 5 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 4989 Damage and Make 4 Random Blue Gem(s) into Red Gem(s)."
                         }
                     ]
                 },
@@ -7088,60 +7088,60 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 274 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 272 Damage and Make 1 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 644 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 640 Damage and Make 1 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1014 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 1008 Damage and Make 2 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 1384 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 1376 Damage and Make 2 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 1754 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 1744 Damage and Make 3 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 2124 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 2112 Damage and Make 3 Random Black Gem(s) into Red Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BamBamBigelow_Main_2Star_04",
                     "levelCap": 6,
-                    "cost": 10,
+                    "cost": 8,
                     "gemType": "Red",
                     "name": "Scoop Powerslam",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 400 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 398 Damage and Make 1 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 984 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 979 Damage and Make 1 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1568 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 1560 Damage and Make 2 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 2153 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 2142 Damage and Make 3 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 2737 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 2723 Damage and Make 3 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 3321 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 3304 Damage and Make 4 Random Multiply Gem(s) into Silence Gems(s)."
                         }
                     ]
                 }
@@ -8462,39 +8462,39 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 1060 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 2190 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 3320 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 4450 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 5580 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Deal 640 Damage, Choose 2 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 6710 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Deal 640 Damage, Choose 2 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 7840 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Deal 640 Damage, Choose 2 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 8970 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 9,
-                            "text": "FINISHER! Deal 640 Damage, Choose 2 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 10100 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -8507,39 +8507,39 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 966 Damage and Make 3 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 961 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 3084 Damage and Make 3 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 3068 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 5202 Damage and Make 3 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 5175 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 7321 Damage and Make 4 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 7283 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 9439 Damage and Make 4 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 9390 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 11557 Damage and Make 5 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 11498 Damage and Make 4 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 13676 Damage and Make 5 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 13605 Damage and Make 4 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 15794 Damage and Make 6 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 15713 Damage and Make 5 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 17912 Damage and Make 6 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 17820 Damage and Make 5 Random Blue Gem(s) into Red Gem(s)."
                         }
                     ]
                 },
@@ -8552,84 +8552,84 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 470 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 468 Damage and Make 2 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1359 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 1353 Damage and Make 2 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 2249 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 2238 Damage and Make 2 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 3139 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 3124 Damage and Make 3 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 4029 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 4009 Damage and Make 3 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 4919 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 4894 Damage and Make 3 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 5809 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 5780 Damage and Make 4 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 6699 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 6665 Damage and Make 4 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 7589 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 7550 Damage and Make 4 Random Black Gem(s) into Red Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BamBamBigelow_Main_3Star_04",
                     "levelCap": 9,
-                    "cost": 10,
+                    "cost": 8,
                     "gemType": "Red",
                     "name": "Scoop Powerslam",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 681 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 677 Damage and Make 2 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 2081 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 2070 Damage and Make 2 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 3481 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 3463 Damage and Make 2 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 4881 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 4856 Damage and Make 3 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 6281 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 6249 Damage and Make 3 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 7681 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 7642 Damage and Make 4 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 9081 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 9035 Damage and Make 4 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 10481 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 10428 Damage and Make 5 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 11881 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 11821 Damage and Make 5 Random Multiply Gem(s) into Silence Gems(s)."
                         }
                     ]
                 },
@@ -8642,39 +8642,39 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 677 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 622 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1971 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 1796 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 3265 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 2970 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 4559 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 4145 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 5853 Damage and Make 4 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 5319 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 7148 Damage and Make 4 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 6493 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 8442 Damage and Make 5 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 7668 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 9736 Damage and Make 5 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 8842 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 11030 Damage and Make 6 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 10016 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         }
                     ]
                 }
@@ -9995,39 +9995,39 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 1060 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 2190 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 3320 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 4450 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 5580 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Deal 640 Damage, Choose 2 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 6710 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Deal 640 Damage, Choose 2 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 7840 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Deal 640 Damage, Choose 2 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 8970 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 9,
-                            "text": "FINISHER! Deal 640 Damage, Choose 2 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 10100 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -10040,39 +10040,39 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 966 Damage and Make 3 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 961 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 3084 Damage and Make 3 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 3068 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 5202 Damage and Make 3 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 5175 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 7321 Damage and Make 4 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 7283 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 9439 Damage and Make 4 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 9390 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 11557 Damage and Make 5 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 11498 Damage and Make 4 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 13676 Damage and Make 5 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 13605 Damage and Make 4 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 15794 Damage and Make 6 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 15713 Damage and Make 5 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 17912 Damage and Make 6 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 17820 Damage and Make 5 Random Blue Gem(s) into Red Gem(s)."
                         }
                     ]
                 },
@@ -10085,84 +10085,84 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 470 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 468 Damage and Make 2 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1359 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 1353 Damage and Make 2 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 2249 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 2238 Damage and Make 2 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 3139 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 3124 Damage and Make 3 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 4029 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 4009 Damage and Make 3 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 4919 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 4894 Damage and Make 3 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 5809 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 5780 Damage and Make 4 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 6699 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 6665 Damage and Make 4 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 7589 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 7550 Damage and Make 4 Random Black Gem(s) into Red Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BamBamBigelow_Main_3Star_04",
                     "levelCap": 9,
-                    "cost": 10,
+                    "cost": 8,
                     "gemType": "Red",
                     "name": "Scoop Powerslam",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 681 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 677 Damage and Make 2 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 2081 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 2070 Damage and Make 2 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 3481 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 3463 Damage and Make 2 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 4881 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 4856 Damage and Make 3 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 6281 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 6249 Damage and Make 3 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 7681 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 7642 Damage and Make 4 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 9081 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 9035 Damage and Make 4 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 10481 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 10428 Damage and Make 5 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 11881 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 11821 Damage and Make 5 Random Multiply Gem(s) into Silence Gems(s)."
                         }
                     ]
                 },
@@ -10175,39 +10175,39 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 677 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 622 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1971 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 1796 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 3265 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 2970 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 4559 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 4145 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 5853 Damage and Make 4 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 5319 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 7148 Damage and Make 4 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 6493 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 8442 Damage and Make 5 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 7668 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 9736 Damage and Make 5 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 8842 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 11030 Damage and Make 6 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 10016 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         }
                     ]
                 }
@@ -11528,39 +11528,39 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 1060 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 2190 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 3320 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 4450 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 5580 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Deal 640 Damage, Choose 2 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 6710 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Deal 640 Damage, Choose 2 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 7840 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Deal 640 Damage, Choose 2 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 8970 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 9,
-                            "text": "FINISHER! Deal 640 Damage, Choose 2 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 10100 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -11573,39 +11573,39 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 966 Damage and Make 3 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 961 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 3084 Damage and Make 3 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 3068 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 5202 Damage and Make 3 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 5175 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 7321 Damage and Make 4 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 7283 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 9439 Damage and Make 4 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 9390 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 11557 Damage and Make 5 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 11498 Damage and Make 4 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 13676 Damage and Make 5 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 13605 Damage and Make 4 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 15794 Damage and Make 6 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 15713 Damage and Make 5 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 17912 Damage and Make 6 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 17820 Damage and Make 5 Random Blue Gem(s) into Red Gem(s)."
                         }
                     ]
                 },
@@ -11618,84 +11618,84 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 470 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 468 Damage and Make 2 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1359 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 1353 Damage and Make 2 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 2249 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 2238 Damage and Make 2 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 3139 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 3124 Damage and Make 3 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 4029 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 4009 Damage and Make 3 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 4919 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 4894 Damage and Make 3 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 5809 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 5780 Damage and Make 4 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 6699 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 6665 Damage and Make 4 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 7589 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 7550 Damage and Make 4 Random Black Gem(s) into Red Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BamBamBigelow_Main_3Star_04",
                     "levelCap": 9,
-                    "cost": 10,
+                    "cost": 8,
                     "gemType": "Red",
                     "name": "Scoop Powerslam",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 681 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 677 Damage and Make 2 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 2081 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 2070 Damage and Make 2 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 3481 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 3463 Damage and Make 2 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 4881 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 4856 Damage and Make 3 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 6281 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 6249 Damage and Make 3 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 7681 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 7642 Damage and Make 4 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 9081 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 9035 Damage and Make 4 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 10481 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 10428 Damage and Make 5 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 11881 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 11821 Damage and Make 5 Random Multiply Gem(s) into Silence Gems(s)."
                         }
                     ]
                 },
@@ -11708,39 +11708,39 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 677 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 622 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1971 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 1796 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 3265 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 2970 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 4559 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 4145 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 5853 Damage and Make 4 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 5319 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 7148 Damage and Make 4 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 6493 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 8442 Damage and Make 5 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 7668 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 9736 Damage and Make 5 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 8842 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 11030 Damage and Make 6 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 10016 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         }
                     ]
                 }
@@ -12153,19 +12153,19 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 257 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 429 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 257 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 754 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 257 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 1079 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 257 Damage, Choose 2 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 1404 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -12178,19 +12178,19 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 391 Damage and Make 1 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 389 Damage and Make 1 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 839 Damage and Make 2 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 835 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1288 Damage and Make 3 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 1281 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 1737 Damage and Make 5 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 1728 Damage and Make 4 Random Blue Gem(s) into Red Gem(s)."
                         }
                     ]
                 },
@@ -12203,19 +12203,19 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 189 Damage and Make 1 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 188 Damage and Make 1 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 371 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 370 Damage and Make 1 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 554 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 552 Damage and Make 2 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 737 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 734 Damage and Make 3 Random Black Gem(s) into Red Gem(s)."
                         }
                     ]
                 }
@@ -13016,31 +13016,31 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 373 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 620 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 459 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 1189 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 545 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 1759 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 631 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 2329 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 717 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 2899 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Deal 803 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 3469 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Deal 890 Damage, Choose 2 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 4039 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -13053,31 +13053,31 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 567 Damage and Make 2 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 564 Damage and Make 1 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1456 Damage and Make 2 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 1449 Damage and Make 1 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 2346 Damage and Make 3 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 2334 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 3235 Damage and Make 4 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 3219 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 4125 Damage and Make 4 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 4104 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 5014 Damage and Make 5 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 4989 Damage and Make 4 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 5904 Damage and Make 6 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 5874 Damage and Make 5 Random Blue Gem(s) into Red Gem(s)."
                         }
                     ]
                 },
@@ -13090,68 +13090,68 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 274 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 272 Damage and Make 1 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 644 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 640 Damage and Make 1 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1014 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 1008 Damage and Make 2 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 1384 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 1376 Damage and Make 2 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 1754 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 1744 Damage and Make 3 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 2124 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 2112 Damage and Make 3 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 2494 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 2481 Damage and Make 4 Random Black Gem(s) into Red Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BamBamBigelow_Main_2Star_04",
                     "levelCap": 7,
-                    "cost": 10,
+                    "cost": 8,
                     "gemType": "Red",
                     "name": "Scoop Powerslam",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 400 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 398 Damage and Make 1 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 984 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 979 Damage and Make 1 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1568 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 1560 Damage and Make 2 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 2153 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 2142 Damage and Make 3 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 2737 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 2723 Damage and Make 3 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 3321 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 3304 Damage and Make 4 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 3906 Damage and Choose 2 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 3886 Damage and Make 5 Random Multiply Gem(s) into Silence Gems(s)."
                         }
                     ]
                 }
@@ -13952,31 +13952,31 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 373 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 620 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 459 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 1189 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 545 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 1759 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 631 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 2329 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 717 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 2899 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Deal 803 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 3469 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Deal 890 Damage, Choose 2 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 4039 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -13989,31 +13989,31 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 567 Damage and Make 2 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 564 Damage and Make 1 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1456 Damage and Make 2 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 1449 Damage and Make 1 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 2346 Damage and Make 3 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 2334 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 3235 Damage and Make 4 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 3219 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 4125 Damage and Make 4 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 4104 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 5014 Damage and Make 5 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 4989 Damage and Make 4 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 5904 Damage and Make 6 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 5874 Damage and Make 5 Random Blue Gem(s) into Red Gem(s)."
                         }
                     ]
                 },
@@ -14026,68 +14026,68 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 274 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 272 Damage and Make 1 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 644 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 640 Damage and Make 1 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1014 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 1008 Damage and Make 2 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 1384 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 1376 Damage and Make 2 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 1754 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 1744 Damage and Make 3 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 2124 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 2112 Damage and Make 3 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 2494 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 2481 Damage and Make 4 Random Black Gem(s) into Red Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BamBamBigelow_Main_2Star_04",
                     "levelCap": 7,
-                    "cost": 10,
+                    "cost": 8,
                     "gemType": "Red",
                     "name": "Scoop Powerslam",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 400 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 398 Damage and Make 1 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 984 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 979 Damage and Make 1 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 1568 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 1560 Damage and Make 2 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 2153 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 2142 Damage and Make 3 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 2737 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 2723 Damage and Make 3 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 3321 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 3304 Damage and Make 4 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 3906 Damage and Choose 2 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 3886 Damage and Make 5 Random Multiply Gem(s) into Silence Gems(s)."
                         }
                     ]
                 }
@@ -15668,43 +15668,43 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 1060 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 2190 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 3320 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 4450 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 5580 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Deal 640 Damage, Choose 2 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 6710 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Deal 640 Damage, Choose 2 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 7840 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Deal 640 Damage, Choose 2 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 8970 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 9,
-                            "text": "FINISHER! Deal 640 Damage, Choose 2 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 10100 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 10,
-                            "text": "FINISHER! Deal 640 Damage, Choose 3 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 11231 Damage, Destroy 4 Random Blue Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -15717,43 +15717,43 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 966 Damage and Make 3 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 961 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 3084 Damage and Make 3 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 3068 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 5202 Damage and Make 3 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 5175 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 7321 Damage and Make 4 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 7283 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 9439 Damage and Make 4 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 9390 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 11557 Damage and Make 5 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 11498 Damage and Make 4 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 13676 Damage and Make 5 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 13605 Damage and Make 4 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 15794 Damage and Make 6 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 15713 Damage and Make 5 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 17912 Damage and Make 6 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 17820 Damage and Make 5 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 10,
-                            "text": "Deal 20031 Damage and Make 7 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 19928 Damage and Make 6 Random Blue Gem(s) into Red Gem(s)."
                         }
                     ]
                 },
@@ -15766,92 +15766,92 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 470 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 468 Damage and Make 2 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1359 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 1353 Damage and Make 2 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 2249 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 2238 Damage and Make 2 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 3139 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 3124 Damage and Make 3 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 4029 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 4009 Damage and Make 3 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 4919 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 4894 Damage and Make 3 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 5809 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 5780 Damage and Make 4 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 6699 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 6665 Damage and Make 4 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 7589 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 7550 Damage and Make 4 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 10,
-                            "text": "Deal 8479 Damage and Make 5 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 8436 Damage and Make 5 Random Black Gem(s) into Red Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BamBamBigelow_Main_3Star_04",
                     "levelCap": 10,
-                    "cost": 10,
+                    "cost": 8,
                     "gemType": "Red",
                     "name": "Scoop Powerslam",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 681 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 677 Damage and Make 2 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 2081 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 2070 Damage and Make 2 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 3481 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 3463 Damage and Make 2 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 4881 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 4856 Damage and Make 3 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 6281 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 6249 Damage and Make 3 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 7681 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 7642 Damage and Make 4 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 9081 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 9035 Damage and Make 4 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 10481 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 10428 Damage and Make 5 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 11881 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 11821 Damage and Make 5 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 10,
-                            "text": "Deal 13281 Damage and Choose 2 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 13214 Damage and Make 6 Random Multiply Gem(s) into Silence Gems(s)."
                         }
                     ]
                 },
@@ -15864,43 +15864,43 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 677 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 622 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1971 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 1796 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 3265 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 2970 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 4559 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 4145 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 5853 Damage and Make 4 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 5319 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 7148 Damage and Make 4 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 6493 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 8442 Damage and Make 5 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 7668 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 9736 Damage and Make 5 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 8842 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 11030 Damage and Make 6 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 10016 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 10,
-                            "text": "Deal 12325 Damage and Make 7 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 11191 Damage and Force your Opponents to skip their turn for 2 turn(s)."
                         }
                     ]
                 }
@@ -17481,43 +17481,43 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 1060 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 2190 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 3320 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 4450 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 5580 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Deal 640 Damage, Choose 2 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 6710 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Deal 640 Damage, Choose 2 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 7840 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Deal 640 Damage, Choose 2 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 8970 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 9,
-                            "text": "FINISHER! Deal 640 Damage, Choose 2 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 10100 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 10,
-                            "text": "FINISHER! Deal 640 Damage, Choose 3 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 11231 Damage, Destroy 4 Random Blue Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -17530,43 +17530,43 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 966 Damage and Make 3 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 961 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 3084 Damage and Make 3 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 3068 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 5202 Damage and Make 3 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 5175 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 7321 Damage and Make 4 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 7283 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 9439 Damage and Make 4 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 9390 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 11557 Damage and Make 5 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 11498 Damage and Make 4 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 13676 Damage and Make 5 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 13605 Damage and Make 4 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 15794 Damage and Make 6 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 15713 Damage and Make 5 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 17912 Damage and Make 6 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 17820 Damage and Make 5 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 10,
-                            "text": "Deal 20031 Damage and Make 7 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 19928 Damage and Make 6 Random Blue Gem(s) into Red Gem(s)."
                         }
                     ]
                 },
@@ -17579,92 +17579,92 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 470 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 468 Damage and Make 2 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1359 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 1353 Damage and Make 2 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 2249 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 2238 Damage and Make 2 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 3139 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 3124 Damage and Make 3 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 4029 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 4009 Damage and Make 3 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 4919 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 4894 Damage and Make 3 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 5809 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 5780 Damage and Make 4 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 6699 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 6665 Damage and Make 4 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 7589 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 7550 Damage and Make 4 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 10,
-                            "text": "Deal 8479 Damage and Make 5 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 8436 Damage and Make 5 Random Black Gem(s) into Red Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BamBamBigelow_Main_3Star_04",
                     "levelCap": 10,
-                    "cost": 10,
+                    "cost": 8,
                     "gemType": "Red",
                     "name": "Scoop Powerslam",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 681 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 677 Damage and Make 2 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 2081 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 2070 Damage and Make 2 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 3481 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 3463 Damage and Make 2 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 4881 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 4856 Damage and Make 3 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 6281 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 6249 Damage and Make 3 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 7681 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 7642 Damage and Make 4 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 9081 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 9035 Damage and Make 4 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 10481 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 10428 Damage and Make 5 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 11881 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 11821 Damage and Make 5 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 10,
-                            "text": "Deal 13281 Damage and Choose 2 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 13214 Damage and Make 6 Random Multiply Gem(s) into Silence Gems(s)."
                         }
                     ]
                 },
@@ -17677,43 +17677,43 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 677 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 622 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1971 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 1796 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 3265 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 2970 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 4559 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 4145 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 5853 Damage and Make 4 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 5319 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 7148 Damage and Make 4 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 6493 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 8442 Damage and Make 5 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 7668 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 9736 Damage and Make 5 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 8842 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 11030 Damage and Make 6 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 10016 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 10,
-                            "text": "Deal 12325 Damage and Make 7 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 11191 Damage and Force your Opponents to skip their turn for 2 turn(s)."
                         }
                     ]
                 }
@@ -19294,43 +19294,43 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 1060 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 2190 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 3320 Damage, Destroy 1 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 4450 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 640 Damage, Choose 1 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 5580 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Deal 640 Damage, Choose 2 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 6710 Damage, Destroy 2 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Deal 640 Damage, Choose 2 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 7840 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Deal 640 Damage, Choose 2 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 8970 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 9,
-                            "text": "FINISHER! Deal 640 Damage, Choose 2 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 10100 Damage, Destroy 3 Random Blue Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 10,
-                            "text": "FINISHER! Deal 640 Damage, Choose 3 Column(s) to Destroy and PIN the opponent!"
+                            "text": "FINISHER! Deal 11231 Damage, Destroy 4 Random Blue Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -19343,43 +19343,43 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 966 Damage and Make 3 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 961 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 3084 Damage and Make 3 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 3068 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 5202 Damage and Make 3 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 5175 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 7321 Damage and Make 4 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 7283 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 9439 Damage and Make 4 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 9390 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 11557 Damage and Make 5 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 11498 Damage and Make 4 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 13676 Damage and Make 5 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 13605 Damage and Make 4 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 15794 Damage and Make 6 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 15713 Damage and Make 5 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 17912 Damage and Make 6 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 17820 Damage and Make 5 Random Blue Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 10,
-                            "text": "Deal 20031 Damage and Make 7 Random Gem(s) into Red Gem(s)."
+                            "text": "Deal 19928 Damage and Make 6 Random Blue Gem(s) into Red Gem(s)."
                         }
                     ]
                 },
@@ -19392,92 +19392,92 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 470 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 468 Damage and Make 2 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1359 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 1353 Damage and Make 2 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 2249 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 2238 Damage and Make 2 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 3139 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 3124 Damage and Make 3 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 4029 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 4009 Damage and Make 3 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 4919 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 4894 Damage and Make 3 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 5809 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 5780 Damage and Make 4 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 6699 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 6665 Damage and Make 4 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 7589 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 7550 Damage and Make 4 Random Black Gem(s) into Red Gem(s)."
                         },
                         {
                             "level": 10,
-                            "text": "Deal 8479 Damage and Make 5 Random Gem(s) into Blue Gem(s)."
+                            "text": "Deal 8436 Damage and Make 5 Random Black Gem(s) into Red Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BamBamBigelow_Main_3Star_04",
                     "levelCap": 10,
-                    "cost": 10,
+                    "cost": 8,
                     "gemType": "Red",
                     "name": "Scoop Powerslam",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 681 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 677 Damage and Make 2 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 2081 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 2070 Damage and Make 2 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 3481 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 3463 Damage and Make 2 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 4881 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 4856 Damage and Make 3 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 6281 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 6249 Damage and Make 3 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 7681 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 7642 Damage and Make 4 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 9081 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 9035 Damage and Make 4 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 10481 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 10428 Damage and Make 5 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 11881 Damage and Choose 1 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 11821 Damage and Make 5 Random Multiply Gem(s) into Silence Gems(s)."
                         },
                         {
                             "level": 10,
-                            "text": "Deal 13281 Damage and Choose 2 Gem(s) to Make into Blast Gem(s)."
+                            "text": "Deal 13214 Damage and Make 6 Random Multiply Gem(s) into Silence Gems(s)."
                         }
                     ]
                 },
@@ -19490,43 +19490,43 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 677 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 622 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 1971 Damage and Make 2 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 1796 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 3265 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 2970 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 4559 Damage and Make 3 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 4145 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 5853 Damage and Make 4 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 5319 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 7148 Damage and Make 4 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 6493 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 8442 Damage and Make 5 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 7668 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 9736 Damage and Make 5 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 8842 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 11030 Damage and Make 6 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 10016 Damage and Force your Opponents to skip their turn for 1 turn(s)."
                         },
                         {
                             "level": 10,
-                            "text": "Deal 12325 Damage and Make 7 Random Blue Gem(s) into Red Gem(s)."
+                            "text": "Deal 11191 Damage and Force your Opponents to skip their turn for 2 turn(s)."
                         }
                     ]
                 }
