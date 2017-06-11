@@ -143,11 +143,11 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 218 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 218 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 256 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 256 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         }
                     ]
                 },
@@ -722,23 +722,23 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 316 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 316 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 420 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 420 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 524 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 524 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 628 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 628 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 732 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 732 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         }
                     ]
                 },
@@ -1366,23 +1366,23 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 316 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 316 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 420 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 420 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 524 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 524 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 628 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 628 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 732 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 732 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         }
                     ]
                 },
@@ -2530,35 +2530,35 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 360 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 360 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 675 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 675 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 990 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 990 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 1306 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 1306 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 1621 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 1621 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 1936 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 1936 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 2252 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 2252 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 2567 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 2567 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         }
                     ]
                 },
@@ -3783,35 +3783,35 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 360 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 360 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 675 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 675 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 990 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 990 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 1306 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 1306 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 1621 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 1621 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 1936 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 1936 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 2252 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 2252 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 2567 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 2567 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         }
                     ]
                 },
@@ -5036,35 +5036,35 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 360 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 360 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 675 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 675 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 990 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 990 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 1306 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 1306 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 1621 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 1621 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 1936 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 1936 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 2252 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 2252 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 2567 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 2567 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         }
                     ]
                 },
@@ -5511,15 +5511,15 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 218 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 218 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 256 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 256 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 294 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 294 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         }
                     ]
                 },
@@ -6232,27 +6232,27 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 316 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 316 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 420 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 420 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 524 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 524 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 628 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 628 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 732 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 732 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 836 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 836 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         }
                     ]
                 },
@@ -7022,27 +7022,27 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 316 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 316 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 420 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 420 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 524 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 524 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 628 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 628 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 732 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 732 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 836 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 836 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         }
                     ]
                 },
@@ -8462,39 +8462,39 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 360 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 360 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 675 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 675 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 990 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 990 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 1306 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 1306 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 1621 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 1621 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 1936 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 1936 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 2252 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 2252 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 2567 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 2567 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 2882 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 2882 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         }
                     ]
                 },
@@ -9995,39 +9995,39 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 360 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 360 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 675 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 675 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 990 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 990 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 1306 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 1306 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 1621 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 1621 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 1936 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 1936 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 2252 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 2252 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 2567 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 2567 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 2882 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 2882 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         }
                     ]
                 },
@@ -11528,39 +11528,39 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 360 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 360 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 675 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 675 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 990 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 990 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 1306 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 1306 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 1621 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 1621 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 1936 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 1936 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 2252 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 2252 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 2567 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 2567 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 2882 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 2882 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         }
                     ]
                 },
@@ -12153,19 +12153,19 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 218 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 218 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 256 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 256 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 294 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 294 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 3 Submission Gem(s) and do 332 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 3 Submission Gem(s) and do 332 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         }
                     ]
                 },
@@ -13016,31 +13016,31 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 316 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 316 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 420 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 420 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 524 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 524 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 628 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 628 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 732 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 732 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 836 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 836 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 3 Submission Gem(s) and do 940 Damage for 6 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 3 Submission Gem(s) and do 940 Damage for 6 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         }
                     ]
                 },
@@ -13952,31 +13952,31 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 316 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 316 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 420 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 420 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 524 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 524 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 628 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 628 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 732 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 732 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 836 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 836 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 3 Submission Gem(s) and do 940 Damage for 6 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 3 Submission Gem(s) and do 940 Damage for 6 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         }
                     ]
                 },
@@ -15668,43 +15668,43 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 360 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 360 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 675 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 675 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 990 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 990 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 1306 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 1306 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 1621 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 1621 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 1936 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 1936 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 2252 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 2252 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 2567 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 2567 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 2882 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 2882 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 10,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 3 Submission Gem(s) and do 3198 Damage for 6 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 3 Submission Gem(s) and do 3198 Damage for 6 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         }
                     ]
                 },
@@ -17481,43 +17481,43 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 360 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 360 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 675 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 675 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 990 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 990 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 1306 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 1306 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 1621 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 1621 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 1936 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 1936 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 2252 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 2252 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 2567 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 2567 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 2882 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 2882 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 10,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 3 Submission Gem(s) and do 3198 Damage for 6 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 3 Submission Gem(s) and do 3198 Damage for 6 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         }
                     ]
                 },
@@ -19294,43 +19294,43 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 360 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 360 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 675 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 675 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 990 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 990 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 1306 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 1306 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 1621 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 1621 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 1936 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 1936 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 2252 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 2252 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 2567 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 2567 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 2882 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 2882 Damage for 5 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         },
                         {
                             "level": 10,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 3 Submission Gem(s) and do 3198 Damage for 6 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
+                            "text": "SUBMISSION! Place 3 Submission Gem(s) and do 3198 Damage for 6 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Color Turn Gem(s)."
                         }
                     ]
                 },

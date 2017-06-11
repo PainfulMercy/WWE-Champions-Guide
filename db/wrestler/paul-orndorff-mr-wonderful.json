@@ -143,11 +143,11 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 233 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 233 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 303 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 303 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         }
                     ]
                 },
@@ -722,23 +722,23 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 338 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 338 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 532 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 532 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 727 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 727 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 922 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 922 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 3 Submission Gem(s) and do 1116 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 3 Submission Gem(s) and do 1116 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         }
                     ]
                 },
@@ -1366,23 +1366,23 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 338 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 338 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 532 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 532 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 727 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 727 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 922 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 922 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 3 Submission Gem(s) and do 1116 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 3 Submission Gem(s) and do 1116 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         }
                     ]
                 },
@@ -2530,35 +2530,35 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 1155 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 1155 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 1785 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 1785 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 2415 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 2415 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 3046 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 3046 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 3676 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 3676 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 3 Submission Gem(s) and do 4306 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 3 Submission Gem(s) and do 4306 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 3 Submission Gem(s) and do 4937 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 3 Submission Gem(s) and do 4937 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 4 Submission Gem(s) and do 5567 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 4 Submission Gem(s) and do 5567 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         }
                     ]
                 },
@@ -3783,35 +3783,35 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 1155 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 1155 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 1785 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 1785 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 2415 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 2415 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 3046 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 3046 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 3676 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 3676 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 3 Submission Gem(s) and do 4306 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 3 Submission Gem(s) and do 4306 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 3 Submission Gem(s) and do 4937 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 3 Submission Gem(s) and do 4937 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 4 Submission Gem(s) and do 5567 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 4 Submission Gem(s) and do 5567 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         }
                     ]
                 },
@@ -5036,35 +5036,35 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 1155 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 1155 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 1785 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 1785 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 2415 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 2415 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 3046 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 3046 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 3676 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 3676 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 3 Submission Gem(s) and do 4306 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 3 Submission Gem(s) and do 4306 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 3 Submission Gem(s) and do 4937 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 3 Submission Gem(s) and do 4937 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 4 Submission Gem(s) and do 5567 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 4 Submission Gem(s) and do 5567 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         }
                     ]
                 },
@@ -5511,15 +5511,15 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 233 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 233 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 303 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 303 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 3 Submission Gem(s) and do 373 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 3 Submission Gem(s) and do 373 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         }
                     ]
                 },
@@ -6232,27 +6232,27 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 338 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 338 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 532 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 532 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 727 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 727 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 922 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 922 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 3 Submission Gem(s) and do 1116 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 3 Submission Gem(s) and do 1116 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 3 Submission Gem(s) and do 1311 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 3 Submission Gem(s) and do 1311 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         }
                     ]
                 },
@@ -7022,27 +7022,27 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 338 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 338 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 532 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 532 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 727 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 727 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 922 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 922 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 3 Submission Gem(s) and do 1116 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 3 Submission Gem(s) and do 1116 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 3 Submission Gem(s) and do 1311 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 3 Submission Gem(s) and do 1311 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         }
                     ]
                 },
@@ -8462,39 +8462,39 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 1155 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 1155 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 1785 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 1785 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 2415 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 2415 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 3046 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 3046 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 3676 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 3676 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 3 Submission Gem(s) and do 4306 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 3 Submission Gem(s) and do 4306 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 3 Submission Gem(s) and do 4937 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 3 Submission Gem(s) and do 4937 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 4 Submission Gem(s) and do 5567 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 4 Submission Gem(s) and do 5567 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 4 Submission Gem(s) and do 6197 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 4 Submission Gem(s) and do 6197 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         }
                     ]
                 },
@@ -9995,39 +9995,39 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 1155 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 1155 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 1785 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 1785 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 2415 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 2415 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 3046 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 3046 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 3676 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 3676 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 3 Submission Gem(s) and do 4306 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 3 Submission Gem(s) and do 4306 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 3 Submission Gem(s) and do 4937 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 3 Submission Gem(s) and do 4937 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 4 Submission Gem(s) and do 5567 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 4 Submission Gem(s) and do 5567 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 4 Submission Gem(s) and do 6197 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 4 Submission Gem(s) and do 6197 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         }
                     ]
                 },
@@ -11528,39 +11528,39 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 1155 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 1155 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 1785 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 1785 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 2415 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 2415 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 3046 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 3046 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 3676 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 3676 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 3 Submission Gem(s) and do 4306 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 3 Submission Gem(s) and do 4306 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 3 Submission Gem(s) and do 4937 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 3 Submission Gem(s) and do 4937 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 4 Submission Gem(s) and do 5567 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 4 Submission Gem(s) and do 5567 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 4 Submission Gem(s) and do 6197 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 4 Submission Gem(s) and do 6197 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         }
                     ]
                 },
@@ -12153,19 +12153,19 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 233 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 233 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 303 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 303 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 3 Submission Gem(s) and do 373 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 3 Submission Gem(s) and do 373 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 4 Submission Gem(s) and do 443 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 4 Submission Gem(s) and do 443 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         }
                     ]
                 },
@@ -13016,31 +13016,31 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 338 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 338 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 532 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 532 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 727 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 727 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 922 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 922 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 3 Submission Gem(s) and do 1116 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 3 Submission Gem(s) and do 1116 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 3 Submission Gem(s) and do 1311 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 3 Submission Gem(s) and do 1311 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 4 Submission Gem(s) and do 1506 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 4 Submission Gem(s) and do 1506 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         }
                     ]
                 },
@@ -13952,31 +13952,31 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 338 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 338 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 532 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 532 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 727 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 727 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 922 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 922 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 3 Submission Gem(s) and do 1116 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 3 Submission Gem(s) and do 1116 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 3 Submission Gem(s) and do 1311 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 3 Submission Gem(s) and do 1311 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 4 Submission Gem(s) and do 1506 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 4 Submission Gem(s) and do 1506 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         }
                     ]
                 },
@@ -15668,43 +15668,43 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 1155 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 1155 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 1785 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 1785 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 2415 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 2415 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 3046 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 3046 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 3676 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 3676 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 3 Submission Gem(s) and do 4306 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 3 Submission Gem(s) and do 4306 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 3 Submission Gem(s) and do 4937 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 3 Submission Gem(s) and do 4937 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 4 Submission Gem(s) and do 5567 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 4 Submission Gem(s) and do 5567 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 4 Submission Gem(s) and do 6197 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 4 Submission Gem(s) and do 6197 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 10,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 5 Submission Gem(s) and do 6828 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 5 Submission Gem(s) and do 6828 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         }
                     ]
                 },
@@ -17481,43 +17481,43 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 1155 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 1155 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 1785 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 1785 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 2415 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 2415 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 3046 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 3046 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 3676 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 3676 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 3 Submission Gem(s) and do 4306 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 3 Submission Gem(s) and do 4306 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 3 Submission Gem(s) and do 4937 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 3 Submission Gem(s) and do 4937 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 4 Submission Gem(s) and do 5567 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 4 Submission Gem(s) and do 5567 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 4 Submission Gem(s) and do 6197 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 4 Submission Gem(s) and do 6197 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 10,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 5 Submission Gem(s) and do 6828 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 5 Submission Gem(s) and do 6828 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         }
                     ]
                 },
@@ -19294,43 +19294,43 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 1155 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 1155 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 1785 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 1785 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 1 Submission Gem(s) and do 2415 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 2415 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 3046 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 3046 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 2 Submission Gem(s) and do 3676 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 3676 Damage for 1 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 3 Submission Gem(s) and do 4306 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 3 Submission Gem(s) and do 4306 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 3 Submission Gem(s) and do 4937 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 3 Submission Gem(s) and do 4937 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 4 Submission Gem(s) and do 5567 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 4 Submission Gem(s) and do 5567 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 4 Submission Gem(s) and do 6197 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 4 Submission Gem(s) and do 6197 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         },
                         {
                             "level": 10,
-                            "text": "FINISHER! Try to SUBMIT the opponent! Place 5 Submission Gem(s) and do 6828 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
+                            "text": "SUBMISSION! Place 5 Submission Gem(s) and do 6828 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board. Remaining Submission Gems turn into Immobile Gem(s)."
                         }
                     ]
                 },
