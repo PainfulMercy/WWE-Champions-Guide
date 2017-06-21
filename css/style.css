@@ -53,6 +53,8 @@ input::-webkit-calendar-picker-indicator {
 
 input[type='text'],
 input[type='number'],
+input[type='email'],
+input#search,
 textarea {
   font-size: 16px;
 }
