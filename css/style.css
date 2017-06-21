@@ -39,6 +39,20 @@ footer {
   padding:5px;
 }
 
+.awesomplete {
+  display: block !important;
+}
+
+div.awesomplete>ul {
+  z-index: 10;
+}
+
+input::-webkit-calendar-picker-indicator {
+  display: none;
+}
+
+
+
 /*
  * Off Canvas
  * --------------------------------------------------
