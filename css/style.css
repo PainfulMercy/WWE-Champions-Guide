@@ -23,6 +23,15 @@ footer {
 .display-flex {
   display: flex;
   flex-wrap: wrap;
+
+list-style: none;
+margin: 0;
+padding: 0;
+display: -webkit-flex; /* NEW */
+display: flex;
+-webkit-flex-wrap: wrap; /* NEW */
+flex-wrap: wrap;
+font-family: "Open Sans";
 }
 
 .thumbnail {
