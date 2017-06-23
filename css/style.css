@@ -64,7 +64,8 @@ input[type='text'],
 input[type='number'],
 input[type='email'],
 input#search,
-textarea {
+textarea,
+#contact_form.form-control {
   font-size: 16px !important;
 }
 
