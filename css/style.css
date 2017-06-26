@@ -83,6 +83,10 @@ textarea,
   margin-bottom: 20px;
 }
 
+.body-container {
+  min-height: 550px;
+}
+
 /*
  * Off Canvas
  * --------------------------------------------------
@@ -231,4 +235,20 @@ textarea,
     text-align: center;
     font-size: 18px;
     background: #fff;
+}
+
+.panel-heading-link {
+  padding: 0;
+}
+
+.panel-heading-link > .panel-title > a {
+  display: block;
+  padding: 10px 15px;
+  color: #337ab7;
+}
+
+.panel-heading-link > .panel-title > a:hover,
+.panel-heading-link > .panel-title > a:focus {
+  color: #000;
+  text-decoration: none;
 }
