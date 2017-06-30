@@ -63,6 +63,7 @@ input[type='number'],
 input[type='email'],
 input#search,
 textarea,
+#gbCalcForm input[type='number'],
 .contact-name,
 .contact-email,
 .contact-message {
@@ -102,6 +103,20 @@ textarea,
   margin-top: 80px;
   background-color: rgba(0, 0, 0, 0.7);
 }
+
+.ad-help-text {
+  margin:0;
+  font-size: 11px;
+}
+
+#adLeaderboardBlocked {
+
+}
+
+#adMobileLeaderboardBlocked {
+
+}
+
 
 /*
  * Off Canvas
