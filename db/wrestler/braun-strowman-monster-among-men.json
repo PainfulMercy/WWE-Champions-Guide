@@ -143,11 +143,11 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 0 Damage, Make 1 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 304 Damage, Make 1 Random Gem(s) into Protect Gem(s) of Strength 148 and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 0 Damage, Make 2 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 538 Damage, Make 1 Random Gem(s) into Protect Gem(s) of Strength 181 and PIN the opponent!"
                         }
                     ]
                 },
@@ -160,28 +160,28 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 123 Damage and Decrease your Opponents Black Gem Damage by 5% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 2 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 280 Damage and Decrease your Opponents Black Gem Damage by 8% for 3 Turns."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BStrowman_MAM_1Star_03",
                     "levelCap": 2,
-                    "cost": 7,
+                    "cost": 6,
                     "gemType": "Black",
                     "name": "Running Clothesline",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Steal up to 3 Green MP from your opponent!"
+                            "text": "Deal 165 Damage and Make 1 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Steal up to 3 Green MP from your opponent!"
+                            "text": "Deal 343 Damage and Make 1 Random Gem(s) into Blue Gem(s)."
                         }
                     ]
                 }
@@ -722,23 +722,23 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 0 Damage, Make 1 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 426 Damage, Make 1 Random Gem(s) into Protect Gem(s) of Strength 230 and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 0 Damage, Make 1 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 901 Damage, Make 1 Random Gem(s) into Protect Gem(s) of Strength 303 and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 0 Damage, Make 2 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 1376 Damage, Make 2 Random Gem(s) into Protect Gem(s) of Strength 376 and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 0 Damage, Make 2 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 1852 Damage, Make 2 Random Gem(s) into Protect Gem(s) of Strength 449 and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 0 Damage, Make 3 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 2327 Damage, Make 3 Random Gem(s) into Protect Gem(s) of Strength 522 and PIN the opponent!"
                         }
                     ]
                 },
@@ -751,81 +751,81 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 178 Damage and Decrease your Opponents Black Gem Damage by 15% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 1 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 485 Damage and Decrease your Opponents Black Gem Damage by 15% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 2 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 792 Damage and Decrease your Opponents Black Gem Damage by 16% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 3 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 1099 Damage and Decrease your Opponents Black Gem Damage by 17% for 4 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 3 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 1406 Damage and Decrease your Opponents Black Gem Damage by 18% for 4 Turns."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BStrowman_MAM_2Star_03",
                     "levelCap": 5,
-                    "cost": 7,
+                    "cost": 6,
                     "gemType": "Black",
                     "name": "Running Clothesline",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Steal up to 3 Green MP from your opponent!"
+                            "text": "Deal 240 Damage and Make 1 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Steal up to 3 Green MP from your opponent!"
+                            "text": "Deal 595 Damage and Make 1 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Steal up to 3 Green MP from your opponent!"
+                            "text": "Deal 951 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 1307 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 1663 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BStrowman_MAM_2Star_04",
                     "levelCap": 5,
-                    "cost": 9,
+                    "cost": 7,
                     "gemType": "Yellow",
                     "name": "Superplex",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s)."
+                            "text": "Deal 291 Damage and Make 1 Random Green Gem(s) into Protect Gem(s) of Strength 218."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s)."
+                            "text": "Deal 674 Damage and Make 1 Random Green Gem(s) into Protect Gem(s) of Strength 285."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s)."
+                            "text": "Deal 1057 Damage and Make 2 Random Green Gem(s) into Protect Gem(s) of Strength 353."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s)."
+                            "text": "Deal 1440 Damage and Make 2 Random Green Gem(s) into Protect Gem(s) of Strength 421."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s)."
+                            "text": "Deal 1823 Damage and Make 3 Random Green Gem(s) into Protect Gem(s) of Strength 488."
                         }
                     ]
                 }
@@ -1366,23 +1366,23 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 0 Damage, Make 1 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 426 Damage, Make 1 Random Gem(s) into Protect Gem(s) of Strength 230 and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 0 Damage, Make 1 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 901 Damage, Make 1 Random Gem(s) into Protect Gem(s) of Strength 303 and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 0 Damage, Make 2 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 1376 Damage, Make 2 Random Gem(s) into Protect Gem(s) of Strength 376 and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 0 Damage, Make 2 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 1852 Damage, Make 2 Random Gem(s) into Protect Gem(s) of Strength 449 and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 0 Damage, Make 3 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 2327 Damage, Make 3 Random Gem(s) into Protect Gem(s) of Strength 522 and PIN the opponent!"
                         }
                     ]
                 },
@@ -1395,81 +1395,81 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 178 Damage and Decrease your Opponents Black Gem Damage by 15% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 1 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 485 Damage and Decrease your Opponents Black Gem Damage by 15% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 2 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 792 Damage and Decrease your Opponents Black Gem Damage by 16% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 3 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 1099 Damage and Decrease your Opponents Black Gem Damage by 17% for 4 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 3 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 1406 Damage and Decrease your Opponents Black Gem Damage by 18% for 4 Turns."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BStrowman_MAM_2Star_03",
                     "levelCap": 5,
-                    "cost": 7,
+                    "cost": 6,
                     "gemType": "Black",
                     "name": "Running Clothesline",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Steal up to 3 Green MP from your opponent!"
+                            "text": "Deal 240 Damage and Make 1 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Steal up to 3 Green MP from your opponent!"
+                            "text": "Deal 595 Damage and Make 1 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Steal up to 3 Green MP from your opponent!"
+                            "text": "Deal 951 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 1307 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 1663 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BStrowman_MAM_2Star_04",
                     "levelCap": 5,
-                    "cost": 9,
+                    "cost": 7,
                     "gemType": "Yellow",
                     "name": "Superplex",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s)."
+                            "text": "Deal 291 Damage and Make 1 Random Green Gem(s) into Protect Gem(s) of Strength 218."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s)."
+                            "text": "Deal 674 Damage and Make 1 Random Green Gem(s) into Protect Gem(s) of Strength 285."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s)."
+                            "text": "Deal 1057 Damage and Make 2 Random Green Gem(s) into Protect Gem(s) of Strength 353."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s)."
+                            "text": "Deal 1440 Damage and Make 2 Random Green Gem(s) into Protect Gem(s) of Strength 421."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s)."
+                            "text": "Deal 1823 Damage and Make 3 Random Green Gem(s) into Protect Gem(s) of Strength 488."
                         }
                     ]
                 }
@@ -2530,35 +2530,35 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 0 Damage, Make 1 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 704 Damage, Make 2 Random Gem(s) into Protect Gem(s) of Strength 208 and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 0 Damage, Make 1 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 1804 Damage, Make 2 Random Gem(s) into Protect Gem(s) of Strength 398 and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 0 Damage, Make 1 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 2905 Damage, Make 2 Random Gem(s) into Protect Gem(s) of Strength 589 and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 0 Damage, Make 2 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 4005 Damage, Make 3 Random Gem(s) into Protect Gem(s) of Strength 780 and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 0 Damage, Make 2 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 5106 Damage, Make 3 Random Gem(s) into Protect Gem(s) of Strength 971 and PIN the opponent!"
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Deal 0 Damage, Make 2 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 6206 Damage, Make 3 Random Gem(s) into Protect Gem(s) of Strength 1161 and PIN the opponent!"
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Deal 0 Damage, Make 3 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 7307 Damage, Make 4 Random Gem(s) into Protect Gem(s) of Strength 1352 and PIN the opponent!"
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Deal 0 Damage, Make 3 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 8407 Damage, Make 4 Random Gem(s) into Protect Gem(s) of Strength 1543 and PIN the opponent!"
                         }
                     ]
                 },
@@ -2571,117 +2571,117 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 2 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 305 Damage and Decrease your Opponents Black Gem Damage by 20% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 2 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 1034 Damage and Decrease your Opponents Black Gem Damage by 20% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 2 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 1764 Damage and Decrease your Opponents Black Gem Damage by 21% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 3 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 2494 Damage and Decrease your Opponents Black Gem Damage by 21% for 4 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 3 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 3224 Damage and Decrease your Opponents Black Gem Damage by 22% for 4 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 4 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 3953 Damage and Decrease your Opponents Black Gem Damage by 22% for 4 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Make 4 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 4683 Damage and Decrease your Opponents Black Gem Damage by 23% for 5 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Make 5 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 5413 Damage and Decrease your Opponents Black Gem Damage by 23% for 5 Turns."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BStrowman_MAM_3Star_03",
                     "levelCap": 8,
-                    "cost": 7,
+                    "cost": 6,
                     "gemType": "Black",
                     "name": "Running Clothesline",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 410 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 1261 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 2113 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 2965 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 3816 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Steal up to 5 Green MP from your opponent!"
+                            "text": "Deal 4668 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Steal up to 5 Green MP from your opponent!"
+                            "text": "Deal 5520 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Steal up to 5 Green MP from your opponent!"
+                            "text": "Deal 6371 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BStrowman_MAM_3Star_04",
                     "levelCap": 8,
-                    "cost": 9,
+                    "cost": 7,
                     "gemType": "Yellow",
                     "name": "Superplex",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 497 Damage and Make 2 Random Green Gem(s) into Protect Gem(s) of Strength 198."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 1420 Damage and Make 2 Random Green Gem(s) into Protect Gem(s) of Strength 375."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 2343 Damage and Make 2 Random Green Gem(s) into Protect Gem(s) of Strength 553."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 3266 Damage and Make 3 Random Green Gem(s) into Protect Gem(s) of Strength 730."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 4189 Damage and Make 3 Random Green Gem(s) into Protect Gem(s) of Strength 908."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 5113 Damage and Make 3 Random Green Gem(s) into Protect Gem(s) of Strength 1085."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 6036 Damage and Make 4 Random Green Gem(s) into Protect Gem(s) of Strength 1263."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 6959 Damage and Make 4 Random Green Gem(s) into Protect Gem(s) of Strength 1440."
                         }
                     ]
                 },
@@ -2694,35 +2694,35 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 524 Damage and Make 2 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 1554 Damage and Make 2 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 2584 Damage and Make 2 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 3614 Damage and Make 3 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 4644 Damage and Make 3 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 5674 Damage and Make 3 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 6704 Damage and Make 4 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 7734 Damage and Make 4 Random Black Gem(s) into Yellow Gem(s)."
                         }
                     ]
                 }
@@ -3783,35 +3783,35 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 0 Damage, Make 1 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 704 Damage, Make 2 Random Gem(s) into Protect Gem(s) of Strength 208 and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 0 Damage, Make 1 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 1804 Damage, Make 2 Random Gem(s) into Protect Gem(s) of Strength 398 and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 0 Damage, Make 1 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 2905 Damage, Make 2 Random Gem(s) into Protect Gem(s) of Strength 589 and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 0 Damage, Make 2 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 4005 Damage, Make 3 Random Gem(s) into Protect Gem(s) of Strength 780 and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 0 Damage, Make 2 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 5106 Damage, Make 3 Random Gem(s) into Protect Gem(s) of Strength 971 and PIN the opponent!"
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Deal 0 Damage, Make 2 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 6206 Damage, Make 3 Random Gem(s) into Protect Gem(s) of Strength 1161 and PIN the opponent!"
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Deal 0 Damage, Make 3 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 7307 Damage, Make 4 Random Gem(s) into Protect Gem(s) of Strength 1352 and PIN the opponent!"
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Deal 0 Damage, Make 3 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 8407 Damage, Make 4 Random Gem(s) into Protect Gem(s) of Strength 1543 and PIN the opponent!"
                         }
                     ]
                 },
@@ -3824,117 +3824,117 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 2 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 305 Damage and Decrease your Opponents Black Gem Damage by 20% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 2 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 1034 Damage and Decrease your Opponents Black Gem Damage by 20% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 2 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 1764 Damage and Decrease your Opponents Black Gem Damage by 21% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 3 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 2494 Damage and Decrease your Opponents Black Gem Damage by 21% for 4 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 3 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 3224 Damage and Decrease your Opponents Black Gem Damage by 22% for 4 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 4 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 3953 Damage and Decrease your Opponents Black Gem Damage by 22% for 4 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Make 4 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 4683 Damage and Decrease your Opponents Black Gem Damage by 23% for 5 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Make 5 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 5413 Damage and Decrease your Opponents Black Gem Damage by 23% for 5 Turns."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BStrowman_MAM_3Star_03",
                     "levelCap": 8,
-                    "cost": 7,
+                    "cost": 6,
                     "gemType": "Black",
                     "name": "Running Clothesline",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 410 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 1261 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 2113 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 2965 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 3816 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Steal up to 5 Green MP from your opponent!"
+                            "text": "Deal 4668 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Steal up to 5 Green MP from your opponent!"
+                            "text": "Deal 5520 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Steal up to 5 Green MP from your opponent!"
+                            "text": "Deal 6371 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BStrowman_MAM_3Star_04",
                     "levelCap": 8,
-                    "cost": 9,
+                    "cost": 7,
                     "gemType": "Yellow",
                     "name": "Superplex",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 497 Damage and Make 2 Random Green Gem(s) into Protect Gem(s) of Strength 198."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 1420 Damage and Make 2 Random Green Gem(s) into Protect Gem(s) of Strength 375."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 2343 Damage and Make 2 Random Green Gem(s) into Protect Gem(s) of Strength 553."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 3266 Damage and Make 3 Random Green Gem(s) into Protect Gem(s) of Strength 730."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 4189 Damage and Make 3 Random Green Gem(s) into Protect Gem(s) of Strength 908."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 5113 Damage and Make 3 Random Green Gem(s) into Protect Gem(s) of Strength 1085."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 6036 Damage and Make 4 Random Green Gem(s) into Protect Gem(s) of Strength 1263."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 6959 Damage and Make 4 Random Green Gem(s) into Protect Gem(s) of Strength 1440."
                         }
                     ]
                 },
@@ -3947,35 +3947,35 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 524 Damage and Make 2 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 1554 Damage and Make 2 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 2584 Damage and Make 2 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 3614 Damage and Make 3 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 4644 Damage and Make 3 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 5674 Damage and Make 3 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 6704 Damage and Make 4 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 7734 Damage and Make 4 Random Black Gem(s) into Yellow Gem(s)."
                         }
                     ]
                 }
@@ -5036,35 +5036,35 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 0 Damage, Make 1 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 704 Damage, Make 2 Random Gem(s) into Protect Gem(s) of Strength 208 and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 0 Damage, Make 1 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 1804 Damage, Make 2 Random Gem(s) into Protect Gem(s) of Strength 398 and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 0 Damage, Make 1 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 2905 Damage, Make 2 Random Gem(s) into Protect Gem(s) of Strength 589 and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 0 Damage, Make 2 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 4005 Damage, Make 3 Random Gem(s) into Protect Gem(s) of Strength 780 and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 0 Damage, Make 2 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 5106 Damage, Make 3 Random Gem(s) into Protect Gem(s) of Strength 971 and PIN the opponent!"
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Deal 0 Damage, Make 2 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 6206 Damage, Make 3 Random Gem(s) into Protect Gem(s) of Strength 1161 and PIN the opponent!"
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Deal 0 Damage, Make 3 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 7307 Damage, Make 4 Random Gem(s) into Protect Gem(s) of Strength 1352 and PIN the opponent!"
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Deal 0 Damage, Make 3 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 8407 Damage, Make 4 Random Gem(s) into Protect Gem(s) of Strength 1543 and PIN the opponent!"
                         }
                     ]
                 },
@@ -5077,117 +5077,117 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 2 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 305 Damage and Decrease your Opponents Black Gem Damage by 20% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 2 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 1034 Damage and Decrease your Opponents Black Gem Damage by 20% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 2 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 1764 Damage and Decrease your Opponents Black Gem Damage by 21% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 3 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 2494 Damage and Decrease your Opponents Black Gem Damage by 21% for 4 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 3 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 3224 Damage and Decrease your Opponents Black Gem Damage by 22% for 4 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 4 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 3953 Damage and Decrease your Opponents Black Gem Damage by 22% for 4 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Make 4 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 4683 Damage and Decrease your Opponents Black Gem Damage by 23% for 5 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Make 5 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 5413 Damage and Decrease your Opponents Black Gem Damage by 23% for 5 Turns."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BStrowman_MAM_3Star_03",
                     "levelCap": 8,
-                    "cost": 7,
+                    "cost": 6,
                     "gemType": "Black",
                     "name": "Running Clothesline",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 410 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 1261 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 2113 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 2965 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 3816 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Steal up to 5 Green MP from your opponent!"
+                            "text": "Deal 4668 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Steal up to 5 Green MP from your opponent!"
+                            "text": "Deal 5520 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Steal up to 5 Green MP from your opponent!"
+                            "text": "Deal 6371 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BStrowman_MAM_3Star_04",
                     "levelCap": 8,
-                    "cost": 9,
+                    "cost": 7,
                     "gemType": "Yellow",
                     "name": "Superplex",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 497 Damage and Make 2 Random Green Gem(s) into Protect Gem(s) of Strength 198."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 1420 Damage and Make 2 Random Green Gem(s) into Protect Gem(s) of Strength 375."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 2343 Damage and Make 2 Random Green Gem(s) into Protect Gem(s) of Strength 553."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 3266 Damage and Make 3 Random Green Gem(s) into Protect Gem(s) of Strength 730."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 4189 Damage and Make 3 Random Green Gem(s) into Protect Gem(s) of Strength 908."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 5113 Damage and Make 3 Random Green Gem(s) into Protect Gem(s) of Strength 1085."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 6036 Damage and Make 4 Random Green Gem(s) into Protect Gem(s) of Strength 1263."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 6959 Damage and Make 4 Random Green Gem(s) into Protect Gem(s) of Strength 1440."
                         }
                     ]
                 },
@@ -5200,35 +5200,35 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 524 Damage and Make 2 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 1554 Damage and Make 2 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 2584 Damage and Make 2 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 3614 Damage and Make 3 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 4644 Damage and Make 3 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 5674 Damage and Make 3 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 6704 Damage and Make 4 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 7734 Damage and Make 4 Random Black Gem(s) into Yellow Gem(s)."
                         }
                     ]
                 }
@@ -5511,15 +5511,15 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 0 Damage, Make 1 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 304 Damage, Make 1 Random Gem(s) into Protect Gem(s) of Strength 148 and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 0 Damage, Make 2 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 538 Damage, Make 1 Random Gem(s) into Protect Gem(s) of Strength 181 and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 0 Damage, Make 3 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 773 Damage, Make 2 Random Gem(s) into Protect Gem(s) of Strength 214 and PIN the opponent!"
                         }
                     ]
                 },
@@ -5532,36 +5532,36 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 123 Damage and Decrease your Opponents Black Gem Damage by 5% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 2 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 280 Damage and Decrease your Opponents Black Gem Damage by 8% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 3 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 437 Damage and Decrease your Opponents Black Gem Damage by 11% for 3 Turns."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BStrowman_MAM_1Star_03",
                     "levelCap": 3,
-                    "cost": 7,
+                    "cost": 6,
                     "gemType": "Black",
                     "name": "Running Clothesline",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Steal up to 3 Green MP from your opponent!"
+                            "text": "Deal 165 Damage and Make 1 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Steal up to 3 Green MP from your opponent!"
+                            "text": "Deal 343 Damage and Make 1 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Steal up to 3 Green MP from your opponent!"
+                            "text": "Deal 521 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
                         }
                     ]
                 }
@@ -6232,27 +6232,27 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 0 Damage, Make 1 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 426 Damage, Make 1 Random Gem(s) into Protect Gem(s) of Strength 230 and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 0 Damage, Make 1 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 901 Damage, Make 1 Random Gem(s) into Protect Gem(s) of Strength 303 and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 0 Damage, Make 2 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 1376 Damage, Make 2 Random Gem(s) into Protect Gem(s) of Strength 376 and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 0 Damage, Make 2 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 1852 Damage, Make 2 Random Gem(s) into Protect Gem(s) of Strength 449 and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 0 Damage, Make 3 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 2327 Damage, Make 3 Random Gem(s) into Protect Gem(s) of Strength 522 and PIN the opponent!"
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Deal 0 Damage, Make 3 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 2802 Damage, Make 3 Random Gem(s) into Protect Gem(s) of Strength 595 and PIN the opponent!"
                         }
                     ]
                 },
@@ -6265,93 +6265,93 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 178 Damage and Decrease your Opponents Black Gem Damage by 15% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 1 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 485 Damage and Decrease your Opponents Black Gem Damage by 15% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 2 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 792 Damage and Decrease your Opponents Black Gem Damage by 16% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 3 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 1099 Damage and Decrease your Opponents Black Gem Damage by 17% for 4 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 3 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 1406 Damage and Decrease your Opponents Black Gem Damage by 18% for 4 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 4 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 1713 Damage and Decrease your Opponents Black Gem Damage by 19% for 4 Turns."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BStrowman_MAM_2Star_03",
                     "levelCap": 6,
-                    "cost": 7,
+                    "cost": 6,
                     "gemType": "Black",
                     "name": "Running Clothesline",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Steal up to 3 Green MP from your opponent!"
+                            "text": "Deal 240 Damage and Make 1 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Steal up to 3 Green MP from your opponent!"
+                            "text": "Deal 595 Damage and Make 1 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Steal up to 3 Green MP from your opponent!"
+                            "text": "Deal 951 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 1307 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 1663 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 2019 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BStrowman_MAM_2Star_04",
                     "levelCap": 6,
-                    "cost": 9,
+                    "cost": 7,
                     "gemType": "Yellow",
                     "name": "Superplex",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s)."
+                            "text": "Deal 291 Damage and Make 1 Random Green Gem(s) into Protect Gem(s) of Strength 218."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s)."
+                            "text": "Deal 674 Damage and Make 1 Random Green Gem(s) into Protect Gem(s) of Strength 285."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s)."
+                            "text": "Deal 1057 Damage and Make 2 Random Green Gem(s) into Protect Gem(s) of Strength 353."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s)."
+                            "text": "Deal 1440 Damage and Make 2 Random Green Gem(s) into Protect Gem(s) of Strength 421."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s)."
+                            "text": "Deal 1823 Damage and Make 3 Random Green Gem(s) into Protect Gem(s) of Strength 488."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s)."
+                            "text": "Deal 2206 Damage and Make 3 Random Green Gem(s) into Protect Gem(s) of Strength 556."
                         }
                     ]
                 }
@@ -7022,27 +7022,27 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 0 Damage, Make 1 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 426 Damage, Make 1 Random Gem(s) into Protect Gem(s) of Strength 230 and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 0 Damage, Make 1 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 901 Damage, Make 1 Random Gem(s) into Protect Gem(s) of Strength 303 and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 0 Damage, Make 2 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 1376 Damage, Make 2 Random Gem(s) into Protect Gem(s) of Strength 376 and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 0 Damage, Make 2 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 1852 Damage, Make 2 Random Gem(s) into Protect Gem(s) of Strength 449 and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 0 Damage, Make 3 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 2327 Damage, Make 3 Random Gem(s) into Protect Gem(s) of Strength 522 and PIN the opponent!"
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Deal 0 Damage, Make 3 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 2802 Damage, Make 3 Random Gem(s) into Protect Gem(s) of Strength 595 and PIN the opponent!"
                         }
                     ]
                 },
@@ -7055,93 +7055,93 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 178 Damage and Decrease your Opponents Black Gem Damage by 15% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 1 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 485 Damage and Decrease your Opponents Black Gem Damage by 15% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 2 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 792 Damage and Decrease your Opponents Black Gem Damage by 16% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 3 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 1099 Damage and Decrease your Opponents Black Gem Damage by 17% for 4 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 3 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 1406 Damage and Decrease your Opponents Black Gem Damage by 18% for 4 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 4 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 1713 Damage and Decrease your Opponents Black Gem Damage by 19% for 4 Turns."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BStrowman_MAM_2Star_03",
                     "levelCap": 6,
-                    "cost": 7,
+                    "cost": 6,
                     "gemType": "Black",
                     "name": "Running Clothesline",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Steal up to 3 Green MP from your opponent!"
+                            "text": "Deal 240 Damage and Make 1 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Steal up to 3 Green MP from your opponent!"
+                            "text": "Deal 595 Damage and Make 1 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Steal up to 3 Green MP from your opponent!"
+                            "text": "Deal 951 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 1307 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 1663 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 2019 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BStrowman_MAM_2Star_04",
                     "levelCap": 6,
-                    "cost": 9,
+                    "cost": 7,
                     "gemType": "Yellow",
                     "name": "Superplex",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s)."
+                            "text": "Deal 291 Damage and Make 1 Random Green Gem(s) into Protect Gem(s) of Strength 218."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s)."
+                            "text": "Deal 674 Damage and Make 1 Random Green Gem(s) into Protect Gem(s) of Strength 285."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s)."
+                            "text": "Deal 1057 Damage and Make 2 Random Green Gem(s) into Protect Gem(s) of Strength 353."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s)."
+                            "text": "Deal 1440 Damage and Make 2 Random Green Gem(s) into Protect Gem(s) of Strength 421."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s)."
+                            "text": "Deal 1823 Damage and Make 3 Random Green Gem(s) into Protect Gem(s) of Strength 488."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s)."
+                            "text": "Deal 2206 Damage and Make 3 Random Green Gem(s) into Protect Gem(s) of Strength 556."
                         }
                     ]
                 }
@@ -8462,39 +8462,39 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 0 Damage, Make 1 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 704 Damage, Make 2 Random Gem(s) into Protect Gem(s) of Strength 208 and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 0 Damage, Make 1 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 1804 Damage, Make 2 Random Gem(s) into Protect Gem(s) of Strength 398 and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 0 Damage, Make 1 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 2905 Damage, Make 2 Random Gem(s) into Protect Gem(s) of Strength 589 and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 0 Damage, Make 2 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 4005 Damage, Make 3 Random Gem(s) into Protect Gem(s) of Strength 780 and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 0 Damage, Make 2 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 5106 Damage, Make 3 Random Gem(s) into Protect Gem(s) of Strength 971 and PIN the opponent!"
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Deal 0 Damage, Make 2 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 6206 Damage, Make 3 Random Gem(s) into Protect Gem(s) of Strength 1161 and PIN the opponent!"
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Deal 0 Damage, Make 3 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 7307 Damage, Make 4 Random Gem(s) into Protect Gem(s) of Strength 1352 and PIN the opponent!"
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Deal 0 Damage, Make 3 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 8407 Damage, Make 4 Random Gem(s) into Protect Gem(s) of Strength 1543 and PIN the opponent!"
                         },
                         {
                             "level": 9,
-                            "text": "FINISHER! Deal 0 Damage, Make 3 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 9508 Damage, Make 4 Random Gem(s) into Protect Gem(s) of Strength 1734 and PIN the opponent!"
                         }
                     ]
                 },
@@ -8507,129 +8507,129 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 2 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 305 Damage and Decrease your Opponents Black Gem Damage by 20% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 2 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 1034 Damage and Decrease your Opponents Black Gem Damage by 20% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 2 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 1764 Damage and Decrease your Opponents Black Gem Damage by 21% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 3 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 2494 Damage and Decrease your Opponents Black Gem Damage by 21% for 4 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 3 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 3224 Damage and Decrease your Opponents Black Gem Damage by 22% for 4 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 4 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 3953 Damage and Decrease your Opponents Black Gem Damage by 22% for 4 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Make 4 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 4683 Damage and Decrease your Opponents Black Gem Damage by 23% for 5 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Make 5 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 5413 Damage and Decrease your Opponents Black Gem Damage by 23% for 5 Turns."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 0 Damage and Make 5 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 6143 Damage and Decrease your Opponents Black Gem Damage by 24% for 5 Turns."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BStrowman_MAM_3Star_03",
                     "levelCap": 9,
-                    "cost": 7,
+                    "cost": 6,
                     "gemType": "Black",
                     "name": "Running Clothesline",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 410 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 1261 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 2113 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 2965 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 3816 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Steal up to 5 Green MP from your opponent!"
+                            "text": "Deal 4668 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Steal up to 5 Green MP from your opponent!"
+                            "text": "Deal 5520 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Steal up to 5 Green MP from your opponent!"
+                            "text": "Deal 6371 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 0 Damage and Steal up to 5 Green MP from your opponent!"
+                            "text": "Deal 7223 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BStrowman_MAM_3Star_04",
                     "levelCap": 9,
-                    "cost": 9,
+                    "cost": 7,
                     "gemType": "Yellow",
                     "name": "Superplex",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 497 Damage and Make 2 Random Green Gem(s) into Protect Gem(s) of Strength 198."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 1420 Damage and Make 2 Random Green Gem(s) into Protect Gem(s) of Strength 375."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 2343 Damage and Make 2 Random Green Gem(s) into Protect Gem(s) of Strength 553."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 3266 Damage and Make 3 Random Green Gem(s) into Protect Gem(s) of Strength 730."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 4189 Damage and Make 3 Random Green Gem(s) into Protect Gem(s) of Strength 908."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 5113 Damage and Make 3 Random Green Gem(s) into Protect Gem(s) of Strength 1085."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 6036 Damage and Make 4 Random Green Gem(s) into Protect Gem(s) of Strength 1263."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 6959 Damage and Make 4 Random Green Gem(s) into Protect Gem(s) of Strength 1440."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 7882 Damage and Make 4 Random Green Gem(s) into Protect Gem(s) of Strength 1618."
                         }
                     ]
                 },
@@ -8642,39 +8642,39 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 524 Damage and Make 2 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 1554 Damage and Make 2 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 2584 Damage and Make 2 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 3614 Damage and Make 3 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 4644 Damage and Make 3 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 5674 Damage and Make 3 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 6704 Damage and Make 4 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 7734 Damage and Make 4 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 8764 Damage and Make 4 Random Black Gem(s) into Yellow Gem(s)."
                         }
                     ]
                 }
@@ -9995,39 +9995,39 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 0 Damage, Make 1 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 704 Damage, Make 2 Random Gem(s) into Protect Gem(s) of Strength 208 and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 0 Damage, Make 1 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 1804 Damage, Make 2 Random Gem(s) into Protect Gem(s) of Strength 398 and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 0 Damage, Make 1 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 2905 Damage, Make 2 Random Gem(s) into Protect Gem(s) of Strength 589 and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 0 Damage, Make 2 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 4005 Damage, Make 3 Random Gem(s) into Protect Gem(s) of Strength 780 and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 0 Damage, Make 2 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 5106 Damage, Make 3 Random Gem(s) into Protect Gem(s) of Strength 971 and PIN the opponent!"
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Deal 0 Damage, Make 2 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 6206 Damage, Make 3 Random Gem(s) into Protect Gem(s) of Strength 1161 and PIN the opponent!"
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Deal 0 Damage, Make 3 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 7307 Damage, Make 4 Random Gem(s) into Protect Gem(s) of Strength 1352 and PIN the opponent!"
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Deal 0 Damage, Make 3 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 8407 Damage, Make 4 Random Gem(s) into Protect Gem(s) of Strength 1543 and PIN the opponent!"
                         },
                         {
                             "level": 9,
-                            "text": "FINISHER! Deal 0 Damage, Make 3 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 9508 Damage, Make 4 Random Gem(s) into Protect Gem(s) of Strength 1734 and PIN the opponent!"
                         }
                     ]
                 },
@@ -10040,129 +10040,129 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 2 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 305 Damage and Decrease your Opponents Black Gem Damage by 20% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 2 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 1034 Damage and Decrease your Opponents Black Gem Damage by 20% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 2 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 1764 Damage and Decrease your Opponents Black Gem Damage by 21% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 3 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 2494 Damage and Decrease your Opponents Black Gem Damage by 21% for 4 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 3 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 3224 Damage and Decrease your Opponents Black Gem Damage by 22% for 4 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 4 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 3953 Damage and Decrease your Opponents Black Gem Damage by 22% for 4 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Make 4 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 4683 Damage and Decrease your Opponents Black Gem Damage by 23% for 5 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Make 5 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 5413 Damage and Decrease your Opponents Black Gem Damage by 23% for 5 Turns."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 0 Damage and Make 5 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 6143 Damage and Decrease your Opponents Black Gem Damage by 24% for 5 Turns."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BStrowman_MAM_3Star_03",
                     "levelCap": 9,
-                    "cost": 7,
+                    "cost": 6,
                     "gemType": "Black",
                     "name": "Running Clothesline",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 410 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 1261 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 2113 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 2965 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 3816 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Steal up to 5 Green MP from your opponent!"
+                            "text": "Deal 4668 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Steal up to 5 Green MP from your opponent!"
+                            "text": "Deal 5520 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Steal up to 5 Green MP from your opponent!"
+                            "text": "Deal 6371 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 0 Damage and Steal up to 5 Green MP from your opponent!"
+                            "text": "Deal 7223 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BStrowman_MAM_3Star_04",
                     "levelCap": 9,
-                    "cost": 9,
+                    "cost": 7,
                     "gemType": "Yellow",
                     "name": "Superplex",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 497 Damage and Make 2 Random Green Gem(s) into Protect Gem(s) of Strength 198."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 1420 Damage and Make 2 Random Green Gem(s) into Protect Gem(s) of Strength 375."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 2343 Damage and Make 2 Random Green Gem(s) into Protect Gem(s) of Strength 553."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 3266 Damage and Make 3 Random Green Gem(s) into Protect Gem(s) of Strength 730."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 4189 Damage and Make 3 Random Green Gem(s) into Protect Gem(s) of Strength 908."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 5113 Damage and Make 3 Random Green Gem(s) into Protect Gem(s) of Strength 1085."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 6036 Damage and Make 4 Random Green Gem(s) into Protect Gem(s) of Strength 1263."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 6959 Damage and Make 4 Random Green Gem(s) into Protect Gem(s) of Strength 1440."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 7882 Damage and Make 4 Random Green Gem(s) into Protect Gem(s) of Strength 1618."
                         }
                     ]
                 },
@@ -10175,39 +10175,39 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 524 Damage and Make 2 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 1554 Damage and Make 2 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 2584 Damage and Make 2 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 3614 Damage and Make 3 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 4644 Damage and Make 3 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 5674 Damage and Make 3 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 6704 Damage and Make 4 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 7734 Damage and Make 4 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 8764 Damage and Make 4 Random Black Gem(s) into Yellow Gem(s)."
                         }
                     ]
                 }
@@ -11528,39 +11528,39 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 0 Damage, Make 1 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 704 Damage, Make 2 Random Gem(s) into Protect Gem(s) of Strength 208 and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 0 Damage, Make 1 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 1804 Damage, Make 2 Random Gem(s) into Protect Gem(s) of Strength 398 and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 0 Damage, Make 1 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 2905 Damage, Make 2 Random Gem(s) into Protect Gem(s) of Strength 589 and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 0 Damage, Make 2 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 4005 Damage, Make 3 Random Gem(s) into Protect Gem(s) of Strength 780 and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 0 Damage, Make 2 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 5106 Damage, Make 3 Random Gem(s) into Protect Gem(s) of Strength 971 and PIN the opponent!"
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Deal 0 Damage, Make 2 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 6206 Damage, Make 3 Random Gem(s) into Protect Gem(s) of Strength 1161 and PIN the opponent!"
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Deal 0 Damage, Make 3 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 7307 Damage, Make 4 Random Gem(s) into Protect Gem(s) of Strength 1352 and PIN the opponent!"
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Deal 0 Damage, Make 3 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 8407 Damage, Make 4 Random Gem(s) into Protect Gem(s) of Strength 1543 and PIN the opponent!"
                         },
                         {
                             "level": 9,
-                            "text": "FINISHER! Deal 0 Damage, Make 3 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 9508 Damage, Make 4 Random Gem(s) into Protect Gem(s) of Strength 1734 and PIN the opponent!"
                         }
                     ]
                 },
@@ -11573,129 +11573,129 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 2 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 305 Damage and Decrease your Opponents Black Gem Damage by 20% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 2 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 1034 Damage and Decrease your Opponents Black Gem Damage by 20% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 2 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 1764 Damage and Decrease your Opponents Black Gem Damage by 21% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 3 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 2494 Damage and Decrease your Opponents Black Gem Damage by 21% for 4 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 3 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 3224 Damage and Decrease your Opponents Black Gem Damage by 22% for 4 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 4 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 3953 Damage and Decrease your Opponents Black Gem Damage by 22% for 4 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Make 4 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 4683 Damage and Decrease your Opponents Black Gem Damage by 23% for 5 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Make 5 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 5413 Damage and Decrease your Opponents Black Gem Damage by 23% for 5 Turns."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 0 Damage and Make 5 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 6143 Damage and Decrease your Opponents Black Gem Damage by 24% for 5 Turns."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BStrowman_MAM_3Star_03",
                     "levelCap": 9,
-                    "cost": 7,
+                    "cost": 6,
                     "gemType": "Black",
                     "name": "Running Clothesline",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 410 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 1261 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 2113 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 2965 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 3816 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Steal up to 5 Green MP from your opponent!"
+                            "text": "Deal 4668 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Steal up to 5 Green MP from your opponent!"
+                            "text": "Deal 5520 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Steal up to 5 Green MP from your opponent!"
+                            "text": "Deal 6371 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 0 Damage and Steal up to 5 Green MP from your opponent!"
+                            "text": "Deal 7223 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BStrowman_MAM_3Star_04",
                     "levelCap": 9,
-                    "cost": 9,
+                    "cost": 7,
                     "gemType": "Yellow",
                     "name": "Superplex",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 497 Damage and Make 2 Random Green Gem(s) into Protect Gem(s) of Strength 198."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 1420 Damage and Make 2 Random Green Gem(s) into Protect Gem(s) of Strength 375."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 2343 Damage and Make 2 Random Green Gem(s) into Protect Gem(s) of Strength 553."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 3266 Damage and Make 3 Random Green Gem(s) into Protect Gem(s) of Strength 730."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 4189 Damage and Make 3 Random Green Gem(s) into Protect Gem(s) of Strength 908."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 5113 Damage and Make 3 Random Green Gem(s) into Protect Gem(s) of Strength 1085."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 6036 Damage and Make 4 Random Green Gem(s) into Protect Gem(s) of Strength 1263."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 6959 Damage and Make 4 Random Green Gem(s) into Protect Gem(s) of Strength 1440."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 7882 Damage and Make 4 Random Green Gem(s) into Protect Gem(s) of Strength 1618."
                         }
                     ]
                 },
@@ -11708,39 +11708,39 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 524 Damage and Make 2 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 1554 Damage and Make 2 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 2584 Damage and Make 2 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 3614 Damage and Make 3 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 4644 Damage and Make 3 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 5674 Damage and Make 3 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 6704 Damage and Make 4 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 7734 Damage and Make 4 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 8764 Damage and Make 4 Random Black Gem(s) into Yellow Gem(s)."
                         }
                     ]
                 }
@@ -12153,19 +12153,19 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 0 Damage, Make 1 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 304 Damage, Make 1 Random Gem(s) into Protect Gem(s) of Strength 148 and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 0 Damage, Make 2 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 538 Damage, Make 1 Random Gem(s) into Protect Gem(s) of Strength 181 and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 0 Damage, Make 3 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 773 Damage, Make 2 Random Gem(s) into Protect Gem(s) of Strength 214 and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 0 Damage, Make 4 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 1008 Damage, Make 3 Random Gem(s) into Protect Gem(s) of Strength 248 and PIN the opponent!"
                         }
                     ]
                 },
@@ -12178,44 +12178,44 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 123 Damage and Decrease your Opponents Black Gem Damage by 5% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 2 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 280 Damage and Decrease your Opponents Black Gem Damage by 8% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 3 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 437 Damage and Decrease your Opponents Black Gem Damage by 11% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 4 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 594 Damage and Decrease your Opponents Black Gem Damage by 15% for 4 Turns."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BStrowman_MAM_1Star_03",
                     "levelCap": 4,
-                    "cost": 7,
+                    "cost": 6,
                     "gemType": "Black",
                     "name": "Running Clothesline",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Steal up to 3 Green MP from your opponent!"
+                            "text": "Deal 165 Damage and Make 1 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Steal up to 3 Green MP from your opponent!"
+                            "text": "Deal 343 Damage and Make 1 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Steal up to 3 Green MP from your opponent!"
+                            "text": "Deal 521 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 699 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
                         }
                     ]
                 }
@@ -13016,31 +13016,31 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 0 Damage, Make 1 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 426 Damage, Make 1 Random Gem(s) into Protect Gem(s) of Strength 230 and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 0 Damage, Make 1 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 901 Damage, Make 1 Random Gem(s) into Protect Gem(s) of Strength 303 and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 0 Damage, Make 2 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 1376 Damage, Make 2 Random Gem(s) into Protect Gem(s) of Strength 376 and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 0 Damage, Make 2 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 1852 Damage, Make 2 Random Gem(s) into Protect Gem(s) of Strength 449 and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 0 Damage, Make 3 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 2327 Damage, Make 3 Random Gem(s) into Protect Gem(s) of Strength 522 and PIN the opponent!"
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Deal 0 Damage, Make 3 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 2802 Damage, Make 3 Random Gem(s) into Protect Gem(s) of Strength 595 and PIN the opponent!"
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Deal 0 Damage, Make 4 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 3278 Damage, Make 4 Random Gem(s) into Protect Gem(s) of Strength 668 and PIN the opponent!"
                         }
                     ]
                 },
@@ -13053,105 +13053,105 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 178 Damage and Decrease your Opponents Black Gem Damage by 15% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 1 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 485 Damage and Decrease your Opponents Black Gem Damage by 15% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 2 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 792 Damage and Decrease your Opponents Black Gem Damage by 16% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 3 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 1099 Damage and Decrease your Opponents Black Gem Damage by 17% for 4 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 3 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 1406 Damage and Decrease your Opponents Black Gem Damage by 18% for 4 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 4 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 1713 Damage and Decrease your Opponents Black Gem Damage by 19% for 4 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Make 5 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 2021 Damage and Decrease your Opponents Black Gem Damage by 20% for 5 Turns."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BStrowman_MAM_2Star_03",
                     "levelCap": 7,
-                    "cost": 7,
+                    "cost": 6,
                     "gemType": "Black",
                     "name": "Running Clothesline",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Steal up to 3 Green MP from your opponent!"
+                            "text": "Deal 240 Damage and Make 1 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Steal up to 3 Green MP from your opponent!"
+                            "text": "Deal 595 Damage and Make 1 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Steal up to 3 Green MP from your opponent!"
+                            "text": "Deal 951 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 1307 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 1663 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 2019 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Steal up to 5 Green MP from your opponent!"
+                            "text": "Deal 2375 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BStrowman_MAM_2Star_04",
                     "levelCap": 7,
-                    "cost": 9,
+                    "cost": 7,
                     "gemType": "Yellow",
                     "name": "Superplex",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s)."
+                            "text": "Deal 291 Damage and Make 1 Random Green Gem(s) into Protect Gem(s) of Strength 218."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s)."
+                            "text": "Deal 674 Damage and Make 1 Random Green Gem(s) into Protect Gem(s) of Strength 285."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s)."
+                            "text": "Deal 1057 Damage and Make 2 Random Green Gem(s) into Protect Gem(s) of Strength 353."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s)."
+                            "text": "Deal 1440 Damage and Make 2 Random Green Gem(s) into Protect Gem(s) of Strength 421."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s)."
+                            "text": "Deal 1823 Damage and Make 3 Random Green Gem(s) into Protect Gem(s) of Strength 488."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s)."
+                            "text": "Deal 2206 Damage and Make 3 Random Green Gem(s) into Protect Gem(s) of Strength 556."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s)."
+                            "text": "Deal 2590 Damage and Make 4 Random Green Gem(s) into Protect Gem(s) of Strength 624."
                         }
                     ]
                 }
@@ -13952,31 +13952,31 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 0 Damage, Make 1 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 426 Damage, Make 1 Random Gem(s) into Protect Gem(s) of Strength 230 and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 0 Damage, Make 1 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 901 Damage, Make 1 Random Gem(s) into Protect Gem(s) of Strength 303 and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 0 Damage, Make 2 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 1376 Damage, Make 2 Random Gem(s) into Protect Gem(s) of Strength 376 and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 0 Damage, Make 2 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 1852 Damage, Make 2 Random Gem(s) into Protect Gem(s) of Strength 449 and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 0 Damage, Make 3 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 2327 Damage, Make 3 Random Gem(s) into Protect Gem(s) of Strength 522 and PIN the opponent!"
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Deal 0 Damage, Make 3 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 2802 Damage, Make 3 Random Gem(s) into Protect Gem(s) of Strength 595 and PIN the opponent!"
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Deal 0 Damage, Make 4 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 3278 Damage, Make 4 Random Gem(s) into Protect Gem(s) of Strength 668 and PIN the opponent!"
                         }
                     ]
                 },
@@ -13989,105 +13989,105 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 1 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 178 Damage and Decrease your Opponents Black Gem Damage by 15% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 1 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 485 Damage and Decrease your Opponents Black Gem Damage by 15% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 2 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 792 Damage and Decrease your Opponents Black Gem Damage by 16% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 3 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 1099 Damage and Decrease your Opponents Black Gem Damage by 17% for 4 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 3 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 1406 Damage and Decrease your Opponents Black Gem Damage by 18% for 4 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 4 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 1713 Damage and Decrease your Opponents Black Gem Damage by 19% for 4 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Make 5 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 2021 Damage and Decrease your Opponents Black Gem Damage by 20% for 5 Turns."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BStrowman_MAM_2Star_03",
                     "levelCap": 7,
-                    "cost": 7,
+                    "cost": 6,
                     "gemType": "Black",
                     "name": "Running Clothesline",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Steal up to 3 Green MP from your opponent!"
+                            "text": "Deal 240 Damage and Make 1 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Steal up to 3 Green MP from your opponent!"
+                            "text": "Deal 595 Damage and Make 1 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Steal up to 3 Green MP from your opponent!"
+                            "text": "Deal 951 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 1307 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 1663 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 2019 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Steal up to 5 Green MP from your opponent!"
+                            "text": "Deal 2375 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BStrowman_MAM_2Star_04",
                     "levelCap": 7,
-                    "cost": 9,
+                    "cost": 7,
                     "gemType": "Yellow",
                     "name": "Superplex",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s)."
+                            "text": "Deal 291 Damage and Make 1 Random Green Gem(s) into Protect Gem(s) of Strength 218."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s)."
+                            "text": "Deal 674 Damage and Make 1 Random Green Gem(s) into Protect Gem(s) of Strength 285."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s)."
+                            "text": "Deal 1057 Damage and Make 2 Random Green Gem(s) into Protect Gem(s) of Strength 353."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s)."
+                            "text": "Deal 1440 Damage and Make 2 Random Green Gem(s) into Protect Gem(s) of Strength 421."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s)."
+                            "text": "Deal 1823 Damage and Make 3 Random Green Gem(s) into Protect Gem(s) of Strength 488."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s)."
+                            "text": "Deal 2206 Damage and Make 3 Random Green Gem(s) into Protect Gem(s) of Strength 556."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s)."
+                            "text": "Deal 2590 Damage and Make 4 Random Green Gem(s) into Protect Gem(s) of Strength 624."
                         }
                     ]
                 }
@@ -15668,43 +15668,43 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 0 Damage, Make 1 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 704 Damage, Make 2 Random Gem(s) into Protect Gem(s) of Strength 208 and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 0 Damage, Make 1 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 1804 Damage, Make 2 Random Gem(s) into Protect Gem(s) of Strength 398 and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 0 Damage, Make 1 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 2905 Damage, Make 2 Random Gem(s) into Protect Gem(s) of Strength 589 and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 0 Damage, Make 2 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 4005 Damage, Make 3 Random Gem(s) into Protect Gem(s) of Strength 780 and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 0 Damage, Make 2 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 5106 Damage, Make 3 Random Gem(s) into Protect Gem(s) of Strength 971 and PIN the opponent!"
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Deal 0 Damage, Make 2 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 6206 Damage, Make 3 Random Gem(s) into Protect Gem(s) of Strength 1161 and PIN the opponent!"
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Deal 0 Damage, Make 3 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 7307 Damage, Make 4 Random Gem(s) into Protect Gem(s) of Strength 1352 and PIN the opponent!"
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Deal 0 Damage, Make 3 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 8407 Damage, Make 4 Random Gem(s) into Protect Gem(s) of Strength 1543 and PIN the opponent!"
                         },
                         {
                             "level": 9,
-                            "text": "FINISHER! Deal 0 Damage, Make 3 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 9508 Damage, Make 4 Random Gem(s) into Protect Gem(s) of Strength 1734 and PIN the opponent!"
                         },
                         {
                             "level": 10,
-                            "text": "FINISHER! Deal 0 Damage, Make 4 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 10609 Damage, Make 5 Random Gem(s) into Protect Gem(s) of Strength 1925 and PIN the opponent!"
                         }
                     ]
                 },
@@ -15717,141 +15717,141 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 2 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 305 Damage and Decrease your Opponents Black Gem Damage by 20% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 2 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 1034 Damage and Decrease your Opponents Black Gem Damage by 20% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 2 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 1764 Damage and Decrease your Opponents Black Gem Damage by 21% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 3 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 2494 Damage and Decrease your Opponents Black Gem Damage by 21% for 4 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 3 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 3224 Damage and Decrease your Opponents Black Gem Damage by 22% for 4 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 4 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 3953 Damage and Decrease your Opponents Black Gem Damage by 22% for 4 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Make 4 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 4683 Damage and Decrease your Opponents Black Gem Damage by 23% for 5 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Make 5 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 5413 Damage and Decrease your Opponents Black Gem Damage by 23% for 5 Turns."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 0 Damage and Make 5 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 6143 Damage and Decrease your Opponents Black Gem Damage by 24% for 5 Turns."
                         },
                         {
                             "level": 10,
-                            "text": "Deal 0 Damage and Make 6 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 6873 Damage and Decrease your Opponents Black Gem Damage by 25% for 6 Turns."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BStrowman_MAM_3Star_03",
                     "levelCap": 10,
-                    "cost": 7,
+                    "cost": 6,
                     "gemType": "Black",
                     "name": "Running Clothesline",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 410 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 1261 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 2113 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 2965 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 3816 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Steal up to 5 Green MP from your opponent!"
+                            "text": "Deal 4668 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Steal up to 5 Green MP from your opponent!"
+                            "text": "Deal 5520 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Steal up to 5 Green MP from your opponent!"
+                            "text": "Deal 6371 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 0 Damage and Steal up to 5 Green MP from your opponent!"
+                            "text": "Deal 7223 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 10,
-                            "text": "Deal 0 Damage and Steal up to 6 Green MP from your opponent!"
+                            "text": "Deal 8075 Damage and Make 5 Random Gem(s) into Blue Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BStrowman_MAM_3Star_04",
                     "levelCap": 10,
-                    "cost": 9,
+                    "cost": 7,
                     "gemType": "Yellow",
                     "name": "Superplex",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 497 Damage and Make 2 Random Green Gem(s) into Protect Gem(s) of Strength 198."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 1420 Damage and Make 2 Random Green Gem(s) into Protect Gem(s) of Strength 375."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 2343 Damage and Make 2 Random Green Gem(s) into Protect Gem(s) of Strength 553."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 3266 Damage and Make 3 Random Green Gem(s) into Protect Gem(s) of Strength 730."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 4189 Damage and Make 3 Random Green Gem(s) into Protect Gem(s) of Strength 908."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 5113 Damage and Make 3 Random Green Gem(s) into Protect Gem(s) of Strength 1085."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 6036 Damage and Make 4 Random Green Gem(s) into Protect Gem(s) of Strength 1263."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 6959 Damage and Make 4 Random Green Gem(s) into Protect Gem(s) of Strength 1440."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 7882 Damage and Make 4 Random Green Gem(s) into Protect Gem(s) of Strength 1618."
                         },
                         {
                             "level": 10,
-                            "text": "Deal 0 Damage and Destroy 3 Random Blast Gem(s)."
+                            "text": "Deal 8806 Damage and Make 5 Random Green Gem(s) into Protect Gem(s) of Strength 1796."
                         }
                     ]
                 },
@@ -15864,43 +15864,43 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 524 Damage and Make 2 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 1554 Damage and Make 2 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 2584 Damage and Make 2 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 3614 Damage and Make 3 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 4644 Damage and Make 3 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 5674 Damage and Make 3 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 6704 Damage and Make 4 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 7734 Damage and Make 4 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 8764 Damage and Make 4 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 10,
-                            "text": "Deal 0 Damage and Steal 3 Blast Gem(s)."
+                            "text": "Deal 9794 Damage and Make 5 Random Black Gem(s) into Yellow Gem(s)."
                         }
                     ]
                 }
@@ -17481,43 +17481,43 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 0 Damage, Make 1 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 704 Damage, Make 2 Random Gem(s) into Protect Gem(s) of Strength 208 and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 0 Damage, Make 1 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 1804 Damage, Make 2 Random Gem(s) into Protect Gem(s) of Strength 398 and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 0 Damage, Make 1 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 2905 Damage, Make 2 Random Gem(s) into Protect Gem(s) of Strength 589 and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 0 Damage, Make 2 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 4005 Damage, Make 3 Random Gem(s) into Protect Gem(s) of Strength 780 and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 0 Damage, Make 2 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 5106 Damage, Make 3 Random Gem(s) into Protect Gem(s) of Strength 971 and PIN the opponent!"
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Deal 0 Damage, Make 2 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 6206 Damage, Make 3 Random Gem(s) into Protect Gem(s) of Strength 1161 and PIN the opponent!"
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Deal 0 Damage, Make 3 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 7307 Damage, Make 4 Random Gem(s) into Protect Gem(s) of Strength 1352 and PIN the opponent!"
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Deal 0 Damage, Make 3 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 8407 Damage, Make 4 Random Gem(s) into Protect Gem(s) of Strength 1543 and PIN the opponent!"
                         },
                         {
                             "level": 9,
-                            "text": "FINISHER! Deal 0 Damage, Make 3 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 9508 Damage, Make 4 Random Gem(s) into Protect Gem(s) of Strength 1734 and PIN the opponent!"
                         },
                         {
                             "level": 10,
-                            "text": "FINISHER! Deal 0 Damage, Make 4 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 10609 Damage, Make 5 Random Gem(s) into Protect Gem(s) of Strength 1925 and PIN the opponent!"
                         }
                     ]
                 },
@@ -17530,141 +17530,141 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 2 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 305 Damage and Decrease your Opponents Black Gem Damage by 20% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 2 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 1034 Damage and Decrease your Opponents Black Gem Damage by 20% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 2 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 1764 Damage and Decrease your Opponents Black Gem Damage by 21% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 3 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 2494 Damage and Decrease your Opponents Black Gem Damage by 21% for 4 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 3 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 3224 Damage and Decrease your Opponents Black Gem Damage by 22% for 4 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 4 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 3953 Damage and Decrease your Opponents Black Gem Damage by 22% for 4 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Make 4 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 4683 Damage and Decrease your Opponents Black Gem Damage by 23% for 5 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Make 5 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 5413 Damage and Decrease your Opponents Black Gem Damage by 23% for 5 Turns."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 0 Damage and Make 5 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 6143 Damage and Decrease your Opponents Black Gem Damage by 24% for 5 Turns."
                         },
                         {
                             "level": 10,
-                            "text": "Deal 0 Damage and Make 6 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 6873 Damage and Decrease your Opponents Black Gem Damage by 25% for 6 Turns."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BStrowman_MAM_3Star_03",
                     "levelCap": 10,
-                    "cost": 7,
+                    "cost": 6,
                     "gemType": "Black",
                     "name": "Running Clothesline",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 410 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 1261 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 2113 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 2965 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 3816 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Steal up to 5 Green MP from your opponent!"
+                            "text": "Deal 4668 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Steal up to 5 Green MP from your opponent!"
+                            "text": "Deal 5520 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Steal up to 5 Green MP from your opponent!"
+                            "text": "Deal 6371 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 0 Damage and Steal up to 5 Green MP from your opponent!"
+                            "text": "Deal 7223 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 10,
-                            "text": "Deal 0 Damage and Steal up to 6 Green MP from your opponent!"
+                            "text": "Deal 8075 Damage and Make 5 Random Gem(s) into Blue Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BStrowman_MAM_3Star_04",
                     "levelCap": 10,
-                    "cost": 9,
+                    "cost": 7,
                     "gemType": "Yellow",
                     "name": "Superplex",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 497 Damage and Make 2 Random Green Gem(s) into Protect Gem(s) of Strength 198."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 1420 Damage and Make 2 Random Green Gem(s) into Protect Gem(s) of Strength 375."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 2343 Damage and Make 2 Random Green Gem(s) into Protect Gem(s) of Strength 553."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 3266 Damage and Make 3 Random Green Gem(s) into Protect Gem(s) of Strength 730."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 4189 Damage and Make 3 Random Green Gem(s) into Protect Gem(s) of Strength 908."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 5113 Damage and Make 3 Random Green Gem(s) into Protect Gem(s) of Strength 1085."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 6036 Damage and Make 4 Random Green Gem(s) into Protect Gem(s) of Strength 1263."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 6959 Damage and Make 4 Random Green Gem(s) into Protect Gem(s) of Strength 1440."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 7882 Damage and Make 4 Random Green Gem(s) into Protect Gem(s) of Strength 1618."
                         },
                         {
                             "level": 10,
-                            "text": "Deal 0 Damage and Destroy 3 Random Blast Gem(s)."
+                            "text": "Deal 8806 Damage and Make 5 Random Green Gem(s) into Protect Gem(s) of Strength 1796."
                         }
                     ]
                 },
@@ -17677,43 +17677,43 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 524 Damage and Make 2 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 1554 Damage and Make 2 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 2584 Damage and Make 2 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 3614 Damage and Make 3 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 4644 Damage and Make 3 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 5674 Damage and Make 3 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 6704 Damage and Make 4 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 7734 Damage and Make 4 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 8764 Damage and Make 4 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 10,
-                            "text": "Deal 0 Damage and Steal 3 Blast Gem(s)."
+                            "text": "Deal 9794 Damage and Make 5 Random Black Gem(s) into Yellow Gem(s)."
                         }
                     ]
                 }
@@ -19294,43 +19294,43 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "FINISHER! Deal 0 Damage, Make 1 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 704 Damage, Make 2 Random Gem(s) into Protect Gem(s) of Strength 208 and PIN the opponent!"
                         },
                         {
                             "level": 2,
-                            "text": "FINISHER! Deal 0 Damage, Make 1 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 1804 Damage, Make 2 Random Gem(s) into Protect Gem(s) of Strength 398 and PIN the opponent!"
                         },
                         {
                             "level": 3,
-                            "text": "FINISHER! Deal 0 Damage, Make 1 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 2905 Damage, Make 2 Random Gem(s) into Protect Gem(s) of Strength 589 and PIN the opponent!"
                         },
                         {
                             "level": 4,
-                            "text": "FINISHER! Deal 0 Damage, Make 2 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 4005 Damage, Make 3 Random Gem(s) into Protect Gem(s) of Strength 780 and PIN the opponent!"
                         },
                         {
                             "level": 5,
-                            "text": "FINISHER! Deal 0 Damage, Make 2 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 5106 Damage, Make 3 Random Gem(s) into Protect Gem(s) of Strength 971 and PIN the opponent!"
                         },
                         {
                             "level": 6,
-                            "text": "FINISHER! Deal 0 Damage, Make 2 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 6206 Damage, Make 3 Random Gem(s) into Protect Gem(s) of Strength 1161 and PIN the opponent!"
                         },
                         {
                             "level": 7,
-                            "text": "FINISHER! Deal 0 Damage, Make 3 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 7307 Damage, Make 4 Random Gem(s) into Protect Gem(s) of Strength 1352 and PIN the opponent!"
                         },
                         {
                             "level": 8,
-                            "text": "FINISHER! Deal 0 Damage, Make 3 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 8407 Damage, Make 4 Random Gem(s) into Protect Gem(s) of Strength 1543 and PIN the opponent!"
                         },
                         {
                             "level": 9,
-                            "text": "FINISHER! Deal 0 Damage, Make 3 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 9508 Damage, Make 4 Random Gem(s) into Protect Gem(s) of Strength 1734 and PIN the opponent!"
                         },
                         {
                             "level": 10,
-                            "text": "FINISHER! Deal 0 Damage, Make 4 Random Red Gem(s) into Green Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 10609 Damage, Make 5 Random Gem(s) into Protect Gem(s) of Strength 1925 and PIN the opponent!"
                         }
                     ]
                 },
@@ -19343,141 +19343,141 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Make 2 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 305 Damage and Decrease your Opponents Black Gem Damage by 20% for 3 Turns."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Make 2 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 1034 Damage and Decrease your Opponents Black Gem Damage by 20% for 3 Turns."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Make 2 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 1764 Damage and Decrease your Opponents Black Gem Damage by 21% for 3 Turns."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Make 3 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 2494 Damage and Decrease your Opponents Black Gem Damage by 21% for 4 Turns."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Make 3 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 3224 Damage and Decrease your Opponents Black Gem Damage by 22% for 4 Turns."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Make 4 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 3953 Damage and Decrease your Opponents Black Gem Damage by 22% for 4 Turns."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Make 4 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 4683 Damage and Decrease your Opponents Black Gem Damage by 23% for 5 Turns."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Make 5 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 5413 Damage and Decrease your Opponents Black Gem Damage by 23% for 5 Turns."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 0 Damage and Make 5 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 6143 Damage and Decrease your Opponents Black Gem Damage by 24% for 5 Turns."
                         },
                         {
                             "level": 10,
-                            "text": "Deal 0 Damage and Make 6 Random Red Gem(s) into Green Gem(s)."
+                            "text": "Deal 6873 Damage and Decrease your Opponents Black Gem Damage by 25% for 6 Turns."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BStrowman_MAM_3Star_03",
                     "levelCap": 10,
-                    "cost": 7,
+                    "cost": 6,
                     "gemType": "Black",
                     "name": "Running Clothesline",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 410 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 1261 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 2113 Damage and Make 2 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 2965 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Steal up to 4 Green MP from your opponent!"
+                            "text": "Deal 3816 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Steal up to 5 Green MP from your opponent!"
+                            "text": "Deal 4668 Damage and Make 3 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Steal up to 5 Green MP from your opponent!"
+                            "text": "Deal 5520 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Steal up to 5 Green MP from your opponent!"
+                            "text": "Deal 6371 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 0 Damage and Steal up to 5 Green MP from your opponent!"
+                            "text": "Deal 7223 Damage and Make 4 Random Gem(s) into Blue Gem(s)."
                         },
                         {
                             "level": 10,
-                            "text": "Deal 0 Damage and Steal up to 6 Green MP from your opponent!"
+                            "text": "Deal 8075 Damage and Make 5 Random Gem(s) into Blue Gem(s)."
                         }
                     ]
                 },
                 {
                     "ID": "ABL_BStrowman_MAM_3Star_04",
                     "levelCap": 10,
-                    "cost": 9,
+                    "cost": 7,
                     "gemType": "Yellow",
                     "name": "Superplex",
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 497 Damage and Make 2 Random Green Gem(s) into Protect Gem(s) of Strength 198."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 1420 Damage and Make 2 Random Green Gem(s) into Protect Gem(s) of Strength 375."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 2343 Damage and Make 2 Random Green Gem(s) into Protect Gem(s) of Strength 553."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 3266 Damage and Make 3 Random Green Gem(s) into Protect Gem(s) of Strength 730."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 4189 Damage and Make 3 Random Green Gem(s) into Protect Gem(s) of Strength 908."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 5113 Damage and Make 3 Random Green Gem(s) into Protect Gem(s) of Strength 1085."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 6036 Damage and Make 4 Random Green Gem(s) into Protect Gem(s) of Strength 1263."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 6959 Damage and Make 4 Random Green Gem(s) into Protect Gem(s) of Strength 1440."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s)."
+                            "text": "Deal 7882 Damage and Make 4 Random Green Gem(s) into Protect Gem(s) of Strength 1618."
                         },
                         {
                             "level": 10,
-                            "text": "Deal 0 Damage and Destroy 3 Random Blast Gem(s)."
+                            "text": "Deal 8806 Damage and Make 5 Random Green Gem(s) into Protect Gem(s) of Strength 1796."
                         }
                     ]
                 },
@@ -19490,43 +19490,43 @@
                     "levels": [
                         {
                             "level": 1,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 524 Damage and Make 2 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 2,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 1554 Damage and Make 2 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 3,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 2584 Damage and Make 2 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 4,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 3614 Damage and Make 3 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 5,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 4644 Damage and Make 3 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 6,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 5674 Damage and Make 3 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 7,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 6704 Damage and Make 4 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 8,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 7734 Damage and Make 4 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 9,
-                            "text": "Deal 0 Damage and Steal 2 Blast Gem(s)."
+                            "text": "Deal 8764 Damage and Make 4 Random Black Gem(s) into Yellow Gem(s)."
                         },
                         {
                             "level": 10,
-                            "text": "Deal 0 Damage and Steal 3 Blast Gem(s)."
+                            "text": "Deal 9794 Damage and Make 5 Random Black Gem(s) into Yellow Gem(s)."
                         }
                     ]
                 }
