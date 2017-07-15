@@ -130,8 +130,6 @@ fieldset {
   background-color: transparent;
   border: 1px solid #f7f6f6;
   border-radius: 4px;
-  /*-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);*/
-  /*box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);*/
   box-shadow: none;
 }
 .infolinks-ad-legend {
@@ -143,11 +141,7 @@ fieldset {
   line-height: inherit;
   color: #948c8c;
   background: #fff;
-  /*border: 1px solid #e3e3e3;*/
   border: 0;
-  /*border-radius: 4px;*/
-  /*box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);*/
-  /*-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);*/
   box-shadow: none;
 }
 
