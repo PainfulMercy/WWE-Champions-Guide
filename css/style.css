@@ -123,7 +123,8 @@ fieldset {
   margin: 0;
   border: 0;
 }
-.infolinks-ad {
+.infolinks-ad,
+.a-box {
   min-height: 20px;
   padding: 5px 10px 5px 15px;
   margin-bottom: 20px;
@@ -132,7 +133,8 @@ fieldset {
   border-radius: 4px;
   box-shadow: none;
 }
-.infolinks-ad-legend {
+.infolinks-ad-legend,
+.a-box-legend {
   display: block;
   font-size: 11px;
   width: auto;
