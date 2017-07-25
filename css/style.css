@@ -64,6 +64,7 @@ input[type='email'],
 input#search,
 textarea,
 #gbCalcForm input[type='number'],
+.input-text-xs-fix,
 .contact-name,
 .contact-email,
 .contact-message {
