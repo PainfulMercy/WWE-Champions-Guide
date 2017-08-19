@@ -139,7 +139,7 @@
                     "levelCap": 2,
                     "cost": 15,
                     "gemType": "Red",
-                    "name": "Falling Powerbomb",
+                    "name": "Tombstone Piledriver",
                     "move": {
                         "ID": "DestroyNumColorGems",
                         "Effects": [
@@ -749,7 +749,7 @@
                     "levelCap": 5,
                     "cost": 15,
                     "gemType": "Red",
-                    "name": "Falling Powerbomb",
+                    "name": "Tombstone Piledriver",
                     "move": {
                         "ID": "DestroyNumColorGems",
                         "Effects": [
@@ -1446,7 +1446,7 @@
                     "levelCap": 5,
                     "cost": 15,
                     "gemType": "Red",
-                    "name": "Falling Powerbomb",
+                    "name": "Tombstone Piledriver",
                     "move": {
                         "ID": "DestroyNumColorGems",
                         "Effects": [
@@ -2663,7 +2663,7 @@
                     "levelCap": 8,
                     "cost": 15,
                     "gemType": "Red",
-                    "name": "Falling Powerbomb",
+                    "name": "Tombstone Piledriver",
                     "move": {
                         "ID": "DestroyNumColorGems",
                         "Effects": [
@@ -3998,7 +3998,7 @@
                     "levelCap": 8,
                     "cost": 15,
                     "gemType": "Red",
-                    "name": "Falling Powerbomb",
+                    "name": "Tombstone Piledriver",
                     "move": {
                         "ID": "DestroyNumColorGems",
                         "Effects": [
@@ -5333,7 +5333,7 @@
                     "levelCap": 8,
                     "cost": 15,
                     "gemType": "Red",
-                    "name": "Falling Powerbomb",
+                    "name": "Tombstone Piledriver",
                     "move": {
                         "ID": "DestroyNumColorGems",
                         "Effects": [
@@ -5890,7 +5890,7 @@
                     "levelCap": 3,
                     "cost": 15,
                     "gemType": "Red",
-                    "name": "Falling Powerbomb",
+                    "name": "Tombstone Piledriver",
                     "move": {
                         "ID": "DestroyNumColorGems",
                         "Effects": [
@@ -6645,7 +6645,7 @@
                     "levelCap": 6,
                     "cost": 15,
                     "gemType": "Red",
-                    "name": "Falling Powerbomb",
+                    "name": "Tombstone Piledriver",
                     "move": {
                         "ID": "DestroyNumColorGems",
                         "Effects": [
@@ -7492,7 +7492,7 @@
                     "levelCap": 6,
                     "cost": 15,
                     "gemType": "Red",
-                    "name": "Falling Powerbomb",
+                    "name": "Tombstone Piledriver",
                     "move": {
                         "ID": "DestroyNumColorGems",
                         "Effects": [
@@ -8989,7 +8989,7 @@
                     "levelCap": 9,
                     "cost": 15,
                     "gemType": "Red",
-                    "name": "Falling Powerbomb",
+                    "name": "Tombstone Piledriver",
                     "move": {
                         "ID": "DestroyNumColorGems",
                         "Effects": [
@@ -10609,7 +10609,7 @@
                     "levelCap": 9,
                     "cost": 15,
                     "gemType": "Red",
-                    "name": "Falling Powerbomb",
+                    "name": "Tombstone Piledriver",
                     "move": {
                         "ID": "DestroyNumColorGems",
                         "Effects": [
@@ -12229,7 +12229,7 @@
                     "levelCap": 9,
                     "cost": 15,
                     "gemType": "Red",
-                    "name": "Falling Powerbomb",
+                    "name": "Tombstone Piledriver",
                     "move": {
                         "ID": "DestroyNumColorGems",
                         "Effects": [
@@ -12941,7 +12941,7 @@
                     "levelCap": 4,
                     "cost": 15,
                     "gemType": "Red",
-                    "name": "Falling Powerbomb",
+                    "name": "Tombstone Piledriver",
                     "move": {
                         "ID": "DestroyNumColorGems",
                         "Effects": [
@@ -13841,7 +13841,7 @@
                     "levelCap": 7,
                     "cost": 15,
                     "gemType": "Red",
-                    "name": "Falling Powerbomb",
+                    "name": "Tombstone Piledriver",
                     "move": {
                         "ID": "DestroyNumColorGems",
                         "Effects": [
@@ -14838,7 +14838,7 @@
                     "levelCap": 7,
                     "cost": 15,
                     "gemType": "Red",
-                    "name": "Falling Powerbomb",
+                    "name": "Tombstone Piledriver",
                     "move": {
                         "ID": "DestroyNumColorGems",
                         "Effects": [
@@ -16615,7 +16615,7 @@
                     "levelCap": 10,
                     "cost": 15,
                     "gemType": "Red",
-                    "name": "Falling Powerbomb",
+                    "name": "Tombstone Piledriver",
                     "move": {
                         "ID": "DestroyNumColorGems",
                         "Effects": [
@@ -18520,7 +18520,7 @@
                     "levelCap": 10,
                     "cost": 15,
                     "gemType": "Red",
-                    "name": "Falling Powerbomb",
+                    "name": "Tombstone Piledriver",
                     "move": {
                         "ID": "DestroyNumColorGems",
                         "Effects": [
@@ -20425,7 +20425,7 @@
                     "levelCap": 10,
                     "cost": 15,
                     "gemType": "Red",
-                    "name": "Falling Powerbomb",
+                    "name": "Tombstone Piledriver",
                     "move": {
                         "ID": "DestroyNumColorGems",
                         "Effects": [
