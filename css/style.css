@@ -125,7 +125,8 @@ fieldset {
   border: 0;
 }
 .infolinks-ad,
-.a-box {
+.a-box,
+.items-box {
   min-height: 20px;
   padding: 5px;
   margin-bottom: 20px;
@@ -135,7 +136,8 @@ fieldset {
   box-shadow: none;
 }
 .infolinks-ad-legend,
-.a-box-legend {
+.a-box-legend,
+.items-box-legend {
   display: block;
   font-size: 11px;
   width: auto;
@@ -146,6 +148,15 @@ fieldset {
   background: #fff;
   border: 0;
   box-shadow: none;
+}
+
+.items-box {
+  border-color: rgb(105, 105, 105);
+}
+
+.items-box-legend {
+  font-size: 14px;
+  color: #555;
 }
 
 .modal-open {
