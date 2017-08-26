@@ -139,7 +139,7 @@
                     "levelCap": 2,
                     "cost": 11,
                     "gemType": "Black",
-                    "name": "Sleeper Hold",
+                    "name": "Scorpion Death Lock",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -750,7 +750,7 @@
                     "levelCap": 5,
                     "cost": 11,
                     "gemType": "Black",
-                    "name": "Sleeper Hold",
+                    "name": "Scorpion Death Lock",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -1449,7 +1449,7 @@
                     "levelCap": 5,
                     "cost": 11,
                     "gemType": "Black",
-                    "name": "Sleeper Hold",
+                    "name": "Scorpion Death Lock",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -2668,7 +2668,7 @@
                     "levelCap": 8,
                     "cost": 11,
                     "gemType": "Black",
-                    "name": "Sleeper Hold",
+                    "name": "Scorpion Death Lock",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -4005,7 +4005,7 @@
                     "levelCap": 8,
                     "cost": 11,
                     "gemType": "Black",
-                    "name": "Sleeper Hold",
+                    "name": "Scorpion Death Lock",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -5342,7 +5342,7 @@
                     "levelCap": 8,
                     "cost": 11,
                     "gemType": "Black",
-                    "name": "Sleeper Hold",
+                    "name": "Scorpion Death Lock",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -5901,7 +5901,7 @@
                     "levelCap": 3,
                     "cost": 11,
                     "gemType": "Black",
-                    "name": "Sleeper Hold",
+                    "name": "Scorpion Death Lock",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -6657,7 +6657,7 @@
                     "levelCap": 6,
                     "cost": 11,
                     "gemType": "Black",
-                    "name": "Sleeper Hold",
+                    "name": "Scorpion Death Lock",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -7506,7 +7506,7 @@
                     "levelCap": 6,
                     "cost": 11,
                     "gemType": "Black",
-                    "name": "Sleeper Hold",
+                    "name": "Scorpion Death Lock",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -9005,7 +9005,7 @@
                     "levelCap": 9,
                     "cost": 11,
                     "gemType": "Black",
-                    "name": "Sleeper Hold",
+                    "name": "Scorpion Death Lock",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -10627,7 +10627,7 @@
                     "levelCap": 9,
                     "cost": 11,
                     "gemType": "Black",
-                    "name": "Sleeper Hold",
+                    "name": "Scorpion Death Lock",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -12249,7 +12249,7 @@
                     "levelCap": 9,
                     "cost": 11,
                     "gemType": "Black",
-                    "name": "Sleeper Hold",
+                    "name": "Scorpion Death Lock",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -12963,7 +12963,7 @@
                     "levelCap": 4,
                     "cost": 11,
                     "gemType": "Black",
-                    "name": "Sleeper Hold",
+                    "name": "Scorpion Death Lock",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -13864,7 +13864,7 @@
                     "levelCap": 7,
                     "cost": 11,
                     "gemType": "Black",
-                    "name": "Sleeper Hold",
+                    "name": "Scorpion Death Lock",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -14863,7 +14863,7 @@
                     "levelCap": 7,
                     "cost": 11,
                     "gemType": "Black",
-                    "name": "Sleeper Hold",
+                    "name": "Scorpion Death Lock",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -16642,7 +16642,7 @@
                     "levelCap": 10,
                     "cost": 11,
                     "gemType": "Black",
-                    "name": "Sleeper Hold",
+                    "name": "Scorpion Death Lock",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -18549,7 +18549,7 @@
                     "levelCap": 10,
                     "cost": 11,
                     "gemType": "Black",
-                    "name": "Sleeper Hold",
+                    "name": "Scorpion Death Lock",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -20456,7 +20456,7 @@
                     "levelCap": 10,
                     "cost": 11,
                     "gemType": "Black",
-                    "name": "Sleeper Hold",
+                    "name": "Scorpion Death Lock",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
