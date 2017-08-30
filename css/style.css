@@ -163,7 +163,8 @@ fieldset {
   padding-right: 0 !important;
 }
 
-.added-trainer-thumbnail {
+.added-trainer-thumbnail,
+.wrestler-thumbnail {
   position:relative;
   width: 100%;
   height: 0;
@@ -174,6 +175,12 @@ fieldset {
   background-size: cover;
 }
 
+.vertical-center-block {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+
 .trainer-buff-modification {
   color: #3c763d;
   font-weight: bold;
@@ -182,6 +189,9 @@ fieldset {
 @media screen and (max-width: 767px) {
   .added-trainer-thumbnail {
     padding-bottom: 175%;
+  }
+  .vertical-center-block {
+    display: block;
   }
 }
 /*
