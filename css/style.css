@@ -194,6 +194,30 @@ fieldset {
     display: block;
   }
 }
+
+.crates-button:before {
+  /* symbol for "opening" panels */
+  font-family: 'Glyphicons Halflings';  /* essential for enabling glyphicon */
+  content: "\e114";    /* adjust as needed, taken from bootstrap.css */
+  color: white;         /* adjust as needed */
+  float: left;
+  white-space: pre;
+}
+
+.back-to-top:before {
+  /* symbol for "opening" panels */
+  font-family: 'Glyphicons Halflings';  /* essential for enabling glyphicon */
+  content: "\e113";    /* adjust as needed, taken from bootstrap.css */
+  color: white;         /* adjust as needed */
+  float: left;
+  white-space: pre;
+}
+
+.crates-button.collapsed:before {
+  /* symbol for "collapsed" panels */
+  content: "\e080";    /* adjust as needed, taken from bootstrap.css */
+}
+
 /*
  * Off Canvas
  * --------------------------------------------------
