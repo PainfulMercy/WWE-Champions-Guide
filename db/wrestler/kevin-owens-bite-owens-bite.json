@@ -910,32 +910,32 @@
                         {
                             "level": 1,
                             "talentScore": 27,
-                            "text": "Kickout of Pin and Swap 1 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 1 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 2,
                             "talentScore": 89,
-                            "text": "Kickout of Pin and Swap 1 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 1 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 3,
                             "talentScore": 152,
-                            "text": "Kickout of Pin and Swap 1 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 1 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 4,
                             "talentScore": 215,
-                            "text": "Kickout of Pin and Swap 2 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 2 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 5,
                             "talentScore": 277,
-                            "text": "Kickout of Pin and Swap 2 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 2 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         }
                     ]
                 }
@@ -1627,32 +1627,32 @@
                         {
                             "level": 1,
                             "talentScore": 27,
-                            "text": "Kickout of Pin and Swap 1 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 1 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 2,
                             "talentScore": 89,
-                            "text": "Kickout of Pin and Swap 1 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 1 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 3,
                             "talentScore": 152,
-                            "text": "Kickout of Pin and Swap 1 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 1 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 4,
                             "talentScore": 215,
-                            "text": "Kickout of Pin and Swap 2 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 2 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 5,
                             "talentScore": 277,
-                            "text": "Kickout of Pin and Swap 2 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 2 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         }
                     ]
                 }
@@ -2918,50 +2918,50 @@
                         {
                             "level": 1,
                             "talentScore": 45,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         }
                     ]
                 },
@@ -4292,50 +4292,50 @@
                         {
                             "level": 1,
                             "talentScore": 45,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         }
                     ]
                 },
@@ -5666,50 +5666,50 @@
                         {
                             "level": 1,
                             "talentScore": 45,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         }
                     ]
                 },
@@ -6990,38 +6990,38 @@
                         {
                             "level": 1,
                             "talentScore": 27,
-                            "text": "Kickout of Pin and Swap 1 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 1 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 2,
                             "talentScore": 89,
-                            "text": "Kickout of Pin and Swap 1 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 1 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 3,
                             "talentScore": 152,
-                            "text": "Kickout of Pin and Swap 1 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 1 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 4,
                             "talentScore": 215,
-                            "text": "Kickout of Pin and Swap 2 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 2 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 5,
                             "talentScore": 277,
-                            "text": "Kickout of Pin and Swap 2 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 2 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 6,
                             "talentScore": 340,
-                            "text": "Kickout of Pin and Swap 2 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 2 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         }
                     ]
                 }
@@ -7861,38 +7861,38 @@
                         {
                             "level": 1,
                             "talentScore": 27,
-                            "text": "Kickout of Pin and Swap 1 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 1 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 2,
                             "talentScore": 89,
-                            "text": "Kickout of Pin and Swap 1 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 1 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 3,
                             "talentScore": 152,
-                            "text": "Kickout of Pin and Swap 1 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 1 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 4,
                             "talentScore": 215,
-                            "text": "Kickout of Pin and Swap 2 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 2 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 5,
                             "talentScore": 277,
-                            "text": "Kickout of Pin and Swap 2 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 2 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 6,
                             "talentScore": 340,
-                            "text": "Kickout of Pin and Swap 2 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 2 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         }
                     ]
                 }
@@ -9436,56 +9436,56 @@
                         {
                             "level": 1,
                             "talentScore": 45,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         }
                     ]
                 },
@@ -11100,56 +11100,56 @@
                         {
                             "level": 1,
                             "talentScore": 45,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         }
                     ]
                 },
@@ -12764,56 +12764,56 @@
                         {
                             "level": 1,
                             "talentScore": 45,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         }
                     ]
                 },
@@ -14396,44 +14396,44 @@
                         {
                             "level": 1,
                             "talentScore": 27,
-                            "text": "Kickout of Pin and Swap 1 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 1 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 2,
                             "talentScore": 89,
-                            "text": "Kickout of Pin and Swap 1 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 1 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 3,
                             "talentScore": 152,
-                            "text": "Kickout of Pin and Swap 1 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 1 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 4,
                             "talentScore": 215,
-                            "text": "Kickout of Pin and Swap 2 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 2 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 5,
                             "talentScore": 277,
-                            "text": "Kickout of Pin and Swap 2 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 2 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 6,
                             "talentScore": 340,
-                            "text": "Kickout of Pin and Swap 2 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 2 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 7,
                             "talentScore": 403,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         }
                     ]
                 }
@@ -15421,44 +15421,44 @@
                         {
                             "level": 1,
                             "talentScore": 27,
-                            "text": "Kickout of Pin and Swap 1 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 1 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 2,
                             "talentScore": 89,
-                            "text": "Kickout of Pin and Swap 1 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 1 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 3,
                             "talentScore": 152,
-                            "text": "Kickout of Pin and Swap 1 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 1 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 4,
                             "talentScore": 215,
-                            "text": "Kickout of Pin and Swap 2 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 2 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 5,
                             "talentScore": 277,
-                            "text": "Kickout of Pin and Swap 2 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 2 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 6,
                             "talentScore": 340,
-                            "text": "Kickout of Pin and Swap 2 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 2 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 7,
                             "talentScore": 403,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         }
                     ]
                 }
@@ -17280,62 +17280,62 @@
                         {
                             "level": 1,
                             "talentScore": 45,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 10,
                             "talentScore": 1456,
-                            "text": "Kickout of Pin and Swap 4 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='4' data-variable-name='val1'>4</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 4 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='4' data-variable-name='val1'>4</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         }
                     ]
                 },
@@ -19234,62 +19234,62 @@
                         {
                             "level": 1,
                             "talentScore": 45,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 10,
                             "talentScore": 1456,
-                            "text": "Kickout of Pin and Swap 4 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='4' data-variable-name='val1'>4</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 4 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='4' data-variable-name='val1'>4</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         }
                     ]
                 },
@@ -21188,62 +21188,62 @@
                         {
                             "level": 1,
                             "talentScore": 45,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 3 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         },
                         {
                             "level": 10,
                             "talentScore": 1456,
-                            "text": "Kickout of Pin and Swap 4 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.",
-                            "html": "Kickout of Pin and Swap <span data-variable-value='4' data-variable-name='val1'>4</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent."
+                            "text": "Kickout of Pin and Swap 4 Random Gem(s) to Black Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger.",
+                            "html": "Kickout of Pin and Swap <span data-variable-value='4' data-variable-name='val1'>4</span> Random Gem(s) to <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s). Gem(s) broken during Kickout do not damage your Opponent.  Cannot Kickout when in Danger."
                         }
                     ]
                 },
