@@ -144,7 +144,7 @@
                         "ID": "ChooseGemsAndDestroy",
                         "Effects": [
                             "MoveEffectImprove",
-                            "Generate"
+                            "GemDestroy"
                         ],
                         "AffectedValueID": ""
                     },
@@ -759,7 +759,7 @@
                         "ID": "ChooseGemsAndDestroy",
                         "Effects": [
                             "MoveEffectImprove",
-                            "Generate"
+                            "GemDestroy"
                         ],
                         "AffectedValueID": ""
                     },
@@ -1476,7 +1476,7 @@
                         "ID": "ChooseGemsAndDestroy",
                         "Effects": [
                             "MoveEffectImprove",
-                            "Generate"
+                            "GemDestroy"
                         ],
                         "AffectedValueID": ""
                     },
@@ -2713,7 +2713,7 @@
                         "ID": "ChooseGemsAndDestroy",
                         "Effects": [
                             "MoveEffectImprove",
-                            "Generate"
+                            "GemDestroy"
                         ],
                         "AffectedValueID": ""
                     },
@@ -4087,7 +4087,7 @@
                         "ID": "ChooseGemsAndDestroy",
                         "Effects": [
                             "MoveEffectImprove",
-                            "Generate"
+                            "GemDestroy"
                         ],
                         "AffectedValueID": ""
                     },
@@ -5461,7 +5461,7 @@
                         "ID": "ChooseGemsAndDestroy",
                         "Effects": [
                             "MoveEffectImprove",
-                            "Generate"
+                            "GemDestroy"
                         ],
                         "AffectedValueID": ""
                     },
@@ -6057,7 +6057,7 @@
                         "ID": "ChooseGemsAndDestroy",
                         "Effects": [
                             "MoveEffectImprove",
-                            "Generate"
+                            "GemDestroy"
                         ],
                         "AffectedValueID": ""
                     },
@@ -6820,7 +6820,7 @@
                         "ID": "ChooseGemsAndDestroy",
                         "Effects": [
                             "MoveEffectImprove",
-                            "Generate"
+                            "GemDestroy"
                         ],
                         "AffectedValueID": ""
                     },
@@ -7691,7 +7691,7 @@
                         "ID": "ChooseGemsAndDestroy",
                         "Effects": [
                             "MoveEffectImprove",
-                            "Generate"
+                            "GemDestroy"
                         ],
                         "AffectedValueID": ""
                     },
@@ -9212,7 +9212,7 @@
                         "ID": "ChooseGemsAndDestroy",
                         "Effects": [
                             "MoveEffectImprove",
-                            "Generate"
+                            "GemDestroy"
                         ],
                         "AffectedValueID": ""
                     },
@@ -10876,7 +10876,7 @@
                         "ID": "ChooseGemsAndDestroy",
                         "Effects": [
                             "MoveEffectImprove",
-                            "Generate"
+                            "GemDestroy"
                         ],
                         "AffectedValueID": ""
                     },
@@ -12540,7 +12540,7 @@
                         "ID": "ChooseGemsAndDestroy",
                         "Effects": [
                             "MoveEffectImprove",
-                            "Generate"
+                            "GemDestroy"
                         ],
                         "AffectedValueID": ""
                     },
@@ -13296,7 +13296,7 @@
                         "ID": "ChooseGemsAndDestroy",
                         "Effects": [
                             "MoveEffectImprove",
-                            "Generate"
+                            "GemDestroy"
                         ],
                         "AffectedValueID": ""
                     },
@@ -14207,7 +14207,7 @@
                         "ID": "ChooseGemsAndDestroy",
                         "Effects": [
                             "MoveEffectImprove",
-                            "Generate"
+                            "GemDestroy"
                         ],
                         "AffectedValueID": ""
                     },
@@ -15232,7 +15232,7 @@
                         "ID": "ChooseGemsAndDestroy",
                         "Effects": [
                             "MoveEffectImprove",
-                            "Generate"
+                            "GemDestroy"
                         ],
                         "AffectedValueID": ""
                     },
@@ -17037,7 +17037,7 @@
                         "ID": "ChooseGemsAndDestroy",
                         "Effects": [
                             "MoveEffectImprove",
-                            "Generate"
+                            "GemDestroy"
                         ],
                         "AffectedValueID": ""
                     },
@@ -18991,7 +18991,7 @@
                         "ID": "ChooseGemsAndDestroy",
                         "Effects": [
                             "MoveEffectImprove",
-                            "Generate"
+                            "GemDestroy"
                         ],
                         "AffectedValueID": ""
                     },
@@ -20945,7 +20945,7 @@
                         "ID": "ChooseGemsAndDestroy",
                         "Effects": [
                             "MoveEffectImprove",
-                            "Generate"
+                            "GemDestroy"
                         ],
                         "AffectedValueID": ""
                     },

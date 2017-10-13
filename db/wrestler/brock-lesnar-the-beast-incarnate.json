@@ -899,7 +899,7 @@
                     "levelCap": 5,
                     "cost": 10,
                     "gemType": "Red",
-                    "name": "Suplex City",
+                    "name": "Powerslam",
                     "move": {
                         "ID": "ChooseGemsAndModify",
                         "Effects": [
@@ -1618,7 +1618,7 @@
                     "levelCap": 5,
                     "cost": 10,
                     "gemType": "Red",
-                    "name": "Suplex City",
+                    "name": "Powerslam",
                     "move": {
                         "ID": "ChooseGemsAndModify",
                         "Effects": [
@@ -6990,7 +6990,7 @@
                     "levelCap": 6,
                     "cost": 10,
                     "gemType": "Red",
-                    "name": "Suplex City",
+                    "name": "Powerslam",
                     "move": {
                         "ID": "ChooseGemsAndModify",
                         "Effects": [
@@ -7863,7 +7863,7 @@
                     "levelCap": 6,
                     "cost": 10,
                     "gemType": "Red",
-                    "name": "Suplex City",
+                    "name": "Powerslam",
                     "move": {
                         "ID": "ChooseGemsAndModify",
                         "Effects": [
@@ -14407,7 +14407,7 @@
                     "levelCap": 7,
                     "cost": 10,
                     "gemType": "Red",
-                    "name": "Suplex City",
+                    "name": "Powerslam",
                     "move": {
                         "ID": "ChooseGemsAndModify",
                         "Effects": [
@@ -15434,7 +15434,7 @@
                     "levelCap": 7,
                     "cost": 10,
                     "gemType": "Red",
-                    "name": "Suplex City",
+                    "name": "Powerslam",
                     "move": {
                         "ID": "ChooseGemsAndModify",
                         "Effects": [
