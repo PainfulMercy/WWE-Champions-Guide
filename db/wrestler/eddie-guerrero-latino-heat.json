@@ -139,7 +139,7 @@
                     "levelCap": 2,
                     "cost": 10,
                     "gemType": "Blue",
-                    "name": "Lasso from El Paso",
+                    "name": "Gory Special",
                     "move": {
                         "ID": "DoDamageToBoth",
                         "Effects": [
@@ -167,27 +167,28 @@
                     "levelCap": 2,
                     "cost": 8,
                     "gemType": "Purple",
-                    "name": "Eye Rake",
+                    "name": "Lasso from El Paso",
                     "move": {
-                        "ID": "SwapRandomGemsByColor",
+                        "ID": "GenericSubmission",
                         "Effects": [
                             "MoveEffectImprove",
-                            "Generate"
+                            "MoveSubmissionDamage",
+                            "MoveSubmissionTurn"
                         ],
-                        "AffectedValueID": "max2"
+                        "AffectedValueID": ""
                     },
                     "levels": [
                         {
                             "level": 1,
                             "talentScore": 20,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 100 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='100' data-variable-name='val1'>100</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 2,
                             "talentScore": 70,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 133 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='133' data-variable-name='val1'>133</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         }
                     ]
                 },
@@ -754,7 +755,7 @@
                     "levelCap": 5,
                     "cost": 10,
                     "gemType": "Blue",
-                    "name": "Lasso from El Paso",
+                    "name": "Gory Special",
                     "move": {
                         "ID": "DoDamageToBoth",
                         "Effects": [
@@ -800,45 +801,46 @@
                     "levelCap": 5,
                     "cost": 8,
                     "gemType": "Purple",
-                    "name": "Eye Rake",
+                    "name": "Lasso from El Paso",
                     "move": {
-                        "ID": "SwapRandomGemsByColor",
+                        "ID": "GenericSubmission",
                         "Effects": [
                             "MoveEffectImprove",
-                            "Generate"
+                            "MoveSubmissionDamage",
+                            "MoveSubmissionTurn"
                         ],
-                        "AffectedValueID": "max2"
+                        "AffectedValueID": ""
                     },
                     "levels": [
                         {
                             "level": 1,
                             "talentScore": 29,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 100 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='100' data-variable-name='val1'>100</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 2,
                             "talentScore": 97,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 116 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='116' data-variable-name='val1'>116</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 133 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='133' data-variable-name='val1'>133</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 150 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='150' data-variable-name='val1'>150</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 166 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='166' data-variable-name='val1'>166</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         }
                     ]
                 },
@@ -1469,7 +1471,7 @@
                     "levelCap": 5,
                     "cost": 10,
                     "gemType": "Blue",
-                    "name": "Lasso from El Paso",
+                    "name": "Gory Special",
                     "move": {
                         "ID": "DoDamageToBoth",
                         "Effects": [
@@ -1515,45 +1517,46 @@
                     "levelCap": 5,
                     "cost": 8,
                     "gemType": "Purple",
-                    "name": "Eye Rake",
+                    "name": "Lasso from El Paso",
                     "move": {
-                        "ID": "SwapRandomGemsByColor",
+                        "ID": "GenericSubmission",
                         "Effects": [
                             "MoveEffectImprove",
-                            "Generate"
+                            "MoveSubmissionDamage",
+                            "MoveSubmissionTurn"
                         ],
-                        "AffectedValueID": "max2"
+                        "AffectedValueID": ""
                     },
                     "levels": [
                         {
                             "level": 1,
                             "talentScore": 29,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 100 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='100' data-variable-name='val1'>100</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 2,
                             "talentScore": 97,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 116 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='116' data-variable-name='val1'>116</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 133 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='133' data-variable-name='val1'>133</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 150 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='150' data-variable-name='val1'>150</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 166 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='166' data-variable-name='val1'>166</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         }
                     ]
                 },
@@ -2704,7 +2707,7 @@
                     "levelCap": 8,
                     "cost": 10,
                     "gemType": "Blue",
-                    "name": "Lasso from El Paso",
+                    "name": "Gory Special",
                     "move": {
                         "ID": "DoDamageToBoth",
                         "Effects": [
@@ -2768,63 +2771,64 @@
                     "levelCap": 8,
                     "cost": 8,
                     "gemType": "Purple",
-                    "name": "Eye Rake",
+                    "name": "Lasso from El Paso",
                     "move": {
-                        "ID": "SwapRandomGemsByColor",
+                        "ID": "GenericSubmission",
                         "Effects": [
                             "MoveEffectImprove",
-                            "Generate"
+                            "MoveSubmissionDamage",
+                            "MoveSubmissionTurn"
                         ],
-                        "AffectedValueID": "max2"
+                        "AffectedValueID": ""
                     },
                     "levels": [
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 100 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='100' data-variable-name='val1'>100</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 111 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='111' data-variable-name='val1'>111</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 122 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='122' data-variable-name='val1'>122</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 133 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='133' data-variable-name='val1'>133</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 144 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='144' data-variable-name='val1'>144</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 155 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='155' data-variable-name='val1'>155</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 0 Damage and Make 5 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 166 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='166' data-variable-name='val1'>166</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 0 Damage and Make 5 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 177 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='177' data-variable-name='val1'>177</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         }
                     ]
                 },
@@ -4076,7 +4080,7 @@
                     "levelCap": 8,
                     "cost": 10,
                     "gemType": "Blue",
-                    "name": "Lasso from El Paso",
+                    "name": "Gory Special",
                     "move": {
                         "ID": "DoDamageToBoth",
                         "Effects": [
@@ -4140,63 +4144,64 @@
                     "levelCap": 8,
                     "cost": 8,
                     "gemType": "Purple",
-                    "name": "Eye Rake",
+                    "name": "Lasso from El Paso",
                     "move": {
-                        "ID": "SwapRandomGemsByColor",
+                        "ID": "GenericSubmission",
                         "Effects": [
                             "MoveEffectImprove",
-                            "Generate"
+                            "MoveSubmissionDamage",
+                            "MoveSubmissionTurn"
                         ],
-                        "AffectedValueID": "max2"
+                        "AffectedValueID": ""
                     },
                     "levels": [
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 100 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='100' data-variable-name='val1'>100</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 111 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='111' data-variable-name='val1'>111</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 122 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='122' data-variable-name='val1'>122</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 133 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='133' data-variable-name='val1'>133</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 144 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='144' data-variable-name='val1'>144</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 155 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='155' data-variable-name='val1'>155</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 0 Damage and Make 5 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 166 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='166' data-variable-name='val1'>166</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 0 Damage and Make 5 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 177 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='177' data-variable-name='val1'>177</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         }
                     ]
                 },
@@ -5448,7 +5453,7 @@
                     "levelCap": 8,
                     "cost": 10,
                     "gemType": "Blue",
-                    "name": "Lasso from El Paso",
+                    "name": "Gory Special",
                     "move": {
                         "ID": "DoDamageToBoth",
                         "Effects": [
@@ -5512,63 +5517,64 @@
                     "levelCap": 8,
                     "cost": 8,
                     "gemType": "Purple",
-                    "name": "Eye Rake",
+                    "name": "Lasso from El Paso",
                     "move": {
-                        "ID": "SwapRandomGemsByColor",
+                        "ID": "GenericSubmission",
                         "Effects": [
                             "MoveEffectImprove",
-                            "Generate"
+                            "MoveSubmissionDamage",
+                            "MoveSubmissionTurn"
                         ],
-                        "AffectedValueID": "max2"
+                        "AffectedValueID": ""
                     },
                     "levels": [
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 100 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='100' data-variable-name='val1'>100</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 111 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='111' data-variable-name='val1'>111</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 122 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='122' data-variable-name='val1'>122</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 133 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='133' data-variable-name='val1'>133</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 144 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='144' data-variable-name='val1'>144</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 155 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='155' data-variable-name='val1'>155</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 0 Damage and Make 5 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 166 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='166' data-variable-name='val1'>166</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 0 Damage and Make 5 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 177 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='177' data-variable-name='val1'>177</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         }
                     ]
                 },
@@ -6042,7 +6048,7 @@
                     "levelCap": 3,
                     "cost": 10,
                     "gemType": "Blue",
-                    "name": "Lasso from El Paso",
+                    "name": "Gory Special",
                     "move": {
                         "ID": "DoDamageToBoth",
                         "Effects": [
@@ -6076,33 +6082,34 @@
                     "levelCap": 3,
                     "cost": 8,
                     "gemType": "Purple",
-                    "name": "Eye Rake",
+                    "name": "Lasso from El Paso",
                     "move": {
-                        "ID": "SwapRandomGemsByColor",
+                        "ID": "GenericSubmission",
                         "Effects": [
                             "MoveEffectImprove",
-                            "Generate"
+                            "MoveSubmissionDamage",
+                            "MoveSubmissionTurn"
                         ],
-                        "AffectedValueID": "max2"
+                        "AffectedValueID": ""
                     },
                     "levels": [
                         {
                             "level": 1,
                             "talentScore": 20,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 100 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='100' data-variable-name='val1'>100</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 2,
                             "talentScore": 70,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 133 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='133' data-variable-name='val1'>133</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 3,
                             "talentScore": 120,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 166 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='166' data-variable-name='val1'>166</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         }
                     ]
                 },
@@ -6805,7 +6812,7 @@
                     "levelCap": 6,
                     "cost": 10,
                     "gemType": "Blue",
-                    "name": "Lasso from El Paso",
+                    "name": "Gory Special",
                     "move": {
                         "ID": "DoDamageToBoth",
                         "Effects": [
@@ -6857,51 +6864,52 @@
                     "levelCap": 6,
                     "cost": 8,
                     "gemType": "Purple",
-                    "name": "Eye Rake",
+                    "name": "Lasso from El Paso",
                     "move": {
-                        "ID": "SwapRandomGemsByColor",
+                        "ID": "GenericSubmission",
                         "Effects": [
                             "MoveEffectImprove",
-                            "Generate"
+                            "MoveSubmissionDamage",
+                            "MoveSubmissionTurn"
                         ],
-                        "AffectedValueID": "max2"
+                        "AffectedValueID": ""
                     },
                     "levels": [
                         {
                             "level": 1,
                             "talentScore": 29,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 100 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='100' data-variable-name='val1'>100</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 2,
                             "talentScore": 97,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 116 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='116' data-variable-name='val1'>116</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 133 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='133' data-variable-name='val1'>133</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 150 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='150' data-variable-name='val1'>150</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 166 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='166' data-variable-name='val1'>166</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "Deal 0 Damage and Make 5 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 183 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='183' data-variable-name='val1'>183</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         }
                     ]
                 },
@@ -7674,7 +7682,7 @@
                     "levelCap": 6,
                     "cost": 10,
                     "gemType": "Blue",
-                    "name": "Lasso from El Paso",
+                    "name": "Gory Special",
                     "move": {
                         "ID": "DoDamageToBoth",
                         "Effects": [
@@ -7726,51 +7734,52 @@
                     "levelCap": 6,
                     "cost": 8,
                     "gemType": "Purple",
-                    "name": "Eye Rake",
+                    "name": "Lasso from El Paso",
                     "move": {
-                        "ID": "SwapRandomGemsByColor",
+                        "ID": "GenericSubmission",
                         "Effects": [
                             "MoveEffectImprove",
-                            "Generate"
+                            "MoveSubmissionDamage",
+                            "MoveSubmissionTurn"
                         ],
-                        "AffectedValueID": "max2"
+                        "AffectedValueID": ""
                     },
                     "levels": [
                         {
                             "level": 1,
                             "talentScore": 29,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 100 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='100' data-variable-name='val1'>100</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 2,
                             "talentScore": 97,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 116 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='116' data-variable-name='val1'>116</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 133 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='133' data-variable-name='val1'>133</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 150 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='150' data-variable-name='val1'>150</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 166 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='166' data-variable-name='val1'>166</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "Deal 0 Damage and Make 5 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 183 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='183' data-variable-name='val1'>183</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         }
                     ]
                 },
@@ -9193,7 +9202,7 @@
                     "levelCap": 9,
                     "cost": 10,
                     "gemType": "Blue",
-                    "name": "Lasso from El Paso",
+                    "name": "Gory Special",
                     "move": {
                         "ID": "DoDamageToBoth",
                         "Effects": [
@@ -9263,69 +9272,70 @@
                     "levelCap": 9,
                     "cost": 8,
                     "gemType": "Purple",
-                    "name": "Eye Rake",
+                    "name": "Lasso from El Paso",
                     "move": {
-                        "ID": "SwapRandomGemsByColor",
+                        "ID": "GenericSubmission",
                         "Effects": [
                             "MoveEffectImprove",
-                            "Generate"
+                            "MoveSubmissionDamage",
+                            "MoveSubmissionTurn"
                         ],
-                        "AffectedValueID": "max2"
+                        "AffectedValueID": ""
                     },
                     "levels": [
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 100 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='100' data-variable-name='val1'>100</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 111 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='111' data-variable-name='val1'>111</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 122 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='122' data-variable-name='val1'>122</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 133 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='133' data-variable-name='val1'>133</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 144 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='144' data-variable-name='val1'>144</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 155 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='155' data-variable-name='val1'>155</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 0 Damage and Make 5 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 166 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='166' data-variable-name='val1'>166</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 0 Damage and Make 5 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 177 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='177' data-variable-name='val1'>177</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 0 Damage and Make 6 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='6' data-variable-name='val1'>6</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 188 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='188' data-variable-name='val1'>188</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         }
                     ]
                 },
@@ -10855,7 +10865,7 @@
                     "levelCap": 9,
                     "cost": 10,
                     "gemType": "Blue",
-                    "name": "Lasso from El Paso",
+                    "name": "Gory Special",
                     "move": {
                         "ID": "DoDamageToBoth",
                         "Effects": [
@@ -10925,69 +10935,70 @@
                     "levelCap": 9,
                     "cost": 8,
                     "gemType": "Purple",
-                    "name": "Eye Rake",
+                    "name": "Lasso from El Paso",
                     "move": {
-                        "ID": "SwapRandomGemsByColor",
+                        "ID": "GenericSubmission",
                         "Effects": [
                             "MoveEffectImprove",
-                            "Generate"
+                            "MoveSubmissionDamage",
+                            "MoveSubmissionTurn"
                         ],
-                        "AffectedValueID": "max2"
+                        "AffectedValueID": ""
                     },
                     "levels": [
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 100 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='100' data-variable-name='val1'>100</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 111 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='111' data-variable-name='val1'>111</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 122 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='122' data-variable-name='val1'>122</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 133 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='133' data-variable-name='val1'>133</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 144 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='144' data-variable-name='val1'>144</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 155 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='155' data-variable-name='val1'>155</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 0 Damage and Make 5 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 166 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='166' data-variable-name='val1'>166</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 0 Damage and Make 5 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 177 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='177' data-variable-name='val1'>177</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 0 Damage and Make 6 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='6' data-variable-name='val1'>6</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 188 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='188' data-variable-name='val1'>188</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         }
                     ]
                 },
@@ -12517,7 +12528,7 @@
                     "levelCap": 9,
                     "cost": 10,
                     "gemType": "Blue",
-                    "name": "Lasso from El Paso",
+                    "name": "Gory Special",
                     "move": {
                         "ID": "DoDamageToBoth",
                         "Effects": [
@@ -12587,69 +12598,70 @@
                     "levelCap": 9,
                     "cost": 8,
                     "gemType": "Purple",
-                    "name": "Eye Rake",
+                    "name": "Lasso from El Paso",
                     "move": {
-                        "ID": "SwapRandomGemsByColor",
+                        "ID": "GenericSubmission",
                         "Effects": [
                             "MoveEffectImprove",
-                            "Generate"
+                            "MoveSubmissionDamage",
+                            "MoveSubmissionTurn"
                         ],
-                        "AffectedValueID": "max2"
+                        "AffectedValueID": ""
                     },
                     "levels": [
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 100 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='100' data-variable-name='val1'>100</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 111 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='111' data-variable-name='val1'>111</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 122 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='122' data-variable-name='val1'>122</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 133 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='133' data-variable-name='val1'>133</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 144 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='144' data-variable-name='val1'>144</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 155 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='155' data-variable-name='val1'>155</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 0 Damage and Make 5 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 166 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='166' data-variable-name='val1'>166</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 0 Damage and Make 5 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 177 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='177' data-variable-name='val1'>177</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 0 Damage and Make 6 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='6' data-variable-name='val1'>6</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 188 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='188' data-variable-name='val1'>188</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         }
                     ]
                 },
@@ -13271,7 +13283,7 @@
                     "levelCap": 4,
                     "cost": 10,
                     "gemType": "Blue",
-                    "name": "Lasso from El Paso",
+                    "name": "Gory Special",
                     "move": {
                         "ID": "DoDamageToBoth",
                         "Effects": [
@@ -13311,39 +13323,40 @@
                     "levelCap": 4,
                     "cost": 8,
                     "gemType": "Purple",
-                    "name": "Eye Rake",
+                    "name": "Lasso from El Paso",
                     "move": {
-                        "ID": "SwapRandomGemsByColor",
+                        "ID": "GenericSubmission",
                         "Effects": [
                             "MoveEffectImprove",
-                            "Generate"
+                            "MoveSubmissionDamage",
+                            "MoveSubmissionTurn"
                         ],
-                        "AffectedValueID": "max2"
+                        "AffectedValueID": ""
                     },
                     "levels": [
                         {
                             "level": 1,
                             "talentScore": 20,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 100 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='100' data-variable-name='val1'>100</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 2,
                             "talentScore": 70,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 133 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='133' data-variable-name='val1'>133</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 3,
                             "talentScore": 120,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 166 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='166' data-variable-name='val1'>166</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 4,
                             "talentScore": 170,
-                            "text": "Deal 0 Damage and Make 5 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 200 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='2' data-variable-name='val2'>2</span> Submission Gem(s) and do <span data-variable-value='200' data-variable-name='val1'>200</span> Damage for <span data-variable-value='4' data-variable-name='val5'>4</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         }
                     ]
                 },
@@ -14182,7 +14195,7 @@
                     "levelCap": 7,
                     "cost": 10,
                     "gemType": "Blue",
-                    "name": "Lasso from El Paso",
+                    "name": "Gory Special",
                     "move": {
                         "ID": "DoDamageToBoth",
                         "Effects": [
@@ -14240,57 +14253,58 @@
                     "levelCap": 7,
                     "cost": 8,
                     "gemType": "Purple",
-                    "name": "Eye Rake",
+                    "name": "Lasso from El Paso",
                     "move": {
-                        "ID": "SwapRandomGemsByColor",
+                        "ID": "GenericSubmission",
                         "Effects": [
                             "MoveEffectImprove",
-                            "Generate"
+                            "MoveSubmissionDamage",
+                            "MoveSubmissionTurn"
                         ],
-                        "AffectedValueID": "max2"
+                        "AffectedValueID": ""
                     },
                     "levels": [
                         {
                             "level": 1,
                             "talentScore": 29,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 100 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='100' data-variable-name='val1'>100</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 2,
                             "talentScore": 97,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 116 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='116' data-variable-name='val1'>116</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 133 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='133' data-variable-name='val1'>133</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 150 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='150' data-variable-name='val1'>150</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 166 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='166' data-variable-name='val1'>166</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "Deal 0 Damage and Make 5 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 183 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='183' data-variable-name='val1'>183</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 7,
                             "talentScore": 439,
-                            "text": "Deal 0 Damage and Make 6 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='6' data-variable-name='val1'>6</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 200 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='2' data-variable-name='val2'>2</span> Submission Gem(s) and do <span data-variable-value='200' data-variable-name='val1'>200</span> Damage for <span data-variable-value='4' data-variable-name='val5'>4</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         }
                     ]
                 },
@@ -15205,7 +15219,7 @@
                     "levelCap": 7,
                     "cost": 10,
                     "gemType": "Blue",
-                    "name": "Lasso from El Paso",
+                    "name": "Gory Special",
                     "move": {
                         "ID": "DoDamageToBoth",
                         "Effects": [
@@ -15263,57 +15277,58 @@
                     "levelCap": 7,
                     "cost": 8,
                     "gemType": "Purple",
-                    "name": "Eye Rake",
+                    "name": "Lasso from El Paso",
                     "move": {
-                        "ID": "SwapRandomGemsByColor",
+                        "ID": "GenericSubmission",
                         "Effects": [
                             "MoveEffectImprove",
-                            "Generate"
+                            "MoveSubmissionDamage",
+                            "MoveSubmissionTurn"
                         ],
-                        "AffectedValueID": "max2"
+                        "AffectedValueID": ""
                     },
                     "levels": [
                         {
                             "level": 1,
                             "talentScore": 29,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 100 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='100' data-variable-name='val1'>100</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 2,
                             "talentScore": 97,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 116 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='116' data-variable-name='val1'>116</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 133 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='133' data-variable-name='val1'>133</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 150 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='150' data-variable-name='val1'>150</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 166 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='166' data-variable-name='val1'>166</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "Deal 0 Damage and Make 5 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 183 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='183' data-variable-name='val1'>183</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 7,
                             "talentScore": 439,
-                            "text": "Deal 0 Damage and Make 6 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='6' data-variable-name='val1'>6</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 200 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='2' data-variable-name='val2'>2</span> Submission Gem(s) and do <span data-variable-value='200' data-variable-name='val1'>200</span> Damage for <span data-variable-value='4' data-variable-name='val5'>4</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         }
                     ]
                 },
@@ -17008,7 +17023,7 @@
                     "levelCap": 10,
                     "cost": 10,
                     "gemType": "Blue",
-                    "name": "Lasso from El Paso",
+                    "name": "Gory Special",
                     "move": {
                         "ID": "DoDamageToBoth",
                         "Effects": [
@@ -17084,75 +17099,76 @@
                     "levelCap": 10,
                     "cost": 8,
                     "gemType": "Purple",
-                    "name": "Eye Rake",
+                    "name": "Lasso from El Paso",
                     "move": {
-                        "ID": "SwapRandomGemsByColor",
+                        "ID": "GenericSubmission",
                         "Effects": [
                             "MoveEffectImprove",
-                            "Generate"
+                            "MoveSubmissionDamage",
+                            "MoveSubmissionTurn"
                         ],
-                        "AffectedValueID": "max2"
+                        "AffectedValueID": ""
                     },
                     "levels": [
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 100 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='100' data-variable-name='val1'>100</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 111 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='111' data-variable-name='val1'>111</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 122 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='122' data-variable-name='val1'>122</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 133 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='133' data-variable-name='val1'>133</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 144 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='144' data-variable-name='val1'>144</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 155 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='155' data-variable-name='val1'>155</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 0 Damage and Make 5 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 166 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='166' data-variable-name='val1'>166</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 0 Damage and Make 5 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 177 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='177' data-variable-name='val1'>177</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 0 Damage and Make 6 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='6' data-variable-name='val1'>6</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 188 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='188' data-variable-name='val1'>188</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 10,
                             "talentScore": 1586,
-                            "text": "Deal 0 Damage and Make 7 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='7' data-variable-name='val1'>7</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 200 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='2' data-variable-name='val2'>2</span> Submission Gem(s) and do <span data-variable-value='200' data-variable-name='val1'>200</span> Damage for <span data-variable-value='4' data-variable-name='val5'>4</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         }
                     ]
                 },
@@ -18960,7 +18976,7 @@
                     "levelCap": 10,
                     "cost": 10,
                     "gemType": "Blue",
-                    "name": "Lasso from El Paso",
+                    "name": "Gory Special",
                     "move": {
                         "ID": "DoDamageToBoth",
                         "Effects": [
@@ -19036,75 +19052,76 @@
                     "levelCap": 10,
                     "cost": 8,
                     "gemType": "Purple",
-                    "name": "Eye Rake",
+                    "name": "Lasso from El Paso",
                     "move": {
-                        "ID": "SwapRandomGemsByColor",
+                        "ID": "GenericSubmission",
                         "Effects": [
                             "MoveEffectImprove",
-                            "Generate"
+                            "MoveSubmissionDamage",
+                            "MoveSubmissionTurn"
                         ],
-                        "AffectedValueID": "max2"
+                        "AffectedValueID": ""
                     },
                     "levels": [
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 100 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='100' data-variable-name='val1'>100</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 111 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='111' data-variable-name='val1'>111</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 122 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='122' data-variable-name='val1'>122</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 133 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='133' data-variable-name='val1'>133</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 144 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='144' data-variable-name='val1'>144</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 155 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='155' data-variable-name='val1'>155</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 0 Damage and Make 5 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 166 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='166' data-variable-name='val1'>166</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 0 Damage and Make 5 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 177 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='177' data-variable-name='val1'>177</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 0 Damage and Make 6 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='6' data-variable-name='val1'>6</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 188 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='188' data-variable-name='val1'>188</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 10,
                             "talentScore": 1586,
-                            "text": "Deal 0 Damage and Make 7 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='7' data-variable-name='val1'>7</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 200 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='2' data-variable-name='val2'>2</span> Submission Gem(s) and do <span data-variable-value='200' data-variable-name='val1'>200</span> Damage for <span data-variable-value='4' data-variable-name='val5'>4</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         }
                     ]
                 },
@@ -20912,7 +20929,7 @@
                     "levelCap": 10,
                     "cost": 10,
                     "gemType": "Blue",
-                    "name": "Lasso from El Paso",
+                    "name": "Gory Special",
                     "move": {
                         "ID": "DoDamageToBoth",
                         "Effects": [
@@ -20988,75 +21005,76 @@
                     "levelCap": 10,
                     "cost": 8,
                     "gemType": "Purple",
-                    "name": "Eye Rake",
+                    "name": "Lasso from El Paso",
                     "move": {
-                        "ID": "SwapRandomGemsByColor",
+                        "ID": "GenericSubmission",
                         "Effects": [
                             "MoveEffectImprove",
-                            "Generate"
+                            "MoveSubmissionDamage",
+                            "MoveSubmissionTurn"
                         ],
-                        "AffectedValueID": "max2"
+                        "AffectedValueID": ""
                     },
                     "levels": [
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 100 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='100' data-variable-name='val1'>100</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 0 Damage and Make 2 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 111 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='111' data-variable-name='val1'>111</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 122 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='122' data-variable-name='val1'>122</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 0 Damage and Make 3 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 133 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='133' data-variable-name='val1'>133</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 144 Damage for 2 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='144' data-variable-name='val1'>144</span> Damage for <span data-variable-value='2' data-variable-name='val5'>2</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 0 Damage and Make 4 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 155 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='155' data-variable-name='val1'>155</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 0 Damage and Make 5 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 166 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='166' data-variable-name='val1'>166</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 0 Damage and Make 5 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 177 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='177' data-variable-name='val1'>177</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 0 Damage and Make 6 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='6' data-variable-name='val1'>6</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 1 Submission Gem(s) and do 188 Damage for 3 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='1' data-variable-name='val2'>1</span> Submission Gem(s) and do <span data-variable-value='188' data-variable-name='val1'>188</span> Damage for <span data-variable-value='3' data-variable-name='val5'>3</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         },
                         {
                             "level": 10,
                             "talentScore": 1586,
-                            "text": "Deal 0 Damage and Make 7 Random Green Gem(s) into Purple Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Make <span data-variable-value='7' data-variable-name='val1'>7</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) into <span data-variable-value='Purple' data-variable-name='max2'>Purple</span> Gem(s)."
+                            "text": "SUBMISSION! Place 2 Submission Gem(s) and do 200 Damage for 4 Turn(s) while Submission Gem(s) are on the Gem Board.",
+                            "html": "SUBMISSION! Place <span data-variable-value='2' data-variable-name='val2'>2</span> Submission Gem(s) and do <span data-variable-value='200' data-variable-name='val1'>200</span> Damage for <span data-variable-value='4' data-variable-name='val5'>4</span> Turn(s) while Submission Gem(s) are on the Gem Board."
                         }
                     ]
                 },
