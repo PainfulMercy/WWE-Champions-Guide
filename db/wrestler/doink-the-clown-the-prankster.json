@@ -162,7 +162,14 @@
                     "cost": 9,
                     "gemType": "Purple",
                     "name": "Atomic Drop",
-                    "move": {},
+                    "move": {
+                        "ID": "ChooseGemsByColorAndSwapColor",
+                        "Effects": [
+                            "MoveEffectImprove",
+                            "Generate"
+                        ],
+                        "AffectedValueID": "max2"
+                    },
                     "levels": [
                         {
                             "level": 1,
@@ -781,7 +788,14 @@
                     "cost": 9,
                     "gemType": "Purple",
                     "name": "Atomic Drop",
-                    "move": {},
+                    "move": {
+                        "ID": "ChooseGemsByColorAndSwapColor",
+                        "Effects": [
+                            "MoveEffectImprove",
+                            "Generate"
+                        ],
+                        "AffectedValueID": "max2"
+                    },
                     "levels": [
                         {
                             "level": 1,
@@ -1476,7 +1490,14 @@
                     "cost": 9,
                     "gemType": "Purple",
                     "name": "Atomic Drop",
-                    "move": {},
+                    "move": {
+                        "ID": "ChooseGemsByColorAndSwapColor",
+                        "Effects": [
+                            "MoveEffectImprove",
+                            "Generate"
+                        ],
+                        "AffectedValueID": "max2"
+                    },
                     "levels": [
                         {
                             "level": 1,
@@ -2709,7 +2730,14 @@
                     "cost": 9,
                     "gemType": "Purple",
                     "name": "Atomic Drop",
-                    "move": {},
+                    "move": {
+                        "ID": "ChooseGemsByColorAndSwapColor",
+                        "Effects": [
+                            "MoveEffectImprove",
+                            "Generate"
+                        ],
+                        "AffectedValueID": "max2"
+                    },
                     "levels": [
                         {
                             "level": 1,
@@ -4061,7 +4089,14 @@
                     "cost": 9,
                     "gemType": "Purple",
                     "name": "Atomic Drop",
-                    "move": {},
+                    "move": {
+                        "ID": "ChooseGemsByColorAndSwapColor",
+                        "Effects": [
+                            "MoveEffectImprove",
+                            "Generate"
+                        ],
+                        "AffectedValueID": "max2"
+                    },
                     "levels": [
                         {
                             "level": 1,
@@ -5413,7 +5448,14 @@
                     "cost": 9,
                     "gemType": "Purple",
                     "name": "Atomic Drop",
-                    "move": {},
+                    "move": {
+                        "ID": "ChooseGemsByColorAndSwapColor",
+                        "Effects": [
+                            "MoveEffectImprove",
+                            "Generate"
+                        ],
+                        "AffectedValueID": "max2"
+                    },
                     "levels": [
                         {
                             "level": 1,
@@ -5957,7 +5999,14 @@
                     "cost": 9,
                     "gemType": "Purple",
                     "name": "Atomic Drop",
-                    "move": {},
+                    "move": {
+                        "ID": "ChooseGemsByColorAndSwapColor",
+                        "Effects": [
+                            "MoveEffectImprove",
+                            "Generate"
+                        ],
+                        "AffectedValueID": "max2"
+                    },
                     "levels": [
                         {
                             "level": 1,
@@ -6724,7 +6773,14 @@
                     "cost": 9,
                     "gemType": "Purple",
                     "name": "Atomic Drop",
-                    "move": {},
+                    "move": {
+                        "ID": "ChooseGemsByColorAndSwapColor",
+                        "Effects": [
+                            "MoveEffectImprove",
+                            "Generate"
+                        ],
+                        "AffectedValueID": "max2"
+                    },
                     "levels": [
                         {
                             "level": 1,
@@ -7573,7 +7629,14 @@
                     "cost": 9,
                     "gemType": "Purple",
                     "name": "Atomic Drop",
-                    "move": {},
+                    "move": {
+                        "ID": "ChooseGemsByColorAndSwapColor",
+                        "Effects": [
+                            "MoveEffectImprove",
+                            "Generate"
+                        ],
+                        "AffectedValueID": "max2"
+                    },
                     "levels": [
                         {
                             "level": 1,
@@ -9090,7 +9153,14 @@
                     "cost": 9,
                     "gemType": "Purple",
                     "name": "Atomic Drop",
-                    "move": {},
+                    "move": {
+                        "ID": "ChooseGemsByColorAndSwapColor",
+                        "Effects": [
+                            "MoveEffectImprove",
+                            "Generate"
+                        ],
+                        "AffectedValueID": "max2"
+                    },
                     "levels": [
                         {
                             "level": 1,
@@ -10732,7 +10802,14 @@
                     "cost": 9,
                     "gemType": "Purple",
                     "name": "Atomic Drop",
-                    "move": {},
+                    "move": {
+                        "ID": "ChooseGemsByColorAndSwapColor",
+                        "Effects": [
+                            "MoveEffectImprove",
+                            "Generate"
+                        ],
+                        "AffectedValueID": "max2"
+                    },
                     "levels": [
                         {
                             "level": 1,
@@ -12374,7 +12451,14 @@
                     "cost": 9,
                     "gemType": "Purple",
                     "name": "Atomic Drop",
-                    "move": {},
+                    "move": {
+                        "ID": "ChooseGemsByColorAndSwapColor",
+                        "Effects": [
+                            "MoveEffectImprove",
+                            "Generate"
+                        ],
+                        "AffectedValueID": "max2"
+                    },
                     "levels": [
                         {
                             "level": 1,
@@ -13078,7 +13162,14 @@
                     "cost": 9,
                     "gemType": "Purple",
                     "name": "Atomic Drop",
-                    "move": {},
+                    "move": {
+                        "ID": "ChooseGemsByColorAndSwapColor",
+                        "Effects": [
+                            "MoveEffectImprove",
+                            "Generate"
+                        ],
+                        "AffectedValueID": "max2"
+                    },
                     "levels": [
                         {
                             "level": 1,
@@ -13993,7 +14084,14 @@
                     "cost": 9,
                     "gemType": "Purple",
                     "name": "Atomic Drop",
-                    "move": {},
+                    "move": {
+                        "ID": "ChooseGemsByColorAndSwapColor",
+                        "Effects": [
+                            "MoveEffectImprove",
+                            "Generate"
+                        ],
+                        "AffectedValueID": "max2"
+                    },
                     "levels": [
                         {
                             "level": 1,
@@ -14996,7 +15094,14 @@
                     "cost": 9,
                     "gemType": "Purple",
                     "name": "Atomic Drop",
-                    "move": {},
+                    "move": {
+                        "ID": "ChooseGemsByColorAndSwapColor",
+                        "Effects": [
+                            "MoveEffectImprove",
+                            "Generate"
+                        ],
+                        "AffectedValueID": "max2"
+                    },
                     "levels": [
                         {
                             "level": 1,
@@ -16797,7 +16902,14 @@
                     "cost": 9,
                     "gemType": "Purple",
                     "name": "Atomic Drop",
-                    "move": {},
+                    "move": {
+                        "ID": "ChooseGemsByColorAndSwapColor",
+                        "Effects": [
+                            "MoveEffectImprove",
+                            "Generate"
+                        ],
+                        "AffectedValueID": "max2"
+                    },
                     "levels": [
                         {
                             "level": 1,
@@ -18729,7 +18841,14 @@
                     "cost": 9,
                     "gemType": "Purple",
                     "name": "Atomic Drop",
-                    "move": {},
+                    "move": {
+                        "ID": "ChooseGemsByColorAndSwapColor",
+                        "Effects": [
+                            "MoveEffectImprove",
+                            "Generate"
+                        ],
+                        "AffectedValueID": "max2"
+                    },
                     "levels": [
                         {
                             "level": 1,
@@ -20661,7 +20780,14 @@
                     "cost": 9,
                     "gemType": "Purple",
                     "name": "Atomic Drop",
-                    "move": {},
+                    "move": {
+                        "ID": "ChooseGemsByColorAndSwapColor",
+                        "Effects": [
+                            "MoveEffectImprove",
+                            "Generate"
+                        ],
+                        "AffectedValueID": "max2"
+                    },
                     "levels": [
                         {
                             "level": 1,
