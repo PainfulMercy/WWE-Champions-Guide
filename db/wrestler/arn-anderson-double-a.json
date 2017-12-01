@@ -2973,7 +2973,7 @@
                     "levelCap": 8,
                     "cost": 9,
                     "gemType": "Red",
-                    "name": "Bodyslam",
+                    "name": "Figure-Four Leglock",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -4349,7 +4349,7 @@
                     "levelCap": 8,
                     "cost": 9,
                     "gemType": "Red",
-                    "name": "Bodyslam",
+                    "name": "Figure-Four Leglock",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -5725,7 +5725,7 @@
                     "levelCap": 8,
                     "cost": 9,
                     "gemType": "Red",
-                    "name": "Bodyslam",
+                    "name": "Figure-Four Leglock",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -9505,7 +9505,7 @@
                     "levelCap": 9,
                     "cost": 9,
                     "gemType": "Red",
-                    "name": "Bodyslam",
+                    "name": "Figure-Four Leglock",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -11171,7 +11171,7 @@
                     "levelCap": 9,
                     "cost": 9,
                     "gemType": "Red",
-                    "name": "Bodyslam",
+                    "name": "Figure-Four Leglock",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -12837,7 +12837,7 @@
                     "levelCap": 9,
                     "cost": 9,
                     "gemType": "Red",
-                    "name": "Bodyslam",
+                    "name": "Figure-Four Leglock",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -17363,7 +17363,7 @@
                     "levelCap": 10,
                     "cost": 9,
                     "gemType": "Red",
-                    "name": "Bodyslam",
+                    "name": "Figure-Four Leglock",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -19319,7 +19319,7 @@
                     "levelCap": 10,
                     "cost": 9,
                     "gemType": "Red",
-                    "name": "Bodyslam",
+                    "name": "Figure-Four Leglock",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -21275,7 +21275,7 @@
                     "levelCap": 10,
                     "cost": 9,
                     "gemType": "Red",
-                    "name": "Bodyslam",
+                    "name": "Figure-Four Leglock",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
