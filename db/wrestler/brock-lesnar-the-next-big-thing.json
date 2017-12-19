@@ -833,14 +833,14 @@
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 2643 Damage and Make 3 Random Purple Gem(s) into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='2643' data-variable-name='damage'>2643</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Gem(s) into <span data-variable-value='Black' data-variable-name='max2'>Black</span> Gem(s)."
+                            "text": "Deal 2643 Damage and Make 2 Random Purple Gem(s) into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='2643' data-variable-name='damage'>2643</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Gem(s) into <span data-variable-value='Black' data-variable-name='max2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "Deal 3369 Damage and Make 3 Random Purple Gem(s) into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='3369' data-variable-name='damage'>3369</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Gem(s) into <span data-variable-value='Black' data-variable-name='max2'>Black</span> Gem(s)."
+                            "text": "Deal 3369 Damage and Make 2 Random Purple Gem(s) into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='3369' data-variable-name='damage'>3369</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Gem(s) into <span data-variable-value='Black' data-variable-name='max2'>Black</span> Gem(s)."
                         }
                     ]
                 },
@@ -926,14 +926,14 @@
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 688 Damage and Destroy 2 Random Black Gem(s).",
-                            "html": "Deal <span data-variable-value='688' data-variable-name='damage'>688</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 688 Damage and Destroy 3 Random Black Gem(s).",
+                            "html": "Deal <span data-variable-value='688' data-variable-name='damage'>688</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "Deal 851 Damage and Destroy 2 Random Black Gem(s).",
-                            "html": "Deal <span data-variable-value='851' data-variable-name='damage'>851</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 851 Damage and Destroy 3 Random Black Gem(s).",
+                            "html": "Deal <span data-variable-value='851' data-variable-name='damage'>851</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         }
                     ]
                 }
@@ -1549,14 +1549,14 @@
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 2643 Damage and Make 3 Random Purple Gem(s) into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='2643' data-variable-name='damage'>2643</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Gem(s) into <span data-variable-value='Black' data-variable-name='max2'>Black</span> Gem(s)."
+                            "text": "Deal 2643 Damage and Make 2 Random Purple Gem(s) into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='2643' data-variable-name='damage'>2643</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Gem(s) into <span data-variable-value='Black' data-variable-name='max2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "Deal 3369 Damage and Make 3 Random Purple Gem(s) into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='3369' data-variable-name='damage'>3369</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Gem(s) into <span data-variable-value='Black' data-variable-name='max2'>Black</span> Gem(s)."
+                            "text": "Deal 3369 Damage and Make 2 Random Purple Gem(s) into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='3369' data-variable-name='damage'>3369</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Gem(s) into <span data-variable-value='Black' data-variable-name='max2'>Black</span> Gem(s)."
                         }
                     ]
                 },
@@ -1642,14 +1642,14 @@
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 688 Damage and Destroy 2 Random Black Gem(s).",
-                            "html": "Deal <span data-variable-value='688' data-variable-name='damage'>688</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 688 Damage and Destroy 3 Random Black Gem(s).",
+                            "html": "Deal <span data-variable-value='688' data-variable-name='damage'>688</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "Deal 851 Damage and Destroy 2 Random Black Gem(s).",
-                            "html": "Deal <span data-variable-value='851' data-variable-name='damage'>851</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 851 Damage and Destroy 3 Random Black Gem(s).",
+                            "html": "Deal <span data-variable-value='851' data-variable-name='damage'>851</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         }
                     ]
                 }
@@ -2997,14 +2997,14 @@
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 4970 Damage and Choose 2 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='4970' data-variable-name='damage'>4970</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 4970 Damage and Choose 3 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='4970' data-variable-name='damage'>4970</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 6405 Damage and Choose 2 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='6405' data-variable-name='damage'>6405</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 6405 Damage and Choose 3 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='6405' data-variable-name='damage'>6405</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 6,
@@ -3015,14 +3015,14 @@
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 9277 Damage and Choose 3 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='9277' data-variable-name='damage'>9277</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 9277 Damage and Choose 4 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='9277' data-variable-name='damage'>9277</span> Damage and Choose <span data-variable-value='4' data-variable-name='val1'>4</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 10712 Damage and Choose 3 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='10712' data-variable-name='damage'>10712</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 10712 Damage and Choose 4 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='10712' data-variable-name='damage'>10712</span> Damage and Choose <span data-variable-value='4' data-variable-name='val1'>4</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         }
                     ]
                 }
@@ -4370,14 +4370,14 @@
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 4970 Damage and Choose 2 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='4970' data-variable-name='damage'>4970</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 4970 Damage and Choose 3 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='4970' data-variable-name='damage'>4970</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 6405 Damage and Choose 2 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='6405' data-variable-name='damage'>6405</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 6405 Damage and Choose 3 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='6405' data-variable-name='damage'>6405</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 6,
@@ -4388,14 +4388,14 @@
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 9277 Damage and Choose 3 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='9277' data-variable-name='damage'>9277</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 9277 Damage and Choose 4 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='9277' data-variable-name='damage'>9277</span> Damage and Choose <span data-variable-value='4' data-variable-name='val1'>4</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 10712 Damage and Choose 3 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='10712' data-variable-name='damage'>10712</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 10712 Damage and Choose 4 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='10712' data-variable-name='damage'>10712</span> Damage and Choose <span data-variable-value='4' data-variable-name='val1'>4</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         }
                     ]
                 }
@@ -5743,14 +5743,14 @@
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 4970 Damage and Choose 2 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='4970' data-variable-name='damage'>4970</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 4970 Damage and Choose 3 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='4970' data-variable-name='damage'>4970</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 6405 Damage and Choose 2 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='6405' data-variable-name='damage'>6405</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 6405 Damage and Choose 3 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='6405' data-variable-name='damage'>6405</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 6,
@@ -5761,14 +5761,14 @@
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 9277 Damage and Choose 3 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='9277' data-variable-name='damage'>9277</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 9277 Damage and Choose 4 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='9277' data-variable-name='damage'>9277</span> Damage and Choose <span data-variable-value='4' data-variable-name='val1'>4</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 10712 Damage and Choose 3 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='10712' data-variable-name='damage'>10712</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 10712 Damage and Choose 4 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='10712' data-variable-name='damage'>10712</span> Damage and Choose <span data-variable-value='4' data-variable-name='val1'>4</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         }
                     ]
                 }
@@ -6895,20 +6895,20 @@
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 2643 Damage and Make 3 Random Purple Gem(s) into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='2643' data-variable-name='damage'>2643</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Gem(s) into <span data-variable-value='Black' data-variable-name='max2'>Black</span> Gem(s)."
+                            "text": "Deal 2643 Damage and Make 2 Random Purple Gem(s) into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='2643' data-variable-name='damage'>2643</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Gem(s) into <span data-variable-value='Black' data-variable-name='max2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "Deal 3369 Damage and Make 3 Random Purple Gem(s) into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='3369' data-variable-name='damage'>3369</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Gem(s) into <span data-variable-value='Black' data-variable-name='max2'>Black</span> Gem(s)."
+                            "text": "Deal 3369 Damage and Make 2 Random Purple Gem(s) into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='3369' data-variable-name='damage'>3369</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Gem(s) into <span data-variable-value='Black' data-variable-name='max2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "Deal 4096 Damage and Make 3 Random Purple Gem(s) into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='4096' data-variable-name='damage'>4096</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Gem(s) into <span data-variable-value='Black' data-variable-name='max2'>Black</span> Gem(s)."
+                            "text": "Deal 4096 Damage and Make 2 Random Purple Gem(s) into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='4096' data-variable-name='damage'>4096</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Gem(s) into <span data-variable-value='Black' data-variable-name='max2'>Black</span> Gem(s)."
                         }
                     ]
                 },
@@ -7000,20 +7000,20 @@
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 688 Damage and Destroy 2 Random Black Gem(s).",
-                            "html": "Deal <span data-variable-value='688' data-variable-name='damage'>688</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 688 Damage and Destroy 3 Random Black Gem(s).",
+                            "html": "Deal <span data-variable-value='688' data-variable-name='damage'>688</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "Deal 851 Damage and Destroy 2 Random Black Gem(s).",
-                            "html": "Deal <span data-variable-value='851' data-variable-name='damage'>851</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 851 Damage and Destroy 3 Random Black Gem(s).",
+                            "html": "Deal <span data-variable-value='851' data-variable-name='damage'>851</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "Deal 1014 Damage and Destroy 2 Random Black Gem(s).",
-                            "html": "Deal <span data-variable-value='1014' data-variable-name='damage'>1014</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 1014 Damage and Destroy 3 Random Black Gem(s).",
+                            "html": "Deal <span data-variable-value='1014' data-variable-name='damage'>1014</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         }
                     ]
                 }
@@ -7765,20 +7765,20 @@
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 2643 Damage and Make 3 Random Purple Gem(s) into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='2643' data-variable-name='damage'>2643</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Gem(s) into <span data-variable-value='Black' data-variable-name='max2'>Black</span> Gem(s)."
+                            "text": "Deal 2643 Damage and Make 2 Random Purple Gem(s) into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='2643' data-variable-name='damage'>2643</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Gem(s) into <span data-variable-value='Black' data-variable-name='max2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "Deal 3369 Damage and Make 3 Random Purple Gem(s) into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='3369' data-variable-name='damage'>3369</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Gem(s) into <span data-variable-value='Black' data-variable-name='max2'>Black</span> Gem(s)."
+                            "text": "Deal 3369 Damage and Make 2 Random Purple Gem(s) into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='3369' data-variable-name='damage'>3369</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Gem(s) into <span data-variable-value='Black' data-variable-name='max2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "Deal 4096 Damage and Make 3 Random Purple Gem(s) into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='4096' data-variable-name='damage'>4096</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Gem(s) into <span data-variable-value='Black' data-variable-name='max2'>Black</span> Gem(s)."
+                            "text": "Deal 4096 Damage and Make 2 Random Purple Gem(s) into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='4096' data-variable-name='damage'>4096</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Gem(s) into <span data-variable-value='Black' data-variable-name='max2'>Black</span> Gem(s)."
                         }
                     ]
                 },
@@ -7870,20 +7870,20 @@
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 688 Damage and Destroy 2 Random Black Gem(s).",
-                            "html": "Deal <span data-variable-value='688' data-variable-name='damage'>688</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 688 Damage and Destroy 3 Random Black Gem(s).",
+                            "html": "Deal <span data-variable-value='688' data-variable-name='damage'>688</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "Deal 851 Damage and Destroy 2 Random Black Gem(s).",
-                            "html": "Deal <span data-variable-value='851' data-variable-name='damage'>851</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 851 Damage and Destroy 3 Random Black Gem(s).",
+                            "html": "Deal <span data-variable-value='851' data-variable-name='damage'>851</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "Deal 1014 Damage and Destroy 2 Random Black Gem(s).",
-                            "html": "Deal <span data-variable-value='1014' data-variable-name='damage'>1014</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 1014 Damage and Destroy 3 Random Black Gem(s).",
+                            "html": "Deal <span data-variable-value='1014' data-variable-name='damage'>1014</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         }
                     ]
                 }
@@ -9515,14 +9515,14 @@
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 4970 Damage and Choose 2 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='4970' data-variable-name='damage'>4970</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 4970 Damage and Choose 3 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='4970' data-variable-name='damage'>4970</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 6405 Damage and Choose 2 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='6405' data-variable-name='damage'>6405</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 6405 Damage and Choose 3 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='6405' data-variable-name='damage'>6405</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 6,
@@ -9533,20 +9533,20 @@
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 9277 Damage and Choose 3 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='9277' data-variable-name='damage'>9277</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 9277 Damage and Choose 4 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='9277' data-variable-name='damage'>9277</span> Damage and Choose <span data-variable-value='4' data-variable-name='val1'>4</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 10712 Damage and Choose 3 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='10712' data-variable-name='damage'>10712</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 10712 Damage and Choose 4 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='10712' data-variable-name='damage'>10712</span> Damage and Choose <span data-variable-value='4' data-variable-name='val1'>4</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 12148 Damage and Choose 3 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='12148' data-variable-name='damage'>12148</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 12148 Damage and Choose 4 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='12148' data-variable-name='damage'>12148</span> Damage and Choose <span data-variable-value='4' data-variable-name='val1'>4</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         }
                     ]
                 }
@@ -11178,14 +11178,14 @@
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 4970 Damage and Choose 2 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='4970' data-variable-name='damage'>4970</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 4970 Damage and Choose 3 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='4970' data-variable-name='damage'>4970</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 6405 Damage and Choose 2 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='6405' data-variable-name='damage'>6405</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 6405 Damage and Choose 3 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='6405' data-variable-name='damage'>6405</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 6,
@@ -11196,20 +11196,20 @@
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 9277 Damage and Choose 3 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='9277' data-variable-name='damage'>9277</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 9277 Damage and Choose 4 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='9277' data-variable-name='damage'>9277</span> Damage and Choose <span data-variable-value='4' data-variable-name='val1'>4</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 10712 Damage and Choose 3 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='10712' data-variable-name='damage'>10712</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 10712 Damage and Choose 4 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='10712' data-variable-name='damage'>10712</span> Damage and Choose <span data-variable-value='4' data-variable-name='val1'>4</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 12148 Damage and Choose 3 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='12148' data-variable-name='damage'>12148</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 12148 Damage and Choose 4 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='12148' data-variable-name='damage'>12148</span> Damage and Choose <span data-variable-value='4' data-variable-name='val1'>4</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         }
                     ]
                 }
@@ -12841,14 +12841,14 @@
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 4970 Damage and Choose 2 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='4970' data-variable-name='damage'>4970</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 4970 Damage and Choose 3 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='4970' data-variable-name='damage'>4970</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 6405 Damage and Choose 2 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='6405' data-variable-name='damage'>6405</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 6405 Damage and Choose 3 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='6405' data-variable-name='damage'>6405</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 6,
@@ -12859,20 +12859,20 @@
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 9277 Damage and Choose 3 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='9277' data-variable-name='damage'>9277</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 9277 Damage and Choose 4 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='9277' data-variable-name='damage'>9277</span> Damage and Choose <span data-variable-value='4' data-variable-name='val1'>4</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 10712 Damage and Choose 3 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='10712' data-variable-name='damage'>10712</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 10712 Damage and Choose 4 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='10712' data-variable-name='damage'>10712</span> Damage and Choose <span data-variable-value='4' data-variable-name='val1'>4</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 12148 Damage and Choose 3 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='12148' data-variable-name='damage'>12148</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 12148 Damage and Choose 4 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='12148' data-variable-name='damage'>12148</span> Damage and Choose <span data-variable-value='4' data-variable-name='val1'>4</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         }
                     ]
                 }
@@ -14283,26 +14283,26 @@
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 2643 Damage and Make 3 Random Purple Gem(s) into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='2643' data-variable-name='damage'>2643</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Gem(s) into <span data-variable-value='Black' data-variable-name='max2'>Black</span> Gem(s)."
+                            "text": "Deal 2643 Damage and Make 2 Random Purple Gem(s) into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='2643' data-variable-name='damage'>2643</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Gem(s) into <span data-variable-value='Black' data-variable-name='max2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "Deal 3369 Damage and Make 3 Random Purple Gem(s) into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='3369' data-variable-name='damage'>3369</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Gem(s) into <span data-variable-value='Black' data-variable-name='max2'>Black</span> Gem(s)."
+                            "text": "Deal 3369 Damage and Make 2 Random Purple Gem(s) into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='3369' data-variable-name='damage'>3369</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Gem(s) into <span data-variable-value='Black' data-variable-name='max2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "Deal 4096 Damage and Make 3 Random Purple Gem(s) into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='4096' data-variable-name='damage'>4096</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Gem(s) into <span data-variable-value='Black' data-variable-name='max2'>Black</span> Gem(s)."
+                            "text": "Deal 4096 Damage and Make 2 Random Purple Gem(s) into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='4096' data-variable-name='damage'>4096</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Gem(s) into <span data-variable-value='Black' data-variable-name='max2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 7,
                             "talentScore": 439,
-                            "text": "Deal 4823 Damage and Make 4 Random Purple Gem(s) into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='4823' data-variable-name='damage'>4823</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Gem(s) into <span data-variable-value='Black' data-variable-name='max2'>Black</span> Gem(s)."
+                            "text": "Deal 4823 Damage and Make 3 Random Purple Gem(s) into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='4823' data-variable-name='damage'>4823</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Gem(s) into <span data-variable-value='Black' data-variable-name='max2'>Black</span> Gem(s)."
                         }
                     ]
                 },
@@ -14400,26 +14400,26 @@
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 688 Damage and Destroy 2 Random Black Gem(s).",
-                            "html": "Deal <span data-variable-value='688' data-variable-name='damage'>688</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 688 Damage and Destroy 3 Random Black Gem(s).",
+                            "html": "Deal <span data-variable-value='688' data-variable-name='damage'>688</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "Deal 851 Damage and Destroy 2 Random Black Gem(s).",
-                            "html": "Deal <span data-variable-value='851' data-variable-name='damage'>851</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 851 Damage and Destroy 3 Random Black Gem(s).",
+                            "html": "Deal <span data-variable-value='851' data-variable-name='damage'>851</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "Deal 1014 Damage and Destroy 2 Random Black Gem(s).",
-                            "html": "Deal <span data-variable-value='1014' data-variable-name='damage'>1014</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 1014 Damage and Destroy 3 Random Black Gem(s).",
+                            "html": "Deal <span data-variable-value='1014' data-variable-name='damage'>1014</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 7,
                             "talentScore": 439,
-                            "text": "Deal 1177 Damage and Destroy 3 Random Black Gem(s).",
-                            "html": "Deal <span data-variable-value='1177' data-variable-name='damage'>1177</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 1177 Damage and Destroy 4 Random Black Gem(s).",
+                            "html": "Deal <span data-variable-value='1177' data-variable-name='damage'>1177</span> Damage and Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         }
                     ]
                 }
@@ -15307,26 +15307,26 @@
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 2643 Damage and Make 3 Random Purple Gem(s) into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='2643' data-variable-name='damage'>2643</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Gem(s) into <span data-variable-value='Black' data-variable-name='max2'>Black</span> Gem(s)."
+                            "text": "Deal 2643 Damage and Make 2 Random Purple Gem(s) into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='2643' data-variable-name='damage'>2643</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Gem(s) into <span data-variable-value='Black' data-variable-name='max2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "Deal 3369 Damage and Make 3 Random Purple Gem(s) into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='3369' data-variable-name='damage'>3369</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Gem(s) into <span data-variable-value='Black' data-variable-name='max2'>Black</span> Gem(s)."
+                            "text": "Deal 3369 Damage and Make 2 Random Purple Gem(s) into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='3369' data-variable-name='damage'>3369</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Gem(s) into <span data-variable-value='Black' data-variable-name='max2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "Deal 4096 Damage and Make 3 Random Purple Gem(s) into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='4096' data-variable-name='damage'>4096</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Gem(s) into <span data-variable-value='Black' data-variable-name='max2'>Black</span> Gem(s)."
+                            "text": "Deal 4096 Damage and Make 2 Random Purple Gem(s) into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='4096' data-variable-name='damage'>4096</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Gem(s) into <span data-variable-value='Black' data-variable-name='max2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 7,
                             "talentScore": 439,
-                            "text": "Deal 4823 Damage and Make 4 Random Purple Gem(s) into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='4823' data-variable-name='damage'>4823</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Gem(s) into <span data-variable-value='Black' data-variable-name='max2'>Black</span> Gem(s)."
+                            "text": "Deal 4823 Damage and Make 3 Random Purple Gem(s) into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='4823' data-variable-name='damage'>4823</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Gem(s) into <span data-variable-value='Black' data-variable-name='max2'>Black</span> Gem(s)."
                         }
                     ]
                 },
@@ -15424,26 +15424,26 @@
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 688 Damage and Destroy 2 Random Black Gem(s).",
-                            "html": "Deal <span data-variable-value='688' data-variable-name='damage'>688</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 688 Damage and Destroy 3 Random Black Gem(s).",
+                            "html": "Deal <span data-variable-value='688' data-variable-name='damage'>688</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "Deal 851 Damage and Destroy 2 Random Black Gem(s).",
-                            "html": "Deal <span data-variable-value='851' data-variable-name='damage'>851</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 851 Damage and Destroy 3 Random Black Gem(s).",
+                            "html": "Deal <span data-variable-value='851' data-variable-name='damage'>851</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "Deal 1014 Damage and Destroy 2 Random Black Gem(s).",
-                            "html": "Deal <span data-variable-value='1014' data-variable-name='damage'>1014</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 1014 Damage and Destroy 3 Random Black Gem(s).",
+                            "html": "Deal <span data-variable-value='1014' data-variable-name='damage'>1014</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 7,
                             "talentScore": 439,
-                            "text": "Deal 1177 Damage and Destroy 3 Random Black Gem(s).",
-                            "html": "Deal <span data-variable-value='1177' data-variable-name='damage'>1177</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 1177 Damage and Destroy 4 Random Black Gem(s).",
+                            "html": "Deal <span data-variable-value='1177' data-variable-name='damage'>1177</span> Damage and Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         }
                     ]
                 }
@@ -17359,14 +17359,14 @@
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 4970 Damage and Choose 2 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='4970' data-variable-name='damage'>4970</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 4970 Damage and Choose 3 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='4970' data-variable-name='damage'>4970</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 6405 Damage and Choose 2 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='6405' data-variable-name='damage'>6405</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 6405 Damage and Choose 3 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='6405' data-variable-name='damage'>6405</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 6,
@@ -17377,26 +17377,26 @@
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 9277 Damage and Choose 3 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='9277' data-variable-name='damage'>9277</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 9277 Damage and Choose 4 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='9277' data-variable-name='damage'>9277</span> Damage and Choose <span data-variable-value='4' data-variable-name='val1'>4</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 10712 Damage and Choose 3 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='10712' data-variable-name='damage'>10712</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 10712 Damage and Choose 4 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='10712' data-variable-name='damage'>10712</span> Damage and Choose <span data-variable-value='4' data-variable-name='val1'>4</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 12148 Damage and Choose 3 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='12148' data-variable-name='damage'>12148</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 12148 Damage and Choose 4 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='12148' data-variable-name='damage'>12148</span> Damage and Choose <span data-variable-value='4' data-variable-name='val1'>4</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 10,
                             "talentScore": 1586,
-                            "text": "Deal 13584 Damage and Choose 4 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='13584' data-variable-name='damage'>13584</span> Damage and Choose <span data-variable-value='4' data-variable-name='val1'>4</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 13584 Damage and Choose 5 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='13584' data-variable-name='damage'>13584</span> Damage and Choose <span data-variable-value='5' data-variable-name='val1'>5</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         }
                     ]
                 }
@@ -19312,14 +19312,14 @@
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 4970 Damage and Choose 2 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='4970' data-variable-name='damage'>4970</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 4970 Damage and Choose 3 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='4970' data-variable-name='damage'>4970</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 6405 Damage and Choose 2 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='6405' data-variable-name='damage'>6405</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 6405 Damage and Choose 3 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='6405' data-variable-name='damage'>6405</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 6,
@@ -19330,26 +19330,26 @@
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 9277 Damage and Choose 3 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='9277' data-variable-name='damage'>9277</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 9277 Damage and Choose 4 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='9277' data-variable-name='damage'>9277</span> Damage and Choose <span data-variable-value='4' data-variable-name='val1'>4</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 10712 Damage and Choose 3 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='10712' data-variable-name='damage'>10712</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 10712 Damage and Choose 4 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='10712' data-variable-name='damage'>10712</span> Damage and Choose <span data-variable-value='4' data-variable-name='val1'>4</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 12148 Damage and Choose 3 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='12148' data-variable-name='damage'>12148</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 12148 Damage and Choose 4 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='12148' data-variable-name='damage'>12148</span> Damage and Choose <span data-variable-value='4' data-variable-name='val1'>4</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 10,
                             "talentScore": 1586,
-                            "text": "Deal 13584 Damage and Choose 4 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='13584' data-variable-name='damage'>13584</span> Damage and Choose <span data-variable-value='4' data-variable-name='val1'>4</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 13584 Damage and Choose 5 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='13584' data-variable-name='damage'>13584</span> Damage and Choose <span data-variable-value='5' data-variable-name='val1'>5</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         }
                     ]
                 }
@@ -21265,14 +21265,14 @@
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 4970 Damage and Choose 2 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='4970' data-variable-name='damage'>4970</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 4970 Damage and Choose 3 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='4970' data-variable-name='damage'>4970</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 6405 Damage and Choose 2 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='6405' data-variable-name='damage'>6405</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 6405 Damage and Choose 3 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='6405' data-variable-name='damage'>6405</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 6,
@@ -21283,26 +21283,26 @@
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 9277 Damage and Choose 3 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='9277' data-variable-name='damage'>9277</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 9277 Damage and Choose 4 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='9277' data-variable-name='damage'>9277</span> Damage and Choose <span data-variable-value='4' data-variable-name='val1'>4</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 10712 Damage and Choose 3 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='10712' data-variable-name='damage'>10712</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 10712 Damage and Choose 4 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='10712' data-variable-name='damage'>10712</span> Damage and Choose <span data-variable-value='4' data-variable-name='val1'>4</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 12148 Damage and Choose 3 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='12148' data-variable-name='damage'>12148</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 12148 Damage and Choose 4 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='12148' data-variable-name='damage'>12148</span> Damage and Choose <span data-variable-value='4' data-variable-name='val1'>4</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         },
                         {
                             "level": 10,
                             "talentScore": 1586,
-                            "text": "Deal 13584 Damage and Choose 4 Gem(s) to Make into Black Gem(s).",
-                            "html": "Deal <span data-variable-value='13584' data-variable-name='damage'>13584</span> Damage and Choose <span data-variable-value='4' data-variable-name='val1'>4</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
+                            "text": "Deal 13584 Damage and Choose 5 Gem(s) to Make into Black Gem(s).",
+                            "html": "Deal <span data-variable-value='13584' data-variable-name='damage'>13584</span> Damage and Choose <span data-variable-value='5' data-variable-name='val1'>5</span> Gem(s) to Make into <span data-variable-value='Black' data-variable-name='min2'>Black</span> Gem(s)."
                         }
                     ]
                 }

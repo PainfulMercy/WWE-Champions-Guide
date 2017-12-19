@@ -137,7 +137,7 @@
                 {
                     "ID": "ABL_MrPerfect_1Star_01",
                     "levelCap": 2,
-                    "cost": 12,
+                    "cost": 11,
                     "gemType": "Green",
                     "name": "Perfect-Plex",
                     "move": {},
@@ -738,7 +738,7 @@
                 {
                     "ID": "ABL_MrPerfect_2Star_01",
                     "levelCap": 5,
-                    "cost": 12,
+                    "cost": 11,
                     "gemType": "Green",
                     "name": "Perfect-Plex",
                     "move": {},
@@ -804,8 +804,8 @@
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 1032 Damage and Gain 3 Green MP.",
-                            "html": "Deal <span data-variable-value='1032' data-variable-name='damage'>1032</span> Damage and Gain <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
+                            "text": "Deal 1032 Damage and Gain 4 Green MP.",
+                            "html": "Deal <span data-variable-value='1032' data-variable-name='damage'>1032</span> Damage and Gain <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
                         },
                         {
                             "level": 5,
@@ -1439,7 +1439,7 @@
                 {
                     "ID": "ABL_MrPerfect_2Star_01",
                     "levelCap": 5,
-                    "cost": 12,
+                    "cost": 11,
                     "gemType": "Green",
                     "name": "Perfect-Plex",
                     "move": {},
@@ -1505,8 +1505,8 @@
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 1032 Damage and Gain 3 Green MP.",
-                            "html": "Deal <span data-variable-value='1032' data-variable-name='damage'>1032</span> Damage and Gain <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
+                            "text": "Deal 1032 Damage and Gain 4 Green MP.",
+                            "html": "Deal <span data-variable-value='1032' data-variable-name='damage'>1032</span> Damage and Gain <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
                         },
                         {
                             "level": 5,
@@ -2660,7 +2660,7 @@
                 {
                     "ID": "ABL_MrPerfect_3Star_01",
                     "levelCap": 8,
-                    "cost": 12,
+                    "cost": 11,
                     "gemType": "Green",
                     "name": "Perfect-Plex",
                     "move": {},
@@ -2756,8 +2756,8 @@
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 7746 Damage and Gain 4 Green MP.",
-                            "html": "Deal <span data-variable-value='7746' data-variable-name='damage'>7746</span> Damage and Gain <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
+                            "text": "Deal 7746 Damage and Gain 5 Green MP.",
+                            "html": "Deal <span data-variable-value='7746' data-variable-name='damage'>7746</span> Damage and Gain <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
                         },
                         {
                             "level": 7,
@@ -2768,8 +2768,8 @@
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 10597 Damage and Gain 5 Green MP.",
-                            "html": "Deal <span data-variable-value='10597' data-variable-name='damage'>10597</span> Damage and Gain <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
+                            "text": "Deal 10597 Damage and Gain 6 Green MP.",
+                            "html": "Deal <span data-variable-value='10597' data-variable-name='damage'>10597</span> Damage and Gain <span data-variable-value='6' data-variable-name='val1'>6</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
                         }
                     ]
                 },
@@ -4011,7 +4011,7 @@
                 {
                     "ID": "ABL_MrPerfect_3Star_01",
                     "levelCap": 8,
-                    "cost": 12,
+                    "cost": 11,
                     "gemType": "Green",
                     "name": "Perfect-Plex",
                     "move": {},
@@ -4107,8 +4107,8 @@
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 7746 Damage and Gain 4 Green MP.",
-                            "html": "Deal <span data-variable-value='7746' data-variable-name='damage'>7746</span> Damage and Gain <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
+                            "text": "Deal 7746 Damage and Gain 5 Green MP.",
+                            "html": "Deal <span data-variable-value='7746' data-variable-name='damage'>7746</span> Damage and Gain <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
                         },
                         {
                             "level": 7,
@@ -4119,8 +4119,8 @@
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 10597 Damage and Gain 5 Green MP.",
-                            "html": "Deal <span data-variable-value='10597' data-variable-name='damage'>10597</span> Damage and Gain <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
+                            "text": "Deal 10597 Damage and Gain 6 Green MP.",
+                            "html": "Deal <span data-variable-value='10597' data-variable-name='damage'>10597</span> Damage and Gain <span data-variable-value='6' data-variable-name='val1'>6</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
                         }
                     ]
                 },
@@ -5362,7 +5362,7 @@
                 {
                     "ID": "ABL_MrPerfect_3Star_01",
                     "levelCap": 8,
-                    "cost": 12,
+                    "cost": 11,
                     "gemType": "Green",
                     "name": "Perfect-Plex",
                     "move": {},
@@ -5458,8 +5458,8 @@
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 7746 Damage and Gain 4 Green MP.",
-                            "html": "Deal <span data-variable-value='7746' data-variable-name='damage'>7746</span> Damage and Gain <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
+                            "text": "Deal 7746 Damage and Gain 5 Green MP.",
+                            "html": "Deal <span data-variable-value='7746' data-variable-name='damage'>7746</span> Damage and Gain <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
                         },
                         {
                             "level": 7,
@@ -5470,8 +5470,8 @@
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 10597 Damage and Gain 5 Green MP.",
-                            "html": "Deal <span data-variable-value='10597' data-variable-name='damage'>10597</span> Damage and Gain <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
+                            "text": "Deal 10597 Damage and Gain 6 Green MP.",
+                            "html": "Deal <span data-variable-value='10597' data-variable-name='damage'>10597</span> Damage and Gain <span data-variable-value='6' data-variable-name='val1'>6</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
                         }
                     ]
                 },
@@ -5935,7 +5935,7 @@
                 {
                     "ID": "ABL_MrPerfect_1Star_01",
                     "levelCap": 3,
-                    "cost": 12,
+                    "cost": 11,
                     "gemType": "Green",
                     "name": "Perfect-Plex",
                     "move": {},
@@ -6684,7 +6684,7 @@
                 {
                     "ID": "ABL_MrPerfect_2Star_01",
                     "levelCap": 6,
-                    "cost": 12,
+                    "cost": 11,
                     "gemType": "Green",
                     "name": "Perfect-Plex",
                     "move": {},
@@ -6756,8 +6756,8 @@
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 1032 Damage and Gain 3 Green MP.",
-                            "html": "Deal <span data-variable-value='1032' data-variable-name='damage'>1032</span> Damage and Gain <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
+                            "text": "Deal 1032 Damage and Gain 4 Green MP.",
+                            "html": "Deal <span data-variable-value='1032' data-variable-name='damage'>1032</span> Damage and Gain <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
                         },
                         {
                             "level": 5,
@@ -6768,8 +6768,8 @@
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "Deal 1610 Damage and Gain 4 Green MP.",
-                            "html": "Deal <span data-variable-value='1610' data-variable-name='damage'>1610</span> Damage and Gain <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
+                            "text": "Deal 1610 Damage and Gain 5 Green MP.",
+                            "html": "Deal <span data-variable-value='1610' data-variable-name='damage'>1610</span> Damage and Gain <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
                         }
                     ]
                 },
@@ -7539,7 +7539,7 @@
                 {
                     "ID": "ABL_MrPerfect_2Star_01",
                     "levelCap": 6,
-                    "cost": 12,
+                    "cost": 11,
                     "gemType": "Green",
                     "name": "Perfect-Plex",
                     "move": {},
@@ -7611,8 +7611,8 @@
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 1032 Damage and Gain 3 Green MP.",
-                            "html": "Deal <span data-variable-value='1032' data-variable-name='damage'>1032</span> Damage and Gain <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
+                            "text": "Deal 1032 Damage and Gain 4 Green MP.",
+                            "html": "Deal <span data-variable-value='1032' data-variable-name='damage'>1032</span> Damage and Gain <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
                         },
                         {
                             "level": 5,
@@ -7623,8 +7623,8 @@
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "Deal 1610 Damage and Gain 4 Green MP.",
-                            "html": "Deal <span data-variable-value='1610' data-variable-name='damage'>1610</span> Damage and Gain <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
+                            "text": "Deal 1610 Damage and Gain 5 Green MP.",
+                            "html": "Deal <span data-variable-value='1610' data-variable-name='damage'>1610</span> Damage and Gain <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
                         }
                     ]
                 },
@@ -9044,7 +9044,7 @@
                 {
                     "ID": "ABL_MrPerfect_3Star_01",
                     "levelCap": 9,
-                    "cost": 12,
+                    "cost": 11,
                     "gemType": "Green",
                     "name": "Perfect-Plex",
                     "move": {},
@@ -9146,8 +9146,8 @@
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 7746 Damage and Gain 4 Green MP.",
-                            "html": "Deal <span data-variable-value='7746' data-variable-name='damage'>7746</span> Damage and Gain <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
+                            "text": "Deal 7746 Damage and Gain 5 Green MP.",
+                            "html": "Deal <span data-variable-value='7746' data-variable-name='damage'>7746</span> Damage and Gain <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
                         },
                         {
                             "level": 7,
@@ -9158,14 +9158,14 @@
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 10597 Damage and Gain 5 Green MP.",
-                            "html": "Deal <span data-variable-value='10597' data-variable-name='damage'>10597</span> Damage and Gain <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
+                            "text": "Deal 10597 Damage and Gain 6 Green MP.",
+                            "html": "Deal <span data-variable-value='10597' data-variable-name='damage'>10597</span> Damage and Gain <span data-variable-value='6' data-variable-name='val1'>6</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 12022 Damage and Gain 5 Green MP.",
-                            "html": "Deal <span data-variable-value='12022' data-variable-name='damage'>12022</span> Damage and Gain <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
+                            "text": "Deal 12022 Damage and Gain 6 Green MP.",
+                            "html": "Deal <span data-variable-value='12022' data-variable-name='damage'>12022</span> Damage and Gain <span data-variable-value='6' data-variable-name='val1'>6</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
                         }
                     ]
                 },
@@ -10685,7 +10685,7 @@
                 {
                     "ID": "ABL_MrPerfect_3Star_01",
                     "levelCap": 9,
-                    "cost": 12,
+                    "cost": 11,
                     "gemType": "Green",
                     "name": "Perfect-Plex",
                     "move": {},
@@ -10787,8 +10787,8 @@
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 7746 Damage and Gain 4 Green MP.",
-                            "html": "Deal <span data-variable-value='7746' data-variable-name='damage'>7746</span> Damage and Gain <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
+                            "text": "Deal 7746 Damage and Gain 5 Green MP.",
+                            "html": "Deal <span data-variable-value='7746' data-variable-name='damage'>7746</span> Damage and Gain <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
                         },
                         {
                             "level": 7,
@@ -10799,14 +10799,14 @@
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 10597 Damage and Gain 5 Green MP.",
-                            "html": "Deal <span data-variable-value='10597' data-variable-name='damage'>10597</span> Damage and Gain <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
+                            "text": "Deal 10597 Damage and Gain 6 Green MP.",
+                            "html": "Deal <span data-variable-value='10597' data-variable-name='damage'>10597</span> Damage and Gain <span data-variable-value='6' data-variable-name='val1'>6</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 12022 Damage and Gain 5 Green MP.",
-                            "html": "Deal <span data-variable-value='12022' data-variable-name='damage'>12022</span> Damage and Gain <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
+                            "text": "Deal 12022 Damage and Gain 6 Green MP.",
+                            "html": "Deal <span data-variable-value='12022' data-variable-name='damage'>12022</span> Damage and Gain <span data-variable-value='6' data-variable-name='val1'>6</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
                         }
                     ]
                 },
@@ -12326,7 +12326,7 @@
                 {
                     "ID": "ABL_MrPerfect_3Star_01",
                     "levelCap": 9,
-                    "cost": 12,
+                    "cost": 11,
                     "gemType": "Green",
                     "name": "Perfect-Plex",
                     "move": {},
@@ -12428,8 +12428,8 @@
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 7746 Damage and Gain 4 Green MP.",
-                            "html": "Deal <span data-variable-value='7746' data-variable-name='damage'>7746</span> Damage and Gain <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
+                            "text": "Deal 7746 Damage and Gain 5 Green MP.",
+                            "html": "Deal <span data-variable-value='7746' data-variable-name='damage'>7746</span> Damage and Gain <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
                         },
                         {
                             "level": 7,
@@ -12440,14 +12440,14 @@
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 10597 Damage and Gain 5 Green MP.",
-                            "html": "Deal <span data-variable-value='10597' data-variable-name='damage'>10597</span> Damage and Gain <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
+                            "text": "Deal 10597 Damage and Gain 6 Green MP.",
+                            "html": "Deal <span data-variable-value='10597' data-variable-name='damage'>10597</span> Damage and Gain <span data-variable-value='6' data-variable-name='val1'>6</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 12022 Damage and Gain 5 Green MP.",
-                            "html": "Deal <span data-variable-value='12022' data-variable-name='damage'>12022</span> Damage and Gain <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
+                            "text": "Deal 12022 Damage and Gain 6 Green MP.",
+                            "html": "Deal <span data-variable-value='12022' data-variable-name='damage'>12022</span> Damage and Gain <span data-variable-value='6' data-variable-name='val1'>6</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
                         }
                     ]
                 },
@@ -13059,7 +13059,7 @@
                 {
                     "ID": "ABL_MrPerfect_1Star_01",
                     "levelCap": 4,
-                    "cost": 12,
+                    "cost": 11,
                     "gemType": "Green",
                     "name": "Perfect-Plex",
                     "move": {},
@@ -13956,7 +13956,7 @@
                 {
                     "ID": "ABL_MrPerfect_2Star_01",
                     "levelCap": 7,
-                    "cost": 12,
+                    "cost": 11,
                     "gemType": "Green",
                     "name": "Perfect-Plex",
                     "move": {},
@@ -14034,8 +14034,8 @@
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 1032 Damage and Gain 3 Green MP.",
-                            "html": "Deal <span data-variable-value='1032' data-variable-name='damage'>1032</span> Damage and Gain <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
+                            "text": "Deal 1032 Damage and Gain 4 Green MP.",
+                            "html": "Deal <span data-variable-value='1032' data-variable-name='damage'>1032</span> Damage and Gain <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
                         },
                         {
                             "level": 5,
@@ -14046,14 +14046,14 @@
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "Deal 1610 Damage and Gain 4 Green MP.",
-                            "html": "Deal <span data-variable-value='1610' data-variable-name='damage'>1610</span> Damage and Gain <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
+                            "text": "Deal 1610 Damage and Gain 5 Green MP.",
+                            "html": "Deal <span data-variable-value='1610' data-variable-name='damage'>1610</span> Damage and Gain <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
                         },
                         {
                             "level": 7,
                             "talentScore": 439,
-                            "text": "Deal 1899 Damage and Gain 5 Green MP.",
-                            "html": "Deal <span data-variable-value='1899' data-variable-name='damage'>1899</span> Damage and Gain <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
+                            "text": "Deal 1899 Damage and Gain 6 Green MP.",
+                            "html": "Deal <span data-variable-value='1899' data-variable-name='damage'>1899</span> Damage and Gain <span data-variable-value='6' data-variable-name='val1'>6</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
                         }
                     ]
                 },
@@ -14965,7 +14965,7 @@
                 {
                     "ID": "ABL_MrPerfect_2Star_01",
                     "levelCap": 7,
-                    "cost": 12,
+                    "cost": 11,
                     "gemType": "Green",
                     "name": "Perfect-Plex",
                     "move": {},
@@ -15043,8 +15043,8 @@
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 1032 Damage and Gain 3 Green MP.",
-                            "html": "Deal <span data-variable-value='1032' data-variable-name='damage'>1032</span> Damage and Gain <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
+                            "text": "Deal 1032 Damage and Gain 4 Green MP.",
+                            "html": "Deal <span data-variable-value='1032' data-variable-name='damage'>1032</span> Damage and Gain <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
                         },
                         {
                             "level": 5,
@@ -15055,14 +15055,14 @@
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "Deal 1610 Damage and Gain 4 Green MP.",
-                            "html": "Deal <span data-variable-value='1610' data-variable-name='damage'>1610</span> Damage and Gain <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
+                            "text": "Deal 1610 Damage and Gain 5 Green MP.",
+                            "html": "Deal <span data-variable-value='1610' data-variable-name='damage'>1610</span> Damage and Gain <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
                         },
                         {
                             "level": 7,
                             "talentScore": 439,
-                            "text": "Deal 1899 Damage and Gain 5 Green MP.",
-                            "html": "Deal <span data-variable-value='1899' data-variable-name='damage'>1899</span> Damage and Gain <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
+                            "text": "Deal 1899 Damage and Gain 6 Green MP.",
+                            "html": "Deal <span data-variable-value='1899' data-variable-name='damage'>1899</span> Damage and Gain <span data-variable-value='6' data-variable-name='val1'>6</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
                         }
                     ]
                 },
@@ -16754,7 +16754,7 @@
                 {
                     "ID": "ABL_MrPerfect_3Star_01",
                     "levelCap": 10,
-                    "cost": 12,
+                    "cost": 11,
                     "gemType": "Green",
                     "name": "Perfect-Plex",
                     "move": {},
@@ -16862,8 +16862,8 @@
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 7746 Damage and Gain 4 Green MP.",
-                            "html": "Deal <span data-variable-value='7746' data-variable-name='damage'>7746</span> Damage and Gain <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
+                            "text": "Deal 7746 Damage and Gain 5 Green MP.",
+                            "html": "Deal <span data-variable-value='7746' data-variable-name='damage'>7746</span> Damage and Gain <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
                         },
                         {
                             "level": 7,
@@ -16874,20 +16874,20 @@
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 10597 Damage and Gain 5 Green MP.",
-                            "html": "Deal <span data-variable-value='10597' data-variable-name='damage'>10597</span> Damage and Gain <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
+                            "text": "Deal 10597 Damage and Gain 6 Green MP.",
+                            "html": "Deal <span data-variable-value='10597' data-variable-name='damage'>10597</span> Damage and Gain <span data-variable-value='6' data-variable-name='val1'>6</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 12022 Damage and Gain 5 Green MP.",
-                            "html": "Deal <span data-variable-value='12022' data-variable-name='damage'>12022</span> Damage and Gain <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
+                            "text": "Deal 12022 Damage and Gain 6 Green MP.",
+                            "html": "Deal <span data-variable-value='12022' data-variable-name='damage'>12022</span> Damage and Gain <span data-variable-value='6' data-variable-name='val1'>6</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
                         },
                         {
                             "level": 10,
                             "talentScore": 1586,
-                            "text": "Deal 13448 Damage and Gain 6 Green MP.",
-                            "html": "Deal <span data-variable-value='13448' data-variable-name='damage'>13448</span> Damage and Gain <span data-variable-value='6' data-variable-name='val1'>6</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
+                            "text": "Deal 13448 Damage and Gain 7 Green MP.",
+                            "html": "Deal <span data-variable-value='13448' data-variable-name='damage'>13448</span> Damage and Gain <span data-variable-value='7' data-variable-name='val1'>7</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
                         }
                     ]
                 },
@@ -18685,7 +18685,7 @@
                 {
                     "ID": "ABL_MrPerfect_3Star_01",
                     "levelCap": 10,
-                    "cost": 12,
+                    "cost": 11,
                     "gemType": "Green",
                     "name": "Perfect-Plex",
                     "move": {},
@@ -18793,8 +18793,8 @@
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 7746 Damage and Gain 4 Green MP.",
-                            "html": "Deal <span data-variable-value='7746' data-variable-name='damage'>7746</span> Damage and Gain <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
+                            "text": "Deal 7746 Damage and Gain 5 Green MP.",
+                            "html": "Deal <span data-variable-value='7746' data-variable-name='damage'>7746</span> Damage and Gain <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
                         },
                         {
                             "level": 7,
@@ -18805,20 +18805,20 @@
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 10597 Damage and Gain 5 Green MP.",
-                            "html": "Deal <span data-variable-value='10597' data-variable-name='damage'>10597</span> Damage and Gain <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
+                            "text": "Deal 10597 Damage and Gain 6 Green MP.",
+                            "html": "Deal <span data-variable-value='10597' data-variable-name='damage'>10597</span> Damage and Gain <span data-variable-value='6' data-variable-name='val1'>6</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 12022 Damage and Gain 5 Green MP.",
-                            "html": "Deal <span data-variable-value='12022' data-variable-name='damage'>12022</span> Damage and Gain <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
+                            "text": "Deal 12022 Damage and Gain 6 Green MP.",
+                            "html": "Deal <span data-variable-value='12022' data-variable-name='damage'>12022</span> Damage and Gain <span data-variable-value='6' data-variable-name='val1'>6</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
                         },
                         {
                             "level": 10,
                             "talentScore": 1586,
-                            "text": "Deal 13448 Damage and Gain 6 Green MP.",
-                            "html": "Deal <span data-variable-value='13448' data-variable-name='damage'>13448</span> Damage and Gain <span data-variable-value='6' data-variable-name='val1'>6</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
+                            "text": "Deal 13448 Damage and Gain 7 Green MP.",
+                            "html": "Deal <span data-variable-value='13448' data-variable-name='damage'>13448</span> Damage and Gain <span data-variable-value='7' data-variable-name='val1'>7</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
                         }
                     ]
                 },
@@ -20616,7 +20616,7 @@
                 {
                     "ID": "ABL_MrPerfect_3Star_01",
                     "levelCap": 10,
-                    "cost": 12,
+                    "cost": 11,
                     "gemType": "Green",
                     "name": "Perfect-Plex",
                     "move": {},
@@ -20724,8 +20724,8 @@
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 7746 Damage and Gain 4 Green MP.",
-                            "html": "Deal <span data-variable-value='7746' data-variable-name='damage'>7746</span> Damage and Gain <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
+                            "text": "Deal 7746 Damage and Gain 5 Green MP.",
+                            "html": "Deal <span data-variable-value='7746' data-variable-name='damage'>7746</span> Damage and Gain <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
                         },
                         {
                             "level": 7,
@@ -20736,20 +20736,20 @@
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 10597 Damage and Gain 5 Green MP.",
-                            "html": "Deal <span data-variable-value='10597' data-variable-name='damage'>10597</span> Damage and Gain <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
+                            "text": "Deal 10597 Damage and Gain 6 Green MP.",
+                            "html": "Deal <span data-variable-value='10597' data-variable-name='damage'>10597</span> Damage and Gain <span data-variable-value='6' data-variable-name='val1'>6</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 12022 Damage and Gain 5 Green MP.",
-                            "html": "Deal <span data-variable-value='12022' data-variable-name='damage'>12022</span> Damage and Gain <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
+                            "text": "Deal 12022 Damage and Gain 6 Green MP.",
+                            "html": "Deal <span data-variable-value='12022' data-variable-name='damage'>12022</span> Damage and Gain <span data-variable-value='6' data-variable-name='val1'>6</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
                         },
                         {
                             "level": 10,
                             "talentScore": 1586,
-                            "text": "Deal 13448 Damage and Gain 6 Green MP.",
-                            "html": "Deal <span data-variable-value='13448' data-variable-name='damage'>13448</span> Damage and Gain <span data-variable-value='6' data-variable-name='val1'>6</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
+                            "text": "Deal 13448 Damage and Gain 7 Green MP.",
+                            "html": "Deal <span data-variable-value='13448' data-variable-name='damage'>13448</span> Damage and Gain <span data-variable-value='7' data-variable-name='val1'>7</span> <span data-variable-value='Green' data-variable-name='min2'>Green</span> MP."
                         }
                     ]
                 },
