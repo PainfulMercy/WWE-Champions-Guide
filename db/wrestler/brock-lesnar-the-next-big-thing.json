@@ -210,14 +210,14 @@
                         {
                             "level": 1,
                             "talentScore": 20,
-                            "text": "Deal 140 Damage to opponent and 35 Damage to self.",
-                            "html": "Deal <span data-variable-value='140' data-variable-name='val1'>140</span> Damage to opponent and <span data-variable-value='35' data-variable-name='val2'>35</span> Damage to self."
+                            "text": "Deal 502 Damage to opponent and 251 Damage to self.",
+                            "html": "Deal <span data-variable-value='502' data-variable-name='val1'>502</span> Damage to opponent and <span data-variable-value='251' data-variable-name='val2'>251</span> Damage to self."
                         },
                         {
                             "level": 2,
                             "talentScore": 70,
-                            "text": "Deal 256 Damage to opponent and 64 Damage to self.",
-                            "html": "Deal <span data-variable-value='256' data-variable-name='val1'>256</span> Damage to opponent and <span data-variable-value='64' data-variable-name='val2'>64</span> Damage to self."
+                            "text": "Deal 961 Damage to opponent and 637 Damage to self.",
+                            "html": "Deal <span data-variable-value='961' data-variable-name='val1'>961</span> Damage to opponent and <span data-variable-value='637' data-variable-name='val2'>637</span> Damage to self."
                         }
                     ]
                 }
@@ -867,26 +867,26 @@
                         {
                             "level": 2,
                             "talentScore": 97,
-                            "text": "Deal 625 Damage to opponent and 156 Damage to self.",
-                            "html": "Deal <span data-variable-value='625' data-variable-name='val1'>625</span> Damage to opponent and <span data-variable-value='156' data-variable-name='val2'>156</span> Damage to self."
+                            "text": "Deal 1163 Damage to opponent and 662 Damage to self.",
+                            "html": "Deal <span data-variable-value='1163' data-variable-name='val1'>1163</span> Damage to opponent and <span data-variable-value='662' data-variable-name='val2'>662</span> Damage to self."
                         },
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "Deal 746 Damage to opponent and 186 Damage to self.",
-                            "html": "Deal <span data-variable-value='746' data-variable-name='val1'>746</span> Damage to opponent and <span data-variable-value='186' data-variable-name='val2'>186</span> Damage to self."
+                            "text": "Deal 1823 Damage to opponent and 1199 Damage to self.",
+                            "html": "Deal <span data-variable-value='1823' data-variable-name='val1'>1823</span> Damage to opponent and <span data-variable-value='1199' data-variable-name='val2'>1199</span> Damage to self."
                         },
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 868 Damage to opponent and 217 Damage to self.",
-                            "html": "Deal <span data-variable-value='868' data-variable-name='val1'>868</span> Damage to opponent and <span data-variable-value='217' data-variable-name='val2'>217</span> Damage to self."
+                            "text": "Deal 2482 Damage to opponent and 1736 Damage to self.",
+                            "html": "Deal <span data-variable-value='2482' data-variable-name='val1'>2482</span> Damage to opponent and <span data-variable-value='1736' data-variable-name='val2'>1736</span> Damage to self."
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "Deal 989 Damage to opponent and 247 Damage to self.",
-                            "html": "Deal <span data-variable-value='989' data-variable-name='val1'>989</span> Damage to opponent and <span data-variable-value='247' data-variable-name='val2'>247</span> Damage to self."
+                            "text": "Deal 3142 Damage to opponent and 2272 Damage to self.",
+                            "html": "Deal <span data-variable-value='3142' data-variable-name='val1'>3142</span> Damage to opponent and <span data-variable-value='2272' data-variable-name='val2'>2272</span> Damage to self."
                         }
                     ]
                 },
@@ -1583,26 +1583,26 @@
                         {
                             "level": 2,
                             "talentScore": 97,
-                            "text": "Deal 625 Damage to opponent and 156 Damage to self.",
-                            "html": "Deal <span data-variable-value='625' data-variable-name='val1'>625</span> Damage to opponent and <span data-variable-value='156' data-variable-name='val2'>156</span> Damage to self."
+                            "text": "Deal 1163 Damage to opponent and 662 Damage to self.",
+                            "html": "Deal <span data-variable-value='1163' data-variable-name='val1'>1163</span> Damage to opponent and <span data-variable-value='662' data-variable-name='val2'>662</span> Damage to self."
                         },
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "Deal 746 Damage to opponent and 186 Damage to self.",
-                            "html": "Deal <span data-variable-value='746' data-variable-name='val1'>746</span> Damage to opponent and <span data-variable-value='186' data-variable-name='val2'>186</span> Damage to self."
+                            "text": "Deal 1823 Damage to opponent and 1199 Damage to self.",
+                            "html": "Deal <span data-variable-value='1823' data-variable-name='val1'>1823</span> Damage to opponent and <span data-variable-value='1199' data-variable-name='val2'>1199</span> Damage to self."
                         },
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 868 Damage to opponent and 217 Damage to self.",
-                            "html": "Deal <span data-variable-value='868' data-variable-name='val1'>868</span> Damage to opponent and <span data-variable-value='217' data-variable-name='val2'>217</span> Damage to self."
+                            "text": "Deal 2482 Damage to opponent and 1736 Damage to self.",
+                            "html": "Deal <span data-variable-value='2482' data-variable-name='val1'>2482</span> Damage to opponent and <span data-variable-value='1736' data-variable-name='val2'>1736</span> Damage to self."
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "Deal 989 Damage to opponent and 247 Damage to self.",
-                            "html": "Deal <span data-variable-value='989' data-variable-name='val1'>989</span> Damage to opponent and <span data-variable-value='247' data-variable-name='val2'>247</span> Damage to self."
+                            "text": "Deal 3142 Damage to opponent and 2272 Damage to self.",
+                            "html": "Deal <span data-variable-value='3142' data-variable-name='val1'>3142</span> Damage to opponent and <span data-variable-value='2272' data-variable-name='val2'>2272</span> Damage to self."
                         }
                     ]
                 },
@@ -2849,50 +2849,50 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 1491 Damage to opponent and 373 Damage to self.",
-                            "html": "Deal <span data-variable-value='1491' data-variable-name='val1'>1491</span> Damage to opponent and <span data-variable-value='373' data-variable-name='val2'>373</span> Damage to self."
+                            "text": "Deal 1243 Damage to opponent and 621 Damage to self.",
+                            "html": "Deal <span data-variable-value='1243' data-variable-name='val1'>1243</span> Damage to opponent and <span data-variable-value='621' data-variable-name='val2'>621</span> Damage to self."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1714 Damage to opponent and 428 Damage to self.",
-                            "html": "Deal <span data-variable-value='1714' data-variable-name='val1'>1714</span> Damage to opponent and <span data-variable-value='428' data-variable-name='val2'>428</span> Damage to self."
+                            "text": "Deal 2376 Damage to opponent and 1505 Damage to self.",
+                            "html": "Deal <span data-variable-value='2376' data-variable-name='val1'>2376</span> Damage to opponent and <span data-variable-value='1505' data-variable-name='val2'>1505</span> Damage to self."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 1937 Damage to opponent and 484 Damage to self.",
-                            "html": "Deal <span data-variable-value='1937' data-variable-name='val1'>1937</span> Damage to opponent and <span data-variable-value='484' data-variable-name='val2'>484</span> Damage to self."
+                            "text": "Deal 3509 Damage to opponent and 2390 Damage to self.",
+                            "html": "Deal <span data-variable-value='3509' data-variable-name='val1'>3509</span> Damage to opponent and <span data-variable-value='2390' data-variable-name='val2'>2390</span> Damage to self."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 2160 Damage to opponent and 540 Damage to self.",
-                            "html": "Deal <span data-variable-value='2160' data-variable-name='val1'>2160</span> Damage to opponent and <span data-variable-value='540' data-variable-name='val2'>540</span> Damage to self."
+                            "text": "Deal 4643 Damage to opponent and 3275 Damage to self.",
+                            "html": "Deal <span data-variable-value='4643' data-variable-name='val1'>4643</span> Damage to opponent and <span data-variable-value='3275' data-variable-name='val2'>3275</span> Damage to self."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 2383 Damage to opponent and 596 Damage to self.",
-                            "html": "Deal <span data-variable-value='2383' data-variable-name='val1'>2383</span> Damage to opponent and <span data-variable-value='596' data-variable-name='val2'>596</span> Damage to self."
+                            "text": "Deal 5776 Damage to opponent and 4159 Damage to self.",
+                            "html": "Deal <span data-variable-value='5776' data-variable-name='val1'>5776</span> Damage to opponent and <span data-variable-value='4159' data-variable-name='val2'>4159</span> Damage to self."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 2607 Damage to opponent and 651 Damage to self.",
-                            "html": "Deal <span data-variable-value='2607' data-variable-name='val1'>2607</span> Damage to opponent and <span data-variable-value='651' data-variable-name='val2'>651</span> Damage to self."
+                            "text": "Deal 6910 Damage to opponent and 5044 Damage to self.",
+                            "html": "Deal <span data-variable-value='6910' data-variable-name='val1'>6910</span> Damage to opponent and <span data-variable-value='5044' data-variable-name='val2'>5044</span> Damage to self."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 2830 Damage to opponent and 707 Damage to self.",
-                            "html": "Deal <span data-variable-value='2830' data-variable-name='val1'>2830</span> Damage to opponent and <span data-variable-value='707' data-variable-name='val2'>707</span> Damage to self."
+                            "text": "Deal 8043 Damage to opponent and 5929 Damage to self.",
+                            "html": "Deal <span data-variable-value='8043' data-variable-name='val1'>8043</span> Damage to opponent and <span data-variable-value='5929' data-variable-name='val2'>5929</span> Damage to self."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 3053 Damage to opponent and 763 Damage to self.",
-                            "html": "Deal <span data-variable-value='3053' data-variable-name='val1'>3053</span> Damage to opponent and <span data-variable-value='763' data-variable-name='val2'>763</span> Damage to self."
+                            "text": "Deal 9177 Damage to opponent and 6813 Damage to self.",
+                            "html": "Deal <span data-variable-value='9177' data-variable-name='val1'>9177</span> Damage to opponent and <span data-variable-value='6813' data-variable-name='val2'>6813</span> Damage to self."
                         }
                     ]
                 },
@@ -4222,50 +4222,50 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 1491 Damage to opponent and 373 Damage to self.",
-                            "html": "Deal <span data-variable-value='1491' data-variable-name='val1'>1491</span> Damage to opponent and <span data-variable-value='373' data-variable-name='val2'>373</span> Damage to self."
+                            "text": "Deal 1243 Damage to opponent and 621 Damage to self.",
+                            "html": "Deal <span data-variable-value='1243' data-variable-name='val1'>1243</span> Damage to opponent and <span data-variable-value='621' data-variable-name='val2'>621</span> Damage to self."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1714 Damage to opponent and 428 Damage to self.",
-                            "html": "Deal <span data-variable-value='1714' data-variable-name='val1'>1714</span> Damage to opponent and <span data-variable-value='428' data-variable-name='val2'>428</span> Damage to self."
+                            "text": "Deal 2376 Damage to opponent and 1505 Damage to self.",
+                            "html": "Deal <span data-variable-value='2376' data-variable-name='val1'>2376</span> Damage to opponent and <span data-variable-value='1505' data-variable-name='val2'>1505</span> Damage to self."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 1937 Damage to opponent and 484 Damage to self.",
-                            "html": "Deal <span data-variable-value='1937' data-variable-name='val1'>1937</span> Damage to opponent and <span data-variable-value='484' data-variable-name='val2'>484</span> Damage to self."
+                            "text": "Deal 3509 Damage to opponent and 2390 Damage to self.",
+                            "html": "Deal <span data-variable-value='3509' data-variable-name='val1'>3509</span> Damage to opponent and <span data-variable-value='2390' data-variable-name='val2'>2390</span> Damage to self."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 2160 Damage to opponent and 540 Damage to self.",
-                            "html": "Deal <span data-variable-value='2160' data-variable-name='val1'>2160</span> Damage to opponent and <span data-variable-value='540' data-variable-name='val2'>540</span> Damage to self."
+                            "text": "Deal 4643 Damage to opponent and 3275 Damage to self.",
+                            "html": "Deal <span data-variable-value='4643' data-variable-name='val1'>4643</span> Damage to opponent and <span data-variable-value='3275' data-variable-name='val2'>3275</span> Damage to self."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 2383 Damage to opponent and 596 Damage to self.",
-                            "html": "Deal <span data-variable-value='2383' data-variable-name='val1'>2383</span> Damage to opponent and <span data-variable-value='596' data-variable-name='val2'>596</span> Damage to self."
+                            "text": "Deal 5776 Damage to opponent and 4159 Damage to self.",
+                            "html": "Deal <span data-variable-value='5776' data-variable-name='val1'>5776</span> Damage to opponent and <span data-variable-value='4159' data-variable-name='val2'>4159</span> Damage to self."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 2607 Damage to opponent and 651 Damage to self.",
-                            "html": "Deal <span data-variable-value='2607' data-variable-name='val1'>2607</span> Damage to opponent and <span data-variable-value='651' data-variable-name='val2'>651</span> Damage to self."
+                            "text": "Deal 6910 Damage to opponent and 5044 Damage to self.",
+                            "html": "Deal <span data-variable-value='6910' data-variable-name='val1'>6910</span> Damage to opponent and <span data-variable-value='5044' data-variable-name='val2'>5044</span> Damage to self."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 2830 Damage to opponent and 707 Damage to self.",
-                            "html": "Deal <span data-variable-value='2830' data-variable-name='val1'>2830</span> Damage to opponent and <span data-variable-value='707' data-variable-name='val2'>707</span> Damage to self."
+                            "text": "Deal 8043 Damage to opponent and 5929 Damage to self.",
+                            "html": "Deal <span data-variable-value='8043' data-variable-name='val1'>8043</span> Damage to opponent and <span data-variable-value='5929' data-variable-name='val2'>5929</span> Damage to self."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 3053 Damage to opponent and 763 Damage to self.",
-                            "html": "Deal <span data-variable-value='3053' data-variable-name='val1'>3053</span> Damage to opponent and <span data-variable-value='763' data-variable-name='val2'>763</span> Damage to self."
+                            "text": "Deal 9177 Damage to opponent and 6813 Damage to self.",
+                            "html": "Deal <span data-variable-value='9177' data-variable-name='val1'>9177</span> Damage to opponent and <span data-variable-value='6813' data-variable-name='val2'>6813</span> Damage to self."
                         }
                     ]
                 },
@@ -5595,50 +5595,50 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 1491 Damage to opponent and 373 Damage to self.",
-                            "html": "Deal <span data-variable-value='1491' data-variable-name='val1'>1491</span> Damage to opponent and <span data-variable-value='373' data-variable-name='val2'>373</span> Damage to self."
+                            "text": "Deal 1243 Damage to opponent and 621 Damage to self.",
+                            "html": "Deal <span data-variable-value='1243' data-variable-name='val1'>1243</span> Damage to opponent and <span data-variable-value='621' data-variable-name='val2'>621</span> Damage to self."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1714 Damage to opponent and 428 Damage to self.",
-                            "html": "Deal <span data-variable-value='1714' data-variable-name='val1'>1714</span> Damage to opponent and <span data-variable-value='428' data-variable-name='val2'>428</span> Damage to self."
+                            "text": "Deal 2376 Damage to opponent and 1505 Damage to self.",
+                            "html": "Deal <span data-variable-value='2376' data-variable-name='val1'>2376</span> Damage to opponent and <span data-variable-value='1505' data-variable-name='val2'>1505</span> Damage to self."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 1937 Damage to opponent and 484 Damage to self.",
-                            "html": "Deal <span data-variable-value='1937' data-variable-name='val1'>1937</span> Damage to opponent and <span data-variable-value='484' data-variable-name='val2'>484</span> Damage to self."
+                            "text": "Deal 3509 Damage to opponent and 2390 Damage to self.",
+                            "html": "Deal <span data-variable-value='3509' data-variable-name='val1'>3509</span> Damage to opponent and <span data-variable-value='2390' data-variable-name='val2'>2390</span> Damage to self."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 2160 Damage to opponent and 540 Damage to self.",
-                            "html": "Deal <span data-variable-value='2160' data-variable-name='val1'>2160</span> Damage to opponent and <span data-variable-value='540' data-variable-name='val2'>540</span> Damage to self."
+                            "text": "Deal 4643 Damage to opponent and 3275 Damage to self.",
+                            "html": "Deal <span data-variable-value='4643' data-variable-name='val1'>4643</span> Damage to opponent and <span data-variable-value='3275' data-variable-name='val2'>3275</span> Damage to self."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 2383 Damage to opponent and 596 Damage to self.",
-                            "html": "Deal <span data-variable-value='2383' data-variable-name='val1'>2383</span> Damage to opponent and <span data-variable-value='596' data-variable-name='val2'>596</span> Damage to self."
+                            "text": "Deal 5776 Damage to opponent and 4159 Damage to self.",
+                            "html": "Deal <span data-variable-value='5776' data-variable-name='val1'>5776</span> Damage to opponent and <span data-variable-value='4159' data-variable-name='val2'>4159</span> Damage to self."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 2607 Damage to opponent and 651 Damage to self.",
-                            "html": "Deal <span data-variable-value='2607' data-variable-name='val1'>2607</span> Damage to opponent and <span data-variable-value='651' data-variable-name='val2'>651</span> Damage to self."
+                            "text": "Deal 6910 Damage to opponent and 5044 Damage to self.",
+                            "html": "Deal <span data-variable-value='6910' data-variable-name='val1'>6910</span> Damage to opponent and <span data-variable-value='5044' data-variable-name='val2'>5044</span> Damage to self."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 2830 Damage to opponent and 707 Damage to self.",
-                            "html": "Deal <span data-variable-value='2830' data-variable-name='val1'>2830</span> Damage to opponent and <span data-variable-value='707' data-variable-name='val2'>707</span> Damage to self."
+                            "text": "Deal 8043 Damage to opponent and 5929 Damage to self.",
+                            "html": "Deal <span data-variable-value='8043' data-variable-name='val1'>8043</span> Damage to opponent and <span data-variable-value='5929' data-variable-name='val2'>5929</span> Damage to self."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 3053 Damage to opponent and 763 Damage to self.",
-                            "html": "Deal <span data-variable-value='3053' data-variable-name='val1'>3053</span> Damage to opponent and <span data-variable-value='763' data-variable-name='val2'>763</span> Damage to self."
+                            "text": "Deal 9177 Damage to opponent and 6813 Damage to self.",
+                            "html": "Deal <span data-variable-value='9177' data-variable-name='val1'>9177</span> Damage to opponent and <span data-variable-value='6813' data-variable-name='val2'>6813</span> Damage to self."
                         }
                     ]
                 },
@@ -6130,20 +6130,20 @@
                         {
                             "level": 1,
                             "talentScore": 20,
-                            "text": "Deal 140 Damage to opponent and 35 Damage to self.",
-                            "html": "Deal <span data-variable-value='140' data-variable-name='val1'>140</span> Damage to opponent and <span data-variable-value='35' data-variable-name='val2'>35</span> Damage to self."
+                            "text": "Deal 502 Damage to opponent and 251 Damage to self.",
+                            "html": "Deal <span data-variable-value='502' data-variable-name='val1'>502</span> Damage to opponent and <span data-variable-value='251' data-variable-name='val2'>251</span> Damage to self."
                         },
                         {
                             "level": 2,
                             "talentScore": 70,
-                            "text": "Deal 256 Damage to opponent and 64 Damage to self.",
-                            "html": "Deal <span data-variable-value='256' data-variable-name='val1'>256</span> Damage to opponent and <span data-variable-value='64' data-variable-name='val2'>64</span> Damage to self."
+                            "text": "Deal 961 Damage to opponent and 637 Damage to self.",
+                            "html": "Deal <span data-variable-value='961' data-variable-name='val1'>961</span> Damage to opponent and <span data-variable-value='637' data-variable-name='val2'>637</span> Damage to self."
                         },
                         {
                             "level": 3,
                             "talentScore": 120,
-                            "text": "Deal 373 Damage to opponent and 93 Damage to self.",
-                            "html": "Deal <span data-variable-value='373' data-variable-name='val1'>373</span> Damage to opponent and <span data-variable-value='93' data-variable-name='val2'>93</span> Damage to self."
+                            "text": "Deal 1421 Damage to opponent and 1024 Damage to self.",
+                            "html": "Deal <span data-variable-value='1421' data-variable-name='val1'>1421</span> Damage to opponent and <span data-variable-value='1024' data-variable-name='val2'>1024</span> Damage to self."
                         }
                     ]
                 }
@@ -6935,32 +6935,32 @@
                         {
                             "level": 2,
                             "talentScore": 97,
-                            "text": "Deal 625 Damage to opponent and 156 Damage to self.",
-                            "html": "Deal <span data-variable-value='625' data-variable-name='val1'>625</span> Damage to opponent and <span data-variable-value='156' data-variable-name='val2'>156</span> Damage to self."
+                            "text": "Deal 1163 Damage to opponent and 662 Damage to self.",
+                            "html": "Deal <span data-variable-value='1163' data-variable-name='val1'>1163</span> Damage to opponent and <span data-variable-value='662' data-variable-name='val2'>662</span> Damage to self."
                         },
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "Deal 746 Damage to opponent and 186 Damage to self.",
-                            "html": "Deal <span data-variable-value='746' data-variable-name='val1'>746</span> Damage to opponent and <span data-variable-value='186' data-variable-name='val2'>186</span> Damage to self."
+                            "text": "Deal 1823 Damage to opponent and 1199 Damage to self.",
+                            "html": "Deal <span data-variable-value='1823' data-variable-name='val1'>1823</span> Damage to opponent and <span data-variable-value='1199' data-variable-name='val2'>1199</span> Damage to self."
                         },
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 868 Damage to opponent and 217 Damage to self.",
-                            "html": "Deal <span data-variable-value='868' data-variable-name='val1'>868</span> Damage to opponent and <span data-variable-value='217' data-variable-name='val2'>217</span> Damage to self."
+                            "text": "Deal 2482 Damage to opponent and 1736 Damage to self.",
+                            "html": "Deal <span data-variable-value='2482' data-variable-name='val1'>2482</span> Damage to opponent and <span data-variable-value='1736' data-variable-name='val2'>1736</span> Damage to self."
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "Deal 989 Damage to opponent and 247 Damage to self.",
-                            "html": "Deal <span data-variable-value='989' data-variable-name='val1'>989</span> Damage to opponent and <span data-variable-value='247' data-variable-name='val2'>247</span> Damage to self."
+                            "text": "Deal 3142 Damage to opponent and 2272 Damage to self.",
+                            "html": "Deal <span data-variable-value='3142' data-variable-name='val1'>3142</span> Damage to opponent and <span data-variable-value='2272' data-variable-name='val2'>2272</span> Damage to self."
                         },
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "Deal 1110 Damage to opponent and 277 Damage to self.",
-                            "html": "Deal <span data-variable-value='1110' data-variable-name='val1'>1110</span> Damage to opponent and <span data-variable-value='277' data-variable-name='val2'>277</span> Damage to self."
+                            "text": "Deal 3801 Damage to opponent and 2809 Damage to self.",
+                            "html": "Deal <span data-variable-value='3801' data-variable-name='val1'>3801</span> Damage to opponent and <span data-variable-value='2809' data-variable-name='val2'>2809</span> Damage to self."
                         }
                     ]
                 },
@@ -7805,32 +7805,32 @@
                         {
                             "level": 2,
                             "talentScore": 97,
-                            "text": "Deal 625 Damage to opponent and 156 Damage to self.",
-                            "html": "Deal <span data-variable-value='625' data-variable-name='val1'>625</span> Damage to opponent and <span data-variable-value='156' data-variable-name='val2'>156</span> Damage to self."
+                            "text": "Deal 1163 Damage to opponent and 662 Damage to self.",
+                            "html": "Deal <span data-variable-value='1163' data-variable-name='val1'>1163</span> Damage to opponent and <span data-variable-value='662' data-variable-name='val2'>662</span> Damage to self."
                         },
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "Deal 746 Damage to opponent and 186 Damage to self.",
-                            "html": "Deal <span data-variable-value='746' data-variable-name='val1'>746</span> Damage to opponent and <span data-variable-value='186' data-variable-name='val2'>186</span> Damage to self."
+                            "text": "Deal 1823 Damage to opponent and 1199 Damage to self.",
+                            "html": "Deal <span data-variable-value='1823' data-variable-name='val1'>1823</span> Damage to opponent and <span data-variable-value='1199' data-variable-name='val2'>1199</span> Damage to self."
                         },
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 868 Damage to opponent and 217 Damage to self.",
-                            "html": "Deal <span data-variable-value='868' data-variable-name='val1'>868</span> Damage to opponent and <span data-variable-value='217' data-variable-name='val2'>217</span> Damage to self."
+                            "text": "Deal 2482 Damage to opponent and 1736 Damage to self.",
+                            "html": "Deal <span data-variable-value='2482' data-variable-name='val1'>2482</span> Damage to opponent and <span data-variable-value='1736' data-variable-name='val2'>1736</span> Damage to self."
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "Deal 989 Damage to opponent and 247 Damage to self.",
-                            "html": "Deal <span data-variable-value='989' data-variable-name='val1'>989</span> Damage to opponent and <span data-variable-value='247' data-variable-name='val2'>247</span> Damage to self."
+                            "text": "Deal 3142 Damage to opponent and 2272 Damage to self.",
+                            "html": "Deal <span data-variable-value='3142' data-variable-name='val1'>3142</span> Damage to opponent and <span data-variable-value='2272' data-variable-name='val2'>2272</span> Damage to self."
                         },
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "Deal 1110 Damage to opponent and 277 Damage to self.",
-                            "html": "Deal <span data-variable-value='1110' data-variable-name='val1'>1110</span> Damage to opponent and <span data-variable-value='277' data-variable-name='val2'>277</span> Damage to self."
+                            "text": "Deal 3801 Damage to opponent and 2809 Damage to self.",
+                            "html": "Deal <span data-variable-value='3801' data-variable-name='val1'>3801</span> Damage to opponent and <span data-variable-value='2809' data-variable-name='val2'>2809</span> Damage to self."
                         }
                     ]
                 },
@@ -9355,56 +9355,56 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 1491 Damage to opponent and 373 Damage to self.",
-                            "html": "Deal <span data-variable-value='1491' data-variable-name='val1'>1491</span> Damage to opponent and <span data-variable-value='373' data-variable-name='val2'>373</span> Damage to self."
+                            "text": "Deal 1243 Damage to opponent and 621 Damage to self.",
+                            "html": "Deal <span data-variable-value='1243' data-variable-name='val1'>1243</span> Damage to opponent and <span data-variable-value='621' data-variable-name='val2'>621</span> Damage to self."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1714 Damage to opponent and 428 Damage to self.",
-                            "html": "Deal <span data-variable-value='1714' data-variable-name='val1'>1714</span> Damage to opponent and <span data-variable-value='428' data-variable-name='val2'>428</span> Damage to self."
+                            "text": "Deal 2376 Damage to opponent and 1505 Damage to self.",
+                            "html": "Deal <span data-variable-value='2376' data-variable-name='val1'>2376</span> Damage to opponent and <span data-variable-value='1505' data-variable-name='val2'>1505</span> Damage to self."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 1937 Damage to opponent and 484 Damage to self.",
-                            "html": "Deal <span data-variable-value='1937' data-variable-name='val1'>1937</span> Damage to opponent and <span data-variable-value='484' data-variable-name='val2'>484</span> Damage to self."
+                            "text": "Deal 3509 Damage to opponent and 2390 Damage to self.",
+                            "html": "Deal <span data-variable-value='3509' data-variable-name='val1'>3509</span> Damage to opponent and <span data-variable-value='2390' data-variable-name='val2'>2390</span> Damage to self."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 2160 Damage to opponent and 540 Damage to self.",
-                            "html": "Deal <span data-variable-value='2160' data-variable-name='val1'>2160</span> Damage to opponent and <span data-variable-value='540' data-variable-name='val2'>540</span> Damage to self."
+                            "text": "Deal 4643 Damage to opponent and 3275 Damage to self.",
+                            "html": "Deal <span data-variable-value='4643' data-variable-name='val1'>4643</span> Damage to opponent and <span data-variable-value='3275' data-variable-name='val2'>3275</span> Damage to self."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 2383 Damage to opponent and 596 Damage to self.",
-                            "html": "Deal <span data-variable-value='2383' data-variable-name='val1'>2383</span> Damage to opponent and <span data-variable-value='596' data-variable-name='val2'>596</span> Damage to self."
+                            "text": "Deal 5776 Damage to opponent and 4159 Damage to self.",
+                            "html": "Deal <span data-variable-value='5776' data-variable-name='val1'>5776</span> Damage to opponent and <span data-variable-value='4159' data-variable-name='val2'>4159</span> Damage to self."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 2607 Damage to opponent and 651 Damage to self.",
-                            "html": "Deal <span data-variable-value='2607' data-variable-name='val1'>2607</span> Damage to opponent and <span data-variable-value='651' data-variable-name='val2'>651</span> Damage to self."
+                            "text": "Deal 6910 Damage to opponent and 5044 Damage to self.",
+                            "html": "Deal <span data-variable-value='6910' data-variable-name='val1'>6910</span> Damage to opponent and <span data-variable-value='5044' data-variable-name='val2'>5044</span> Damage to self."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 2830 Damage to opponent and 707 Damage to self.",
-                            "html": "Deal <span data-variable-value='2830' data-variable-name='val1'>2830</span> Damage to opponent and <span data-variable-value='707' data-variable-name='val2'>707</span> Damage to self."
+                            "text": "Deal 8043 Damage to opponent and 5929 Damage to self.",
+                            "html": "Deal <span data-variable-value='8043' data-variable-name='val1'>8043</span> Damage to opponent and <span data-variable-value='5929' data-variable-name='val2'>5929</span> Damage to self."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 3053 Damage to opponent and 763 Damage to self.",
-                            "html": "Deal <span data-variable-value='3053' data-variable-name='val1'>3053</span> Damage to opponent and <span data-variable-value='763' data-variable-name='val2'>763</span> Damage to self."
+                            "text": "Deal 9177 Damage to opponent and 6813 Damage to self.",
+                            "html": "Deal <span data-variable-value='9177' data-variable-name='val1'>9177</span> Damage to opponent and <span data-variable-value='6813' data-variable-name='val2'>6813</span> Damage to self."
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 3276 Damage to opponent and 819 Damage to self.",
-                            "html": "Deal <span data-variable-value='3276' data-variable-name='val1'>3276</span> Damage to opponent and <span data-variable-value='819' data-variable-name='val2'>819</span> Damage to self."
+                            "text": "Deal 10310 Damage to opponent and 7698 Damage to self.",
+                            "html": "Deal <span data-variable-value='10310' data-variable-name='val1'>10310</span> Damage to opponent and <span data-variable-value='7698' data-variable-name='val2'>7698</span> Damage to self."
                         }
                     ]
                 },
@@ -11018,56 +11018,56 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 1491 Damage to opponent and 373 Damage to self.",
-                            "html": "Deal <span data-variable-value='1491' data-variable-name='val1'>1491</span> Damage to opponent and <span data-variable-value='373' data-variable-name='val2'>373</span> Damage to self."
+                            "text": "Deal 1243 Damage to opponent and 621 Damage to self.",
+                            "html": "Deal <span data-variable-value='1243' data-variable-name='val1'>1243</span> Damage to opponent and <span data-variable-value='621' data-variable-name='val2'>621</span> Damage to self."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1714 Damage to opponent and 428 Damage to self.",
-                            "html": "Deal <span data-variable-value='1714' data-variable-name='val1'>1714</span> Damage to opponent and <span data-variable-value='428' data-variable-name='val2'>428</span> Damage to self."
+                            "text": "Deal 2376 Damage to opponent and 1505 Damage to self.",
+                            "html": "Deal <span data-variable-value='2376' data-variable-name='val1'>2376</span> Damage to opponent and <span data-variable-value='1505' data-variable-name='val2'>1505</span> Damage to self."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 1937 Damage to opponent and 484 Damage to self.",
-                            "html": "Deal <span data-variable-value='1937' data-variable-name='val1'>1937</span> Damage to opponent and <span data-variable-value='484' data-variable-name='val2'>484</span> Damage to self."
+                            "text": "Deal 3509 Damage to opponent and 2390 Damage to self.",
+                            "html": "Deal <span data-variable-value='3509' data-variable-name='val1'>3509</span> Damage to opponent and <span data-variable-value='2390' data-variable-name='val2'>2390</span> Damage to self."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 2160 Damage to opponent and 540 Damage to self.",
-                            "html": "Deal <span data-variable-value='2160' data-variable-name='val1'>2160</span> Damage to opponent and <span data-variable-value='540' data-variable-name='val2'>540</span> Damage to self."
+                            "text": "Deal 4643 Damage to opponent and 3275 Damage to self.",
+                            "html": "Deal <span data-variable-value='4643' data-variable-name='val1'>4643</span> Damage to opponent and <span data-variable-value='3275' data-variable-name='val2'>3275</span> Damage to self."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 2383 Damage to opponent and 596 Damage to self.",
-                            "html": "Deal <span data-variable-value='2383' data-variable-name='val1'>2383</span> Damage to opponent and <span data-variable-value='596' data-variable-name='val2'>596</span> Damage to self."
+                            "text": "Deal 5776 Damage to opponent and 4159 Damage to self.",
+                            "html": "Deal <span data-variable-value='5776' data-variable-name='val1'>5776</span> Damage to opponent and <span data-variable-value='4159' data-variable-name='val2'>4159</span> Damage to self."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 2607 Damage to opponent and 651 Damage to self.",
-                            "html": "Deal <span data-variable-value='2607' data-variable-name='val1'>2607</span> Damage to opponent and <span data-variable-value='651' data-variable-name='val2'>651</span> Damage to self."
+                            "text": "Deal 6910 Damage to opponent and 5044 Damage to self.",
+                            "html": "Deal <span data-variable-value='6910' data-variable-name='val1'>6910</span> Damage to opponent and <span data-variable-value='5044' data-variable-name='val2'>5044</span> Damage to self."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 2830 Damage to opponent and 707 Damage to self.",
-                            "html": "Deal <span data-variable-value='2830' data-variable-name='val1'>2830</span> Damage to opponent and <span data-variable-value='707' data-variable-name='val2'>707</span> Damage to self."
+                            "text": "Deal 8043 Damage to opponent and 5929 Damage to self.",
+                            "html": "Deal <span data-variable-value='8043' data-variable-name='val1'>8043</span> Damage to opponent and <span data-variable-value='5929' data-variable-name='val2'>5929</span> Damage to self."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 3053 Damage to opponent and 763 Damage to self.",
-                            "html": "Deal <span data-variable-value='3053' data-variable-name='val1'>3053</span> Damage to opponent and <span data-variable-value='763' data-variable-name='val2'>763</span> Damage to self."
+                            "text": "Deal 9177 Damage to opponent and 6813 Damage to self.",
+                            "html": "Deal <span data-variable-value='9177' data-variable-name='val1'>9177</span> Damage to opponent and <span data-variable-value='6813' data-variable-name='val2'>6813</span> Damage to self."
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 3276 Damage to opponent and 819 Damage to self.",
-                            "html": "Deal <span data-variable-value='3276' data-variable-name='val1'>3276</span> Damage to opponent and <span data-variable-value='819' data-variable-name='val2'>819</span> Damage to self."
+                            "text": "Deal 10310 Damage to opponent and 7698 Damage to self.",
+                            "html": "Deal <span data-variable-value='10310' data-variable-name='val1'>10310</span> Damage to opponent and <span data-variable-value='7698' data-variable-name='val2'>7698</span> Damage to self."
                         }
                     ]
                 },
@@ -12681,56 +12681,56 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 1491 Damage to opponent and 373 Damage to self.",
-                            "html": "Deal <span data-variable-value='1491' data-variable-name='val1'>1491</span> Damage to opponent and <span data-variable-value='373' data-variable-name='val2'>373</span> Damage to self."
+                            "text": "Deal 1243 Damage to opponent and 621 Damage to self.",
+                            "html": "Deal <span data-variable-value='1243' data-variable-name='val1'>1243</span> Damage to opponent and <span data-variable-value='621' data-variable-name='val2'>621</span> Damage to self."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1714 Damage to opponent and 428 Damage to self.",
-                            "html": "Deal <span data-variable-value='1714' data-variable-name='val1'>1714</span> Damage to opponent and <span data-variable-value='428' data-variable-name='val2'>428</span> Damage to self."
+                            "text": "Deal 2376 Damage to opponent and 1505 Damage to self.",
+                            "html": "Deal <span data-variable-value='2376' data-variable-name='val1'>2376</span> Damage to opponent and <span data-variable-value='1505' data-variable-name='val2'>1505</span> Damage to self."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 1937 Damage to opponent and 484 Damage to self.",
-                            "html": "Deal <span data-variable-value='1937' data-variable-name='val1'>1937</span> Damage to opponent and <span data-variable-value='484' data-variable-name='val2'>484</span> Damage to self."
+                            "text": "Deal 3509 Damage to opponent and 2390 Damage to self.",
+                            "html": "Deal <span data-variable-value='3509' data-variable-name='val1'>3509</span> Damage to opponent and <span data-variable-value='2390' data-variable-name='val2'>2390</span> Damage to self."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 2160 Damage to opponent and 540 Damage to self.",
-                            "html": "Deal <span data-variable-value='2160' data-variable-name='val1'>2160</span> Damage to opponent and <span data-variable-value='540' data-variable-name='val2'>540</span> Damage to self."
+                            "text": "Deal 4643 Damage to opponent and 3275 Damage to self.",
+                            "html": "Deal <span data-variable-value='4643' data-variable-name='val1'>4643</span> Damage to opponent and <span data-variable-value='3275' data-variable-name='val2'>3275</span> Damage to self."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 2383 Damage to opponent and 596 Damage to self.",
-                            "html": "Deal <span data-variable-value='2383' data-variable-name='val1'>2383</span> Damage to opponent and <span data-variable-value='596' data-variable-name='val2'>596</span> Damage to self."
+                            "text": "Deal 5776 Damage to opponent and 4159 Damage to self.",
+                            "html": "Deal <span data-variable-value='5776' data-variable-name='val1'>5776</span> Damage to opponent and <span data-variable-value='4159' data-variable-name='val2'>4159</span> Damage to self."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 2607 Damage to opponent and 651 Damage to self.",
-                            "html": "Deal <span data-variable-value='2607' data-variable-name='val1'>2607</span> Damage to opponent and <span data-variable-value='651' data-variable-name='val2'>651</span> Damage to self."
+                            "text": "Deal 6910 Damage to opponent and 5044 Damage to self.",
+                            "html": "Deal <span data-variable-value='6910' data-variable-name='val1'>6910</span> Damage to opponent and <span data-variable-value='5044' data-variable-name='val2'>5044</span> Damage to self."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 2830 Damage to opponent and 707 Damage to self.",
-                            "html": "Deal <span data-variable-value='2830' data-variable-name='val1'>2830</span> Damage to opponent and <span data-variable-value='707' data-variable-name='val2'>707</span> Damage to self."
+                            "text": "Deal 8043 Damage to opponent and 5929 Damage to self.",
+                            "html": "Deal <span data-variable-value='8043' data-variable-name='val1'>8043</span> Damage to opponent and <span data-variable-value='5929' data-variable-name='val2'>5929</span> Damage to self."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 3053 Damage to opponent and 763 Damage to self.",
-                            "html": "Deal <span data-variable-value='3053' data-variable-name='val1'>3053</span> Damage to opponent and <span data-variable-value='763' data-variable-name='val2'>763</span> Damage to self."
+                            "text": "Deal 9177 Damage to opponent and 6813 Damage to self.",
+                            "html": "Deal <span data-variable-value='9177' data-variable-name='val1'>9177</span> Damage to opponent and <span data-variable-value='6813' data-variable-name='val2'>6813</span> Damage to self."
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 3276 Damage to opponent and 819 Damage to self.",
-                            "html": "Deal <span data-variable-value='3276' data-variable-name='val1'>3276</span> Damage to opponent and <span data-variable-value='819' data-variable-name='val2'>819</span> Damage to self."
+                            "text": "Deal 10310 Damage to opponent and 7698 Damage to self.",
+                            "html": "Deal <span data-variable-value='10310' data-variable-name='val1'>10310</span> Damage to opponent and <span data-variable-value='7698' data-variable-name='val2'>7698</span> Damage to self."
                         }
                     ]
                 },
@@ -13376,26 +13376,26 @@
                         {
                             "level": 1,
                             "talentScore": 20,
-                            "text": "Deal 140 Damage to opponent and 35 Damage to self.",
-                            "html": "Deal <span data-variable-value='140' data-variable-name='val1'>140</span> Damage to opponent and <span data-variable-value='35' data-variable-name='val2'>35</span> Damage to self."
+                            "text": "Deal 502 Damage to opponent and 251 Damage to self.",
+                            "html": "Deal <span data-variable-value='502' data-variable-name='val1'>502</span> Damage to opponent and <span data-variable-value='251' data-variable-name='val2'>251</span> Damage to self."
                         },
                         {
                             "level": 2,
                             "talentScore": 70,
-                            "text": "Deal 256 Damage to opponent and 64 Damage to self.",
-                            "html": "Deal <span data-variable-value='256' data-variable-name='val1'>256</span> Damage to opponent and <span data-variable-value='64' data-variable-name='val2'>64</span> Damage to self."
+                            "text": "Deal 961 Damage to opponent and 637 Damage to self.",
+                            "html": "Deal <span data-variable-value='961' data-variable-name='val1'>961</span> Damage to opponent and <span data-variable-value='637' data-variable-name='val2'>637</span> Damage to self."
                         },
                         {
                             "level": 3,
                             "talentScore": 120,
-                            "text": "Deal 373 Damage to opponent and 93 Damage to self.",
-                            "html": "Deal <span data-variable-value='373' data-variable-name='val1'>373</span> Damage to opponent and <span data-variable-value='93' data-variable-name='val2'>93</span> Damage to self."
+                            "text": "Deal 1421 Damage to opponent and 1024 Damage to self.",
+                            "html": "Deal <span data-variable-value='1421' data-variable-name='val1'>1421</span> Damage to opponent and <span data-variable-value='1024' data-variable-name='val2'>1024</span> Damage to self."
                         },
                         {
                             "level": 4,
                             "talentScore": 170,
-                            "text": "Deal 490 Damage to opponent and 122 Damage to self.",
-                            "html": "Deal <span data-variable-value='490' data-variable-name='val1'>490</span> Damage to opponent and <span data-variable-value='122' data-variable-name='val2'>122</span> Damage to self."
+                            "text": "Deal 1881 Damage to opponent and 1411 Damage to self.",
+                            "html": "Deal <span data-variable-value='1881' data-variable-name='val1'>1881</span> Damage to opponent and <span data-variable-value='1411' data-variable-name='val2'>1411</span> Damage to self."
                         }
                     ]
                 }
@@ -14329,38 +14329,38 @@
                         {
                             "level": 2,
                             "talentScore": 97,
-                            "text": "Deal 625 Damage to opponent and 156 Damage to self.",
-                            "html": "Deal <span data-variable-value='625' data-variable-name='val1'>625</span> Damage to opponent and <span data-variable-value='156' data-variable-name='val2'>156</span> Damage to self."
+                            "text": "Deal 1163 Damage to opponent and 662 Damage to self.",
+                            "html": "Deal <span data-variable-value='1163' data-variable-name='val1'>1163</span> Damage to opponent and <span data-variable-value='662' data-variable-name='val2'>662</span> Damage to self."
                         },
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "Deal 746 Damage to opponent and 186 Damage to self.",
-                            "html": "Deal <span data-variable-value='746' data-variable-name='val1'>746</span> Damage to opponent and <span data-variable-value='186' data-variable-name='val2'>186</span> Damage to self."
+                            "text": "Deal 1823 Damage to opponent and 1199 Damage to self.",
+                            "html": "Deal <span data-variable-value='1823' data-variable-name='val1'>1823</span> Damage to opponent and <span data-variable-value='1199' data-variable-name='val2'>1199</span> Damage to self."
                         },
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 868 Damage to opponent and 217 Damage to self.",
-                            "html": "Deal <span data-variable-value='868' data-variable-name='val1'>868</span> Damage to opponent and <span data-variable-value='217' data-variable-name='val2'>217</span> Damage to self."
+                            "text": "Deal 2482 Damage to opponent and 1736 Damage to self.",
+                            "html": "Deal <span data-variable-value='2482' data-variable-name='val1'>2482</span> Damage to opponent and <span data-variable-value='1736' data-variable-name='val2'>1736</span> Damage to self."
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "Deal 989 Damage to opponent and 247 Damage to self.",
-                            "html": "Deal <span data-variable-value='989' data-variable-name='val1'>989</span> Damage to opponent and <span data-variable-value='247' data-variable-name='val2'>247</span> Damage to self."
+                            "text": "Deal 3142 Damage to opponent and 2272 Damage to self.",
+                            "html": "Deal <span data-variable-value='3142' data-variable-name='val1'>3142</span> Damage to opponent and <span data-variable-value='2272' data-variable-name='val2'>2272</span> Damage to self."
                         },
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "Deal 1110 Damage to opponent and 277 Damage to self.",
-                            "html": "Deal <span data-variable-value='1110' data-variable-name='val1'>1110</span> Damage to opponent and <span data-variable-value='277' data-variable-name='val2'>277</span> Damage to self."
+                            "text": "Deal 3801 Damage to opponent and 2809 Damage to self.",
+                            "html": "Deal <span data-variable-value='3801' data-variable-name='val1'>3801</span> Damage to opponent and <span data-variable-value='2809' data-variable-name='val2'>2809</span> Damage to self."
                         },
                         {
                             "level": 7,
                             "talentScore": 439,
-                            "text": "Deal 1232 Damage to opponent and 308 Damage to self.",
-                            "html": "Deal <span data-variable-value='1232' data-variable-name='val1'>1232</span> Damage to opponent and <span data-variable-value='308' data-variable-name='val2'>308</span> Damage to self."
+                            "text": "Deal 4461 Damage to opponent and 3346 Damage to self.",
+                            "html": "Deal <span data-variable-value='4461' data-variable-name='val1'>4461</span> Damage to opponent and <span data-variable-value='3346' data-variable-name='val2'>3346</span> Damage to self."
                         }
                     ]
                 },
@@ -15353,38 +15353,38 @@
                         {
                             "level": 2,
                             "talentScore": 97,
-                            "text": "Deal 625 Damage to opponent and 156 Damage to self.",
-                            "html": "Deal <span data-variable-value='625' data-variable-name='val1'>625</span> Damage to opponent and <span data-variable-value='156' data-variable-name='val2'>156</span> Damage to self."
+                            "text": "Deal 1163 Damage to opponent and 662 Damage to self.",
+                            "html": "Deal <span data-variable-value='1163' data-variable-name='val1'>1163</span> Damage to opponent and <span data-variable-value='662' data-variable-name='val2'>662</span> Damage to self."
                         },
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "Deal 746 Damage to opponent and 186 Damage to self.",
-                            "html": "Deal <span data-variable-value='746' data-variable-name='val1'>746</span> Damage to opponent and <span data-variable-value='186' data-variable-name='val2'>186</span> Damage to self."
+                            "text": "Deal 1823 Damage to opponent and 1199 Damage to self.",
+                            "html": "Deal <span data-variable-value='1823' data-variable-name='val1'>1823</span> Damage to opponent and <span data-variable-value='1199' data-variable-name='val2'>1199</span> Damage to self."
                         },
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 868 Damage to opponent and 217 Damage to self.",
-                            "html": "Deal <span data-variable-value='868' data-variable-name='val1'>868</span> Damage to opponent and <span data-variable-value='217' data-variable-name='val2'>217</span> Damage to self."
+                            "text": "Deal 2482 Damage to opponent and 1736 Damage to self.",
+                            "html": "Deal <span data-variable-value='2482' data-variable-name='val1'>2482</span> Damage to opponent and <span data-variable-value='1736' data-variable-name='val2'>1736</span> Damage to self."
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "Deal 989 Damage to opponent and 247 Damage to self.",
-                            "html": "Deal <span data-variable-value='989' data-variable-name='val1'>989</span> Damage to opponent and <span data-variable-value='247' data-variable-name='val2'>247</span> Damage to self."
+                            "text": "Deal 3142 Damage to opponent and 2272 Damage to self.",
+                            "html": "Deal <span data-variable-value='3142' data-variable-name='val1'>3142</span> Damage to opponent and <span data-variable-value='2272' data-variable-name='val2'>2272</span> Damage to self."
                         },
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "Deal 1110 Damage to opponent and 277 Damage to self.",
-                            "html": "Deal <span data-variable-value='1110' data-variable-name='val1'>1110</span> Damage to opponent and <span data-variable-value='277' data-variable-name='val2'>277</span> Damage to self."
+                            "text": "Deal 3801 Damage to opponent and 2809 Damage to self.",
+                            "html": "Deal <span data-variable-value='3801' data-variable-name='val1'>3801</span> Damage to opponent and <span data-variable-value='2809' data-variable-name='val2'>2809</span> Damage to self."
                         },
                         {
                             "level": 7,
                             "talentScore": 439,
-                            "text": "Deal 1232 Damage to opponent and 308 Damage to self.",
-                            "html": "Deal <span data-variable-value='1232' data-variable-name='val1'>1232</span> Damage to opponent and <span data-variable-value='308' data-variable-name='val2'>308</span> Damage to self."
+                            "text": "Deal 4461 Damage to opponent and 3346 Damage to self.",
+                            "html": "Deal <span data-variable-value='4461' data-variable-name='val1'>4461</span> Damage to opponent and <span data-variable-value='3346' data-variable-name='val2'>3346</span> Damage to self."
                         }
                     ]
                 },
@@ -17187,62 +17187,62 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 1491 Damage to opponent and 373 Damage to self.",
-                            "html": "Deal <span data-variable-value='1491' data-variable-name='val1'>1491</span> Damage to opponent and <span data-variable-value='373' data-variable-name='val2'>373</span> Damage to self."
+                            "text": "Deal 1243 Damage to opponent and 621 Damage to self.",
+                            "html": "Deal <span data-variable-value='1243' data-variable-name='val1'>1243</span> Damage to opponent and <span data-variable-value='621' data-variable-name='val2'>621</span> Damage to self."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1714 Damage to opponent and 428 Damage to self.",
-                            "html": "Deal <span data-variable-value='1714' data-variable-name='val1'>1714</span> Damage to opponent and <span data-variable-value='428' data-variable-name='val2'>428</span> Damage to self."
+                            "text": "Deal 2376 Damage to opponent and 1505 Damage to self.",
+                            "html": "Deal <span data-variable-value='2376' data-variable-name='val1'>2376</span> Damage to opponent and <span data-variable-value='1505' data-variable-name='val2'>1505</span> Damage to self."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 1937 Damage to opponent and 484 Damage to self.",
-                            "html": "Deal <span data-variable-value='1937' data-variable-name='val1'>1937</span> Damage to opponent and <span data-variable-value='484' data-variable-name='val2'>484</span> Damage to self."
+                            "text": "Deal 3509 Damage to opponent and 2390 Damage to self.",
+                            "html": "Deal <span data-variable-value='3509' data-variable-name='val1'>3509</span> Damage to opponent and <span data-variable-value='2390' data-variable-name='val2'>2390</span> Damage to self."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 2160 Damage to opponent and 540 Damage to self.",
-                            "html": "Deal <span data-variable-value='2160' data-variable-name='val1'>2160</span> Damage to opponent and <span data-variable-value='540' data-variable-name='val2'>540</span> Damage to self."
+                            "text": "Deal 4643 Damage to opponent and 3275 Damage to self.",
+                            "html": "Deal <span data-variable-value='4643' data-variable-name='val1'>4643</span> Damage to opponent and <span data-variable-value='3275' data-variable-name='val2'>3275</span> Damage to self."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 2383 Damage to opponent and 596 Damage to self.",
-                            "html": "Deal <span data-variable-value='2383' data-variable-name='val1'>2383</span> Damage to opponent and <span data-variable-value='596' data-variable-name='val2'>596</span> Damage to self."
+                            "text": "Deal 5776 Damage to opponent and 4159 Damage to self.",
+                            "html": "Deal <span data-variable-value='5776' data-variable-name='val1'>5776</span> Damage to opponent and <span data-variable-value='4159' data-variable-name='val2'>4159</span> Damage to self."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 2607 Damage to opponent and 651 Damage to self.",
-                            "html": "Deal <span data-variable-value='2607' data-variable-name='val1'>2607</span> Damage to opponent and <span data-variable-value='651' data-variable-name='val2'>651</span> Damage to self."
+                            "text": "Deal 6910 Damage to opponent and 5044 Damage to self.",
+                            "html": "Deal <span data-variable-value='6910' data-variable-name='val1'>6910</span> Damage to opponent and <span data-variable-value='5044' data-variable-name='val2'>5044</span> Damage to self."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 2830 Damage to opponent and 707 Damage to self.",
-                            "html": "Deal <span data-variable-value='2830' data-variable-name='val1'>2830</span> Damage to opponent and <span data-variable-value='707' data-variable-name='val2'>707</span> Damage to self."
+                            "text": "Deal 8043 Damage to opponent and 5929 Damage to self.",
+                            "html": "Deal <span data-variable-value='8043' data-variable-name='val1'>8043</span> Damage to opponent and <span data-variable-value='5929' data-variable-name='val2'>5929</span> Damage to self."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 3053 Damage to opponent and 763 Damage to self.",
-                            "html": "Deal <span data-variable-value='3053' data-variable-name='val1'>3053</span> Damage to opponent and <span data-variable-value='763' data-variable-name='val2'>763</span> Damage to self."
+                            "text": "Deal 9177 Damage to opponent and 6813 Damage to self.",
+                            "html": "Deal <span data-variable-value='9177' data-variable-name='val1'>9177</span> Damage to opponent and <span data-variable-value='6813' data-variable-name='val2'>6813</span> Damage to self."
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 3276 Damage to opponent and 819 Damage to self.",
-                            "html": "Deal <span data-variable-value='3276' data-variable-name='val1'>3276</span> Damage to opponent and <span data-variable-value='819' data-variable-name='val2'>819</span> Damage to self."
+                            "text": "Deal 10310 Damage to opponent and 7698 Damage to self.",
+                            "html": "Deal <span data-variable-value='10310' data-variable-name='val1'>10310</span> Damage to opponent and <span data-variable-value='7698' data-variable-name='val2'>7698</span> Damage to self."
                         },
                         {
                             "level": 10,
                             "talentScore": 1586,
-                            "text": "Deal 3500 Damage to opponent and 875 Damage to self.",
-                            "html": "Deal <span data-variable-value='3500' data-variable-name='val1'>3500</span> Damage to opponent and <span data-variable-value='875' data-variable-name='val2'>875</span> Damage to self."
+                            "text": "Deal 11444 Damage to opponent and 8583 Damage to self.",
+                            "html": "Deal <span data-variable-value='11444' data-variable-name='val1'>11444</span> Damage to opponent and <span data-variable-value='8583' data-variable-name='val2'>8583</span> Damage to self."
                         }
                     ]
                 },
@@ -19140,62 +19140,62 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 1491 Damage to opponent and 373 Damage to self.",
-                            "html": "Deal <span data-variable-value='1491' data-variable-name='val1'>1491</span> Damage to opponent and <span data-variable-value='373' data-variable-name='val2'>373</span> Damage to self."
+                            "text": "Deal 1243 Damage to opponent and 621 Damage to self.",
+                            "html": "Deal <span data-variable-value='1243' data-variable-name='val1'>1243</span> Damage to opponent and <span data-variable-value='621' data-variable-name='val2'>621</span> Damage to self."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1714 Damage to opponent and 428 Damage to self.",
-                            "html": "Deal <span data-variable-value='1714' data-variable-name='val1'>1714</span> Damage to opponent and <span data-variable-value='428' data-variable-name='val2'>428</span> Damage to self."
+                            "text": "Deal 2376 Damage to opponent and 1505 Damage to self.",
+                            "html": "Deal <span data-variable-value='2376' data-variable-name='val1'>2376</span> Damage to opponent and <span data-variable-value='1505' data-variable-name='val2'>1505</span> Damage to self."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 1937 Damage to opponent and 484 Damage to self.",
-                            "html": "Deal <span data-variable-value='1937' data-variable-name='val1'>1937</span> Damage to opponent and <span data-variable-value='484' data-variable-name='val2'>484</span> Damage to self."
+                            "text": "Deal 3509 Damage to opponent and 2390 Damage to self.",
+                            "html": "Deal <span data-variable-value='3509' data-variable-name='val1'>3509</span> Damage to opponent and <span data-variable-value='2390' data-variable-name='val2'>2390</span> Damage to self."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 2160 Damage to opponent and 540 Damage to self.",
-                            "html": "Deal <span data-variable-value='2160' data-variable-name='val1'>2160</span> Damage to opponent and <span data-variable-value='540' data-variable-name='val2'>540</span> Damage to self."
+                            "text": "Deal 4643 Damage to opponent and 3275 Damage to self.",
+                            "html": "Deal <span data-variable-value='4643' data-variable-name='val1'>4643</span> Damage to opponent and <span data-variable-value='3275' data-variable-name='val2'>3275</span> Damage to self."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 2383 Damage to opponent and 596 Damage to self.",
-                            "html": "Deal <span data-variable-value='2383' data-variable-name='val1'>2383</span> Damage to opponent and <span data-variable-value='596' data-variable-name='val2'>596</span> Damage to self."
+                            "text": "Deal 5776 Damage to opponent and 4159 Damage to self.",
+                            "html": "Deal <span data-variable-value='5776' data-variable-name='val1'>5776</span> Damage to opponent and <span data-variable-value='4159' data-variable-name='val2'>4159</span> Damage to self."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 2607 Damage to opponent and 651 Damage to self.",
-                            "html": "Deal <span data-variable-value='2607' data-variable-name='val1'>2607</span> Damage to opponent and <span data-variable-value='651' data-variable-name='val2'>651</span> Damage to self."
+                            "text": "Deal 6910 Damage to opponent and 5044 Damage to self.",
+                            "html": "Deal <span data-variable-value='6910' data-variable-name='val1'>6910</span> Damage to opponent and <span data-variable-value='5044' data-variable-name='val2'>5044</span> Damage to self."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 2830 Damage to opponent and 707 Damage to self.",
-                            "html": "Deal <span data-variable-value='2830' data-variable-name='val1'>2830</span> Damage to opponent and <span data-variable-value='707' data-variable-name='val2'>707</span> Damage to self."
+                            "text": "Deal 8043 Damage to opponent and 5929 Damage to self.",
+                            "html": "Deal <span data-variable-value='8043' data-variable-name='val1'>8043</span> Damage to opponent and <span data-variable-value='5929' data-variable-name='val2'>5929</span> Damage to self."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 3053 Damage to opponent and 763 Damage to self.",
-                            "html": "Deal <span data-variable-value='3053' data-variable-name='val1'>3053</span> Damage to opponent and <span data-variable-value='763' data-variable-name='val2'>763</span> Damage to self."
+                            "text": "Deal 9177 Damage to opponent and 6813 Damage to self.",
+                            "html": "Deal <span data-variable-value='9177' data-variable-name='val1'>9177</span> Damage to opponent and <span data-variable-value='6813' data-variable-name='val2'>6813</span> Damage to self."
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 3276 Damage to opponent and 819 Damage to self.",
-                            "html": "Deal <span data-variable-value='3276' data-variable-name='val1'>3276</span> Damage to opponent and <span data-variable-value='819' data-variable-name='val2'>819</span> Damage to self."
+                            "text": "Deal 10310 Damage to opponent and 7698 Damage to self.",
+                            "html": "Deal <span data-variable-value='10310' data-variable-name='val1'>10310</span> Damage to opponent and <span data-variable-value='7698' data-variable-name='val2'>7698</span> Damage to self."
                         },
                         {
                             "level": 10,
                             "talentScore": 1586,
-                            "text": "Deal 3500 Damage to opponent and 875 Damage to self.",
-                            "html": "Deal <span data-variable-value='3500' data-variable-name='val1'>3500</span> Damage to opponent and <span data-variable-value='875' data-variable-name='val2'>875</span> Damage to self."
+                            "text": "Deal 11444 Damage to opponent and 8583 Damage to self.",
+                            "html": "Deal <span data-variable-value='11444' data-variable-name='val1'>11444</span> Damage to opponent and <span data-variable-value='8583' data-variable-name='val2'>8583</span> Damage to self."
                         }
                     ]
                 },
@@ -21093,62 +21093,62 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 1491 Damage to opponent and 373 Damage to self.",
-                            "html": "Deal <span data-variable-value='1491' data-variable-name='val1'>1491</span> Damage to opponent and <span data-variable-value='373' data-variable-name='val2'>373</span> Damage to self."
+                            "text": "Deal 1243 Damage to opponent and 621 Damage to self.",
+                            "html": "Deal <span data-variable-value='1243' data-variable-name='val1'>1243</span> Damage to opponent and <span data-variable-value='621' data-variable-name='val2'>621</span> Damage to self."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1714 Damage to opponent and 428 Damage to self.",
-                            "html": "Deal <span data-variable-value='1714' data-variable-name='val1'>1714</span> Damage to opponent and <span data-variable-value='428' data-variable-name='val2'>428</span> Damage to self."
+                            "text": "Deal 2376 Damage to opponent and 1505 Damage to self.",
+                            "html": "Deal <span data-variable-value='2376' data-variable-name='val1'>2376</span> Damage to opponent and <span data-variable-value='1505' data-variable-name='val2'>1505</span> Damage to self."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 1937 Damage to opponent and 484 Damage to self.",
-                            "html": "Deal <span data-variable-value='1937' data-variable-name='val1'>1937</span> Damage to opponent and <span data-variable-value='484' data-variable-name='val2'>484</span> Damage to self."
+                            "text": "Deal 3509 Damage to opponent and 2390 Damage to self.",
+                            "html": "Deal <span data-variable-value='3509' data-variable-name='val1'>3509</span> Damage to opponent and <span data-variable-value='2390' data-variable-name='val2'>2390</span> Damage to self."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 2160 Damage to opponent and 540 Damage to self.",
-                            "html": "Deal <span data-variable-value='2160' data-variable-name='val1'>2160</span> Damage to opponent and <span data-variable-value='540' data-variable-name='val2'>540</span> Damage to self."
+                            "text": "Deal 4643 Damage to opponent and 3275 Damage to self.",
+                            "html": "Deal <span data-variable-value='4643' data-variable-name='val1'>4643</span> Damage to opponent and <span data-variable-value='3275' data-variable-name='val2'>3275</span> Damage to self."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 2383 Damage to opponent and 596 Damage to self.",
-                            "html": "Deal <span data-variable-value='2383' data-variable-name='val1'>2383</span> Damage to opponent and <span data-variable-value='596' data-variable-name='val2'>596</span> Damage to self."
+                            "text": "Deal 5776 Damage to opponent and 4159 Damage to self.",
+                            "html": "Deal <span data-variable-value='5776' data-variable-name='val1'>5776</span> Damage to opponent and <span data-variable-value='4159' data-variable-name='val2'>4159</span> Damage to self."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 2607 Damage to opponent and 651 Damage to self.",
-                            "html": "Deal <span data-variable-value='2607' data-variable-name='val1'>2607</span> Damage to opponent and <span data-variable-value='651' data-variable-name='val2'>651</span> Damage to self."
+                            "text": "Deal 6910 Damage to opponent and 5044 Damage to self.",
+                            "html": "Deal <span data-variable-value='6910' data-variable-name='val1'>6910</span> Damage to opponent and <span data-variable-value='5044' data-variable-name='val2'>5044</span> Damage to self."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 2830 Damage to opponent and 707 Damage to self.",
-                            "html": "Deal <span data-variable-value='2830' data-variable-name='val1'>2830</span> Damage to opponent and <span data-variable-value='707' data-variable-name='val2'>707</span> Damage to self."
+                            "text": "Deal 8043 Damage to opponent and 5929 Damage to self.",
+                            "html": "Deal <span data-variable-value='8043' data-variable-name='val1'>8043</span> Damage to opponent and <span data-variable-value='5929' data-variable-name='val2'>5929</span> Damage to self."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 3053 Damage to opponent and 763 Damage to self.",
-                            "html": "Deal <span data-variable-value='3053' data-variable-name='val1'>3053</span> Damage to opponent and <span data-variable-value='763' data-variable-name='val2'>763</span> Damage to self."
+                            "text": "Deal 9177 Damage to opponent and 6813 Damage to self.",
+                            "html": "Deal <span data-variable-value='9177' data-variable-name='val1'>9177</span> Damage to opponent and <span data-variable-value='6813' data-variable-name='val2'>6813</span> Damage to self."
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 3276 Damage to opponent and 819 Damage to self.",
-                            "html": "Deal <span data-variable-value='3276' data-variable-name='val1'>3276</span> Damage to opponent and <span data-variable-value='819' data-variable-name='val2'>819</span> Damage to self."
+                            "text": "Deal 10310 Damage to opponent and 7698 Damage to self.",
+                            "html": "Deal <span data-variable-value='10310' data-variable-name='val1'>10310</span> Damage to opponent and <span data-variable-value='7698' data-variable-name='val2'>7698</span> Damage to self."
                         },
                         {
                             "level": 10,
                             "talentScore": 1586,
-                            "text": "Deal 3500 Damage to opponent and 875 Damage to self.",
-                            "html": "Deal <span data-variable-value='3500' data-variable-name='val1'>3500</span> Damage to opponent and <span data-variable-value='875' data-variable-name='val2'>875</span> Damage to self."
+                            "text": "Deal 11444 Damage to opponent and 8583 Damage to self.",
+                            "html": "Deal <span data-variable-value='11444' data-variable-name='val1'>11444</span> Damage to opponent and <span data-variable-value='8583' data-variable-name='val2'>8583</span> Damage to self."
                         }
                     ]
                 },

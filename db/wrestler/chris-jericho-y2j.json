@@ -780,8 +780,8 @@
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "FINISHER! Deal 1897 Damage, Destroy 1 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='1897' data-variable-name='damage'>1897</span> Damage, Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 1897 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='1897' data-variable-name='damage'>1897</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
@@ -792,8 +792,8 @@
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "FINISHER! Deal 3163 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3163' data-variable-name='damage'>3163</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 3163 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='3163' data-variable-name='damage'>3163</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -1497,8 +1497,8 @@
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "FINISHER! Deal 1897 Damage, Destroy 1 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='1897' data-variable-name='damage'>1897</span> Damage, Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 1897 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='1897' data-variable-name='damage'>1897</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
@@ -1509,8 +1509,8 @@
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "FINISHER! Deal 3163 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3163' data-variable-name='damage'>3163</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 3163 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='3163' data-variable-name='damage'>3163</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -2734,8 +2734,8 @@
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "FINISHER! Deal 3723 Damage, Destroy 1 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3723' data-variable-name='damage'>3723</span> Damage, Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 3723 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='3723' data-variable-name='damage'>3723</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
@@ -2746,26 +2746,26 @@
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "FINISHER! Deal 6367 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='6367' data-variable-name='damage'>6367</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 6367 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='6367' data-variable-name='damage'>6367</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "FINISHER! Deal 7689 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='7689' data-variable-name='damage'>7689</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 7689 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='7689' data-variable-name='damage'>7689</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "FINISHER! Deal 9011 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='9011' data-variable-name='damage'>9011</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 9011 Damage, Destroy 4 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='9011' data-variable-name='damage'>9011</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "FINISHER! Deal 10333 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='10333' data-variable-name='damage'>10333</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 10333 Damage, Destroy 4 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='10333' data-variable-name='damage'>10333</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -4108,8 +4108,8 @@
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "FINISHER! Deal 3723 Damage, Destroy 1 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3723' data-variable-name='damage'>3723</span> Damage, Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 3723 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='3723' data-variable-name='damage'>3723</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
@@ -4120,26 +4120,26 @@
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "FINISHER! Deal 6367 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='6367' data-variable-name='damage'>6367</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 6367 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='6367' data-variable-name='damage'>6367</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "FINISHER! Deal 7689 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='7689' data-variable-name='damage'>7689</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 7689 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='7689' data-variable-name='damage'>7689</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "FINISHER! Deal 9011 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='9011' data-variable-name='damage'>9011</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 9011 Damage, Destroy 4 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='9011' data-variable-name='damage'>9011</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "FINISHER! Deal 10333 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='10333' data-variable-name='damage'>10333</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 10333 Damage, Destroy 4 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='10333' data-variable-name='damage'>10333</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -5482,8 +5482,8 @@
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "FINISHER! Deal 3723 Damage, Destroy 1 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3723' data-variable-name='damage'>3723</span> Damage, Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 3723 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='3723' data-variable-name='damage'>3723</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
@@ -5494,26 +5494,26 @@
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "FINISHER! Deal 6367 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='6367' data-variable-name='damage'>6367</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 6367 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='6367' data-variable-name='damage'>6367</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "FINISHER! Deal 7689 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='7689' data-variable-name='damage'>7689</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 7689 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='7689' data-variable-name='damage'>7689</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "FINISHER! Deal 9011 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='9011' data-variable-name='damage'>9011</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 9011 Damage, Destroy 4 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='9011' data-variable-name='damage'>9011</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "FINISHER! Deal 10333 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='10333' data-variable-name='damage'>10333</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 10333 Damage, Destroy 4 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='10333' data-variable-name='damage'>10333</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -6842,8 +6842,8 @@
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "FINISHER! Deal 1897 Damage, Destroy 1 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='1897' data-variable-name='damage'>1897</span> Damage, Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 1897 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='1897' data-variable-name='damage'>1897</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
@@ -6854,14 +6854,14 @@
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "FINISHER! Deal 3163 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3163' data-variable-name='damage'>3163</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 3163 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='3163' data-variable-name='damage'>3163</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "FINISHER! Deal 3796 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3796' data-variable-name='damage'>3796</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 3796 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='3796' data-variable-name='damage'>3796</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -7713,8 +7713,8 @@
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "FINISHER! Deal 1897 Damage, Destroy 1 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='1897' data-variable-name='damage'>1897</span> Damage, Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 1897 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='1897' data-variable-name='damage'>1897</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
@@ -7725,14 +7725,14 @@
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "FINISHER! Deal 3163 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3163' data-variable-name='damage'>3163</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 3163 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='3163' data-variable-name='damage'>3163</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "FINISHER! Deal 3796 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3796' data-variable-name='damage'>3796</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 3796 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='3796' data-variable-name='damage'>3796</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -9234,8 +9234,8 @@
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "FINISHER! Deal 3723 Damage, Destroy 1 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3723' data-variable-name='damage'>3723</span> Damage, Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 3723 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='3723' data-variable-name='damage'>3723</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
@@ -9246,32 +9246,32 @@
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "FINISHER! Deal 6367 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='6367' data-variable-name='damage'>6367</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 6367 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='6367' data-variable-name='damage'>6367</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "FINISHER! Deal 7689 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='7689' data-variable-name='damage'>7689</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 7689 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='7689' data-variable-name='damage'>7689</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "FINISHER! Deal 9011 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='9011' data-variable-name='damage'>9011</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 9011 Damage, Destroy 4 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='9011' data-variable-name='damage'>9011</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "FINISHER! Deal 10333 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='10333' data-variable-name='damage'>10333</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 10333 Damage, Destroy 4 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='10333' data-variable-name='damage'>10333</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "FINISHER! Deal 11655 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='11655' data-variable-name='damage'>11655</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 11655 Damage, Destroy 5 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='11655' data-variable-name='damage'>11655</span> Damage, Destroy <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -10898,8 +10898,8 @@
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "FINISHER! Deal 3723 Damage, Destroy 1 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3723' data-variable-name='damage'>3723</span> Damage, Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 3723 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='3723' data-variable-name='damage'>3723</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
@@ -10910,32 +10910,32 @@
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "FINISHER! Deal 6367 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='6367' data-variable-name='damage'>6367</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 6367 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='6367' data-variable-name='damage'>6367</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "FINISHER! Deal 7689 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='7689' data-variable-name='damage'>7689</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 7689 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='7689' data-variable-name='damage'>7689</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "FINISHER! Deal 9011 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='9011' data-variable-name='damage'>9011</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 9011 Damage, Destroy 4 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='9011' data-variable-name='damage'>9011</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "FINISHER! Deal 10333 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='10333' data-variable-name='damage'>10333</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 10333 Damage, Destroy 4 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='10333' data-variable-name='damage'>10333</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "FINISHER! Deal 11655 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='11655' data-variable-name='damage'>11655</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 11655 Damage, Destroy 5 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='11655' data-variable-name='damage'>11655</span> Damage, Destroy <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -12562,8 +12562,8 @@
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "FINISHER! Deal 3723 Damage, Destroy 1 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3723' data-variable-name='damage'>3723</span> Damage, Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 3723 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='3723' data-variable-name='damage'>3723</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
@@ -12574,32 +12574,32 @@
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "FINISHER! Deal 6367 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='6367' data-variable-name='damage'>6367</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 6367 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='6367' data-variable-name='damage'>6367</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "FINISHER! Deal 7689 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='7689' data-variable-name='damage'>7689</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 7689 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='7689' data-variable-name='damage'>7689</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "FINISHER! Deal 9011 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='9011' data-variable-name='damage'>9011</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 9011 Damage, Destroy 4 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='9011' data-variable-name='damage'>9011</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "FINISHER! Deal 10333 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='10333' data-variable-name='damage'>10333</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 10333 Damage, Destroy 4 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='10333' data-variable-name='damage'>10333</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "FINISHER! Deal 11655 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='11655' data-variable-name='damage'>11655</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 11655 Damage, Destroy 5 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='11655' data-variable-name='damage'>11655</span> Damage, Destroy <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -14230,8 +14230,8 @@
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "FINISHER! Deal 1897 Damage, Destroy 1 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='1897' data-variable-name='damage'>1897</span> Damage, Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 1897 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='1897' data-variable-name='damage'>1897</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
@@ -14242,20 +14242,20 @@
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "FINISHER! Deal 3163 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3163' data-variable-name='damage'>3163</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 3163 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='3163' data-variable-name='damage'>3163</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "FINISHER! Deal 3796 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3796' data-variable-name='damage'>3796</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 3796 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='3796' data-variable-name='damage'>3796</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
                             "talentScore": 439,
-                            "text": "FINISHER! Deal 4429 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='4429' data-variable-name='damage'>4429</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 4429 Damage, Destroy 4 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='4429' data-variable-name='damage'>4429</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -15255,8 +15255,8 @@
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "FINISHER! Deal 1897 Damage, Destroy 1 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='1897' data-variable-name='damage'>1897</span> Damage, Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 1897 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='1897' data-variable-name='damage'>1897</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
@@ -15267,20 +15267,20 @@
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "FINISHER! Deal 3163 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3163' data-variable-name='damage'>3163</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 3163 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='3163' data-variable-name='damage'>3163</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "FINISHER! Deal 3796 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3796' data-variable-name='damage'>3796</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 3796 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='3796' data-variable-name='damage'>3796</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
                             "talentScore": 439,
-                            "text": "FINISHER! Deal 4429 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='4429' data-variable-name='damage'>4429</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 4429 Damage, Destroy 4 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='4429' data-variable-name='damage'>4429</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -17060,8 +17060,8 @@
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "FINISHER! Deal 3723 Damage, Destroy 1 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3723' data-variable-name='damage'>3723</span> Damage, Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 3723 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='3723' data-variable-name='damage'>3723</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
@@ -17072,38 +17072,38 @@
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "FINISHER! Deal 6367 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='6367' data-variable-name='damage'>6367</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 6367 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='6367' data-variable-name='damage'>6367</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "FINISHER! Deal 7689 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='7689' data-variable-name='damage'>7689</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 7689 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='7689' data-variable-name='damage'>7689</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "FINISHER! Deal 9011 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='9011' data-variable-name='damage'>9011</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 9011 Damage, Destroy 4 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='9011' data-variable-name='damage'>9011</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "FINISHER! Deal 10333 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='10333' data-variable-name='damage'>10333</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 10333 Damage, Destroy 4 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='10333' data-variable-name='damage'>10333</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "FINISHER! Deal 11655 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='11655' data-variable-name='damage'>11655</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 11655 Damage, Destroy 5 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='11655' data-variable-name='damage'>11655</span> Damage, Destroy <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 10,
                             "talentScore": 1586,
-                            "text": "FINISHER! Deal 12978 Damage, Destroy 4 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='12978' data-variable-name='damage'>12978</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 12978 Damage, Destroy 6 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='12978' data-variable-name='damage'>12978</span> Damage, Destroy <span data-variable-value='6' data-variable-name='val1'>6</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -19014,8 +19014,8 @@
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "FINISHER! Deal 3723 Damage, Destroy 1 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3723' data-variable-name='damage'>3723</span> Damage, Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 3723 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='3723' data-variable-name='damage'>3723</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
@@ -19026,38 +19026,38 @@
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "FINISHER! Deal 6367 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='6367' data-variable-name='damage'>6367</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 6367 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='6367' data-variable-name='damage'>6367</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "FINISHER! Deal 7689 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='7689' data-variable-name='damage'>7689</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 7689 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='7689' data-variable-name='damage'>7689</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "FINISHER! Deal 9011 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='9011' data-variable-name='damage'>9011</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 9011 Damage, Destroy 4 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='9011' data-variable-name='damage'>9011</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "FINISHER! Deal 10333 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='10333' data-variable-name='damage'>10333</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 10333 Damage, Destroy 4 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='10333' data-variable-name='damage'>10333</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "FINISHER! Deal 11655 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='11655' data-variable-name='damage'>11655</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 11655 Damage, Destroy 5 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='11655' data-variable-name='damage'>11655</span> Damage, Destroy <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 10,
                             "talentScore": 1586,
-                            "text": "FINISHER! Deal 12978 Damage, Destroy 4 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='12978' data-variable-name='damage'>12978</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 12978 Damage, Destroy 6 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='12978' data-variable-name='damage'>12978</span> Damage, Destroy <span data-variable-value='6' data-variable-name='val1'>6</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -20968,8 +20968,8 @@
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "FINISHER! Deal 3723 Damage, Destroy 1 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3723' data-variable-name='damage'>3723</span> Damage, Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 3723 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='3723' data-variable-name='damage'>3723</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
@@ -20980,38 +20980,38 @@
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "FINISHER! Deal 6367 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='6367' data-variable-name='damage'>6367</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 6367 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='6367' data-variable-name='damage'>6367</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "FINISHER! Deal 7689 Damage, Destroy 2 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='7689' data-variable-name='damage'>7689</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 7689 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='7689' data-variable-name='damage'>7689</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "FINISHER! Deal 9011 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='9011' data-variable-name='damage'>9011</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 9011 Damage, Destroy 4 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='9011' data-variable-name='damage'>9011</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "FINISHER! Deal 10333 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='10333' data-variable-name='damage'>10333</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 10333 Damage, Destroy 4 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='10333' data-variable-name='damage'>10333</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "FINISHER! Deal 11655 Damage, Destroy 3 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='11655' data-variable-name='damage'>11655</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 11655 Damage, Destroy 5 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='11655' data-variable-name='damage'>11655</span> Damage, Destroy <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 10,
                             "talentScore": 1586,
-                            "text": "FINISHER! Deal 12978 Damage, Destroy 4 Random Green Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='12978' data-variable-name='damage'>12978</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 12978 Damage, Destroy 6 Random Green Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='12978' data-variable-name='damage'>12978</span> Damage, Destroy <span data-variable-value='6' data-variable-name='val1'>6</span> Random <span data-variable-value='Green' data-variable-name='min2'>Green</span> Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
