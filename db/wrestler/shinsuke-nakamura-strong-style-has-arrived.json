@@ -173,10 +173,10 @@
                         "ID": "ModifyRandomArea",
                         "Effects": [
                             "MoveEffectImprove",
-                            "GenerateArea",
-                            "MoveModGemEffectImprove"
+                            "Generate",
+                            "GemEffectImprove"
                         ],
-                        "AffectedValueID": "min3"
+                        "AffectedValueID": "min2"
                     },
                     "levels": [
                         {
@@ -808,10 +808,10 @@
                         "ID": "ModifyRandomArea",
                         "Effects": [
                             "MoveEffectImprove",
-                            "GenerateArea",
-                            "MoveModGemEffectImprove"
+                            "Generate",
+                            "GemEffectImprove"
                         ],
-                        "AffectedValueID": "min3"
+                        "AffectedValueID": "min2"
                     },
                     "levels": [
                         {
@@ -1527,10 +1527,10 @@
                         "ID": "ModifyRandomArea",
                         "Effects": [
                             "MoveEffectImprove",
-                            "GenerateArea",
-                            "MoveModGemEffectImprove"
+                            "Generate",
+                            "GemEffectImprove"
                         ],
-                        "AffectedValueID": "min3"
+                        "AffectedValueID": "min2"
                     },
                     "levels": [
                         {
@@ -2784,10 +2784,10 @@
                         "ID": "ModifyRandomArea",
                         "Effects": [
                             "MoveEffectImprove",
-                            "GenerateArea",
-                            "MoveModGemEffectImprove"
+                            "Generate",
+                            "GemEffectImprove"
                         ],
-                        "AffectedValueID": "min3"
+                        "AffectedValueID": "min2"
                     },
                     "levels": [
                         {
@@ -4160,10 +4160,10 @@
                         "ID": "ModifyRandomArea",
                         "Effects": [
                             "MoveEffectImprove",
-                            "GenerateArea",
-                            "MoveModGemEffectImprove"
+                            "Generate",
+                            "GemEffectImprove"
                         ],
-                        "AffectedValueID": "min3"
+                        "AffectedValueID": "min2"
                     },
                     "levels": [
                         {
@@ -5536,10 +5536,10 @@
                         "ID": "ModifyRandomArea",
                         "Effects": [
                             "MoveEffectImprove",
-                            "GenerateArea",
-                            "MoveModGemEffectImprove"
+                            "Generate",
+                            "GemEffectImprove"
                         ],
-                        "AffectedValueID": "min3"
+                        "AffectedValueID": "min2"
                     },
                     "levels": [
                         {
@@ -6104,10 +6104,10 @@
                         "ID": "ModifyRandomArea",
                         "Effects": [
                             "MoveEffectImprove",
-                            "GenerateArea",
-                            "MoveModGemEffectImprove"
+                            "Generate",
+                            "GemEffectImprove"
                         ],
-                        "AffectedValueID": "min3"
+                        "AffectedValueID": "min2"
                     },
                     "levels": [
                         {
@@ -6887,10 +6887,10 @@
                         "ID": "ModifyRandomArea",
                         "Effects": [
                             "MoveEffectImprove",
-                            "GenerateArea",
-                            "MoveModGemEffectImprove"
+                            "Generate",
+                            "GemEffectImprove"
                         ],
-                        "AffectedValueID": "min3"
+                        "AffectedValueID": "min2"
                     },
                     "levels": [
                         {
@@ -7760,10 +7760,10 @@
                         "ID": "ModifyRandomArea",
                         "Effects": [
                             "MoveEffectImprove",
-                            "GenerateArea",
-                            "MoveModGemEffectImprove"
+                            "Generate",
+                            "GemEffectImprove"
                         ],
-                        "AffectedValueID": "min3"
+                        "AffectedValueID": "min2"
                     },
                     "levels": [
                         {
@@ -9301,10 +9301,10 @@
                         "ID": "ModifyRandomArea",
                         "Effects": [
                             "MoveEffectImprove",
-                            "GenerateArea",
-                            "MoveModGemEffectImprove"
+                            "Generate",
+                            "GemEffectImprove"
                         ],
-                        "AffectedValueID": "min3"
+                        "AffectedValueID": "min2"
                     },
                     "levels": [
                         {
@@ -10967,10 +10967,10 @@
                         "ID": "ModifyRandomArea",
                         "Effects": [
                             "MoveEffectImprove",
-                            "GenerateArea",
-                            "MoveModGemEffectImprove"
+                            "Generate",
+                            "GemEffectImprove"
                         ],
-                        "AffectedValueID": "min3"
+                        "AffectedValueID": "min2"
                     },
                     "levels": [
                         {
@@ -12633,10 +12633,10 @@
                         "ID": "ModifyRandomArea",
                         "Effects": [
                             "MoveEffectImprove",
-                            "GenerateArea",
-                            "MoveModGemEffectImprove"
+                            "Generate",
+                            "GemEffectImprove"
                         ],
-                        "AffectedValueID": "min3"
+                        "AffectedValueID": "min2"
                     },
                     "levels": [
                         {
@@ -13361,10 +13361,10 @@
                         "ID": "ModifyRandomArea",
                         "Effects": [
                             "MoveEffectImprove",
-                            "GenerateArea",
-                            "MoveModGemEffectImprove"
+                            "Generate",
+                            "GemEffectImprove"
                         ],
-                        "AffectedValueID": "min3"
+                        "AffectedValueID": "min2"
                     },
                     "levels": [
                         {
@@ -14292,10 +14292,10 @@
                         "ID": "ModifyRandomArea",
                         "Effects": [
                             "MoveEffectImprove",
-                            "GenerateArea",
-                            "MoveModGemEffectImprove"
+                            "Generate",
+                            "GemEffectImprove"
                         ],
-                        "AffectedValueID": "min3"
+                        "AffectedValueID": "min2"
                     },
                     "levels": [
                         {
@@ -15319,10 +15319,10 @@
                         "ID": "ModifyRandomArea",
                         "Effects": [
                             "MoveEffectImprove",
-                            "GenerateArea",
-                            "MoveModGemEffectImprove"
+                            "Generate",
+                            "GemEffectImprove"
                         ],
-                        "AffectedValueID": "min3"
+                        "AffectedValueID": "min2"
                     },
                     "levels": [
                         {
@@ -17144,10 +17144,10 @@
                         "ID": "ModifyRandomArea",
                         "Effects": [
                             "MoveEffectImprove",
-                            "GenerateArea",
-                            "MoveModGemEffectImprove"
+                            "Generate",
+                            "GemEffectImprove"
                         ],
-                        "AffectedValueID": "min3"
+                        "AffectedValueID": "min2"
                     },
                     "levels": [
                         {
@@ -19100,10 +19100,10 @@
                         "ID": "ModifyRandomArea",
                         "Effects": [
                             "MoveEffectImprove",
-                            "GenerateArea",
-                            "MoveModGemEffectImprove"
+                            "Generate",
+                            "GemEffectImprove"
                         ],
-                        "AffectedValueID": "min3"
+                        "AffectedValueID": "min2"
                     },
                     "levels": [
                         {
@@ -21056,10 +21056,10 @@
                         "ID": "ModifyRandomArea",
                         "Effects": [
                             "MoveEffectImprove",
-                            "GenerateArea",
-                            "MoveModGemEffectImprove"
+                            "Generate",
+                            "GemEffectImprove"
                         ],
-                        "AffectedValueID": "min3"
+                        "AffectedValueID": "min2"
                     },
                     "levels": [
                         {

@@ -911,32 +911,32 @@
                         {
                             "level": 1,
                             "talentScore": 24,
-                            "text": "Deal 285 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='285' data-variable-name='damage'>285</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 285 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='285' data-variable-name='damage'>285</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 2,
                             "talentScore": 80,
-                            "text": "Deal 680 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='680' data-variable-name='damage'>680</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 680 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='680' data-variable-name='damage'>680</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 3,
                             "talentScore": 136,
-                            "text": "Deal 1075 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='1075' data-variable-name='damage'>1075</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 1075 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='1075' data-variable-name='damage'>1075</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 4,
                             "talentScore": 192,
-                            "text": "Deal 1470 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='1470' data-variable-name='damage'>1470</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 1470 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='1470' data-variable-name='damage'>1470</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         },
                         {
                             "level": 5,
                             "talentScore": 248,
-                            "text": "Deal 1865 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='1865' data-variable-name='damage'>1865</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 1865 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='1865' data-variable-name='damage'>1865</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         }
                     ]
                 }
@@ -1629,32 +1629,32 @@
                         {
                             "level": 1,
                             "talentScore": 24,
-                            "text": "Deal 285 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='285' data-variable-name='damage'>285</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 285 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='285' data-variable-name='damage'>285</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 2,
                             "talentScore": 80,
-                            "text": "Deal 680 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='680' data-variable-name='damage'>680</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 680 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='680' data-variable-name='damage'>680</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 3,
                             "talentScore": 136,
-                            "text": "Deal 1075 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='1075' data-variable-name='damage'>1075</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 1075 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='1075' data-variable-name='damage'>1075</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 4,
                             "talentScore": 192,
-                            "text": "Deal 1470 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='1470' data-variable-name='damage'>1470</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 1470 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='1470' data-variable-name='damage'>1470</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         },
                         {
                             "level": 5,
                             "talentScore": 248,
-                            "text": "Deal 1865 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='1865' data-variable-name='damage'>1865</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 1865 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='1865' data-variable-name='damage'>1865</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         }
                     ]
                 }
@@ -2921,50 +2921,50 @@
                         {
                             "level": 1,
                             "talentScore": 40,
-                            "text": "Deal 485 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='485' data-variable-name='damage'>485</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 485 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='485' data-variable-name='damage'>485</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 2,
                             "talentScore": 180,
-                            "text": "Deal 1429 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='1429' data-variable-name='damage'>1429</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 1429 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='1429' data-variable-name='damage'>1429</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 3,
                             "talentScore": 320,
-                            "text": "Deal 2373 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='2373' data-variable-name='damage'>2373</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 2373 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='2373' data-variable-name='damage'>2373</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 4,
                             "talentScore": 460,
-                            "text": "Deal 3317 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='3317' data-variable-name='damage'>3317</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 3317 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='3317' data-variable-name='damage'>3317</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         },
                         {
                             "level": 5,
                             "talentScore": 600,
-                            "text": "Deal 4261 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='4261' data-variable-name='damage'>4261</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 4261 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='4261' data-variable-name='damage'>4261</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         },
                         {
                             "level": 6,
                             "talentScore": 740,
-                            "text": "Deal 5206 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='5206' data-variable-name='damage'>5206</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 5206 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='5206' data-variable-name='damage'>5206</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         },
                         {
                             "level": 7,
                             "talentScore": 880,
-                            "text": "Deal 6150 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
-                            "html": "Deal <span data-variable-value='6150' data-variable-name='damage'>6150</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
+                            "text": "Deal 6150 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
+                            "html": "Deal <span data-variable-value='6150' data-variable-name='damage'>6150</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
                         },
                         {
                             "level": 8,
                             "talentScore": 1020,
-                            "text": "Deal 7094 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
-                            "html": "Deal <span data-variable-value='7094' data-variable-name='damage'>7094</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
+                            "text": "Deal 7094 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
+                            "html": "Deal <span data-variable-value='7094' data-variable-name='damage'>7094</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
                         }
                     ]
                 },
@@ -4297,50 +4297,50 @@
                         {
                             "level": 1,
                             "talentScore": 40,
-                            "text": "Deal 485 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='485' data-variable-name='damage'>485</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 485 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='485' data-variable-name='damage'>485</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 2,
                             "talentScore": 180,
-                            "text": "Deal 1429 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='1429' data-variable-name='damage'>1429</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 1429 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='1429' data-variable-name='damage'>1429</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 3,
                             "talentScore": 320,
-                            "text": "Deal 2373 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='2373' data-variable-name='damage'>2373</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 2373 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='2373' data-variable-name='damage'>2373</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 4,
                             "talentScore": 460,
-                            "text": "Deal 3317 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='3317' data-variable-name='damage'>3317</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 3317 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='3317' data-variable-name='damage'>3317</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         },
                         {
                             "level": 5,
                             "talentScore": 600,
-                            "text": "Deal 4261 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='4261' data-variable-name='damage'>4261</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 4261 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='4261' data-variable-name='damage'>4261</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         },
                         {
                             "level": 6,
                             "talentScore": 740,
-                            "text": "Deal 5206 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='5206' data-variable-name='damage'>5206</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 5206 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='5206' data-variable-name='damage'>5206</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         },
                         {
                             "level": 7,
                             "talentScore": 880,
-                            "text": "Deal 6150 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
-                            "html": "Deal <span data-variable-value='6150' data-variable-name='damage'>6150</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
+                            "text": "Deal 6150 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
+                            "html": "Deal <span data-variable-value='6150' data-variable-name='damage'>6150</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
                         },
                         {
                             "level": 8,
                             "talentScore": 1020,
-                            "text": "Deal 7094 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
-                            "html": "Deal <span data-variable-value='7094' data-variable-name='damage'>7094</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
+                            "text": "Deal 7094 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
+                            "html": "Deal <span data-variable-value='7094' data-variable-name='damage'>7094</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
                         }
                     ]
                 },
@@ -5673,50 +5673,50 @@
                         {
                             "level": 1,
                             "talentScore": 40,
-                            "text": "Deal 485 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='485' data-variable-name='damage'>485</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 485 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='485' data-variable-name='damage'>485</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 2,
                             "talentScore": 180,
-                            "text": "Deal 1429 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='1429' data-variable-name='damage'>1429</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 1429 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='1429' data-variable-name='damage'>1429</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 3,
                             "talentScore": 320,
-                            "text": "Deal 2373 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='2373' data-variable-name='damage'>2373</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 2373 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='2373' data-variable-name='damage'>2373</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 4,
                             "talentScore": 460,
-                            "text": "Deal 3317 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='3317' data-variable-name='damage'>3317</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 3317 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='3317' data-variable-name='damage'>3317</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         },
                         {
                             "level": 5,
                             "talentScore": 600,
-                            "text": "Deal 4261 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='4261' data-variable-name='damage'>4261</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 4261 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='4261' data-variable-name='damage'>4261</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         },
                         {
                             "level": 6,
                             "talentScore": 740,
-                            "text": "Deal 5206 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='5206' data-variable-name='damage'>5206</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 5206 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='5206' data-variable-name='damage'>5206</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         },
                         {
                             "level": 7,
                             "talentScore": 880,
-                            "text": "Deal 6150 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
-                            "html": "Deal <span data-variable-value='6150' data-variable-name='damage'>6150</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
+                            "text": "Deal 6150 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
+                            "html": "Deal <span data-variable-value='6150' data-variable-name='damage'>6150</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
                         },
                         {
                             "level": 8,
                             "talentScore": 1020,
-                            "text": "Deal 7094 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
-                            "html": "Deal <span data-variable-value='7094' data-variable-name='damage'>7094</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
+                            "text": "Deal 7094 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
+                            "html": "Deal <span data-variable-value='7094' data-variable-name='damage'>7094</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
                         }
                     ]
                 },
@@ -6999,38 +6999,38 @@
                         {
                             "level": 1,
                             "talentScore": 24,
-                            "text": "Deal 285 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='285' data-variable-name='damage'>285</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 285 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='285' data-variable-name='damage'>285</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 2,
                             "talentScore": 80,
-                            "text": "Deal 680 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='680' data-variable-name='damage'>680</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 680 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='680' data-variable-name='damage'>680</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 3,
                             "talentScore": 136,
-                            "text": "Deal 1075 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='1075' data-variable-name='damage'>1075</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 1075 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='1075' data-variable-name='damage'>1075</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 4,
                             "talentScore": 192,
-                            "text": "Deal 1470 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='1470' data-variable-name='damage'>1470</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 1470 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='1470' data-variable-name='damage'>1470</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         },
                         {
                             "level": 5,
                             "talentScore": 248,
-                            "text": "Deal 1865 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='1865' data-variable-name='damage'>1865</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 1865 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='1865' data-variable-name='damage'>1865</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         },
                         {
                             "level": 6,
                             "talentScore": 304,
-                            "text": "Deal 2260 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='2260' data-variable-name='damage'>2260</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 2260 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='2260' data-variable-name='damage'>2260</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         }
                     ]
                 }
@@ -7871,38 +7871,38 @@
                         {
                             "level": 1,
                             "talentScore": 24,
-                            "text": "Deal 285 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='285' data-variable-name='damage'>285</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 285 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='285' data-variable-name='damage'>285</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 2,
                             "talentScore": 80,
-                            "text": "Deal 680 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='680' data-variable-name='damage'>680</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 680 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='680' data-variable-name='damage'>680</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 3,
                             "talentScore": 136,
-                            "text": "Deal 1075 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='1075' data-variable-name='damage'>1075</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 1075 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='1075' data-variable-name='damage'>1075</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 4,
                             "talentScore": 192,
-                            "text": "Deal 1470 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='1470' data-variable-name='damage'>1470</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 1470 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='1470' data-variable-name='damage'>1470</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         },
                         {
                             "level": 5,
                             "talentScore": 248,
-                            "text": "Deal 1865 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='1865' data-variable-name='damage'>1865</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 1865 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='1865' data-variable-name='damage'>1865</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         },
                         {
                             "level": 6,
                             "talentScore": 304,
-                            "text": "Deal 2260 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='2260' data-variable-name='damage'>2260</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 2260 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='2260' data-variable-name='damage'>2260</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         }
                     ]
                 }
@@ -9447,56 +9447,56 @@
                         {
                             "level": 1,
                             "talentScore": 40,
-                            "text": "Deal 485 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='485' data-variable-name='damage'>485</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 485 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='485' data-variable-name='damage'>485</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 2,
                             "talentScore": 180,
-                            "text": "Deal 1429 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='1429' data-variable-name='damage'>1429</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 1429 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='1429' data-variable-name='damage'>1429</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 3,
                             "talentScore": 320,
-                            "text": "Deal 2373 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='2373' data-variable-name='damage'>2373</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 2373 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='2373' data-variable-name='damage'>2373</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 4,
                             "talentScore": 460,
-                            "text": "Deal 3317 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='3317' data-variable-name='damage'>3317</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 3317 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='3317' data-variable-name='damage'>3317</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         },
                         {
                             "level": 5,
                             "talentScore": 600,
-                            "text": "Deal 4261 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='4261' data-variable-name='damage'>4261</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 4261 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='4261' data-variable-name='damage'>4261</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         },
                         {
                             "level": 6,
                             "talentScore": 740,
-                            "text": "Deal 5206 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='5206' data-variable-name='damage'>5206</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 5206 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='5206' data-variable-name='damage'>5206</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         },
                         {
                             "level": 7,
                             "talentScore": 880,
-                            "text": "Deal 6150 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
-                            "html": "Deal <span data-variable-value='6150' data-variable-name='damage'>6150</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
+                            "text": "Deal 6150 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
+                            "html": "Deal <span data-variable-value='6150' data-variable-name='damage'>6150</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
                         },
                         {
                             "level": 8,
                             "talentScore": 1020,
-                            "text": "Deal 7094 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
-                            "html": "Deal <span data-variable-value='7094' data-variable-name='damage'>7094</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
+                            "text": "Deal 7094 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
+                            "html": "Deal <span data-variable-value='7094' data-variable-name='damage'>7094</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
                         },
                         {
                             "level": 9,
                             "talentScore": 1160,
-                            "text": "Deal 8038 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
-                            "html": "Deal <span data-variable-value='8038' data-variable-name='damage'>8038</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
+                            "text": "Deal 8038 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
+                            "html": "Deal <span data-variable-value='8038' data-variable-name='damage'>8038</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
                         }
                     ]
                 },
@@ -11113,56 +11113,56 @@
                         {
                             "level": 1,
                             "talentScore": 40,
-                            "text": "Deal 485 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='485' data-variable-name='damage'>485</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 485 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='485' data-variable-name='damage'>485</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 2,
                             "talentScore": 180,
-                            "text": "Deal 1429 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='1429' data-variable-name='damage'>1429</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 1429 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='1429' data-variable-name='damage'>1429</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 3,
                             "talentScore": 320,
-                            "text": "Deal 2373 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='2373' data-variable-name='damage'>2373</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 2373 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='2373' data-variable-name='damage'>2373</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 4,
                             "talentScore": 460,
-                            "text": "Deal 3317 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='3317' data-variable-name='damage'>3317</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 3317 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='3317' data-variable-name='damage'>3317</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         },
                         {
                             "level": 5,
                             "talentScore": 600,
-                            "text": "Deal 4261 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='4261' data-variable-name='damage'>4261</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 4261 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='4261' data-variable-name='damage'>4261</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         },
                         {
                             "level": 6,
                             "talentScore": 740,
-                            "text": "Deal 5206 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='5206' data-variable-name='damage'>5206</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 5206 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='5206' data-variable-name='damage'>5206</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         },
                         {
                             "level": 7,
                             "talentScore": 880,
-                            "text": "Deal 6150 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
-                            "html": "Deal <span data-variable-value='6150' data-variable-name='damage'>6150</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
+                            "text": "Deal 6150 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
+                            "html": "Deal <span data-variable-value='6150' data-variable-name='damage'>6150</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
                         },
                         {
                             "level": 8,
                             "talentScore": 1020,
-                            "text": "Deal 7094 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
-                            "html": "Deal <span data-variable-value='7094' data-variable-name='damage'>7094</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
+                            "text": "Deal 7094 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
+                            "html": "Deal <span data-variable-value='7094' data-variable-name='damage'>7094</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
                         },
                         {
                             "level": 9,
                             "talentScore": 1160,
-                            "text": "Deal 8038 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
-                            "html": "Deal <span data-variable-value='8038' data-variable-name='damage'>8038</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
+                            "text": "Deal 8038 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
+                            "html": "Deal <span data-variable-value='8038' data-variable-name='damage'>8038</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
                         }
                     ]
                 },
@@ -12779,56 +12779,56 @@
                         {
                             "level": 1,
                             "talentScore": 40,
-                            "text": "Deal 485 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='485' data-variable-name='damage'>485</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 485 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='485' data-variable-name='damage'>485</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 2,
                             "talentScore": 180,
-                            "text": "Deal 1429 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='1429' data-variable-name='damage'>1429</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 1429 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='1429' data-variable-name='damage'>1429</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 3,
                             "talentScore": 320,
-                            "text": "Deal 2373 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='2373' data-variable-name='damage'>2373</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 2373 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='2373' data-variable-name='damage'>2373</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 4,
                             "talentScore": 460,
-                            "text": "Deal 3317 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='3317' data-variable-name='damage'>3317</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 3317 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='3317' data-variable-name='damage'>3317</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         },
                         {
                             "level": 5,
                             "talentScore": 600,
-                            "text": "Deal 4261 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='4261' data-variable-name='damage'>4261</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 4261 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='4261' data-variable-name='damage'>4261</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         },
                         {
                             "level": 6,
                             "talentScore": 740,
-                            "text": "Deal 5206 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='5206' data-variable-name='damage'>5206</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 5206 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='5206' data-variable-name='damage'>5206</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         },
                         {
                             "level": 7,
                             "talentScore": 880,
-                            "text": "Deal 6150 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
-                            "html": "Deal <span data-variable-value='6150' data-variable-name='damage'>6150</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
+                            "text": "Deal 6150 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
+                            "html": "Deal <span data-variable-value='6150' data-variable-name='damage'>6150</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
                         },
                         {
                             "level": 8,
                             "talentScore": 1020,
-                            "text": "Deal 7094 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
-                            "html": "Deal <span data-variable-value='7094' data-variable-name='damage'>7094</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
+                            "text": "Deal 7094 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
+                            "html": "Deal <span data-variable-value='7094' data-variable-name='damage'>7094</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
                         },
                         {
                             "level": 9,
                             "talentScore": 1160,
-                            "text": "Deal 8038 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
-                            "html": "Deal <span data-variable-value='8038' data-variable-name='damage'>8038</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
+                            "text": "Deal 8038 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
+                            "html": "Deal <span data-variable-value='8038' data-variable-name='damage'>8038</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
                         }
                     ]
                 },
@@ -14413,44 +14413,44 @@
                         {
                             "level": 1,
                             "talentScore": 24,
-                            "text": "Deal 285 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='285' data-variable-name='damage'>285</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 285 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='285' data-variable-name='damage'>285</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 2,
                             "talentScore": 80,
-                            "text": "Deal 680 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='680' data-variable-name='damage'>680</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 680 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='680' data-variable-name='damage'>680</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 3,
                             "talentScore": 136,
-                            "text": "Deal 1075 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='1075' data-variable-name='damage'>1075</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 1075 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='1075' data-variable-name='damage'>1075</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 4,
                             "talentScore": 192,
-                            "text": "Deal 1470 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='1470' data-variable-name='damage'>1470</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 1470 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='1470' data-variable-name='damage'>1470</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         },
                         {
                             "level": 5,
                             "talentScore": 248,
-                            "text": "Deal 1865 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='1865' data-variable-name='damage'>1865</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 1865 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='1865' data-variable-name='damage'>1865</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         },
                         {
                             "level": 6,
                             "talentScore": 304,
-                            "text": "Deal 2260 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='2260' data-variable-name='damage'>2260</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 2260 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='2260' data-variable-name='damage'>2260</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         },
                         {
                             "level": 7,
                             "talentScore": 360,
-                            "text": "Deal 2655 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 2 x 4 Area when activated. ",
-                            "html": "Deal <span data-variable-value='2655' data-variable-name='damage'>2655</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 2 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 2 x 4 Area when activated.</span> "
+                            "text": "Deal 2655 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 2 x 4 Area when activated. ",
+                            "html": "Deal <span data-variable-value='2655' data-variable-name='damage'>2655</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 2 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 2 x 4 Area when activated.</span> "
                         }
                     ]
                 }
@@ -15439,44 +15439,44 @@
                         {
                             "level": 1,
                             "talentScore": 24,
-                            "text": "Deal 285 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='285' data-variable-name='damage'>285</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 285 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='285' data-variable-name='damage'>285</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 2,
                             "talentScore": 80,
-                            "text": "Deal 680 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='680' data-variable-name='damage'>680</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 680 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='680' data-variable-name='damage'>680</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 3,
                             "talentScore": 136,
-                            "text": "Deal 1075 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='1075' data-variable-name='damage'>1075</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 1075 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='1075' data-variable-name='damage'>1075</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 4,
                             "talentScore": 192,
-                            "text": "Deal 1470 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='1470' data-variable-name='damage'>1470</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 1470 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='1470' data-variable-name='damage'>1470</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         },
                         {
                             "level": 5,
                             "talentScore": 248,
-                            "text": "Deal 1865 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='1865' data-variable-name='damage'>1865</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 1865 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='1865' data-variable-name='damage'>1865</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         },
                         {
                             "level": 6,
                             "talentScore": 304,
-                            "text": "Deal 2260 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='2260' data-variable-name='damage'>2260</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 2260 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='2260' data-variable-name='damage'>2260</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         },
                         {
                             "level": 7,
                             "talentScore": 360,
-                            "text": "Deal 2655 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 2 x 4 Area when activated. ",
-                            "html": "Deal <span data-variable-value='2655' data-variable-name='damage'>2655</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 2 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 2 x 4 Area when activated.</span> "
+                            "text": "Deal 2655 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 2 x 4 Area when activated. ",
+                            "html": "Deal <span data-variable-value='2655' data-variable-name='damage'>2655</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 2 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 2 x 4 Area when activated.</span> "
                         }
                     ]
                 }
@@ -17299,62 +17299,62 @@
                         {
                             "level": 1,
                             "talentScore": 40,
-                            "text": "Deal 485 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='485' data-variable-name='damage'>485</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 485 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='485' data-variable-name='damage'>485</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 2,
                             "talentScore": 180,
-                            "text": "Deal 1429 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='1429' data-variable-name='damage'>1429</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 1429 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='1429' data-variable-name='damage'>1429</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 3,
                             "talentScore": 320,
-                            "text": "Deal 2373 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='2373' data-variable-name='damage'>2373</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 2373 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='2373' data-variable-name='damage'>2373</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 4,
                             "talentScore": 460,
-                            "text": "Deal 3317 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='3317' data-variable-name='damage'>3317</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 3317 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='3317' data-variable-name='damage'>3317</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         },
                         {
                             "level": 5,
                             "talentScore": 600,
-                            "text": "Deal 4261 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='4261' data-variable-name='damage'>4261</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 4261 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='4261' data-variable-name='damage'>4261</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         },
                         {
                             "level": 6,
                             "talentScore": 740,
-                            "text": "Deal 5206 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='5206' data-variable-name='damage'>5206</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 5206 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='5206' data-variable-name='damage'>5206</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         },
                         {
                             "level": 7,
                             "talentScore": 880,
-                            "text": "Deal 6150 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
-                            "html": "Deal <span data-variable-value='6150' data-variable-name='damage'>6150</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
+                            "text": "Deal 6150 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
+                            "html": "Deal <span data-variable-value='6150' data-variable-name='damage'>6150</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
                         },
                         {
                             "level": 8,
                             "talentScore": 1020,
-                            "text": "Deal 7094 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
-                            "html": "Deal <span data-variable-value='7094' data-variable-name='damage'>7094</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
+                            "text": "Deal 7094 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
+                            "html": "Deal <span data-variable-value='7094' data-variable-name='damage'>7094</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
                         },
                         {
                             "level": 9,
                             "talentScore": 1160,
-                            "text": "Deal 8038 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
-                            "html": "Deal <span data-variable-value='8038' data-variable-name='damage'>8038</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
+                            "text": "Deal 8038 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
+                            "html": "Deal <span data-variable-value='8038' data-variable-name='damage'>8038</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
                         },
                         {
                             "level": 10,
                             "talentScore": 1300,
-                            "text": "Deal 8983 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 2 x 5 Area when activated. ",
-                            "html": "Deal <span data-variable-value='8983' data-variable-name='damage'>8983</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 2 x 5 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 2 x 5 Area when activated.</span> "
+                            "text": "Deal 8983 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 2 x 5 Area when activated. ",
+                            "html": "Deal <span data-variable-value='8983' data-variable-name='damage'>8983</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 2 x 5 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 2 x 5 Area when activated.</span> "
                         }
                     ]
                 },
@@ -19255,62 +19255,62 @@
                         {
                             "level": 1,
                             "talentScore": 40,
-                            "text": "Deal 485 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='485' data-variable-name='damage'>485</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 485 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='485' data-variable-name='damage'>485</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 2,
                             "talentScore": 180,
-                            "text": "Deal 1429 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='1429' data-variable-name='damage'>1429</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 1429 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='1429' data-variable-name='damage'>1429</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 3,
                             "talentScore": 320,
-                            "text": "Deal 2373 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='2373' data-variable-name='damage'>2373</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 2373 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='2373' data-variable-name='damage'>2373</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 4,
                             "talentScore": 460,
-                            "text": "Deal 3317 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='3317' data-variable-name='damage'>3317</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 3317 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='3317' data-variable-name='damage'>3317</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         },
                         {
                             "level": 5,
                             "talentScore": 600,
-                            "text": "Deal 4261 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='4261' data-variable-name='damage'>4261</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 4261 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='4261' data-variable-name='damage'>4261</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         },
                         {
                             "level": 6,
                             "talentScore": 740,
-                            "text": "Deal 5206 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='5206' data-variable-name='damage'>5206</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 5206 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='5206' data-variable-name='damage'>5206</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         },
                         {
                             "level": 7,
                             "talentScore": 880,
-                            "text": "Deal 6150 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
-                            "html": "Deal <span data-variable-value='6150' data-variable-name='damage'>6150</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
+                            "text": "Deal 6150 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
+                            "html": "Deal <span data-variable-value='6150' data-variable-name='damage'>6150</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
                         },
                         {
                             "level": 8,
                             "talentScore": 1020,
-                            "text": "Deal 7094 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
-                            "html": "Deal <span data-variable-value='7094' data-variable-name='damage'>7094</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
+                            "text": "Deal 7094 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
+                            "html": "Deal <span data-variable-value='7094' data-variable-name='damage'>7094</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
                         },
                         {
                             "level": 9,
                             "talentScore": 1160,
-                            "text": "Deal 8038 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
-                            "html": "Deal <span data-variable-value='8038' data-variable-name='damage'>8038</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
+                            "text": "Deal 8038 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
+                            "html": "Deal <span data-variable-value='8038' data-variable-name='damage'>8038</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
                         },
                         {
                             "level": 10,
                             "talentScore": 1300,
-                            "text": "Deal 8983 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 2 x 5 Area when activated. ",
-                            "html": "Deal <span data-variable-value='8983' data-variable-name='damage'>8983</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 2 x 5 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 2 x 5 Area when activated.</span> "
+                            "text": "Deal 8983 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 2 x 5 Area when activated. ",
+                            "html": "Deal <span data-variable-value='8983' data-variable-name='damage'>8983</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 2 x 5 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 2 x 5 Area when activated.</span> "
                         }
                     ]
                 },
@@ -21211,62 +21211,62 @@
                         {
                             "level": 1,
                             "talentScore": 40,
-                            "text": "Deal 485 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='485' data-variable-name='damage'>485</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 485 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='485' data-variable-name='damage'>485</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 2,
                             "talentScore": 180,
-                            "text": "Deal 1429 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='1429' data-variable-name='damage'>1429</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 1429 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='1429' data-variable-name='damage'>1429</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 3,
                             "talentScore": 320,
-                            "text": "Deal 2373 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
-                            "html": "Deal <span data-variable-value='2373' data-variable-name='damage'>2373</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
+                            "text": "Deal 2373 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 2 Area when activated. ",
+                            "html": "Deal <span data-variable-value='2373' data-variable-name='damage'>2373</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 2 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 2 Area when activated.</span> "
                         },
                         {
                             "level": 4,
                             "talentScore": 460,
-                            "text": "Deal 3317 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='3317' data-variable-name='damage'>3317</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 3317 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='3317' data-variable-name='damage'>3317</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         },
                         {
                             "level": 5,
                             "talentScore": 600,
-                            "text": "Deal 4261 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='4261' data-variable-name='damage'>4261</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 4261 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='4261' data-variable-name='damage'>4261</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         },
                         {
                             "level": 6,
                             "talentScore": 740,
-                            "text": "Deal 5206 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
-                            "html": "Deal <span data-variable-value='5206' data-variable-name='damage'>5206</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
+                            "text": "Deal 5206 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 3 Area when activated. ",
+                            "html": "Deal <span data-variable-value='5206' data-variable-name='damage'>5206</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 3 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 3 Area when activated.</span> "
                         },
                         {
                             "level": 7,
                             "talentScore": 880,
-                            "text": "Deal 6150 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
-                            "html": "Deal <span data-variable-value='6150' data-variable-name='damage'>6150</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
+                            "text": "Deal 6150 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
+                            "html": "Deal <span data-variable-value='6150' data-variable-name='damage'>6150</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
                         },
                         {
                             "level": 8,
                             "talentScore": 1020,
-                            "text": "Deal 7094 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
-                            "html": "Deal <span data-variable-value='7094' data-variable-name='damage'>7094</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
+                            "text": "Deal 7094 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
+                            "html": "Deal <span data-variable-value='7094' data-variable-name='damage'>7094</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
                         },
                         {
                             "level": 9,
                             "talentScore": 1160,
-                            "text": "Deal 8038 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
-                            "html": "Deal <span data-variable-value='8038' data-variable-name='damage'>8038</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
+                            "text": "Deal 8038 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 1 x 4 Area when activated. ",
+                            "html": "Deal <span data-variable-value='8038' data-variable-name='damage'>8038</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 1 x 4 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 1 x 4 Area when activated.</span> "
                         },
                         {
                             "level": 10,
                             "talentScore": 1300,
-                            "text": "Deal 8983 Damage and Choose 1 Gem(s) to Make into Countdown Gem(s) that will Destroy a Random 2 x 5 Area when activated. ",
-                            "html": "Deal <span data-variable-value='8983' data-variable-name='damage'>8983</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 2 x 5 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 2 x 5 Area when activated.</span> "
+                            "text": "Deal 8983 Damage and Choose 1 Gem(s) to Make into 5-Turn Countdown Gem(s) that will Destroy a Random 2 x 5 Area when activated. ",
+                            "html": "Deal <span data-variable-value='8983' data-variable-name='damage'>8983</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='5' data-variable-name='min3'>5</span>-Turn <span data-variable-value='Countdown' data-variable-name='min2'>Countdown</span> Gem(s) that will <span data-variable-value='Destroy a Random 2 x 5 Area when activated.' data-variable-name='gettriggerscriptparam(max3, description)'>Destroy a Random 2 x 5 Area when activated.</span> "
                         }
                     ]
                 },

@@ -2979,50 +2979,50 @@
                         {
                             "level": 1,
                             "talentScore": 45,
-                            "text": "Deal 617 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='617' data-variable-name='damage'>617</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 617 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='617' data-variable-name='damage'>617</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Deal 2025 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='2025' data-variable-name='damage'>2025</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 2025 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='2025' data-variable-name='damage'>2025</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Deal 3434 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='3434' data-variable-name='damage'>3434</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 3434 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='3434' data-variable-name='damage'>3434</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 4843 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='4843' data-variable-name='damage'>4843</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 4843 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='4843' data-variable-name='damage'>4843</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 6252 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='6252' data-variable-name='damage'>6252</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 6252 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='6252' data-variable-name='damage'>6252</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Deal 7661 and Increase Opponent's Countdown Gem's timers by 2.",
-                            "html": "Deal <span data-variable-value='7661' data-variable-name='damage'>7661</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
+                            "text": "Deal 7661 and Increase Opponent's Countdown Gem timers by 2.",
+                            "html": "Deal <span data-variable-value='7661' data-variable-name='damage'>7661</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 9070 and Increase Opponent's Countdown Gem's timers by 2.",
-                            "html": "Deal <span data-variable-value='9070' data-variable-name='damage'>9070</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
+                            "text": "Deal 9070 and Increase Opponent's Countdown Gem timers by 2.",
+                            "html": "Deal <span data-variable-value='9070' data-variable-name='damage'>9070</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 10479 and Increase Opponent's Countdown Gem's timers by 2.",
-                            "html": "Deal <span data-variable-value='10479' data-variable-name='damage'>10479</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
+                            "text": "Deal 10479 and Increase Opponent's Countdown Gem timers by 2.",
+                            "html": "Deal <span data-variable-value='10479' data-variable-name='damage'>10479</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
                         }
                     ]
                 }
@@ -4352,50 +4352,50 @@
                         {
                             "level": 1,
                             "talentScore": 45,
-                            "text": "Deal 617 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='617' data-variable-name='damage'>617</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 617 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='617' data-variable-name='damage'>617</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Deal 2025 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='2025' data-variable-name='damage'>2025</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 2025 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='2025' data-variable-name='damage'>2025</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Deal 3434 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='3434' data-variable-name='damage'>3434</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 3434 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='3434' data-variable-name='damage'>3434</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 4843 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='4843' data-variable-name='damage'>4843</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 4843 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='4843' data-variable-name='damage'>4843</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 6252 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='6252' data-variable-name='damage'>6252</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 6252 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='6252' data-variable-name='damage'>6252</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Deal 7661 and Increase Opponent's Countdown Gem's timers by 2.",
-                            "html": "Deal <span data-variable-value='7661' data-variable-name='damage'>7661</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
+                            "text": "Deal 7661 and Increase Opponent's Countdown Gem timers by 2.",
+                            "html": "Deal <span data-variable-value='7661' data-variable-name='damage'>7661</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 9070 and Increase Opponent's Countdown Gem's timers by 2.",
-                            "html": "Deal <span data-variable-value='9070' data-variable-name='damage'>9070</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
+                            "text": "Deal 9070 and Increase Opponent's Countdown Gem timers by 2.",
+                            "html": "Deal <span data-variable-value='9070' data-variable-name='damage'>9070</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 10479 and Increase Opponent's Countdown Gem's timers by 2.",
-                            "html": "Deal <span data-variable-value='10479' data-variable-name='damage'>10479</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
+                            "text": "Deal 10479 and Increase Opponent's Countdown Gem timers by 2.",
+                            "html": "Deal <span data-variable-value='10479' data-variable-name='damage'>10479</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
                         }
                     ]
                 }
@@ -5725,50 +5725,50 @@
                         {
                             "level": 1,
                             "talentScore": 45,
-                            "text": "Deal 617 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='617' data-variable-name='damage'>617</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 617 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='617' data-variable-name='damage'>617</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Deal 2025 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='2025' data-variable-name='damage'>2025</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 2025 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='2025' data-variable-name='damage'>2025</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Deal 3434 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='3434' data-variable-name='damage'>3434</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 3434 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='3434' data-variable-name='damage'>3434</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 4843 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='4843' data-variable-name='damage'>4843</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 4843 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='4843' data-variable-name='damage'>4843</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 6252 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='6252' data-variable-name='damage'>6252</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 6252 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='6252' data-variable-name='damage'>6252</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Deal 7661 and Increase Opponent's Countdown Gem's timers by 2.",
-                            "html": "Deal <span data-variable-value='7661' data-variable-name='damage'>7661</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
+                            "text": "Deal 7661 and Increase Opponent's Countdown Gem timers by 2.",
+                            "html": "Deal <span data-variable-value='7661' data-variable-name='damage'>7661</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 9070 and Increase Opponent's Countdown Gem's timers by 2.",
-                            "html": "Deal <span data-variable-value='9070' data-variable-name='damage'>9070</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
+                            "text": "Deal 9070 and Increase Opponent's Countdown Gem timers by 2.",
+                            "html": "Deal <span data-variable-value='9070' data-variable-name='damage'>9070</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 10479 and Increase Opponent's Countdown Gem's timers by 2.",
-                            "html": "Deal <span data-variable-value='10479' data-variable-name='damage'>10479</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
+                            "text": "Deal 10479 and Increase Opponent's Countdown Gem timers by 2.",
+                            "html": "Deal <span data-variable-value='10479' data-variable-name='damage'>10479</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
                         }
                     ]
                 }
@@ -9497,56 +9497,56 @@
                         {
                             "level": 1,
                             "talentScore": 45,
-                            "text": "Deal 617 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='617' data-variable-name='damage'>617</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 617 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='617' data-variable-name='damage'>617</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Deal 2025 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='2025' data-variable-name='damage'>2025</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 2025 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='2025' data-variable-name='damage'>2025</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Deal 3434 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='3434' data-variable-name='damage'>3434</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 3434 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='3434' data-variable-name='damage'>3434</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 4843 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='4843' data-variable-name='damage'>4843</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 4843 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='4843' data-variable-name='damage'>4843</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 6252 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='6252' data-variable-name='damage'>6252</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 6252 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='6252' data-variable-name='damage'>6252</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Deal 7661 and Increase Opponent's Countdown Gem's timers by 2.",
-                            "html": "Deal <span data-variable-value='7661' data-variable-name='damage'>7661</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
+                            "text": "Deal 7661 and Increase Opponent's Countdown Gem timers by 2.",
+                            "html": "Deal <span data-variable-value='7661' data-variable-name='damage'>7661</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 9070 and Increase Opponent's Countdown Gem's timers by 2.",
-                            "html": "Deal <span data-variable-value='9070' data-variable-name='damage'>9070</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
+                            "text": "Deal 9070 and Increase Opponent's Countdown Gem timers by 2.",
+                            "html": "Deal <span data-variable-value='9070' data-variable-name='damage'>9070</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 10479 and Increase Opponent's Countdown Gem's timers by 2.",
-                            "html": "Deal <span data-variable-value='10479' data-variable-name='damage'>10479</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
+                            "text": "Deal 10479 and Increase Opponent's Countdown Gem timers by 2.",
+                            "html": "Deal <span data-variable-value='10479' data-variable-name='damage'>10479</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "Deal 11888 and Increase Opponent's Countdown Gem's timers by 2.",
-                            "html": "Deal <span data-variable-value='11888' data-variable-name='damage'>11888</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
+                            "text": "Deal 11888 and Increase Opponent's Countdown Gem timers by 2.",
+                            "html": "Deal <span data-variable-value='11888' data-variable-name='damage'>11888</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
                         }
                     ]
                 }
@@ -11160,56 +11160,56 @@
                         {
                             "level": 1,
                             "talentScore": 45,
-                            "text": "Deal 617 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='617' data-variable-name='damage'>617</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 617 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='617' data-variable-name='damage'>617</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Deal 2025 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='2025' data-variable-name='damage'>2025</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 2025 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='2025' data-variable-name='damage'>2025</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Deal 3434 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='3434' data-variable-name='damage'>3434</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 3434 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='3434' data-variable-name='damage'>3434</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 4843 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='4843' data-variable-name='damage'>4843</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 4843 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='4843' data-variable-name='damage'>4843</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 6252 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='6252' data-variable-name='damage'>6252</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 6252 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='6252' data-variable-name='damage'>6252</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Deal 7661 and Increase Opponent's Countdown Gem's timers by 2.",
-                            "html": "Deal <span data-variable-value='7661' data-variable-name='damage'>7661</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
+                            "text": "Deal 7661 and Increase Opponent's Countdown Gem timers by 2.",
+                            "html": "Deal <span data-variable-value='7661' data-variable-name='damage'>7661</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 9070 and Increase Opponent's Countdown Gem's timers by 2.",
-                            "html": "Deal <span data-variable-value='9070' data-variable-name='damage'>9070</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
+                            "text": "Deal 9070 and Increase Opponent's Countdown Gem timers by 2.",
+                            "html": "Deal <span data-variable-value='9070' data-variable-name='damage'>9070</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 10479 and Increase Opponent's Countdown Gem's timers by 2.",
-                            "html": "Deal <span data-variable-value='10479' data-variable-name='damage'>10479</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
+                            "text": "Deal 10479 and Increase Opponent's Countdown Gem timers by 2.",
+                            "html": "Deal <span data-variable-value='10479' data-variable-name='damage'>10479</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "Deal 11888 and Increase Opponent's Countdown Gem's timers by 2.",
-                            "html": "Deal <span data-variable-value='11888' data-variable-name='damage'>11888</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
+                            "text": "Deal 11888 and Increase Opponent's Countdown Gem timers by 2.",
+                            "html": "Deal <span data-variable-value='11888' data-variable-name='damage'>11888</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
                         }
                     ]
                 }
@@ -12823,56 +12823,56 @@
                         {
                             "level": 1,
                             "talentScore": 45,
-                            "text": "Deal 617 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='617' data-variable-name='damage'>617</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 617 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='617' data-variable-name='damage'>617</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Deal 2025 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='2025' data-variable-name='damage'>2025</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 2025 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='2025' data-variable-name='damage'>2025</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Deal 3434 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='3434' data-variable-name='damage'>3434</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 3434 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='3434' data-variable-name='damage'>3434</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 4843 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='4843' data-variable-name='damage'>4843</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 4843 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='4843' data-variable-name='damage'>4843</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 6252 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='6252' data-variable-name='damage'>6252</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 6252 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='6252' data-variable-name='damage'>6252</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Deal 7661 and Increase Opponent's Countdown Gem's timers by 2.",
-                            "html": "Deal <span data-variable-value='7661' data-variable-name='damage'>7661</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
+                            "text": "Deal 7661 and Increase Opponent's Countdown Gem timers by 2.",
+                            "html": "Deal <span data-variable-value='7661' data-variable-name='damage'>7661</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 9070 and Increase Opponent's Countdown Gem's timers by 2.",
-                            "html": "Deal <span data-variable-value='9070' data-variable-name='damage'>9070</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
+                            "text": "Deal 9070 and Increase Opponent's Countdown Gem timers by 2.",
+                            "html": "Deal <span data-variable-value='9070' data-variable-name='damage'>9070</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 10479 and Increase Opponent's Countdown Gem's timers by 2.",
-                            "html": "Deal <span data-variable-value='10479' data-variable-name='damage'>10479</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
+                            "text": "Deal 10479 and Increase Opponent's Countdown Gem timers by 2.",
+                            "html": "Deal <span data-variable-value='10479' data-variable-name='damage'>10479</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "Deal 11888 and Increase Opponent's Countdown Gem's timers by 2.",
-                            "html": "Deal <span data-variable-value='11888' data-variable-name='damage'>11888</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
+                            "text": "Deal 11888 and Increase Opponent's Countdown Gem timers by 2.",
+                            "html": "Deal <span data-variable-value='11888' data-variable-name='damage'>11888</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
                         }
                     ]
                 }
@@ -17341,62 +17341,62 @@
                         {
                             "level": 1,
                             "talentScore": 45,
-                            "text": "Deal 617 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='617' data-variable-name='damage'>617</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 617 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='617' data-variable-name='damage'>617</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Deal 2025 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='2025' data-variable-name='damage'>2025</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 2025 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='2025' data-variable-name='damage'>2025</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Deal 3434 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='3434' data-variable-name='damage'>3434</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 3434 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='3434' data-variable-name='damage'>3434</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 4843 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='4843' data-variable-name='damage'>4843</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 4843 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='4843' data-variable-name='damage'>4843</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 6252 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='6252' data-variable-name='damage'>6252</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 6252 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='6252' data-variable-name='damage'>6252</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Deal 7661 and Increase Opponent's Countdown Gem's timers by 2.",
-                            "html": "Deal <span data-variable-value='7661' data-variable-name='damage'>7661</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
+                            "text": "Deal 7661 and Increase Opponent's Countdown Gem timers by 2.",
+                            "html": "Deal <span data-variable-value='7661' data-variable-name='damage'>7661</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 9070 and Increase Opponent's Countdown Gem's timers by 2.",
-                            "html": "Deal <span data-variable-value='9070' data-variable-name='damage'>9070</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
+                            "text": "Deal 9070 and Increase Opponent's Countdown Gem timers by 2.",
+                            "html": "Deal <span data-variable-value='9070' data-variable-name='damage'>9070</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 10479 and Increase Opponent's Countdown Gem's timers by 2.",
-                            "html": "Deal <span data-variable-value='10479' data-variable-name='damage'>10479</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
+                            "text": "Deal 10479 and Increase Opponent's Countdown Gem timers by 2.",
+                            "html": "Deal <span data-variable-value='10479' data-variable-name='damage'>10479</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "Deal 11888 and Increase Opponent's Countdown Gem's timers by 2.",
-                            "html": "Deal <span data-variable-value='11888' data-variable-name='damage'>11888</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
+                            "text": "Deal 11888 and Increase Opponent's Countdown Gem timers by 2.",
+                            "html": "Deal <span data-variable-value='11888' data-variable-name='damage'>11888</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
                         },
                         {
                             "level": 10,
                             "talentScore": 1456,
-                            "text": "Deal 13297 and Increase Opponent's Countdown Gem's timers by 3.",
-                            "html": "Deal <span data-variable-value='13297' data-variable-name='damage'>13297</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='3' data-variable-name='val2'>3</span>."
+                            "text": "Deal 13297 and Increase Opponent's Countdown Gem timers by 3.",
+                            "html": "Deal <span data-variable-value='13297' data-variable-name='damage'>13297</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='3' data-variable-name='val2'>3</span>."
                         }
                     ]
                 }
@@ -19294,62 +19294,62 @@
                         {
                             "level": 1,
                             "talentScore": 45,
-                            "text": "Deal 617 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='617' data-variable-name='damage'>617</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 617 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='617' data-variable-name='damage'>617</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Deal 2025 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='2025' data-variable-name='damage'>2025</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 2025 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='2025' data-variable-name='damage'>2025</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Deal 3434 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='3434' data-variable-name='damage'>3434</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 3434 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='3434' data-variable-name='damage'>3434</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 4843 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='4843' data-variable-name='damage'>4843</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 4843 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='4843' data-variable-name='damage'>4843</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 6252 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='6252' data-variable-name='damage'>6252</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 6252 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='6252' data-variable-name='damage'>6252</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Deal 7661 and Increase Opponent's Countdown Gem's timers by 2.",
-                            "html": "Deal <span data-variable-value='7661' data-variable-name='damage'>7661</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
+                            "text": "Deal 7661 and Increase Opponent's Countdown Gem timers by 2.",
+                            "html": "Deal <span data-variable-value='7661' data-variable-name='damage'>7661</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 9070 and Increase Opponent's Countdown Gem's timers by 2.",
-                            "html": "Deal <span data-variable-value='9070' data-variable-name='damage'>9070</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
+                            "text": "Deal 9070 and Increase Opponent's Countdown Gem timers by 2.",
+                            "html": "Deal <span data-variable-value='9070' data-variable-name='damage'>9070</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 10479 and Increase Opponent's Countdown Gem's timers by 2.",
-                            "html": "Deal <span data-variable-value='10479' data-variable-name='damage'>10479</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
+                            "text": "Deal 10479 and Increase Opponent's Countdown Gem timers by 2.",
+                            "html": "Deal <span data-variable-value='10479' data-variable-name='damage'>10479</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "Deal 11888 and Increase Opponent's Countdown Gem's timers by 2.",
-                            "html": "Deal <span data-variable-value='11888' data-variable-name='damage'>11888</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
+                            "text": "Deal 11888 and Increase Opponent's Countdown Gem timers by 2.",
+                            "html": "Deal <span data-variable-value='11888' data-variable-name='damage'>11888</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
                         },
                         {
                             "level": 10,
                             "talentScore": 1456,
-                            "text": "Deal 13297 and Increase Opponent's Countdown Gem's timers by 3.",
-                            "html": "Deal <span data-variable-value='13297' data-variable-name='damage'>13297</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='3' data-variable-name='val2'>3</span>."
+                            "text": "Deal 13297 and Increase Opponent's Countdown Gem timers by 3.",
+                            "html": "Deal <span data-variable-value='13297' data-variable-name='damage'>13297</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='3' data-variable-name='val2'>3</span>."
                         }
                     ]
                 }
@@ -21247,62 +21247,62 @@
                         {
                             "level": 1,
                             "talentScore": 45,
-                            "text": "Deal 617 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='617' data-variable-name='damage'>617</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 617 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='617' data-variable-name='damage'>617</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Deal 2025 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='2025' data-variable-name='damage'>2025</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 2025 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='2025' data-variable-name='damage'>2025</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Deal 3434 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='3434' data-variable-name='damage'>3434</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 3434 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='3434' data-variable-name='damage'>3434</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 4843 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='4843' data-variable-name='damage'>4843</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 4843 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='4843' data-variable-name='damage'>4843</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 6252 and Increase Opponent's Countdown Gem's timers by 1.",
-                            "html": "Deal <span data-variable-value='6252' data-variable-name='damage'>6252</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
+                            "text": "Deal 6252 and Increase Opponent's Countdown Gem timers by 1.",
+                            "html": "Deal <span data-variable-value='6252' data-variable-name='damage'>6252</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='1' data-variable-name='val2'>1</span>."
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Deal 7661 and Increase Opponent's Countdown Gem's timers by 2.",
-                            "html": "Deal <span data-variable-value='7661' data-variable-name='damage'>7661</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
+                            "text": "Deal 7661 and Increase Opponent's Countdown Gem timers by 2.",
+                            "html": "Deal <span data-variable-value='7661' data-variable-name='damage'>7661</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 9070 and Increase Opponent's Countdown Gem's timers by 2.",
-                            "html": "Deal <span data-variable-value='9070' data-variable-name='damage'>9070</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
+                            "text": "Deal 9070 and Increase Opponent's Countdown Gem timers by 2.",
+                            "html": "Deal <span data-variable-value='9070' data-variable-name='damage'>9070</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 10479 and Increase Opponent's Countdown Gem's timers by 2.",
-                            "html": "Deal <span data-variable-value='10479' data-variable-name='damage'>10479</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
+                            "text": "Deal 10479 and Increase Opponent's Countdown Gem timers by 2.",
+                            "html": "Deal <span data-variable-value='10479' data-variable-name='damage'>10479</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "Deal 11888 and Increase Opponent's Countdown Gem's timers by 2.",
-                            "html": "Deal <span data-variable-value='11888' data-variable-name='damage'>11888</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
+                            "text": "Deal 11888 and Increase Opponent's Countdown Gem timers by 2.",
+                            "html": "Deal <span data-variable-value='11888' data-variable-name='damage'>11888</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='2' data-variable-name='val2'>2</span>."
                         },
                         {
                             "level": 10,
                             "talentScore": 1456,
-                            "text": "Deal 13297 and Increase Opponent's Countdown Gem's timers by 3.",
-                            "html": "Deal <span data-variable-value='13297' data-variable-name='damage'>13297</span> and Increase Opponent's Countdown Gem's timers by <span data-variable-value='3' data-variable-name='val2'>3</span>."
+                            "text": "Deal 13297 and Increase Opponent's Countdown Gem timers by 3.",
+                            "html": "Deal <span data-variable-value='13297' data-variable-name='damage'>13297</span> and Increase Opponent's Countdown Gem timers by <span data-variable-value='3' data-variable-name='val2'>3</span>."
                         }
                     ]
                 }
