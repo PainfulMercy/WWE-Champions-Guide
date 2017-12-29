@@ -137,7 +137,7 @@
                 {
                     "ID": "ABL_RicFlair_RobeBlue_1Star_01",
                     "levelCap": 2,
-                    "cost": 12,
+                    "cost": 11,
                     "gemType": "Yellow",
                     "name": "Knee Drop",
                     "move": {
@@ -749,7 +749,7 @@
                 {
                     "ID": "ABL_RicFlair_RobeBlue_2Star_01",
                     "levelCap": 5,
-                    "cost": 12,
+                    "cost": 11,
                     "gemType": "Yellow",
                     "name": "Knee Drop",
                     "move": {
@@ -770,26 +770,26 @@
                         {
                             "level": 2,
                             "talentScore": 97,
-                            "text": "FINISHER! Deal 1228 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='1228' data-variable-name='damage'>1228</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 1519 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='1519' data-variable-name='damage'>1519</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "FINISHER! Deal 1855 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='1855' data-variable-name='damage'>1855</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 2438 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='2438' data-variable-name='damage'>2438</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "FINISHER! Deal 2483 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='2483' data-variable-name='damage'>2483</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 3356 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='3356' data-variable-name='damage'>3356</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "FINISHER! Deal 3110 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3110' data-variable-name='damage'>3110</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 4275 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='4275' data-variable-name='damage'>4275</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -1463,7 +1463,7 @@
                 {
                     "ID": "ABL_RicFlair_RobeBlue_2Star_01",
                     "levelCap": 5,
-                    "cost": 12,
+                    "cost": 11,
                     "gemType": "Yellow",
                     "name": "Knee Drop",
                     "move": {
@@ -1484,26 +1484,26 @@
                         {
                             "level": 2,
                             "talentScore": 97,
-                            "text": "FINISHER! Deal 1228 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='1228' data-variable-name='damage'>1228</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 1519 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='1519' data-variable-name='damage'>1519</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "FINISHER! Deal 1855 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='1855' data-variable-name='damage'>1855</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 2438 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='2438' data-variable-name='damage'>2438</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "FINISHER! Deal 2483 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='2483' data-variable-name='damage'>2483</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 3356 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='3356' data-variable-name='damage'>3356</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "FINISHER! Deal 3110 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3110' data-variable-name='damage'>3110</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 4275 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='4275' data-variable-name='damage'>4275</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -2697,7 +2697,7 @@
                 {
                     "ID": "ABL_RicFlair_RobeBlue_3Star_01",
                     "levelCap": 8,
-                    "cost": 12,
+                    "cost": 11,
                     "gemType": "Yellow",
                     "name": "Knee Drop",
                     "move": {
@@ -2718,44 +2718,44 @@
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "FINISHER! Deal 2377 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='2377' data-variable-name='damage'>2377</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 2518 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='2518' data-variable-name='damage'>2518</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "FINISHER! Deal 3727 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3727' data-variable-name='damage'>3727</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 4009 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='4009' data-variable-name='damage'>4009</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "FINISHER! Deal 5077 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='5077' data-variable-name='damage'>5077</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 5501 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='5501' data-variable-name='damage'>5501</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "FINISHER! Deal 6427 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='6427' data-variable-name='damage'>6427</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 6992 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='6992' data-variable-name='damage'>6992</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "FINISHER! Deal 7778 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='7778' data-variable-name='damage'>7778</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 8484 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='8484' data-variable-name='damage'>8484</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "FINISHER! Deal 9128 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='9128' data-variable-name='damage'>9128</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 9975 Damage, Destroy 5 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='9975' data-variable-name='damage'>9975</span> Damage, Destroy <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "FINISHER! Deal 10478 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='10478' data-variable-name='damage'>10478</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 11467 Damage, Destroy 5 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='11467' data-variable-name='damage'>11467</span> Damage, Destroy <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -4069,7 +4069,7 @@
                 {
                     "ID": "ABL_RicFlair_RobeBlue_3Star_01",
                     "levelCap": 8,
-                    "cost": 12,
+                    "cost": 11,
                     "gemType": "Yellow",
                     "name": "Knee Drop",
                     "move": {
@@ -4090,44 +4090,44 @@
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "FINISHER! Deal 2377 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='2377' data-variable-name='damage'>2377</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 2518 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='2518' data-variable-name='damage'>2518</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "FINISHER! Deal 3727 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3727' data-variable-name='damage'>3727</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 4009 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='4009' data-variable-name='damage'>4009</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "FINISHER! Deal 5077 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='5077' data-variable-name='damage'>5077</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 5501 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='5501' data-variable-name='damage'>5501</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "FINISHER! Deal 6427 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='6427' data-variable-name='damage'>6427</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 6992 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='6992' data-variable-name='damage'>6992</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "FINISHER! Deal 7778 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='7778' data-variable-name='damage'>7778</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 8484 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='8484' data-variable-name='damage'>8484</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "FINISHER! Deal 9128 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='9128' data-variable-name='damage'>9128</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 9975 Damage, Destroy 5 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='9975' data-variable-name='damage'>9975</span> Damage, Destroy <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "FINISHER! Deal 10478 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='10478' data-variable-name='damage'>10478</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 11467 Damage, Destroy 5 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='11467' data-variable-name='damage'>11467</span> Damage, Destroy <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -5441,7 +5441,7 @@
                 {
                     "ID": "ABL_RicFlair_RobeBlue_3Star_01",
                     "levelCap": 8,
-                    "cost": 12,
+                    "cost": 11,
                     "gemType": "Yellow",
                     "name": "Knee Drop",
                     "move": {
@@ -5462,44 +5462,44 @@
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "FINISHER! Deal 2377 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='2377' data-variable-name='damage'>2377</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 2518 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='2518' data-variable-name='damage'>2518</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "FINISHER! Deal 3727 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3727' data-variable-name='damage'>3727</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 4009 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='4009' data-variable-name='damage'>4009</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "FINISHER! Deal 5077 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='5077' data-variable-name='damage'>5077</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 5501 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='5501' data-variable-name='damage'>5501</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "FINISHER! Deal 6427 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='6427' data-variable-name='damage'>6427</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 6992 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='6992' data-variable-name='damage'>6992</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "FINISHER! Deal 7778 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='7778' data-variable-name='damage'>7778</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 8484 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='8484' data-variable-name='damage'>8484</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "FINISHER! Deal 9128 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='9128' data-variable-name='damage'>9128</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 9975 Damage, Destroy 5 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='9975' data-variable-name='damage'>9975</span> Damage, Destroy <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "FINISHER! Deal 10478 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='10478' data-variable-name='damage'>10478</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 11467 Damage, Destroy 5 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='11467' data-variable-name='damage'>11467</span> Damage, Destroy <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -6035,7 +6035,7 @@
                 {
                     "ID": "ABL_RicFlair_RobeBlue_1Star_01",
                     "levelCap": 3,
-                    "cost": 12,
+                    "cost": 11,
                     "gemType": "Yellow",
                     "name": "Knee Drop",
                     "move": {
@@ -6795,7 +6795,7 @@
                 {
                     "ID": "ABL_RicFlair_RobeBlue_2Star_01",
                     "levelCap": 6,
-                    "cost": 12,
+                    "cost": 11,
                     "gemType": "Yellow",
                     "name": "Knee Drop",
                     "move": {
@@ -6816,32 +6816,32 @@
                         {
                             "level": 2,
                             "talentScore": 97,
-                            "text": "FINISHER! Deal 1228 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='1228' data-variable-name='damage'>1228</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 1519 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='1519' data-variable-name='damage'>1519</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "FINISHER! Deal 1855 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='1855' data-variable-name='damage'>1855</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 2438 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='2438' data-variable-name='damage'>2438</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "FINISHER! Deal 2483 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='2483' data-variable-name='damage'>2483</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 3356 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='3356' data-variable-name='damage'>3356</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "FINISHER! Deal 3110 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3110' data-variable-name='damage'>3110</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 4275 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='4275' data-variable-name='damage'>4275</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "FINISHER! Deal 3737 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3737' data-variable-name='damage'>3737</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 5193 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='5193' data-variable-name='damage'>5193</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -7663,7 +7663,7 @@
                 {
                     "ID": "ABL_RicFlair_RobeBlue_2Star_01",
                     "levelCap": 6,
-                    "cost": 12,
+                    "cost": 11,
                     "gemType": "Yellow",
                     "name": "Knee Drop",
                     "move": {
@@ -7684,32 +7684,32 @@
                         {
                             "level": 2,
                             "talentScore": 97,
-                            "text": "FINISHER! Deal 1228 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='1228' data-variable-name='damage'>1228</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 1519 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='1519' data-variable-name='damage'>1519</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "FINISHER! Deal 1855 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='1855' data-variable-name='damage'>1855</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 2438 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='2438' data-variable-name='damage'>2438</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "FINISHER! Deal 2483 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='2483' data-variable-name='damage'>2483</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 3356 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='3356' data-variable-name='damage'>3356</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "FINISHER! Deal 3110 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3110' data-variable-name='damage'>3110</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 4275 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='4275' data-variable-name='damage'>4275</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "FINISHER! Deal 3737 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3737' data-variable-name='damage'>3737</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 5193 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='5193' data-variable-name='damage'>5193</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -9181,7 +9181,7 @@
                 {
                     "ID": "ABL_RicFlair_RobeBlue_3Star_01",
                     "levelCap": 9,
-                    "cost": 12,
+                    "cost": 11,
                     "gemType": "Yellow",
                     "name": "Knee Drop",
                     "move": {
@@ -9202,50 +9202,50 @@
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "FINISHER! Deal 2377 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='2377' data-variable-name='damage'>2377</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 2518 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='2518' data-variable-name='damage'>2518</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "FINISHER! Deal 3727 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3727' data-variable-name='damage'>3727</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 4009 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='4009' data-variable-name='damage'>4009</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "FINISHER! Deal 5077 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='5077' data-variable-name='damage'>5077</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 5501 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='5501' data-variable-name='damage'>5501</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "FINISHER! Deal 6427 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='6427' data-variable-name='damage'>6427</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 6992 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='6992' data-variable-name='damage'>6992</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "FINISHER! Deal 7778 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='7778' data-variable-name='damage'>7778</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 8484 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='8484' data-variable-name='damage'>8484</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "FINISHER! Deal 9128 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='9128' data-variable-name='damage'>9128</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 9975 Damage, Destroy 5 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='9975' data-variable-name='damage'>9975</span> Damage, Destroy <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "FINISHER! Deal 10478 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='10478' data-variable-name='damage'>10478</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 11467 Damage, Destroy 5 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='11467' data-variable-name='damage'>11467</span> Damage, Destroy <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "FINISHER! Deal 11828 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='11828' data-variable-name='damage'>11828</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 12958 Damage, Destroy 6 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='12958' data-variable-name='damage'>12958</span> Damage, Destroy <span data-variable-value='6' data-variable-name='val1'>6</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -10843,7 +10843,7 @@
                 {
                     "ID": "ABL_RicFlair_RobeBlue_3Star_01",
                     "levelCap": 9,
-                    "cost": 12,
+                    "cost": 11,
                     "gemType": "Yellow",
                     "name": "Knee Drop",
                     "move": {
@@ -10864,50 +10864,50 @@
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "FINISHER! Deal 2377 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='2377' data-variable-name='damage'>2377</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 2518 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='2518' data-variable-name='damage'>2518</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "FINISHER! Deal 3727 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3727' data-variable-name='damage'>3727</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 4009 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='4009' data-variable-name='damage'>4009</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "FINISHER! Deal 5077 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='5077' data-variable-name='damage'>5077</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 5501 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='5501' data-variable-name='damage'>5501</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "FINISHER! Deal 6427 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='6427' data-variable-name='damage'>6427</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 6992 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='6992' data-variable-name='damage'>6992</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "FINISHER! Deal 7778 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='7778' data-variable-name='damage'>7778</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 8484 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='8484' data-variable-name='damage'>8484</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "FINISHER! Deal 9128 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='9128' data-variable-name='damage'>9128</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 9975 Damage, Destroy 5 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='9975' data-variable-name='damage'>9975</span> Damage, Destroy <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "FINISHER! Deal 10478 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='10478' data-variable-name='damage'>10478</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 11467 Damage, Destroy 5 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='11467' data-variable-name='damage'>11467</span> Damage, Destroy <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "FINISHER! Deal 11828 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='11828' data-variable-name='damage'>11828</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 12958 Damage, Destroy 6 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='12958' data-variable-name='damage'>12958</span> Damage, Destroy <span data-variable-value='6' data-variable-name='val1'>6</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -12505,7 +12505,7 @@
                 {
                     "ID": "ABL_RicFlair_RobeBlue_3Star_01",
                     "levelCap": 9,
-                    "cost": 12,
+                    "cost": 11,
                     "gemType": "Yellow",
                     "name": "Knee Drop",
                     "move": {
@@ -12526,50 +12526,50 @@
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "FINISHER! Deal 2377 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='2377' data-variable-name='damage'>2377</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 2518 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='2518' data-variable-name='damage'>2518</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "FINISHER! Deal 3727 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3727' data-variable-name='damage'>3727</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 4009 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='4009' data-variable-name='damage'>4009</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "FINISHER! Deal 5077 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='5077' data-variable-name='damage'>5077</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 5501 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='5501' data-variable-name='damage'>5501</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "FINISHER! Deal 6427 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='6427' data-variable-name='damage'>6427</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 6992 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='6992' data-variable-name='damage'>6992</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "FINISHER! Deal 7778 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='7778' data-variable-name='damage'>7778</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 8484 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='8484' data-variable-name='damage'>8484</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "FINISHER! Deal 9128 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='9128' data-variable-name='damage'>9128</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 9975 Damage, Destroy 5 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='9975' data-variable-name='damage'>9975</span> Damage, Destroy <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "FINISHER! Deal 10478 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='10478' data-variable-name='damage'>10478</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 11467 Damage, Destroy 5 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='11467' data-variable-name='damage'>11467</span> Damage, Destroy <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "FINISHER! Deal 11828 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='11828' data-variable-name='damage'>11828</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 12958 Damage, Destroy 6 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='12958' data-variable-name='damage'>12958</span> Damage, Destroy <span data-variable-value='6' data-variable-name='val1'>6</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -13259,7 +13259,7 @@
                 {
                     "ID": "ABL_RicFlair_RobeBlue_1Star_01",
                     "levelCap": 4,
-                    "cost": 12,
+                    "cost": 11,
                     "gemType": "Yellow",
                     "name": "Knee Drop",
                     "move": {
@@ -14167,7 +14167,7 @@
                 {
                     "ID": "ABL_RicFlair_RobeBlue_2Star_01",
                     "levelCap": 7,
-                    "cost": 12,
+                    "cost": 11,
                     "gemType": "Yellow",
                     "name": "Knee Drop",
                     "move": {
@@ -14188,38 +14188,38 @@
                         {
                             "level": 2,
                             "talentScore": 97,
-                            "text": "FINISHER! Deal 1228 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='1228' data-variable-name='damage'>1228</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 1519 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='1519' data-variable-name='damage'>1519</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "FINISHER! Deal 1855 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='1855' data-variable-name='damage'>1855</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 2438 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='2438' data-variable-name='damage'>2438</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "FINISHER! Deal 2483 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='2483' data-variable-name='damage'>2483</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 3356 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='3356' data-variable-name='damage'>3356</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "FINISHER! Deal 3110 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3110' data-variable-name='damage'>3110</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 4275 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='4275' data-variable-name='damage'>4275</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "FINISHER! Deal 3737 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3737' data-variable-name='damage'>3737</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 5193 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='5193' data-variable-name='damage'>5193</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
                             "talentScore": 439,
-                            "text": "FINISHER! Deal 4365 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='4365' data-variable-name='damage'>4365</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 6112 Damage, Destroy 5 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='6112' data-variable-name='damage'>6112</span> Damage, Destroy <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -15189,7 +15189,7 @@
                 {
                     "ID": "ABL_RicFlair_RobeBlue_2Star_01",
                     "levelCap": 7,
-                    "cost": 12,
+                    "cost": 11,
                     "gemType": "Yellow",
                     "name": "Knee Drop",
                     "move": {
@@ -15210,38 +15210,38 @@
                         {
                             "level": 2,
                             "talentScore": 97,
-                            "text": "FINISHER! Deal 1228 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='1228' data-variable-name='damage'>1228</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 1519 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='1519' data-variable-name='damage'>1519</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "FINISHER! Deal 1855 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='1855' data-variable-name='damage'>1855</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 2438 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='2438' data-variable-name='damage'>2438</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "FINISHER! Deal 2483 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='2483' data-variable-name='damage'>2483</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 3356 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='3356' data-variable-name='damage'>3356</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "FINISHER! Deal 3110 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3110' data-variable-name='damage'>3110</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 4275 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='4275' data-variable-name='damage'>4275</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "FINISHER! Deal 3737 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3737' data-variable-name='damage'>3737</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 5193 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='5193' data-variable-name='damage'>5193</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
                             "talentScore": 439,
-                            "text": "FINISHER! Deal 4365 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='4365' data-variable-name='damage'>4365</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 6112 Damage, Destroy 5 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='6112' data-variable-name='damage'>6112</span> Damage, Destroy <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -16991,7 +16991,7 @@
                 {
                     "ID": "ABL_RicFlair_RobeBlue_3Star_01",
                     "levelCap": 10,
-                    "cost": 12,
+                    "cost": 11,
                     "gemType": "Yellow",
                     "name": "Knee Drop",
                     "move": {
@@ -17012,56 +17012,56 @@
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "FINISHER! Deal 2377 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='2377' data-variable-name='damage'>2377</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 2518 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='2518' data-variable-name='damage'>2518</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "FINISHER! Deal 3727 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3727' data-variable-name='damage'>3727</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 4009 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='4009' data-variable-name='damage'>4009</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "FINISHER! Deal 5077 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='5077' data-variable-name='damage'>5077</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 5501 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='5501' data-variable-name='damage'>5501</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "FINISHER! Deal 6427 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='6427' data-variable-name='damage'>6427</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 6992 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='6992' data-variable-name='damage'>6992</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "FINISHER! Deal 7778 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='7778' data-variable-name='damage'>7778</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 8484 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='8484' data-variable-name='damage'>8484</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "FINISHER! Deal 9128 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='9128' data-variable-name='damage'>9128</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 9975 Damage, Destroy 5 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='9975' data-variable-name='damage'>9975</span> Damage, Destroy <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "FINISHER! Deal 10478 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='10478' data-variable-name='damage'>10478</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 11467 Damage, Destroy 5 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='11467' data-variable-name='damage'>11467</span> Damage, Destroy <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "FINISHER! Deal 11828 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='11828' data-variable-name='damage'>11828</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 12958 Damage, Destroy 6 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='12958' data-variable-name='damage'>12958</span> Damage, Destroy <span data-variable-value='6' data-variable-name='val1'>6</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 10,
                             "talentScore": 1586,
-                            "text": "FINISHER! Deal 13179 Damage, Destroy 5 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='13179' data-variable-name='damage'>13179</span> Damage, Destroy <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 14450 Damage, Destroy 7 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='14450' data-variable-name='damage'>14450</span> Damage, Destroy <span data-variable-value='7' data-variable-name='val1'>7</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -18943,7 +18943,7 @@
                 {
                     "ID": "ABL_RicFlair_RobeBlue_3Star_01",
                     "levelCap": 10,
-                    "cost": 12,
+                    "cost": 11,
                     "gemType": "Yellow",
                     "name": "Knee Drop",
                     "move": {
@@ -18964,56 +18964,56 @@
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "FINISHER! Deal 2377 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='2377' data-variable-name='damage'>2377</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 2518 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='2518' data-variable-name='damage'>2518</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "FINISHER! Deal 3727 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3727' data-variable-name='damage'>3727</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 4009 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='4009' data-variable-name='damage'>4009</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "FINISHER! Deal 5077 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='5077' data-variable-name='damage'>5077</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 5501 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='5501' data-variable-name='damage'>5501</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "FINISHER! Deal 6427 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='6427' data-variable-name='damage'>6427</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 6992 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='6992' data-variable-name='damage'>6992</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "FINISHER! Deal 7778 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='7778' data-variable-name='damage'>7778</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 8484 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='8484' data-variable-name='damage'>8484</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "FINISHER! Deal 9128 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='9128' data-variable-name='damage'>9128</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 9975 Damage, Destroy 5 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='9975' data-variable-name='damage'>9975</span> Damage, Destroy <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "FINISHER! Deal 10478 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='10478' data-variable-name='damage'>10478</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 11467 Damage, Destroy 5 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='11467' data-variable-name='damage'>11467</span> Damage, Destroy <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "FINISHER! Deal 11828 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='11828' data-variable-name='damage'>11828</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 12958 Damage, Destroy 6 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='12958' data-variable-name='damage'>12958</span> Damage, Destroy <span data-variable-value='6' data-variable-name='val1'>6</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 10,
                             "talentScore": 1586,
-                            "text": "FINISHER! Deal 13179 Damage, Destroy 5 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='13179' data-variable-name='damage'>13179</span> Damage, Destroy <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 14450 Damage, Destroy 7 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='14450' data-variable-name='damage'>14450</span> Damage, Destroy <span data-variable-value='7' data-variable-name='val1'>7</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
@@ -20895,7 +20895,7 @@
                 {
                     "ID": "ABL_RicFlair_RobeBlue_3Star_01",
                     "levelCap": 10,
-                    "cost": 12,
+                    "cost": 11,
                     "gemType": "Yellow",
                     "name": "Knee Drop",
                     "move": {
@@ -20916,56 +20916,56 @@
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "FINISHER! Deal 2377 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='2377' data-variable-name='damage'>2377</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 2518 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='2518' data-variable-name='damage'>2518</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "FINISHER! Deal 3727 Damage, Destroy 2 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3727' data-variable-name='damage'>3727</span> Damage, Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 4009 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='4009' data-variable-name='damage'>4009</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "FINISHER! Deal 5077 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='5077' data-variable-name='damage'>5077</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 5501 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='5501' data-variable-name='damage'>5501</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "FINISHER! Deal 6427 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='6427' data-variable-name='damage'>6427</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 6992 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='6992' data-variable-name='damage'>6992</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "FINISHER! Deal 7778 Damage, Destroy 3 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='7778' data-variable-name='damage'>7778</span> Damage, Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 8484 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='8484' data-variable-name='damage'>8484</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "FINISHER! Deal 9128 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='9128' data-variable-name='damage'>9128</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 9975 Damage, Destroy 5 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='9975' data-variable-name='damage'>9975</span> Damage, Destroy <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "FINISHER! Deal 10478 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='10478' data-variable-name='damage'>10478</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 11467 Damage, Destroy 5 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='11467' data-variable-name='damage'>11467</span> Damage, Destroy <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "FINISHER! Deal 11828 Damage, Destroy 4 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='11828' data-variable-name='damage'>11828</span> Damage, Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 12958 Damage, Destroy 6 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='12958' data-variable-name='damage'>12958</span> Damage, Destroy <span data-variable-value='6' data-variable-name='val1'>6</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         },
                         {
                             "level": 10,
                             "talentScore": 1586,
-                            "text": "FINISHER! Deal 13179 Damage, Destroy 5 Random Multiply Gem(s) and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='13179' data-variable-name='damage'>13179</span> Damage, Destroy <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
+                            "text": "FINISHER! Deal 14450 Damage, Destroy 7 Random Multiply Gem(s) and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='14450' data-variable-name='damage'>14450</span> Damage, Destroy <span data-variable-value='7' data-variable-name='val1'>7</span> Random <span data-variable-value='Multiplier' data-variable-name='min2'>Multiply</span> Gem(s) and PIN the opponent!"
                         }
                     ]
                 },
