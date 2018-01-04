@@ -871,26 +871,26 @@
                         {
                             "level": 2,
                             "talentScore": 89,
-                            "text": "Deal 1108 Damage and Destroy 1 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='1108' data-variable-name='damage'>1108</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 722 Damage and Destroy 1 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='722' data-variable-name='damage'>722</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 3,
                             "talentScore": 152,
-                            "text": "Deal 1862 Damage and Destroy 2 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='1862' data-variable-name='damage'>1862</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 1091 Damage and Destroy 2 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='1091' data-variable-name='damage'>1091</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 4,
                             "talentScore": 215,
-                            "text": "Deal 2617 Damage and Destroy 2 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='2617' data-variable-name='damage'>2617</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 1460 Damage and Destroy 2 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='1460' data-variable-name='damage'>1460</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 277,
-                            "text": "Deal 3371 Damage and Destroy 3 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='3371' data-variable-name='damage'>3371</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 1828 Damage and Destroy 3 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='1828' data-variable-name='damage'>1828</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         }
                     ]
                 },
@@ -1590,26 +1590,26 @@
                         {
                             "level": 2,
                             "talentScore": 89,
-                            "text": "Deal 1108 Damage and Destroy 1 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='1108' data-variable-name='damage'>1108</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 722 Damage and Destroy 1 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='722' data-variable-name='damage'>722</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 3,
                             "talentScore": 152,
-                            "text": "Deal 1862 Damage and Destroy 2 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='1862' data-variable-name='damage'>1862</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 1091 Damage and Destroy 2 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='1091' data-variable-name='damage'>1091</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 4,
                             "talentScore": 215,
-                            "text": "Deal 2617 Damage and Destroy 2 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='2617' data-variable-name='damage'>2617</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 1460 Damage and Destroy 2 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='1460' data-variable-name='damage'>1460</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 277,
-                            "text": "Deal 3371 Damage and Destroy 3 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='3371' data-variable-name='damage'>3371</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 1828 Damage and Destroy 3 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='1828' data-variable-name='damage'>1828</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         }
                     ]
                 },
@@ -2865,44 +2865,44 @@
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Deal 2186 Damage and Destroy 1 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='2186' data-variable-name='damage'>2186</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 1254 Damage and Destroy 1 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='1254' data-variable-name='damage'>1254</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Deal 3767 Damage and Destroy 1 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='3767' data-variable-name='damage'>3767</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 1903 Damage and Destroy 1 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='1903' data-variable-name='damage'>1903</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 5348 Damage and Destroy 2 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='5348' data-variable-name='damage'>5348</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 2552 Damage and Destroy 2 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='2552' data-variable-name='damage'>2552</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 6929 Damage and Destroy 2 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='6929' data-variable-name='damage'>6929</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 3201 Damage and Destroy 2 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='3201' data-variable-name='damage'>3201</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Deal 8511 Damage and Destroy 3 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='8511' data-variable-name='damage'>8511</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 3851 Damage and Destroy 3 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='3851' data-variable-name='damage'>3851</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 10092 Damage and Destroy 3 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='10092' data-variable-name='damage'>10092</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 4500 Damage and Destroy 3 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='4500' data-variable-name='damage'>4500</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 11673 Damage and Destroy 4 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='11673' data-variable-name='damage'>11673</span> Damage and Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 5149 Damage and Destroy 4 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='5149' data-variable-name='damage'>5149</span> Damage and Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         }
                     ]
                 },
@@ -2983,50 +2983,50 @@
                         {
                             "level": 1,
                             "talentScore": 45,
-                            "text": "Deal 100 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='100' data-variable-name='damage'>100</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 100 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='100' data-variable-name='damage'>100</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Deal 200 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='200' data-variable-name='damage'>200</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 200 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='200' data-variable-name='damage'>200</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Deal 300 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='300' data-variable-name='damage'>300</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 300 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='300' data-variable-name='damage'>300</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 400 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='400' data-variable-name='damage'>400</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 400 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='400' data-variable-name='damage'>400</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 500 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='500' data-variable-name='damage'>500</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 500 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='500' data-variable-name='damage'>500</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Deal 600 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='600' data-variable-name='damage'>600</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 600 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='600' data-variable-name='damage'>600</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 700 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='700' data-variable-name='damage'>700</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 700 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='700' data-variable-name='damage'>700</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 800 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='800' data-variable-name='damage'>800</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 800 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='800' data-variable-name='damage'>800</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         }
                     ]
                 }
@@ -4234,44 +4234,44 @@
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Deal 2186 Damage and Destroy 1 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='2186' data-variable-name='damage'>2186</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 1254 Damage and Destroy 1 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='1254' data-variable-name='damage'>1254</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Deal 3767 Damage and Destroy 1 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='3767' data-variable-name='damage'>3767</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 1903 Damage and Destroy 1 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='1903' data-variable-name='damage'>1903</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 5348 Damage and Destroy 2 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='5348' data-variable-name='damage'>5348</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 2552 Damage and Destroy 2 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='2552' data-variable-name='damage'>2552</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 6929 Damage and Destroy 2 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='6929' data-variable-name='damage'>6929</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 3201 Damage and Destroy 2 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='3201' data-variable-name='damage'>3201</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Deal 8511 Damage and Destroy 3 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='8511' data-variable-name='damage'>8511</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 3851 Damage and Destroy 3 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='3851' data-variable-name='damage'>3851</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 10092 Damage and Destroy 3 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='10092' data-variable-name='damage'>10092</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 4500 Damage and Destroy 3 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='4500' data-variable-name='damage'>4500</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 11673 Damage and Destroy 4 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='11673' data-variable-name='damage'>11673</span> Damage and Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 5149 Damage and Destroy 4 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='5149' data-variable-name='damage'>5149</span> Damage and Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         }
                     ]
                 },
@@ -4352,50 +4352,50 @@
                         {
                             "level": 1,
                             "talentScore": 45,
-                            "text": "Deal 100 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='100' data-variable-name='damage'>100</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 100 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='100' data-variable-name='damage'>100</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Deal 200 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='200' data-variable-name='damage'>200</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 200 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='200' data-variable-name='damage'>200</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Deal 300 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='300' data-variable-name='damage'>300</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 300 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='300' data-variable-name='damage'>300</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 400 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='400' data-variable-name='damage'>400</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 400 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='400' data-variable-name='damage'>400</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 500 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='500' data-variable-name='damage'>500</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 500 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='500' data-variable-name='damage'>500</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Deal 600 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='600' data-variable-name='damage'>600</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 600 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='600' data-variable-name='damage'>600</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 700 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='700' data-variable-name='damage'>700</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 700 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='700' data-variable-name='damage'>700</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 800 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='800' data-variable-name='damage'>800</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 800 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='800' data-variable-name='damage'>800</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         }
                     ]
                 }
@@ -5603,44 +5603,44 @@
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Deal 2186 Damage and Destroy 1 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='2186' data-variable-name='damage'>2186</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 1254 Damage and Destroy 1 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='1254' data-variable-name='damage'>1254</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Deal 3767 Damage and Destroy 1 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='3767' data-variable-name='damage'>3767</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 1903 Damage and Destroy 1 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='1903' data-variable-name='damage'>1903</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 5348 Damage and Destroy 2 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='5348' data-variable-name='damage'>5348</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 2552 Damage and Destroy 2 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='2552' data-variable-name='damage'>2552</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 6929 Damage and Destroy 2 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='6929' data-variable-name='damage'>6929</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 3201 Damage and Destroy 2 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='3201' data-variable-name='damage'>3201</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Deal 8511 Damage and Destroy 3 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='8511' data-variable-name='damage'>8511</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 3851 Damage and Destroy 3 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='3851' data-variable-name='damage'>3851</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 10092 Damage and Destroy 3 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='10092' data-variable-name='damage'>10092</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 4500 Damage and Destroy 3 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='4500' data-variable-name='damage'>4500</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 11673 Damage and Destroy 4 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='11673' data-variable-name='damage'>11673</span> Damage and Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 5149 Damage and Destroy 4 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='5149' data-variable-name='damage'>5149</span> Damage and Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         }
                     ]
                 },
@@ -5721,50 +5721,50 @@
                         {
                             "level": 1,
                             "talentScore": 45,
-                            "text": "Deal 100 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='100' data-variable-name='damage'>100</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 100 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='100' data-variable-name='damage'>100</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Deal 200 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='200' data-variable-name='damage'>200</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 200 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='200' data-variable-name='damage'>200</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Deal 300 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='300' data-variable-name='damage'>300</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 300 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='300' data-variable-name='damage'>300</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 400 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='400' data-variable-name='damage'>400</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 400 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='400' data-variable-name='damage'>400</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 500 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='500' data-variable-name='damage'>500</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 500 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='500' data-variable-name='damage'>500</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Deal 600 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='600' data-variable-name='damage'>600</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 600 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='600' data-variable-name='damage'>600</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 700 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='700' data-variable-name='damage'>700</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 700 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='700' data-variable-name='damage'>700</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 800 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='800' data-variable-name='damage'>800</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 800 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='800' data-variable-name='damage'>800</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         }
                     ]
                 }
@@ -6935,32 +6935,32 @@
                         {
                             "level": 2,
                             "talentScore": 89,
-                            "text": "Deal 1108 Damage and Destroy 1 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='1108' data-variable-name='damage'>1108</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 722 Damage and Destroy 1 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='722' data-variable-name='damage'>722</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 3,
                             "talentScore": 152,
-                            "text": "Deal 1862 Damage and Destroy 2 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='1862' data-variable-name='damage'>1862</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 1091 Damage and Destroy 2 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='1091' data-variable-name='damage'>1091</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 4,
                             "talentScore": 215,
-                            "text": "Deal 2617 Damage and Destroy 2 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='2617' data-variable-name='damage'>2617</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 1460 Damage and Destroy 2 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='1460' data-variable-name='damage'>1460</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 277,
-                            "text": "Deal 3371 Damage and Destroy 3 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='3371' data-variable-name='damage'>3371</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 1828 Damage and Destroy 3 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='1828' data-variable-name='damage'>1828</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 6,
                             "talentScore": 340,
-                            "text": "Deal 4125 Damage and Destroy 3 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='4125' data-variable-name='damage'>4125</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 2197 Damage and Destroy 3 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='2197' data-variable-name='damage'>2197</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         }
                     ]
                 },
@@ -7808,32 +7808,32 @@
                         {
                             "level": 2,
                             "talentScore": 89,
-                            "text": "Deal 1108 Damage and Destroy 1 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='1108' data-variable-name='damage'>1108</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 722 Damage and Destroy 1 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='722' data-variable-name='damage'>722</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 3,
                             "talentScore": 152,
-                            "text": "Deal 1862 Damage and Destroy 2 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='1862' data-variable-name='damage'>1862</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 1091 Damage and Destroy 2 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='1091' data-variable-name='damage'>1091</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 4,
                             "talentScore": 215,
-                            "text": "Deal 2617 Damage and Destroy 2 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='2617' data-variable-name='damage'>2617</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 1460 Damage and Destroy 2 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='1460' data-variable-name='damage'>1460</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 277,
-                            "text": "Deal 3371 Damage and Destroy 3 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='3371' data-variable-name='damage'>3371</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 1828 Damage and Destroy 3 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='1828' data-variable-name='damage'>1828</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 6,
                             "talentScore": 340,
-                            "text": "Deal 4125 Damage and Destroy 3 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='4125' data-variable-name='damage'>4125</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 2197 Damage and Destroy 3 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='2197' data-variable-name='damage'>2197</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         }
                     ]
                 },
@@ -9367,50 +9367,50 @@
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Deal 2186 Damage and Destroy 1 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='2186' data-variable-name='damage'>2186</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 1254 Damage and Destroy 1 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='1254' data-variable-name='damage'>1254</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Deal 3767 Damage and Destroy 1 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='3767' data-variable-name='damage'>3767</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 1903 Damage and Destroy 1 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='1903' data-variable-name='damage'>1903</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 5348 Damage and Destroy 2 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='5348' data-variable-name='damage'>5348</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 2552 Damage and Destroy 2 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='2552' data-variable-name='damage'>2552</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 6929 Damage and Destroy 2 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='6929' data-variable-name='damage'>6929</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 3201 Damage and Destroy 2 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='3201' data-variable-name='damage'>3201</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Deal 8511 Damage and Destroy 3 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='8511' data-variable-name='damage'>8511</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 3851 Damage and Destroy 3 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='3851' data-variable-name='damage'>3851</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 10092 Damage and Destroy 3 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='10092' data-variable-name='damage'>10092</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 4500 Damage and Destroy 3 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='4500' data-variable-name='damage'>4500</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 11673 Damage and Destroy 4 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='11673' data-variable-name='damage'>11673</span> Damage and Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 5149 Damage and Destroy 4 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='5149' data-variable-name='damage'>5149</span> Damage and Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "Deal 13254 Damage and Destroy 4 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='13254' data-variable-name='damage'>13254</span> Damage and Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 5798 Damage and Destroy 4 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='5798' data-variable-name='damage'>5798</span> Damage and Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         }
                     ]
                 },
@@ -9497,56 +9497,56 @@
                         {
                             "level": 1,
                             "talentScore": 45,
-                            "text": "Deal 100 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='100' data-variable-name='damage'>100</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 100 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='100' data-variable-name='damage'>100</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Deal 200 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='200' data-variable-name='damage'>200</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 200 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='200' data-variable-name='damage'>200</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Deal 300 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='300' data-variable-name='damage'>300</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 300 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='300' data-variable-name='damage'>300</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 400 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='400' data-variable-name='damage'>400</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 400 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='400' data-variable-name='damage'>400</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 500 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='500' data-variable-name='damage'>500</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 500 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='500' data-variable-name='damage'>500</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Deal 600 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='600' data-variable-name='damage'>600</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 600 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='600' data-variable-name='damage'>600</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 700 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='700' data-variable-name='damage'>700</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 700 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='700' data-variable-name='damage'>700</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 800 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='800' data-variable-name='damage'>800</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 800 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='800' data-variable-name='damage'>800</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "Deal 900 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='900' data-variable-name='damage'>900</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 900 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='900' data-variable-name='damage'>900</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         }
                     ]
                 }
@@ -11026,50 +11026,50 @@
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Deal 2186 Damage and Destroy 1 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='2186' data-variable-name='damage'>2186</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 1254 Damage and Destroy 1 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='1254' data-variable-name='damage'>1254</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Deal 3767 Damage and Destroy 1 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='3767' data-variable-name='damage'>3767</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 1903 Damage and Destroy 1 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='1903' data-variable-name='damage'>1903</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 5348 Damage and Destroy 2 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='5348' data-variable-name='damage'>5348</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 2552 Damage and Destroy 2 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='2552' data-variable-name='damage'>2552</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 6929 Damage and Destroy 2 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='6929' data-variable-name='damage'>6929</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 3201 Damage and Destroy 2 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='3201' data-variable-name='damage'>3201</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Deal 8511 Damage and Destroy 3 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='8511' data-variable-name='damage'>8511</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 3851 Damage and Destroy 3 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='3851' data-variable-name='damage'>3851</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 10092 Damage and Destroy 3 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='10092' data-variable-name='damage'>10092</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 4500 Damage and Destroy 3 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='4500' data-variable-name='damage'>4500</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 11673 Damage and Destroy 4 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='11673' data-variable-name='damage'>11673</span> Damage and Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 5149 Damage and Destroy 4 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='5149' data-variable-name='damage'>5149</span> Damage and Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "Deal 13254 Damage and Destroy 4 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='13254' data-variable-name='damage'>13254</span> Damage and Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 5798 Damage and Destroy 4 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='5798' data-variable-name='damage'>5798</span> Damage and Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         }
                     ]
                 },
@@ -11156,56 +11156,56 @@
                         {
                             "level": 1,
                             "talentScore": 45,
-                            "text": "Deal 100 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='100' data-variable-name='damage'>100</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 100 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='100' data-variable-name='damage'>100</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Deal 200 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='200' data-variable-name='damage'>200</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 200 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='200' data-variable-name='damage'>200</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Deal 300 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='300' data-variable-name='damage'>300</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 300 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='300' data-variable-name='damage'>300</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 400 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='400' data-variable-name='damage'>400</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 400 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='400' data-variable-name='damage'>400</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 500 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='500' data-variable-name='damage'>500</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 500 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='500' data-variable-name='damage'>500</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Deal 600 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='600' data-variable-name='damage'>600</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 600 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='600' data-variable-name='damage'>600</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 700 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='700' data-variable-name='damage'>700</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 700 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='700' data-variable-name='damage'>700</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 800 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='800' data-variable-name='damage'>800</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 800 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='800' data-variable-name='damage'>800</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "Deal 900 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='900' data-variable-name='damage'>900</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 900 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='900' data-variable-name='damage'>900</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         }
                     ]
                 }
@@ -12685,50 +12685,50 @@
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Deal 2186 Damage and Destroy 1 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='2186' data-variable-name='damage'>2186</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 1254 Damage and Destroy 1 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='1254' data-variable-name='damage'>1254</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Deal 3767 Damage and Destroy 1 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='3767' data-variable-name='damage'>3767</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 1903 Damage and Destroy 1 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='1903' data-variable-name='damage'>1903</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 5348 Damage and Destroy 2 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='5348' data-variable-name='damage'>5348</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 2552 Damage and Destroy 2 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='2552' data-variable-name='damage'>2552</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 6929 Damage and Destroy 2 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='6929' data-variable-name='damage'>6929</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 3201 Damage and Destroy 2 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='3201' data-variable-name='damage'>3201</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Deal 8511 Damage and Destroy 3 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='8511' data-variable-name='damage'>8511</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 3851 Damage and Destroy 3 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='3851' data-variable-name='damage'>3851</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 10092 Damage and Destroy 3 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='10092' data-variable-name='damage'>10092</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 4500 Damage and Destroy 3 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='4500' data-variable-name='damage'>4500</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 11673 Damage and Destroy 4 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='11673' data-variable-name='damage'>11673</span> Damage and Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 5149 Damage and Destroy 4 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='5149' data-variable-name='damage'>5149</span> Damage and Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "Deal 13254 Damage and Destroy 4 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='13254' data-variable-name='damage'>13254</span> Damage and Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 5798 Damage and Destroy 4 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='5798' data-variable-name='damage'>5798</span> Damage and Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         }
                     ]
                 },
@@ -12815,56 +12815,56 @@
                         {
                             "level": 1,
                             "talentScore": 45,
-                            "text": "Deal 100 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='100' data-variable-name='damage'>100</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 100 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='100' data-variable-name='damage'>100</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Deal 200 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='200' data-variable-name='damage'>200</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 200 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='200' data-variable-name='damage'>200</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Deal 300 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='300' data-variable-name='damage'>300</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 300 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='300' data-variable-name='damage'>300</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 400 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='400' data-variable-name='damage'>400</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 400 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='400' data-variable-name='damage'>400</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 500 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='500' data-variable-name='damage'>500</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 500 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='500' data-variable-name='damage'>500</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Deal 600 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='600' data-variable-name='damage'>600</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 600 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='600' data-variable-name='damage'>600</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 700 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='700' data-variable-name='damage'>700</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 700 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='700' data-variable-name='damage'>700</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 800 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='800' data-variable-name='damage'>800</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 800 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='800' data-variable-name='damage'>800</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "Deal 900 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='900' data-variable-name='damage'>900</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 900 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='900' data-variable-name='damage'>900</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         }
                     ]
                 }
@@ -14325,38 +14325,38 @@
                         {
                             "level": 2,
                             "talentScore": 89,
-                            "text": "Deal 1108 Damage and Destroy 1 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='1108' data-variable-name='damage'>1108</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 722 Damage and Destroy 1 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='722' data-variable-name='damage'>722</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 3,
                             "talentScore": 152,
-                            "text": "Deal 1862 Damage and Destroy 2 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='1862' data-variable-name='damage'>1862</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 1091 Damage and Destroy 2 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='1091' data-variable-name='damage'>1091</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 4,
                             "talentScore": 215,
-                            "text": "Deal 2617 Damage and Destroy 2 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='2617' data-variable-name='damage'>2617</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 1460 Damage and Destroy 2 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='1460' data-variable-name='damage'>1460</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 277,
-                            "text": "Deal 3371 Damage and Destroy 3 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='3371' data-variable-name='damage'>3371</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 1828 Damage and Destroy 3 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='1828' data-variable-name='damage'>1828</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 6,
                             "talentScore": 340,
-                            "text": "Deal 4125 Damage and Destroy 3 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='4125' data-variable-name='damage'>4125</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 2197 Damage and Destroy 3 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='2197' data-variable-name='damage'>2197</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 7,
                             "talentScore": 403,
-                            "text": "Deal 4880 Damage and Destroy 4 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='4880' data-variable-name='damage'>4880</span> Damage and Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 2566 Damage and Destroy 4 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='2566' data-variable-name='damage'>2566</span> Damage and Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         }
                     ]
                 },
@@ -15352,38 +15352,38 @@
                         {
                             "level": 2,
                             "talentScore": 89,
-                            "text": "Deal 1108 Damage and Destroy 1 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='1108' data-variable-name='damage'>1108</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 722 Damage and Destroy 1 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='722' data-variable-name='damage'>722</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 3,
                             "talentScore": 152,
-                            "text": "Deal 1862 Damage and Destroy 2 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='1862' data-variable-name='damage'>1862</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 1091 Damage and Destroy 2 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='1091' data-variable-name='damage'>1091</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 4,
                             "talentScore": 215,
-                            "text": "Deal 2617 Damage and Destroy 2 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='2617' data-variable-name='damage'>2617</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 1460 Damage and Destroy 2 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='1460' data-variable-name='damage'>1460</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 277,
-                            "text": "Deal 3371 Damage and Destroy 3 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='3371' data-variable-name='damage'>3371</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 1828 Damage and Destroy 3 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='1828' data-variable-name='damage'>1828</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 6,
                             "talentScore": 340,
-                            "text": "Deal 4125 Damage and Destroy 3 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='4125' data-variable-name='damage'>4125</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 2197 Damage and Destroy 3 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='2197' data-variable-name='damage'>2197</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 7,
                             "talentScore": 403,
-                            "text": "Deal 4880 Damage and Destroy 4 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='4880' data-variable-name='damage'>4880</span> Damage and Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 2566 Damage and Destroy 4 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='2566' data-variable-name='damage'>2566</span> Damage and Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         }
                     ]
                 },
@@ -17195,56 +17195,56 @@
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Deal 2186 Damage and Destroy 1 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='2186' data-variable-name='damage'>2186</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 1254 Damage and Destroy 1 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='1254' data-variable-name='damage'>1254</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Deal 3767 Damage and Destroy 1 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='3767' data-variable-name='damage'>3767</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 1903 Damage and Destroy 1 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='1903' data-variable-name='damage'>1903</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 5348 Damage and Destroy 2 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='5348' data-variable-name='damage'>5348</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 2552 Damage and Destroy 2 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='2552' data-variable-name='damage'>2552</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 6929 Damage and Destroy 2 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='6929' data-variable-name='damage'>6929</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 3201 Damage and Destroy 2 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='3201' data-variable-name='damage'>3201</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Deal 8511 Damage and Destroy 3 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='8511' data-variable-name='damage'>8511</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 3851 Damage and Destroy 3 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='3851' data-variable-name='damage'>3851</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 10092 Damage and Destroy 3 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='10092' data-variable-name='damage'>10092</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 4500 Damage and Destroy 3 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='4500' data-variable-name='damage'>4500</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 11673 Damage and Destroy 4 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='11673' data-variable-name='damage'>11673</span> Damage and Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 5149 Damage and Destroy 4 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='5149' data-variable-name='damage'>5149</span> Damage and Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "Deal 13254 Damage and Destroy 4 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='13254' data-variable-name='damage'>13254</span> Damage and Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 5798 Damage and Destroy 4 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='5798' data-variable-name='damage'>5798</span> Damage and Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 10,
                             "talentScore": 1456,
-                            "text": "Deal 14836 Damage and Destroy 5 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='14836' data-variable-name='damage'>14836</span> Damage and Destroy <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 6448 Damage and Destroy 5 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='6448' data-variable-name='damage'>6448</span> Damage and Destroy <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         }
                     ]
                 },
@@ -17337,62 +17337,62 @@
                         {
                             "level": 1,
                             "talentScore": 45,
-                            "text": "Deal 100 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='100' data-variable-name='damage'>100</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 100 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='100' data-variable-name='damage'>100</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Deal 200 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='200' data-variable-name='damage'>200</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 200 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='200' data-variable-name='damage'>200</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Deal 300 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='300' data-variable-name='damage'>300</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 300 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='300' data-variable-name='damage'>300</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 400 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='400' data-variable-name='damage'>400</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 400 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='400' data-variable-name='damage'>400</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 500 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='500' data-variable-name='damage'>500</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 500 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='500' data-variable-name='damage'>500</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Deal 600 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='600' data-variable-name='damage'>600</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 600 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='600' data-variable-name='damage'>600</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 700 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='700' data-variable-name='damage'>700</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 700 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='700' data-variable-name='damage'>700</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 800 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='800' data-variable-name='damage'>800</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 800 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='800' data-variable-name='damage'>800</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "Deal 900 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='900' data-variable-name='damage'>900</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 900 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='900' data-variable-name='damage'>900</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 10,
                             "talentScore": 1456,
-                            "text": "Deal 1000 Damage and Steal up to 2 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='1000' data-variable-name='damage'>1000</span> Damage and Steal up to <span data-variable-value='2' data-variable-name='val1'>2</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 1000 Damage and Steal up to 2 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='1000' data-variable-name='damage'>1000</span> Damage and Steal up to <span data-variable-value='2' data-variable-name='val1'>2</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         }
                     ]
                 }
@@ -19144,56 +19144,56 @@
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Deal 2186 Damage and Destroy 1 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='2186' data-variable-name='damage'>2186</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 1254 Damage and Destroy 1 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='1254' data-variable-name='damage'>1254</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Deal 3767 Damage and Destroy 1 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='3767' data-variable-name='damage'>3767</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 1903 Damage and Destroy 1 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='1903' data-variable-name='damage'>1903</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 5348 Damage and Destroy 2 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='5348' data-variable-name='damage'>5348</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 2552 Damage and Destroy 2 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='2552' data-variable-name='damage'>2552</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 6929 Damage and Destroy 2 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='6929' data-variable-name='damage'>6929</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 3201 Damage and Destroy 2 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='3201' data-variable-name='damage'>3201</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Deal 8511 Damage and Destroy 3 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='8511' data-variable-name='damage'>8511</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 3851 Damage and Destroy 3 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='3851' data-variable-name='damage'>3851</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 10092 Damage and Destroy 3 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='10092' data-variable-name='damage'>10092</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 4500 Damage and Destroy 3 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='4500' data-variable-name='damage'>4500</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 11673 Damage and Destroy 4 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='11673' data-variable-name='damage'>11673</span> Damage and Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 5149 Damage and Destroy 4 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='5149' data-variable-name='damage'>5149</span> Damage and Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "Deal 13254 Damage and Destroy 4 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='13254' data-variable-name='damage'>13254</span> Damage and Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 5798 Damage and Destroy 4 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='5798' data-variable-name='damage'>5798</span> Damage and Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 10,
                             "talentScore": 1456,
-                            "text": "Deal 14836 Damage and Destroy 5 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='14836' data-variable-name='damage'>14836</span> Damage and Destroy <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 6448 Damage and Destroy 5 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='6448' data-variable-name='damage'>6448</span> Damage and Destroy <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         }
                     ]
                 },
@@ -19286,62 +19286,62 @@
                         {
                             "level": 1,
                             "talentScore": 45,
-                            "text": "Deal 100 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='100' data-variable-name='damage'>100</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 100 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='100' data-variable-name='damage'>100</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Deal 200 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='200' data-variable-name='damage'>200</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 200 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='200' data-variable-name='damage'>200</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Deal 300 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='300' data-variable-name='damage'>300</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 300 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='300' data-variable-name='damage'>300</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 400 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='400' data-variable-name='damage'>400</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 400 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='400' data-variable-name='damage'>400</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 500 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='500' data-variable-name='damage'>500</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 500 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='500' data-variable-name='damage'>500</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Deal 600 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='600' data-variable-name='damage'>600</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 600 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='600' data-variable-name='damage'>600</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 700 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='700' data-variable-name='damage'>700</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 700 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='700' data-variable-name='damage'>700</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 800 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='800' data-variable-name='damage'>800</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 800 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='800' data-variable-name='damage'>800</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "Deal 900 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='900' data-variable-name='damage'>900</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 900 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='900' data-variable-name='damage'>900</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 10,
                             "talentScore": 1456,
-                            "text": "Deal 1000 Damage and Steal up to 2 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='1000' data-variable-name='damage'>1000</span> Damage and Steal up to <span data-variable-value='2' data-variable-name='val1'>2</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 1000 Damage and Steal up to 2 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='1000' data-variable-name='damage'>1000</span> Damage and Steal up to <span data-variable-value='2' data-variable-name='val1'>2</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         }
                     ]
                 }
@@ -21093,56 +21093,56 @@
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Deal 2186 Damage and Destroy 1 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='2186' data-variable-name='damage'>2186</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 1254 Damage and Destroy 1 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='1254' data-variable-name='damage'>1254</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Deal 3767 Damage and Destroy 1 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='3767' data-variable-name='damage'>3767</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 1903 Damage and Destroy 1 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='1903' data-variable-name='damage'>1903</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 5348 Damage and Destroy 2 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='5348' data-variable-name='damage'>5348</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 2552 Damage and Destroy 2 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='2552' data-variable-name='damage'>2552</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 6929 Damage and Destroy 2 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='6929' data-variable-name='damage'>6929</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 3201 Damage and Destroy 2 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='3201' data-variable-name='damage'>3201</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Deal 8511 Damage and Destroy 3 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='8511' data-variable-name='damage'>8511</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 3851 Damage and Destroy 3 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='3851' data-variable-name='damage'>3851</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 10092 Damage and Destroy 3 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='10092' data-variable-name='damage'>10092</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 4500 Damage and Destroy 3 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='4500' data-variable-name='damage'>4500</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 11673 Damage and Destroy 4 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='11673' data-variable-name='damage'>11673</span> Damage and Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 5149 Damage and Destroy 4 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='5149' data-variable-name='damage'>5149</span> Damage and Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "Deal 13254 Damage and Destroy 4 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='13254' data-variable-name='damage'>13254</span> Damage and Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 5798 Damage and Destroy 4 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='5798' data-variable-name='damage'>5798</span> Damage and Destroy <span data-variable-value='4' data-variable-name='val1'>4</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         },
                         {
                             "level": 10,
                             "talentScore": 1456,
-                            "text": "Deal 14836 Damage and Destroy 5 Random Cross Break Gem(s).",
-                            "html": "Deal <span data-variable-value='14836' data-variable-name='damage'>14836</span> Damage and Destroy <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
+                            "text": "Deal 6448 Damage and Destroy 5 Random Cross Break Gem(s).",
+                            "html": "Deal <span data-variable-value='6448' data-variable-name='damage'>6448</span> Damage and Destroy <span data-variable-value='5' data-variable-name='val1'>5</span> Random <span data-variable-value='Directional_Cross' data-variable-name='min2'>Cross Break</span> Gem(s)."
                         }
                     ]
                 },
@@ -21235,62 +21235,62 @@
                         {
                             "level": 1,
                             "talentScore": 45,
-                            "text": "Deal 100 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='100' data-variable-name='damage'>100</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 100 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='100' data-variable-name='damage'>100</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Deal 200 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='200' data-variable-name='damage'>200</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 200 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='200' data-variable-name='damage'>200</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Deal 300 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='300' data-variable-name='damage'>300</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 300 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='300' data-variable-name='damage'>300</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 400 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='400' data-variable-name='damage'>400</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 400 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='400' data-variable-name='damage'>400</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 500 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='500' data-variable-name='damage'>500</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 500 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='500' data-variable-name='damage'>500</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Deal 600 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='600' data-variable-name='damage'>600</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 600 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='600' data-variable-name='damage'>600</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 700 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='700' data-variable-name='damage'>700</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 700 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='700' data-variable-name='damage'>700</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 800 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='800' data-variable-name='damage'>800</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 800 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='800' data-variable-name='damage'>800</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "Deal 900 Damage and Steal up to 1 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='900' data-variable-name='damage'>900</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 900 Damage and Steal up to 1 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='900' data-variable-name='damage'>900</span> Damage and Steal up to <span data-variable-value='1' data-variable-name='val1'>1</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         },
                         {
                             "level": 10,
                             "talentScore": 1456,
-                            "text": "Deal 1000 Damage and Steal up to 2 Blue MP from your opponent!",
-                            "html": "Deal <span data-variable-value='1000' data-variable-name='damage'>1000</span> Damage and Steal up to <span data-variable-value='2' data-variable-name='val1'>2</span> <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> MP from your opponent!"
+                            "text": "Deal 1000 Damage and Steal up to 2 MP from each of your opponent's Blue Moves!",
+                            "html": "Deal <span data-variable-value='1000' data-variable-name='damage'>1000</span> Damage and Steal up to <span data-variable-value='2' data-variable-name='val1'>2</span> MP from each of your opponent's <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Moves!"
                         }
                     ]
                 }

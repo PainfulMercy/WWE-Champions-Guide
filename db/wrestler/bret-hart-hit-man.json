@@ -2980,50 +2980,50 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 660 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='660' data-variable-name='damage'>660</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 660 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='660' data-variable-name='damage'>660</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 2088 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='2088' data-variable-name='damage'>2088</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 2088 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='2088' data-variable-name='damage'>2088</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 3516 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='3516' data-variable-name='damage'>3516</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 3516 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='3516' data-variable-name='damage'>3516</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 4944 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='4944' data-variable-name='damage'>4944</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 4944 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='4944' data-variable-name='damage'>4944</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 6372 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='6372' data-variable-name='damage'>6372</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 6372 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='6372' data-variable-name='damage'>6372</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 7800 Damage and Steal up to 4 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='7800' data-variable-name='damage'>7800</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 7800 Damage and Steal up to 4 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='7800' data-variable-name='damage'>7800</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 9228 Damage and Steal up to 4 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='9228' data-variable-name='damage'>9228</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 9228 Damage and Steal up to 4 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='9228' data-variable-name='damage'>9228</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 10656 Damage and Steal up to 4 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='10656' data-variable-name='damage'>10656</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 10656 Damage and Steal up to 4 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='10656' data-variable-name='damage'>10656</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         }
                     ]
                 }
@@ -4348,50 +4348,50 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 660 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='660' data-variable-name='damage'>660</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 660 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='660' data-variable-name='damage'>660</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 2088 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='2088' data-variable-name='damage'>2088</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 2088 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='2088' data-variable-name='damage'>2088</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 3516 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='3516' data-variable-name='damage'>3516</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 3516 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='3516' data-variable-name='damage'>3516</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 4944 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='4944' data-variable-name='damage'>4944</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 4944 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='4944' data-variable-name='damage'>4944</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 6372 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='6372' data-variable-name='damage'>6372</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 6372 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='6372' data-variable-name='damage'>6372</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 7800 Damage and Steal up to 4 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='7800' data-variable-name='damage'>7800</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 7800 Damage and Steal up to 4 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='7800' data-variable-name='damage'>7800</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 9228 Damage and Steal up to 4 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='9228' data-variable-name='damage'>9228</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 9228 Damage and Steal up to 4 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='9228' data-variable-name='damage'>9228</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 10656 Damage and Steal up to 4 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='10656' data-variable-name='damage'>10656</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 10656 Damage and Steal up to 4 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='10656' data-variable-name='damage'>10656</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         }
                     ]
                 }
@@ -5716,50 +5716,50 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 660 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='660' data-variable-name='damage'>660</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 660 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='660' data-variable-name='damage'>660</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 2088 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='2088' data-variable-name='damage'>2088</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 2088 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='2088' data-variable-name='damage'>2088</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 3516 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='3516' data-variable-name='damage'>3516</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 3516 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='3516' data-variable-name='damage'>3516</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 4944 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='4944' data-variable-name='damage'>4944</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 4944 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='4944' data-variable-name='damage'>4944</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 6372 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='6372' data-variable-name='damage'>6372</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 6372 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='6372' data-variable-name='damage'>6372</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 7800 Damage and Steal up to 4 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='7800' data-variable-name='damage'>7800</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 7800 Damage and Steal up to 4 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='7800' data-variable-name='damage'>7800</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 9228 Damage and Steal up to 4 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='9228' data-variable-name='damage'>9228</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 9228 Damage and Steal up to 4 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='9228' data-variable-name='damage'>9228</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 10656 Damage and Steal up to 4 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='10656' data-variable-name='damage'>10656</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 10656 Damage and Steal up to 4 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='10656' data-variable-name='damage'>10656</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         }
                     ]
                 }
@@ -9489,56 +9489,56 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 660 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='660' data-variable-name='damage'>660</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 660 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='660' data-variable-name='damage'>660</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 2088 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='2088' data-variable-name='damage'>2088</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 2088 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='2088' data-variable-name='damage'>2088</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 3516 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='3516' data-variable-name='damage'>3516</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 3516 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='3516' data-variable-name='damage'>3516</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 4944 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='4944' data-variable-name='damage'>4944</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 4944 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='4944' data-variable-name='damage'>4944</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 6372 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='6372' data-variable-name='damage'>6372</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 6372 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='6372' data-variable-name='damage'>6372</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 7800 Damage and Steal up to 4 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='7800' data-variable-name='damage'>7800</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 7800 Damage and Steal up to 4 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='7800' data-variable-name='damage'>7800</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 9228 Damage and Steal up to 4 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='9228' data-variable-name='damage'>9228</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 9228 Damage and Steal up to 4 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='9228' data-variable-name='damage'>9228</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 10656 Damage and Steal up to 4 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='10656' data-variable-name='damage'>10656</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 10656 Damage and Steal up to 4 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='10656' data-variable-name='damage'>10656</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 12084 Damage and Steal up to 4 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='12084' data-variable-name='damage'>12084</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 12084 Damage and Steal up to 4 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='12084' data-variable-name='damage'>12084</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         }
                     ]
                 }
@@ -11147,56 +11147,56 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 660 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='660' data-variable-name='damage'>660</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 660 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='660' data-variable-name='damage'>660</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 2088 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='2088' data-variable-name='damage'>2088</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 2088 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='2088' data-variable-name='damage'>2088</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 3516 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='3516' data-variable-name='damage'>3516</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 3516 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='3516' data-variable-name='damage'>3516</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 4944 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='4944' data-variable-name='damage'>4944</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 4944 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='4944' data-variable-name='damage'>4944</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 6372 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='6372' data-variable-name='damage'>6372</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 6372 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='6372' data-variable-name='damage'>6372</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 7800 Damage and Steal up to 4 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='7800' data-variable-name='damage'>7800</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 7800 Damage and Steal up to 4 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='7800' data-variable-name='damage'>7800</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 9228 Damage and Steal up to 4 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='9228' data-variable-name='damage'>9228</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 9228 Damage and Steal up to 4 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='9228' data-variable-name='damage'>9228</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 10656 Damage and Steal up to 4 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='10656' data-variable-name='damage'>10656</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 10656 Damage and Steal up to 4 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='10656' data-variable-name='damage'>10656</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 12084 Damage and Steal up to 4 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='12084' data-variable-name='damage'>12084</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 12084 Damage and Steal up to 4 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='12084' data-variable-name='damage'>12084</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         }
                     ]
                 }
@@ -12805,56 +12805,56 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 660 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='660' data-variable-name='damage'>660</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 660 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='660' data-variable-name='damage'>660</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 2088 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='2088' data-variable-name='damage'>2088</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 2088 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='2088' data-variable-name='damage'>2088</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 3516 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='3516' data-variable-name='damage'>3516</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 3516 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='3516' data-variable-name='damage'>3516</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 4944 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='4944' data-variable-name='damage'>4944</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 4944 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='4944' data-variable-name='damage'>4944</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 6372 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='6372' data-variable-name='damage'>6372</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 6372 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='6372' data-variable-name='damage'>6372</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 7800 Damage and Steal up to 4 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='7800' data-variable-name='damage'>7800</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 7800 Damage and Steal up to 4 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='7800' data-variable-name='damage'>7800</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 9228 Damage and Steal up to 4 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='9228' data-variable-name='damage'>9228</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 9228 Damage and Steal up to 4 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='9228' data-variable-name='damage'>9228</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 10656 Damage and Steal up to 4 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='10656' data-variable-name='damage'>10656</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 10656 Damage and Steal up to 4 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='10656' data-variable-name='damage'>10656</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 12084 Damage and Steal up to 4 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='12084' data-variable-name='damage'>12084</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 12084 Damage and Steal up to 4 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='12084' data-variable-name='damage'>12084</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         }
                     ]
                 }
@@ -17324,62 +17324,62 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 660 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='660' data-variable-name='damage'>660</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 660 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='660' data-variable-name='damage'>660</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 2088 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='2088' data-variable-name='damage'>2088</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 2088 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='2088' data-variable-name='damage'>2088</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 3516 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='3516' data-variable-name='damage'>3516</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 3516 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='3516' data-variable-name='damage'>3516</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 4944 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='4944' data-variable-name='damage'>4944</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 4944 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='4944' data-variable-name='damage'>4944</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 6372 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='6372' data-variable-name='damage'>6372</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 6372 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='6372' data-variable-name='damage'>6372</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 7800 Damage and Steal up to 4 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='7800' data-variable-name='damage'>7800</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 7800 Damage and Steal up to 4 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='7800' data-variable-name='damage'>7800</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 9228 Damage and Steal up to 4 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='9228' data-variable-name='damage'>9228</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 9228 Damage and Steal up to 4 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='9228' data-variable-name='damage'>9228</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 10656 Damage and Steal up to 4 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='10656' data-variable-name='damage'>10656</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 10656 Damage and Steal up to 4 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='10656' data-variable-name='damage'>10656</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 12084 Damage and Steal up to 4 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='12084' data-variable-name='damage'>12084</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 12084 Damage and Steal up to 4 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='12084' data-variable-name='damage'>12084</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 10,
                             "talentScore": 1586,
-                            "text": "Deal 13512 Damage and Steal up to 5 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='13512' data-variable-name='damage'>13512</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 13512 Damage and Steal up to 5 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='13512' data-variable-name='damage'>13512</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         }
                     ]
                 }
@@ -19272,62 +19272,62 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 660 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='660' data-variable-name='damage'>660</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 660 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='660' data-variable-name='damage'>660</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 2088 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='2088' data-variable-name='damage'>2088</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 2088 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='2088' data-variable-name='damage'>2088</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 3516 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='3516' data-variable-name='damage'>3516</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 3516 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='3516' data-variable-name='damage'>3516</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 4944 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='4944' data-variable-name='damage'>4944</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 4944 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='4944' data-variable-name='damage'>4944</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 6372 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='6372' data-variable-name='damage'>6372</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 6372 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='6372' data-variable-name='damage'>6372</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 7800 Damage and Steal up to 4 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='7800' data-variable-name='damage'>7800</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 7800 Damage and Steal up to 4 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='7800' data-variable-name='damage'>7800</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 9228 Damage and Steal up to 4 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='9228' data-variable-name='damage'>9228</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 9228 Damage and Steal up to 4 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='9228' data-variable-name='damage'>9228</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 10656 Damage and Steal up to 4 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='10656' data-variable-name='damage'>10656</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 10656 Damage and Steal up to 4 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='10656' data-variable-name='damage'>10656</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 12084 Damage and Steal up to 4 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='12084' data-variable-name='damage'>12084</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 12084 Damage and Steal up to 4 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='12084' data-variable-name='damage'>12084</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 10,
                             "talentScore": 1586,
-                            "text": "Deal 13512 Damage and Steal up to 5 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='13512' data-variable-name='damage'>13512</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 13512 Damage and Steal up to 5 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='13512' data-variable-name='damage'>13512</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         }
                     ]
                 }
@@ -21220,62 +21220,62 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 660 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='660' data-variable-name='damage'>660</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 660 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='660' data-variable-name='damage'>660</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 2088 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='2088' data-variable-name='damage'>2088</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 2088 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='2088' data-variable-name='damage'>2088</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 3516 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='3516' data-variable-name='damage'>3516</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 3516 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='3516' data-variable-name='damage'>3516</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 4944 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='4944' data-variable-name='damage'>4944</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 4944 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='4944' data-variable-name='damage'>4944</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 6372 Damage and Steal up to 3 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='6372' data-variable-name='damage'>6372</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 6372 Damage and Steal up to 3 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='6372' data-variable-name='damage'>6372</span> Damage and Steal up to <span data-variable-value='3' data-variable-name='val1'>3</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 7800 Damage and Steal up to 4 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='7800' data-variable-name='damage'>7800</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 7800 Damage and Steal up to 4 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='7800' data-variable-name='damage'>7800</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 9228 Damage and Steal up to 4 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='9228' data-variable-name='damage'>9228</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 9228 Damage and Steal up to 4 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='9228' data-variable-name='damage'>9228</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 10656 Damage and Steal up to 4 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='10656' data-variable-name='damage'>10656</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 10656 Damage and Steal up to 4 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='10656' data-variable-name='damage'>10656</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 12084 Damage and Steal up to 4 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='12084' data-variable-name='damage'>12084</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 12084 Damage and Steal up to 4 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='12084' data-variable-name='damage'>12084</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         },
                         {
                             "level": 10,
                             "talentScore": 1586,
-                            "text": "Deal 13512 Damage and Steal up to 5 Purple MP from your opponent!",
-                            "html": "Deal <span data-variable-value='13512' data-variable-name='damage'>13512</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> MP from your opponent!"
+                            "text": "Deal 13512 Damage and Steal up to 5 MP from each of your opponent's Purple Moves!",
+                            "html": "Deal <span data-variable-value='13512' data-variable-name='damage'>13512</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> MP from each of your opponent's <span data-variable-value='Purple' data-variable-name='min2'>Purple</span> Moves!"
                         }
                     ]
                 }

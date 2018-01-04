@@ -2891,50 +2891,50 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 568 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='568' data-variable-name='damage'>568</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 568 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='568' data-variable-name='damage'>568</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1805 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='1805' data-variable-name='damage'>1805</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 1805 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='1805' data-variable-name='damage'>1805</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 3043 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='3043' data-variable-name='damage'>3043</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 3043 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='3043' data-variable-name='damage'>3043</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 4281 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='4281' data-variable-name='damage'>4281</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 4281 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='4281' data-variable-name='damage'>4281</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 5518 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='5518' data-variable-name='damage'>5518</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 5518 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='5518' data-variable-name='damage'>5518</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 6756 Damage and Steal up to 5 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='6756' data-variable-name='damage'>6756</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 6756 Damage and Steal up to 5 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='6756' data-variable-name='damage'>6756</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 7994 Damage and Steal up to 5 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='7994' data-variable-name='damage'>7994</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 7994 Damage and Steal up to 5 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='7994' data-variable-name='damage'>7994</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 9231 Damage and Steal up to 5 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='9231' data-variable-name='damage'>9231</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 9231 Damage and Steal up to 5 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='9231' data-variable-name='damage'>9231</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         }
                     ]
                 }
@@ -4235,50 +4235,50 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 568 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='568' data-variable-name='damage'>568</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 568 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='568' data-variable-name='damage'>568</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1805 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='1805' data-variable-name='damage'>1805</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 1805 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='1805' data-variable-name='damage'>1805</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 3043 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='3043' data-variable-name='damage'>3043</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 3043 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='3043' data-variable-name='damage'>3043</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 4281 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='4281' data-variable-name='damage'>4281</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 4281 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='4281' data-variable-name='damage'>4281</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 5518 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='5518' data-variable-name='damage'>5518</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 5518 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='5518' data-variable-name='damage'>5518</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 6756 Damage and Steal up to 5 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='6756' data-variable-name='damage'>6756</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 6756 Damage and Steal up to 5 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='6756' data-variable-name='damage'>6756</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 7994 Damage and Steal up to 5 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='7994' data-variable-name='damage'>7994</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 7994 Damage and Steal up to 5 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='7994' data-variable-name='damage'>7994</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 9231 Damage and Steal up to 5 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='9231' data-variable-name='damage'>9231</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 9231 Damage and Steal up to 5 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='9231' data-variable-name='damage'>9231</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         }
                     ]
                 }
@@ -5579,50 +5579,50 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 568 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='568' data-variable-name='damage'>568</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 568 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='568' data-variable-name='damage'>568</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1805 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='1805' data-variable-name='damage'>1805</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 1805 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='1805' data-variable-name='damage'>1805</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 3043 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='3043' data-variable-name='damage'>3043</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 3043 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='3043' data-variable-name='damage'>3043</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 4281 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='4281' data-variable-name='damage'>4281</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 4281 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='4281' data-variable-name='damage'>4281</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 5518 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='5518' data-variable-name='damage'>5518</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 5518 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='5518' data-variable-name='damage'>5518</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 6756 Damage and Steal up to 5 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='6756' data-variable-name='damage'>6756</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 6756 Damage and Steal up to 5 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='6756' data-variable-name='damage'>6756</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 7994 Damage and Steal up to 5 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='7994' data-variable-name='damage'>7994</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 7994 Damage and Steal up to 5 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='7994' data-variable-name='damage'>7994</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 9231 Damage and Steal up to 5 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='9231' data-variable-name='damage'>9231</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 9231 Damage and Steal up to 5 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='9231' data-variable-name='damage'>9231</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         }
                     ]
                 }
@@ -9263,56 +9263,56 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 568 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='568' data-variable-name='damage'>568</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 568 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='568' data-variable-name='damage'>568</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1805 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='1805' data-variable-name='damage'>1805</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 1805 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='1805' data-variable-name='damage'>1805</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 3043 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='3043' data-variable-name='damage'>3043</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 3043 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='3043' data-variable-name='damage'>3043</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 4281 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='4281' data-variable-name='damage'>4281</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 4281 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='4281' data-variable-name='damage'>4281</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 5518 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='5518' data-variable-name='damage'>5518</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 5518 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='5518' data-variable-name='damage'>5518</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 6756 Damage and Steal up to 5 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='6756' data-variable-name='damage'>6756</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 6756 Damage and Steal up to 5 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='6756' data-variable-name='damage'>6756</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 7994 Damage and Steal up to 5 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='7994' data-variable-name='damage'>7994</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 7994 Damage and Steal up to 5 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='7994' data-variable-name='damage'>7994</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 9231 Damage and Steal up to 5 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='9231' data-variable-name='damage'>9231</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 9231 Damage and Steal up to 5 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='9231' data-variable-name='damage'>9231</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 10469 Damage and Steal up to 5 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='10469' data-variable-name='damage'>10469</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 10469 Damage and Steal up to 5 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='10469' data-variable-name='damage'>10469</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         }
                     ]
                 }
@@ -10897,56 +10897,56 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 568 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='568' data-variable-name='damage'>568</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 568 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='568' data-variable-name='damage'>568</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1805 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='1805' data-variable-name='damage'>1805</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 1805 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='1805' data-variable-name='damage'>1805</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 3043 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='3043' data-variable-name='damage'>3043</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 3043 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='3043' data-variable-name='damage'>3043</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 4281 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='4281' data-variable-name='damage'>4281</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 4281 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='4281' data-variable-name='damage'>4281</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 5518 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='5518' data-variable-name='damage'>5518</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 5518 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='5518' data-variable-name='damage'>5518</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 6756 Damage and Steal up to 5 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='6756' data-variable-name='damage'>6756</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 6756 Damage and Steal up to 5 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='6756' data-variable-name='damage'>6756</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 7994 Damage and Steal up to 5 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='7994' data-variable-name='damage'>7994</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 7994 Damage and Steal up to 5 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='7994' data-variable-name='damage'>7994</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 9231 Damage and Steal up to 5 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='9231' data-variable-name='damage'>9231</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 9231 Damage and Steal up to 5 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='9231' data-variable-name='damage'>9231</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 10469 Damage and Steal up to 5 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='10469' data-variable-name='damage'>10469</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 10469 Damage and Steal up to 5 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='10469' data-variable-name='damage'>10469</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         }
                     ]
                 }
@@ -12531,56 +12531,56 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 568 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='568' data-variable-name='damage'>568</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 568 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='568' data-variable-name='damage'>568</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1805 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='1805' data-variable-name='damage'>1805</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 1805 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='1805' data-variable-name='damage'>1805</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 3043 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='3043' data-variable-name='damage'>3043</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 3043 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='3043' data-variable-name='damage'>3043</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 4281 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='4281' data-variable-name='damage'>4281</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 4281 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='4281' data-variable-name='damage'>4281</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 5518 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='5518' data-variable-name='damage'>5518</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 5518 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='5518' data-variable-name='damage'>5518</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 6756 Damage and Steal up to 5 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='6756' data-variable-name='damage'>6756</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 6756 Damage and Steal up to 5 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='6756' data-variable-name='damage'>6756</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 7994 Damage and Steal up to 5 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='7994' data-variable-name='damage'>7994</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 7994 Damage and Steal up to 5 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='7994' data-variable-name='damage'>7994</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 9231 Damage and Steal up to 5 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='9231' data-variable-name='damage'>9231</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 9231 Damage and Steal up to 5 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='9231' data-variable-name='damage'>9231</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 10469 Damage and Steal up to 5 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='10469' data-variable-name='damage'>10469</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 10469 Damage and Steal up to 5 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='10469' data-variable-name='damage'>10469</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         }
                     ]
                 }
@@ -16961,62 +16961,62 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 568 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='568' data-variable-name='damage'>568</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 568 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='568' data-variable-name='damage'>568</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1805 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='1805' data-variable-name='damage'>1805</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 1805 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='1805' data-variable-name='damage'>1805</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 3043 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='3043' data-variable-name='damage'>3043</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 3043 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='3043' data-variable-name='damage'>3043</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 4281 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='4281' data-variable-name='damage'>4281</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 4281 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='4281' data-variable-name='damage'>4281</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 5518 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='5518' data-variable-name='damage'>5518</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 5518 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='5518' data-variable-name='damage'>5518</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 6756 Damage and Steal up to 5 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='6756' data-variable-name='damage'>6756</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 6756 Damage and Steal up to 5 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='6756' data-variable-name='damage'>6756</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 7994 Damage and Steal up to 5 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='7994' data-variable-name='damage'>7994</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 7994 Damage and Steal up to 5 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='7994' data-variable-name='damage'>7994</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 9231 Damage and Steal up to 5 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='9231' data-variable-name='damage'>9231</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 9231 Damage and Steal up to 5 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='9231' data-variable-name='damage'>9231</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 10469 Damage and Steal up to 5 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='10469' data-variable-name='damage'>10469</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 10469 Damage and Steal up to 5 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='10469' data-variable-name='damage'>10469</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 10,
                             "talentScore": 1586,
-                            "text": "Deal 11707 Damage and Steal up to 6 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='11707' data-variable-name='damage'>11707</span> Damage and Steal up to <span data-variable-value='6' data-variable-name='val1'>6</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 11707 Damage and Steal up to 6 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='11707' data-variable-name='damage'>11707</span> Damage and Steal up to <span data-variable-value='6' data-variable-name='val1'>6</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         }
                     ]
                 }
@@ -18885,62 +18885,62 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 568 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='568' data-variable-name='damage'>568</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 568 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='568' data-variable-name='damage'>568</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1805 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='1805' data-variable-name='damage'>1805</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 1805 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='1805' data-variable-name='damage'>1805</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 3043 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='3043' data-variable-name='damage'>3043</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 3043 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='3043' data-variable-name='damage'>3043</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 4281 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='4281' data-variable-name='damage'>4281</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 4281 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='4281' data-variable-name='damage'>4281</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 5518 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='5518' data-variable-name='damage'>5518</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 5518 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='5518' data-variable-name='damage'>5518</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 6756 Damage and Steal up to 5 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='6756' data-variable-name='damage'>6756</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 6756 Damage and Steal up to 5 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='6756' data-variable-name='damage'>6756</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 7994 Damage and Steal up to 5 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='7994' data-variable-name='damage'>7994</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 7994 Damage and Steal up to 5 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='7994' data-variable-name='damage'>7994</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 9231 Damage and Steal up to 5 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='9231' data-variable-name='damage'>9231</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 9231 Damage and Steal up to 5 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='9231' data-variable-name='damage'>9231</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 10469 Damage and Steal up to 5 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='10469' data-variable-name='damage'>10469</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 10469 Damage and Steal up to 5 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='10469' data-variable-name='damage'>10469</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 10,
                             "talentScore": 1586,
-                            "text": "Deal 11707 Damage and Steal up to 6 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='11707' data-variable-name='damage'>11707</span> Damage and Steal up to <span data-variable-value='6' data-variable-name='val1'>6</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 11707 Damage and Steal up to 6 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='11707' data-variable-name='damage'>11707</span> Damage and Steal up to <span data-variable-value='6' data-variable-name='val1'>6</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         }
                     ]
                 }
@@ -20809,62 +20809,62 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 568 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='568' data-variable-name='damage'>568</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 568 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='568' data-variable-name='damage'>568</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1805 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='1805' data-variable-name='damage'>1805</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 1805 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='1805' data-variable-name='damage'>1805</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 3043 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='3043' data-variable-name='damage'>3043</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 3043 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='3043' data-variable-name='damage'>3043</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 4281 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='4281' data-variable-name='damage'>4281</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 4281 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='4281' data-variable-name='damage'>4281</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 5518 Damage and Steal up to 4 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='5518' data-variable-name='damage'>5518</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 5518 Damage and Steal up to 4 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='5518' data-variable-name='damage'>5518</span> Damage and Steal up to <span data-variable-value='4' data-variable-name='val1'>4</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 6756 Damage and Steal up to 5 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='6756' data-variable-name='damage'>6756</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 6756 Damage and Steal up to 5 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='6756' data-variable-name='damage'>6756</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 7994 Damage and Steal up to 5 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='7994' data-variable-name='damage'>7994</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 7994 Damage and Steal up to 5 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='7994' data-variable-name='damage'>7994</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 9231 Damage and Steal up to 5 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='9231' data-variable-name='damage'>9231</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 9231 Damage and Steal up to 5 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='9231' data-variable-name='damage'>9231</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 10469 Damage and Steal up to 5 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='10469' data-variable-name='damage'>10469</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 10469 Damage and Steal up to 5 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='10469' data-variable-name='damage'>10469</span> Damage and Steal up to <span data-variable-value='5' data-variable-name='val1'>5</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         },
                         {
                             "level": 10,
                             "talentScore": 1586,
-                            "text": "Deal 11707 Damage and Steal up to 6 Yellow MP from your opponent!",
-                            "html": "Deal <span data-variable-value='11707' data-variable-name='damage'>11707</span> Damage and Steal up to <span data-variable-value='6' data-variable-name='val1'>6</span> <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> MP from your opponent!"
+                            "text": "Deal 11707 Damage and Steal up to 6 MP from each of your opponent's Yellow Moves!",
+                            "html": "Deal <span data-variable-value='11707' data-variable-name='damage'>11707</span> Damage and Steal up to <span data-variable-value='6' data-variable-name='val1'>6</span> MP from each of your opponent's <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Moves!"
                         }
                     ]
                 }
