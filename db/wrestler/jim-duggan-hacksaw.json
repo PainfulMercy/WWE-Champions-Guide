@@ -827,8 +827,8 @@
                         {
                             "level": 3,
                             "talentScore": 152,
-                            "text": "Deal 1701 Damage and Make 2 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='1701' data-variable-name='damage'>1701</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 1701 Damage and Make 1 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='1701' data-variable-name='damage'>1701</span> Damage and Make <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 4,
@@ -839,8 +839,8 @@
                         {
                             "level": 5,
                             "talentScore": 277,
-                            "text": "Deal 3050 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='3050' data-variable-name='damage'>3050</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 3050 Damage and Make 2 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='3050' data-variable-name='damage'>3050</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         }
                     ]
                 },
@@ -895,7 +895,7 @@
                 {
                     "ID": "ABL_HacksawJimDuggan_2Star_04",
                     "levelCap": 5,
-                    "cost": 8,
+                    "cost": 14,
                     "gemType": "Yellow",
                     "name": "2x4 Hit",
                     "move": {
@@ -928,14 +928,14 @@
                         {
                             "level": 4,
                             "talentScore": 215,
-                            "text": "Deal 523 Damage and Choose 1 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='523' data-variable-name='damage'>523</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
+                            "text": "Deal 523 Damage and Choose 2 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='523' data-variable-name='damage'>523</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
                         },
                         {
                             "level": 5,
                             "talentScore": 277,
-                            "text": "Deal 678 Damage and Choose 1 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='678' data-variable-name='damage'>678</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
+                            "text": "Deal 678 Damage and Choose 2 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='678' data-variable-name='damage'>678</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
                         }
                     ]
                 }
@@ -1544,8 +1544,8 @@
                         {
                             "level": 3,
                             "talentScore": 152,
-                            "text": "Deal 1701 Damage and Make 2 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='1701' data-variable-name='damage'>1701</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 1701 Damage and Make 1 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='1701' data-variable-name='damage'>1701</span> Damage and Make <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 4,
@@ -1556,8 +1556,8 @@
                         {
                             "level": 5,
                             "talentScore": 277,
-                            "text": "Deal 3050 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='3050' data-variable-name='damage'>3050</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 3050 Damage and Make 2 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='3050' data-variable-name='damage'>3050</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         }
                     ]
                 },
@@ -1612,7 +1612,7 @@
                 {
                     "ID": "ABL_HacksawJimDuggan_2Star_04",
                     "levelCap": 5,
-                    "cost": 8,
+                    "cost": 14,
                     "gemType": "Yellow",
                     "name": "2x4 Hit",
                     "move": {
@@ -1645,14 +1645,14 @@
                         {
                             "level": 4,
                             "talentScore": 215,
-                            "text": "Deal 523 Damage and Choose 1 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='523' data-variable-name='damage'>523</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
+                            "text": "Deal 523 Damage and Choose 2 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='523' data-variable-name='damage'>523</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
                         },
                         {
                             "level": 5,
                             "talentScore": 277,
-                            "text": "Deal 678 Damage and Choose 1 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='678' data-variable-name='damage'>678</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
+                            "text": "Deal 678 Damage and Choose 2 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='678' data-variable-name='damage'>678</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
                         }
                     ]
                 }
@@ -2728,44 +2728,44 @@
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "FINISHER! Deal 2312 plus 641 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='2312' data-variable-name='damage'>2312</span> plus <span data-variable-value='641' data-variable-name='val1'>641</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 2312 plus 866 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='2312' data-variable-name='damage'>2312</span> plus <span data-variable-value='866' data-variable-name='val1'>866</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "FINISHER! Deal 3815 plus 735 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3815' data-variable-name='damage'>3815</span> plus <span data-variable-value='735' data-variable-name='val1'>735</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 3815 plus 1185 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='3815' data-variable-name='damage'>3815</span> plus <span data-variable-value='1185' data-variable-name='val1'>1185</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "FINISHER! Deal 5319 plus 830 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='5319' data-variable-name='damage'>5319</span> plus <span data-variable-value='830' data-variable-name='val1'>830</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 5319 plus 1505 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='5319' data-variable-name='damage'>5319</span> plus <span data-variable-value='1505' data-variable-name='val1'>1505</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "FINISHER! Deal 6822 plus 924 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='6822' data-variable-name='damage'>6822</span> plus <span data-variable-value='924' data-variable-name='val1'>924</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 6822 plus 1824 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='6822' data-variable-name='damage'>6822</span> plus <span data-variable-value='1824' data-variable-name='val1'>1824</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "FINISHER! Deal 8326 plus 1018 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='8326' data-variable-name='damage'>8326</span> plus <span data-variable-value='1018' data-variable-name='val1'>1018</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 8326 plus 2144 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='8326' data-variable-name='damage'>8326</span> plus <span data-variable-value='2144' data-variable-name='val1'>2144</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "FINISHER! Deal 9829 plus 1113 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='9829' data-variable-name='damage'>9829</span> plus <span data-variable-value='1113' data-variable-name='val1'>1113</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 9829 plus 2463 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='9829' data-variable-name='damage'>9829</span> plus <span data-variable-value='2463' data-variable-name='val1'>2463</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "FINISHER! Deal 11333 plus 1207 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='11333' data-variable-name='damage'>11333</span> plus <span data-variable-value='1207' data-variable-name='val1'>1207</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 11333 plus 2783 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='11333' data-variable-name='damage'>11333</span> plus <span data-variable-value='2783' data-variable-name='val1'>2783</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         }
                     ]
                 },
@@ -2805,14 +2805,14 @@
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 4550 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='4550' data-variable-name='damage'>4550</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 4550 Damage and Make 2 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='4550' data-variable-name='damage'>4550</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 5866 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='5866' data-variable-name='damage'>5866</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 5866 Damage and Make 2 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='5866' data-variable-name='damage'>5866</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 6,
@@ -2823,14 +2823,14 @@
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 8499 Damage and Make 4 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='8499' data-variable-name='damage'>8499</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 8499 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='8499' data-variable-name='damage'>8499</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 9815 Damage and Make 4 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='9815' data-variable-name='damage'>9815</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 9815 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='9815' data-variable-name='damage'>9815</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         }
                     ]
                 },
@@ -2903,7 +2903,7 @@
                 {
                     "ID": "ABL_HacksawJimDuggan_3Star_04",
                     "levelCap": 8,
-                    "cost": 8,
+                    "cost": 14,
                     "gemType": "Yellow",
                     "name": "2x4 Hit",
                     "move": {
@@ -2936,14 +2936,14 @@
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 2063 Damage and Choose 1 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='2063' data-variable-name='damage'>2063</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
+                            "text": "Deal 2063 Damage and Choose 2 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='2063' data-variable-name='damage'>2063</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 2434 Damage and Choose 1 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='2434' data-variable-name='damage'>2434</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
+                            "text": "Deal 2434 Damage and Choose 2 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='2434' data-variable-name='damage'>2434</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
                         },
                         {
                             "level": 6,
@@ -2954,14 +2954,14 @@
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 3177 Damage and Choose 2 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='3177' data-variable-name='damage'>3177</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
+                            "text": "Deal 3177 Damage and Choose 3 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='3177' data-variable-name='damage'>3177</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Column(s) to Destroy."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 3548 Damage and Choose 2 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='3548' data-variable-name='damage'>3548</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
+                            "text": "Deal 3548 Damage and Choose 3 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='3548' data-variable-name='damage'>3548</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Column(s) to Destroy."
                         }
                     ]
                 },
@@ -4102,44 +4102,44 @@
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "FINISHER! Deal 2312 plus 641 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='2312' data-variable-name='damage'>2312</span> plus <span data-variable-value='641' data-variable-name='val1'>641</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 2312 plus 866 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='2312' data-variable-name='damage'>2312</span> plus <span data-variable-value='866' data-variable-name='val1'>866</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "FINISHER! Deal 3815 plus 735 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3815' data-variable-name='damage'>3815</span> plus <span data-variable-value='735' data-variable-name='val1'>735</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 3815 plus 1185 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='3815' data-variable-name='damage'>3815</span> plus <span data-variable-value='1185' data-variable-name='val1'>1185</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "FINISHER! Deal 5319 plus 830 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='5319' data-variable-name='damage'>5319</span> plus <span data-variable-value='830' data-variable-name='val1'>830</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 5319 plus 1505 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='5319' data-variable-name='damage'>5319</span> plus <span data-variable-value='1505' data-variable-name='val1'>1505</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "FINISHER! Deal 6822 plus 924 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='6822' data-variable-name='damage'>6822</span> plus <span data-variable-value='924' data-variable-name='val1'>924</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 6822 plus 1824 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='6822' data-variable-name='damage'>6822</span> plus <span data-variable-value='1824' data-variable-name='val1'>1824</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "FINISHER! Deal 8326 plus 1018 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='8326' data-variable-name='damage'>8326</span> plus <span data-variable-value='1018' data-variable-name='val1'>1018</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 8326 plus 2144 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='8326' data-variable-name='damage'>8326</span> plus <span data-variable-value='2144' data-variable-name='val1'>2144</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "FINISHER! Deal 9829 plus 1113 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='9829' data-variable-name='damage'>9829</span> plus <span data-variable-value='1113' data-variable-name='val1'>1113</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 9829 plus 2463 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='9829' data-variable-name='damage'>9829</span> plus <span data-variable-value='2463' data-variable-name='val1'>2463</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "FINISHER! Deal 11333 plus 1207 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='11333' data-variable-name='damage'>11333</span> plus <span data-variable-value='1207' data-variable-name='val1'>1207</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 11333 plus 2783 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='11333' data-variable-name='damage'>11333</span> plus <span data-variable-value='2783' data-variable-name='val1'>2783</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         }
                     ]
                 },
@@ -4179,14 +4179,14 @@
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 4550 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='4550' data-variable-name='damage'>4550</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 4550 Damage and Make 2 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='4550' data-variable-name='damage'>4550</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 5866 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='5866' data-variable-name='damage'>5866</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 5866 Damage and Make 2 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='5866' data-variable-name='damage'>5866</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 6,
@@ -4197,14 +4197,14 @@
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 8499 Damage and Make 4 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='8499' data-variable-name='damage'>8499</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 8499 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='8499' data-variable-name='damage'>8499</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 9815 Damage and Make 4 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='9815' data-variable-name='damage'>9815</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 9815 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='9815' data-variable-name='damage'>9815</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         }
                     ]
                 },
@@ -4277,7 +4277,7 @@
                 {
                     "ID": "ABL_HacksawJimDuggan_3Star_04",
                     "levelCap": 8,
-                    "cost": 8,
+                    "cost": 14,
                     "gemType": "Yellow",
                     "name": "2x4 Hit",
                     "move": {
@@ -4310,14 +4310,14 @@
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 2063 Damage and Choose 1 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='2063' data-variable-name='damage'>2063</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
+                            "text": "Deal 2063 Damage and Choose 2 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='2063' data-variable-name='damage'>2063</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 2434 Damage and Choose 1 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='2434' data-variable-name='damage'>2434</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
+                            "text": "Deal 2434 Damage and Choose 2 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='2434' data-variable-name='damage'>2434</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
                         },
                         {
                             "level": 6,
@@ -4328,14 +4328,14 @@
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 3177 Damage and Choose 2 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='3177' data-variable-name='damage'>3177</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
+                            "text": "Deal 3177 Damage and Choose 3 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='3177' data-variable-name='damage'>3177</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Column(s) to Destroy."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 3548 Damage and Choose 2 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='3548' data-variable-name='damage'>3548</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
+                            "text": "Deal 3548 Damage and Choose 3 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='3548' data-variable-name='damage'>3548</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Column(s) to Destroy."
                         }
                     ]
                 },
@@ -5476,44 +5476,44 @@
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "FINISHER! Deal 2312 plus 641 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='2312' data-variable-name='damage'>2312</span> plus <span data-variable-value='641' data-variable-name='val1'>641</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 2312 plus 866 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='2312' data-variable-name='damage'>2312</span> plus <span data-variable-value='866' data-variable-name='val1'>866</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "FINISHER! Deal 3815 plus 735 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3815' data-variable-name='damage'>3815</span> plus <span data-variable-value='735' data-variable-name='val1'>735</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 3815 plus 1185 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='3815' data-variable-name='damage'>3815</span> plus <span data-variable-value='1185' data-variable-name='val1'>1185</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "FINISHER! Deal 5319 plus 830 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='5319' data-variable-name='damage'>5319</span> plus <span data-variable-value='830' data-variable-name='val1'>830</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 5319 plus 1505 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='5319' data-variable-name='damage'>5319</span> plus <span data-variable-value='1505' data-variable-name='val1'>1505</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "FINISHER! Deal 6822 plus 924 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='6822' data-variable-name='damage'>6822</span> plus <span data-variable-value='924' data-variable-name='val1'>924</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 6822 plus 1824 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='6822' data-variable-name='damage'>6822</span> plus <span data-variable-value='1824' data-variable-name='val1'>1824</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "FINISHER! Deal 8326 plus 1018 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='8326' data-variable-name='damage'>8326</span> plus <span data-variable-value='1018' data-variable-name='val1'>1018</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 8326 plus 2144 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='8326' data-variable-name='damage'>8326</span> plus <span data-variable-value='2144' data-variable-name='val1'>2144</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "FINISHER! Deal 9829 plus 1113 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='9829' data-variable-name='damage'>9829</span> plus <span data-variable-value='1113' data-variable-name='val1'>1113</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 9829 plus 2463 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='9829' data-variable-name='damage'>9829</span> plus <span data-variable-value='2463' data-variable-name='val1'>2463</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "FINISHER! Deal 11333 plus 1207 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='11333' data-variable-name='damage'>11333</span> plus <span data-variable-value='1207' data-variable-name='val1'>1207</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 11333 plus 2783 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='11333' data-variable-name='damage'>11333</span> plus <span data-variable-value='2783' data-variable-name='val1'>2783</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         }
                     ]
                 },
@@ -5553,14 +5553,14 @@
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 4550 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='4550' data-variable-name='damage'>4550</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 4550 Damage and Make 2 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='4550' data-variable-name='damage'>4550</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 5866 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='5866' data-variable-name='damage'>5866</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 5866 Damage and Make 2 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='5866' data-variable-name='damage'>5866</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 6,
@@ -5571,14 +5571,14 @@
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 8499 Damage and Make 4 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='8499' data-variable-name='damage'>8499</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 8499 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='8499' data-variable-name='damage'>8499</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 9815 Damage and Make 4 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='9815' data-variable-name='damage'>9815</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 9815 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='9815' data-variable-name='damage'>9815</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         }
                     ]
                 },
@@ -5651,7 +5651,7 @@
                 {
                     "ID": "ABL_HacksawJimDuggan_3Star_04",
                     "levelCap": 8,
-                    "cost": 8,
+                    "cost": 14,
                     "gemType": "Yellow",
                     "name": "2x4 Hit",
                     "move": {
@@ -5684,14 +5684,14 @@
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 2063 Damage and Choose 1 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='2063' data-variable-name='damage'>2063</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
+                            "text": "Deal 2063 Damage and Choose 2 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='2063' data-variable-name='damage'>2063</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 2434 Damage and Choose 1 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='2434' data-variable-name='damage'>2434</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
+                            "text": "Deal 2434 Damage and Choose 2 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='2434' data-variable-name='damage'>2434</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
                         },
                         {
                             "level": 6,
@@ -5702,14 +5702,14 @@
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 3177 Damage and Choose 2 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='3177' data-variable-name='damage'>3177</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
+                            "text": "Deal 3177 Damage and Choose 3 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='3177' data-variable-name='damage'>3177</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Column(s) to Destroy."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 3548 Damage and Choose 2 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='3548' data-variable-name='damage'>3548</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
+                            "text": "Deal 3548 Damage and Choose 3 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='3548' data-variable-name='damage'>3548</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Column(s) to Destroy."
                         }
                     ]
                 },
@@ -6113,8 +6113,8 @@
                         {
                             "level": 3,
                             "talentScore": 110,
-                            "text": "Deal 943 Damage and Make 2 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='943' data-variable-name='damage'>943</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 943 Damage and Make 1 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='943' data-variable-name='damage'>943</span> Damage and Make <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         }
                     ]
                 },
@@ -6895,8 +6895,8 @@
                         {
                             "level": 3,
                             "talentScore": 152,
-                            "text": "Deal 1701 Damage and Make 2 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='1701' data-variable-name='damage'>1701</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 1701 Damage and Make 1 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='1701' data-variable-name='damage'>1701</span> Damage and Make <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 4,
@@ -6907,14 +6907,14 @@
                         {
                             "level": 5,
                             "talentScore": 277,
-                            "text": "Deal 3050 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='3050' data-variable-name='damage'>3050</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 3050 Damage and Make 2 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='3050' data-variable-name='damage'>3050</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 6,
                             "talentScore": 340,
-                            "text": "Deal 3724 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='3724' data-variable-name='damage'>3724</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 3724 Damage and Make 2 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='3724' data-variable-name='damage'>3724</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         }
                     ]
                 },
@@ -6975,7 +6975,7 @@
                 {
                     "ID": "ABL_HacksawJimDuggan_2Star_04",
                     "levelCap": 6,
-                    "cost": 8,
+                    "cost": 14,
                     "gemType": "Yellow",
                     "name": "2x4 Hit",
                     "move": {
@@ -7008,20 +7008,20 @@
                         {
                             "level": 4,
                             "talentScore": 215,
-                            "text": "Deal 523 Damage and Choose 1 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='523' data-variable-name='damage'>523</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
+                            "text": "Deal 523 Damage and Choose 2 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='523' data-variable-name='damage'>523</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
                         },
                         {
                             "level": 5,
                             "talentScore": 277,
-                            "text": "Deal 678 Damage and Choose 1 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='678' data-variable-name='damage'>678</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
+                            "text": "Deal 678 Damage and Choose 2 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='678' data-variable-name='damage'>678</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
                         },
                         {
                             "level": 6,
                             "talentScore": 340,
-                            "text": "Deal 833 Damage and Choose 1 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='833' data-variable-name='damage'>833</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
+                            "text": "Deal 833 Damage and Choose 2 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='833' data-variable-name='damage'>833</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
                         }
                     ]
                 }
@@ -7766,8 +7766,8 @@
                         {
                             "level": 3,
                             "talentScore": 152,
-                            "text": "Deal 1701 Damage and Make 2 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='1701' data-variable-name='damage'>1701</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 1701 Damage and Make 1 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='1701' data-variable-name='damage'>1701</span> Damage and Make <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 4,
@@ -7778,14 +7778,14 @@
                         {
                             "level": 5,
                             "talentScore": 277,
-                            "text": "Deal 3050 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='3050' data-variable-name='damage'>3050</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 3050 Damage and Make 2 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='3050' data-variable-name='damage'>3050</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 6,
                             "talentScore": 340,
-                            "text": "Deal 3724 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='3724' data-variable-name='damage'>3724</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 3724 Damage and Make 2 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='3724' data-variable-name='damage'>3724</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         }
                     ]
                 },
@@ -7846,7 +7846,7 @@
                 {
                     "ID": "ABL_HacksawJimDuggan_2Star_04",
                     "levelCap": 6,
-                    "cost": 8,
+                    "cost": 14,
                     "gemType": "Yellow",
                     "name": "2x4 Hit",
                     "move": {
@@ -7879,20 +7879,20 @@
                         {
                             "level": 4,
                             "talentScore": 215,
-                            "text": "Deal 523 Damage and Choose 1 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='523' data-variable-name='damage'>523</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
+                            "text": "Deal 523 Damage and Choose 2 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='523' data-variable-name='damage'>523</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
                         },
                         {
                             "level": 5,
                             "talentScore": 277,
-                            "text": "Deal 678 Damage and Choose 1 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='678' data-variable-name='damage'>678</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
+                            "text": "Deal 678 Damage and Choose 2 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='678' data-variable-name='damage'>678</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
                         },
                         {
                             "level": 6,
                             "talentScore": 340,
-                            "text": "Deal 833 Damage and Choose 1 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='833' data-variable-name='damage'>833</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
+                            "text": "Deal 833 Damage and Choose 2 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='833' data-variable-name='damage'>833</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
                         }
                     ]
                 }
@@ -9228,50 +9228,50 @@
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "FINISHER! Deal 2312 plus 641 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='2312' data-variable-name='damage'>2312</span> plus <span data-variable-value='641' data-variable-name='val1'>641</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 2312 plus 866 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='2312' data-variable-name='damage'>2312</span> plus <span data-variable-value='866' data-variable-name='val1'>866</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "FINISHER! Deal 3815 plus 735 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3815' data-variable-name='damage'>3815</span> plus <span data-variable-value='735' data-variable-name='val1'>735</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 3815 plus 1185 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='3815' data-variable-name='damage'>3815</span> plus <span data-variable-value='1185' data-variable-name='val1'>1185</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "FINISHER! Deal 5319 plus 830 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='5319' data-variable-name='damage'>5319</span> plus <span data-variable-value='830' data-variable-name='val1'>830</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 5319 plus 1505 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='5319' data-variable-name='damage'>5319</span> plus <span data-variable-value='1505' data-variable-name='val1'>1505</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "FINISHER! Deal 6822 plus 924 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='6822' data-variable-name='damage'>6822</span> plus <span data-variable-value='924' data-variable-name='val1'>924</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 6822 plus 1824 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='6822' data-variable-name='damage'>6822</span> plus <span data-variable-value='1824' data-variable-name='val1'>1824</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "FINISHER! Deal 8326 plus 1018 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='8326' data-variable-name='damage'>8326</span> plus <span data-variable-value='1018' data-variable-name='val1'>1018</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 8326 plus 2144 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='8326' data-variable-name='damage'>8326</span> plus <span data-variable-value='2144' data-variable-name='val1'>2144</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "FINISHER! Deal 9829 plus 1113 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='9829' data-variable-name='damage'>9829</span> plus <span data-variable-value='1113' data-variable-name='val1'>1113</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 9829 plus 2463 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='9829' data-variable-name='damage'>9829</span> plus <span data-variable-value='2463' data-variable-name='val1'>2463</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "FINISHER! Deal 11333 plus 1207 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='11333' data-variable-name='damage'>11333</span> plus <span data-variable-value='1207' data-variable-name='val1'>1207</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 11333 plus 2783 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='11333' data-variable-name='damage'>11333</span> plus <span data-variable-value='2783' data-variable-name='val1'>2783</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "FINISHER! Deal 12836 plus 1301 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='12836' data-variable-name='damage'>12836</span> plus <span data-variable-value='1301' data-variable-name='val1'>1301</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 12836 plus 3102 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='12836' data-variable-name='damage'>12836</span> plus <span data-variable-value='3102' data-variable-name='val1'>3102</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         }
                     ]
                 },
@@ -9311,14 +9311,14 @@
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 4550 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='4550' data-variable-name='damage'>4550</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 4550 Damage and Make 2 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='4550' data-variable-name='damage'>4550</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 5866 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='5866' data-variable-name='damage'>5866</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 5866 Damage and Make 2 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='5866' data-variable-name='damage'>5866</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 6,
@@ -9329,20 +9329,20 @@
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 8499 Damage and Make 4 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='8499' data-variable-name='damage'>8499</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 8499 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='8499' data-variable-name='damage'>8499</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 9815 Damage and Make 4 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='9815' data-variable-name='damage'>9815</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 9815 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='9815' data-variable-name='damage'>9815</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "Deal 11131 Damage and Make 4 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='11131' data-variable-name='damage'>11131</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 11131 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='11131' data-variable-name='damage'>11131</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         }
                     ]
                 },
@@ -9421,7 +9421,7 @@
                 {
                     "ID": "ABL_HacksawJimDuggan_3Star_04",
                     "levelCap": 9,
-                    "cost": 8,
+                    "cost": 14,
                     "gemType": "Yellow",
                     "name": "2x4 Hit",
                     "move": {
@@ -9454,14 +9454,14 @@
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 2063 Damage and Choose 1 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='2063' data-variable-name='damage'>2063</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
+                            "text": "Deal 2063 Damage and Choose 2 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='2063' data-variable-name='damage'>2063</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 2434 Damage and Choose 1 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='2434' data-variable-name='damage'>2434</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
+                            "text": "Deal 2434 Damage and Choose 2 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='2434' data-variable-name='damage'>2434</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
                         },
                         {
                             "level": 6,
@@ -9472,20 +9472,20 @@
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 3177 Damage and Choose 2 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='3177' data-variable-name='damage'>3177</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
+                            "text": "Deal 3177 Damage and Choose 3 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='3177' data-variable-name='damage'>3177</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Column(s) to Destroy."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 3548 Damage and Choose 2 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='3548' data-variable-name='damage'>3548</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
+                            "text": "Deal 3548 Damage and Choose 3 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='3548' data-variable-name='damage'>3548</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Column(s) to Destroy."
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "Deal 3919 Damage and Choose 2 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='3919' data-variable-name='damage'>3919</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
+                            "text": "Deal 3919 Damage and Choose 3 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='3919' data-variable-name='damage'>3919</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Column(s) to Destroy."
                         }
                     ]
                 },
@@ -10892,50 +10892,50 @@
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "FINISHER! Deal 2312 plus 641 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='2312' data-variable-name='damage'>2312</span> plus <span data-variable-value='641' data-variable-name='val1'>641</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 2312 plus 866 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='2312' data-variable-name='damage'>2312</span> plus <span data-variable-value='866' data-variable-name='val1'>866</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "FINISHER! Deal 3815 plus 735 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3815' data-variable-name='damage'>3815</span> plus <span data-variable-value='735' data-variable-name='val1'>735</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 3815 plus 1185 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='3815' data-variable-name='damage'>3815</span> plus <span data-variable-value='1185' data-variable-name='val1'>1185</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "FINISHER! Deal 5319 plus 830 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='5319' data-variable-name='damage'>5319</span> plus <span data-variable-value='830' data-variable-name='val1'>830</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 5319 plus 1505 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='5319' data-variable-name='damage'>5319</span> plus <span data-variable-value='1505' data-variable-name='val1'>1505</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "FINISHER! Deal 6822 plus 924 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='6822' data-variable-name='damage'>6822</span> plus <span data-variable-value='924' data-variable-name='val1'>924</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 6822 plus 1824 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='6822' data-variable-name='damage'>6822</span> plus <span data-variable-value='1824' data-variable-name='val1'>1824</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "FINISHER! Deal 8326 plus 1018 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='8326' data-variable-name='damage'>8326</span> plus <span data-variable-value='1018' data-variable-name='val1'>1018</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 8326 plus 2144 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='8326' data-variable-name='damage'>8326</span> plus <span data-variable-value='2144' data-variable-name='val1'>2144</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "FINISHER! Deal 9829 plus 1113 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='9829' data-variable-name='damage'>9829</span> plus <span data-variable-value='1113' data-variable-name='val1'>1113</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 9829 plus 2463 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='9829' data-variable-name='damage'>9829</span> plus <span data-variable-value='2463' data-variable-name='val1'>2463</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "FINISHER! Deal 11333 plus 1207 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='11333' data-variable-name='damage'>11333</span> plus <span data-variable-value='1207' data-variable-name='val1'>1207</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 11333 plus 2783 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='11333' data-variable-name='damage'>11333</span> plus <span data-variable-value='2783' data-variable-name='val1'>2783</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "FINISHER! Deal 12836 plus 1301 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='12836' data-variable-name='damage'>12836</span> plus <span data-variable-value='1301' data-variable-name='val1'>1301</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 12836 plus 3102 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='12836' data-variable-name='damage'>12836</span> plus <span data-variable-value='3102' data-variable-name='val1'>3102</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         }
                     ]
                 },
@@ -10975,14 +10975,14 @@
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 4550 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='4550' data-variable-name='damage'>4550</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 4550 Damage and Make 2 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='4550' data-variable-name='damage'>4550</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 5866 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='5866' data-variable-name='damage'>5866</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 5866 Damage and Make 2 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='5866' data-variable-name='damage'>5866</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 6,
@@ -10993,20 +10993,20 @@
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 8499 Damage and Make 4 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='8499' data-variable-name='damage'>8499</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 8499 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='8499' data-variable-name='damage'>8499</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 9815 Damage and Make 4 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='9815' data-variable-name='damage'>9815</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 9815 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='9815' data-variable-name='damage'>9815</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "Deal 11131 Damage and Make 4 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='11131' data-variable-name='damage'>11131</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 11131 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='11131' data-variable-name='damage'>11131</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         }
                     ]
                 },
@@ -11085,7 +11085,7 @@
                 {
                     "ID": "ABL_HacksawJimDuggan_3Star_04",
                     "levelCap": 9,
-                    "cost": 8,
+                    "cost": 14,
                     "gemType": "Yellow",
                     "name": "2x4 Hit",
                     "move": {
@@ -11118,14 +11118,14 @@
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 2063 Damage and Choose 1 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='2063' data-variable-name='damage'>2063</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
+                            "text": "Deal 2063 Damage and Choose 2 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='2063' data-variable-name='damage'>2063</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 2434 Damage and Choose 1 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='2434' data-variable-name='damage'>2434</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
+                            "text": "Deal 2434 Damage and Choose 2 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='2434' data-variable-name='damage'>2434</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
                         },
                         {
                             "level": 6,
@@ -11136,20 +11136,20 @@
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 3177 Damage and Choose 2 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='3177' data-variable-name='damage'>3177</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
+                            "text": "Deal 3177 Damage and Choose 3 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='3177' data-variable-name='damage'>3177</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Column(s) to Destroy."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 3548 Damage and Choose 2 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='3548' data-variable-name='damage'>3548</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
+                            "text": "Deal 3548 Damage and Choose 3 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='3548' data-variable-name='damage'>3548</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Column(s) to Destroy."
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "Deal 3919 Damage and Choose 2 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='3919' data-variable-name='damage'>3919</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
+                            "text": "Deal 3919 Damage and Choose 3 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='3919' data-variable-name='damage'>3919</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Column(s) to Destroy."
                         }
                     ]
                 },
@@ -12556,50 +12556,50 @@
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "FINISHER! Deal 2312 plus 641 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='2312' data-variable-name='damage'>2312</span> plus <span data-variable-value='641' data-variable-name='val1'>641</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 2312 plus 866 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='2312' data-variable-name='damage'>2312</span> plus <span data-variable-value='866' data-variable-name='val1'>866</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "FINISHER! Deal 3815 plus 735 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3815' data-variable-name='damage'>3815</span> plus <span data-variable-value='735' data-variable-name='val1'>735</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 3815 plus 1185 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='3815' data-variable-name='damage'>3815</span> plus <span data-variable-value='1185' data-variable-name='val1'>1185</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "FINISHER! Deal 5319 plus 830 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='5319' data-variable-name='damage'>5319</span> plus <span data-variable-value='830' data-variable-name='val1'>830</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 5319 plus 1505 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='5319' data-variable-name='damage'>5319</span> plus <span data-variable-value='1505' data-variable-name='val1'>1505</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "FINISHER! Deal 6822 plus 924 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='6822' data-variable-name='damage'>6822</span> plus <span data-variable-value='924' data-variable-name='val1'>924</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 6822 plus 1824 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='6822' data-variable-name='damage'>6822</span> plus <span data-variable-value='1824' data-variable-name='val1'>1824</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "FINISHER! Deal 8326 plus 1018 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='8326' data-variable-name='damage'>8326</span> plus <span data-variable-value='1018' data-variable-name='val1'>1018</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 8326 plus 2144 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='8326' data-variable-name='damage'>8326</span> plus <span data-variable-value='2144' data-variable-name='val1'>2144</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "FINISHER! Deal 9829 plus 1113 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='9829' data-variable-name='damage'>9829</span> plus <span data-variable-value='1113' data-variable-name='val1'>1113</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 9829 plus 2463 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='9829' data-variable-name='damage'>9829</span> plus <span data-variable-value='2463' data-variable-name='val1'>2463</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "FINISHER! Deal 11333 plus 1207 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='11333' data-variable-name='damage'>11333</span> plus <span data-variable-value='1207' data-variable-name='val1'>1207</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 11333 plus 2783 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='11333' data-variable-name='damage'>11333</span> plus <span data-variable-value='2783' data-variable-name='val1'>2783</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "FINISHER! Deal 12836 plus 1301 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='12836' data-variable-name='damage'>12836</span> plus <span data-variable-value='1301' data-variable-name='val1'>1301</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 12836 plus 3102 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='12836' data-variable-name='damage'>12836</span> plus <span data-variable-value='3102' data-variable-name='val1'>3102</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         }
                     ]
                 },
@@ -12639,14 +12639,14 @@
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 4550 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='4550' data-variable-name='damage'>4550</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 4550 Damage and Make 2 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='4550' data-variable-name='damage'>4550</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 5866 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='5866' data-variable-name='damage'>5866</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 5866 Damage and Make 2 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='5866' data-variable-name='damage'>5866</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 6,
@@ -12657,20 +12657,20 @@
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 8499 Damage and Make 4 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='8499' data-variable-name='damage'>8499</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 8499 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='8499' data-variable-name='damage'>8499</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 9815 Damage and Make 4 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='9815' data-variable-name='damage'>9815</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 9815 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='9815' data-variable-name='damage'>9815</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "Deal 11131 Damage and Make 4 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='11131' data-variable-name='damage'>11131</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 11131 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='11131' data-variable-name='damage'>11131</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         }
                     ]
                 },
@@ -12749,7 +12749,7 @@
                 {
                     "ID": "ABL_HacksawJimDuggan_3Star_04",
                     "levelCap": 9,
-                    "cost": 8,
+                    "cost": 14,
                     "gemType": "Yellow",
                     "name": "2x4 Hit",
                     "move": {
@@ -12782,14 +12782,14 @@
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 2063 Damage and Choose 1 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='2063' data-variable-name='damage'>2063</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
+                            "text": "Deal 2063 Damage and Choose 2 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='2063' data-variable-name='damage'>2063</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 2434 Damage and Choose 1 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='2434' data-variable-name='damage'>2434</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
+                            "text": "Deal 2434 Damage and Choose 2 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='2434' data-variable-name='damage'>2434</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
                         },
                         {
                             "level": 6,
@@ -12800,20 +12800,20 @@
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 3177 Damage and Choose 2 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='3177' data-variable-name='damage'>3177</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
+                            "text": "Deal 3177 Damage and Choose 3 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='3177' data-variable-name='damage'>3177</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Column(s) to Destroy."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 3548 Damage and Choose 2 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='3548' data-variable-name='damage'>3548</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
+                            "text": "Deal 3548 Damage and Choose 3 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='3548' data-variable-name='damage'>3548</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Column(s) to Destroy."
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "Deal 3919 Damage and Choose 2 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='3919' data-variable-name='damage'>3919</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
+                            "text": "Deal 3919 Damage and Choose 3 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='3919' data-variable-name='damage'>3919</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Column(s) to Destroy."
                         }
                     ]
                 },
@@ -13359,14 +13359,14 @@
                         {
                             "level": 3,
                             "talentScore": 110,
-                            "text": "Deal 943 Damage and Make 2 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='943' data-variable-name='damage'>943</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 943 Damage and Make 1 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='943' data-variable-name='damage'>943</span> Damage and Make <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 4,
                             "talentScore": 156,
-                            "text": "Deal 1294 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='1294' data-variable-name='damage'>1294</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 1294 Damage and Make 2 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='1294' data-variable-name='damage'>1294</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         }
                     ]
                 },
@@ -14289,8 +14289,8 @@
                         {
                             "level": 3,
                             "talentScore": 152,
-                            "text": "Deal 1701 Damage and Make 2 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='1701' data-variable-name='damage'>1701</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 1701 Damage and Make 1 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='1701' data-variable-name='damage'>1701</span> Damage and Make <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 4,
@@ -14301,20 +14301,20 @@
                         {
                             "level": 5,
                             "talentScore": 277,
-                            "text": "Deal 3050 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='3050' data-variable-name='damage'>3050</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 3050 Damage and Make 2 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='3050' data-variable-name='damage'>3050</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 6,
                             "talentScore": 340,
-                            "text": "Deal 3724 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='3724' data-variable-name='damage'>3724</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 3724 Damage and Make 2 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='3724' data-variable-name='damage'>3724</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 7,
                             "talentScore": 403,
-                            "text": "Deal 4399 Damage and Make 4 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='4399' data-variable-name='damage'>4399</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 4399 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='4399' data-variable-name='damage'>4399</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         }
                     ]
                 },
@@ -14381,7 +14381,7 @@
                 {
                     "ID": "ABL_HacksawJimDuggan_2Star_04",
                     "levelCap": 7,
-                    "cost": 8,
+                    "cost": 14,
                     "gemType": "Yellow",
                     "name": "2x4 Hit",
                     "move": {
@@ -14414,26 +14414,26 @@
                         {
                             "level": 4,
                             "talentScore": 215,
-                            "text": "Deal 523 Damage and Choose 1 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='523' data-variable-name='damage'>523</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
+                            "text": "Deal 523 Damage and Choose 2 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='523' data-variable-name='damage'>523</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
                         },
                         {
                             "level": 5,
                             "talentScore": 277,
-                            "text": "Deal 678 Damage and Choose 1 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='678' data-variable-name='damage'>678</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
+                            "text": "Deal 678 Damage and Choose 2 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='678' data-variable-name='damage'>678</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
                         },
                         {
                             "level": 6,
                             "talentScore": 340,
-                            "text": "Deal 833 Damage and Choose 1 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='833' data-variable-name='damage'>833</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
+                            "text": "Deal 833 Damage and Choose 2 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='833' data-variable-name='damage'>833</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
                         },
                         {
                             "level": 7,
                             "talentScore": 403,
-                            "text": "Deal 988 Damage and Choose 2 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='988' data-variable-name='damage'>988</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
+                            "text": "Deal 988 Damage and Choose 3 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='988' data-variable-name='damage'>988</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Column(s) to Destroy."
                         }
                     ]
                 }
@@ -15314,8 +15314,8 @@
                         {
                             "level": 3,
                             "talentScore": 152,
-                            "text": "Deal 1701 Damage and Make 2 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='1701' data-variable-name='damage'>1701</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 1701 Damage and Make 1 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='1701' data-variable-name='damage'>1701</span> Damage and Make <span data-variable-value='1' data-variable-name='val1'>1</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 4,
@@ -15326,20 +15326,20 @@
                         {
                             "level": 5,
                             "talentScore": 277,
-                            "text": "Deal 3050 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='3050' data-variable-name='damage'>3050</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 3050 Damage and Make 2 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='3050' data-variable-name='damage'>3050</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 6,
                             "talentScore": 340,
-                            "text": "Deal 3724 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='3724' data-variable-name='damage'>3724</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 3724 Damage and Make 2 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='3724' data-variable-name='damage'>3724</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 7,
                             "talentScore": 403,
-                            "text": "Deal 4399 Damage and Make 4 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='4399' data-variable-name='damage'>4399</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 4399 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='4399' data-variable-name='damage'>4399</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         }
                     ]
                 },
@@ -15406,7 +15406,7 @@
                 {
                     "ID": "ABL_HacksawJimDuggan_2Star_04",
                     "levelCap": 7,
-                    "cost": 8,
+                    "cost": 14,
                     "gemType": "Yellow",
                     "name": "2x4 Hit",
                     "move": {
@@ -15439,26 +15439,26 @@
                         {
                             "level": 4,
                             "talentScore": 215,
-                            "text": "Deal 523 Damage and Choose 1 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='523' data-variable-name='damage'>523</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
+                            "text": "Deal 523 Damage and Choose 2 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='523' data-variable-name='damage'>523</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
                         },
                         {
                             "level": 5,
                             "talentScore": 277,
-                            "text": "Deal 678 Damage and Choose 1 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='678' data-variable-name='damage'>678</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
+                            "text": "Deal 678 Damage and Choose 2 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='678' data-variable-name='damage'>678</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
                         },
                         {
                             "level": 6,
                             "talentScore": 340,
-                            "text": "Deal 833 Damage and Choose 1 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='833' data-variable-name='damage'>833</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
+                            "text": "Deal 833 Damage and Choose 2 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='833' data-variable-name='damage'>833</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
                         },
                         {
                             "level": 7,
                             "talentScore": 403,
-                            "text": "Deal 988 Damage and Choose 2 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='988' data-variable-name='damage'>988</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
+                            "text": "Deal 988 Damage and Choose 3 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='988' data-variable-name='damage'>988</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Column(s) to Destroy."
                         }
                     ]
                 }
@@ -17054,56 +17054,56 @@
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "FINISHER! Deal 2312 plus 641 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='2312' data-variable-name='damage'>2312</span> plus <span data-variable-value='641' data-variable-name='val1'>641</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 2312 plus 866 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='2312' data-variable-name='damage'>2312</span> plus <span data-variable-value='866' data-variable-name='val1'>866</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "FINISHER! Deal 3815 plus 735 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3815' data-variable-name='damage'>3815</span> plus <span data-variable-value='735' data-variable-name='val1'>735</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 3815 plus 1185 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='3815' data-variable-name='damage'>3815</span> plus <span data-variable-value='1185' data-variable-name='val1'>1185</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "FINISHER! Deal 5319 plus 830 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='5319' data-variable-name='damage'>5319</span> plus <span data-variable-value='830' data-variable-name='val1'>830</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 5319 plus 1505 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='5319' data-variable-name='damage'>5319</span> plus <span data-variable-value='1505' data-variable-name='val1'>1505</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "FINISHER! Deal 6822 plus 924 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='6822' data-variable-name='damage'>6822</span> plus <span data-variable-value='924' data-variable-name='val1'>924</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 6822 plus 1824 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='6822' data-variable-name='damage'>6822</span> plus <span data-variable-value='1824' data-variable-name='val1'>1824</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "FINISHER! Deal 8326 plus 1018 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='8326' data-variable-name='damage'>8326</span> plus <span data-variable-value='1018' data-variable-name='val1'>1018</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 8326 plus 2144 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='8326' data-variable-name='damage'>8326</span> plus <span data-variable-value='2144' data-variable-name='val1'>2144</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "FINISHER! Deal 9829 plus 1113 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='9829' data-variable-name='damage'>9829</span> plus <span data-variable-value='1113' data-variable-name='val1'>1113</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 9829 plus 2463 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='9829' data-variable-name='damage'>9829</span> plus <span data-variable-value='2463' data-variable-name='val1'>2463</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "FINISHER! Deal 11333 plus 1207 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='11333' data-variable-name='damage'>11333</span> plus <span data-variable-value='1207' data-variable-name='val1'>1207</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 11333 plus 2783 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='11333' data-variable-name='damage'>11333</span> plus <span data-variable-value='2783' data-variable-name='val1'>2783</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "FINISHER! Deal 12836 plus 1301 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='12836' data-variable-name='damage'>12836</span> plus <span data-variable-value='1301' data-variable-name='val1'>1301</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 12836 plus 3102 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='12836' data-variable-name='damage'>12836</span> plus <span data-variable-value='3102' data-variable-name='val1'>3102</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 10,
                             "talentScore": 1456,
-                            "text": "FINISHER! Deal 14340 plus 1396 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='14340' data-variable-name='damage'>14340</span> plus <span data-variable-value='1396' data-variable-name='val1'>1396</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 14340 plus 3422 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='14340' data-variable-name='damage'>14340</span> plus <span data-variable-value='3422' data-variable-name='val1'>3422</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         }
                     ]
                 },
@@ -17143,14 +17143,14 @@
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 4550 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='4550' data-variable-name='damage'>4550</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 4550 Damage and Make 2 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='4550' data-variable-name='damage'>4550</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 5866 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='5866' data-variable-name='damage'>5866</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 5866 Damage and Make 2 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='5866' data-variable-name='damage'>5866</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 6,
@@ -17161,26 +17161,26 @@
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 8499 Damage and Make 4 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='8499' data-variable-name='damage'>8499</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 8499 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='8499' data-variable-name='damage'>8499</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 9815 Damage and Make 4 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='9815' data-variable-name='damage'>9815</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 9815 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='9815' data-variable-name='damage'>9815</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "Deal 11131 Damage and Make 4 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='11131' data-variable-name='damage'>11131</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 11131 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='11131' data-variable-name='damage'>11131</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 10,
                             "talentScore": 1456,
-                            "text": "Deal 12448 Damage and Make 5 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='12448' data-variable-name='damage'>12448</span> Damage and Make <span data-variable-value='5' data-variable-name='val1'>5</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 12448 Damage and Make 4 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='12448' data-variable-name='damage'>12448</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         }
                     ]
                 },
@@ -17265,7 +17265,7 @@
                 {
                     "ID": "ABL_HacksawJimDuggan_3Star_04",
                     "levelCap": 10,
-                    "cost": 8,
+                    "cost": 14,
                     "gemType": "Yellow",
                     "name": "2x4 Hit",
                     "move": {
@@ -17298,14 +17298,14 @@
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 2063 Damage and Choose 1 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='2063' data-variable-name='damage'>2063</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
+                            "text": "Deal 2063 Damage and Choose 2 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='2063' data-variable-name='damage'>2063</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 2434 Damage and Choose 1 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='2434' data-variable-name='damage'>2434</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
+                            "text": "Deal 2434 Damage and Choose 2 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='2434' data-variable-name='damage'>2434</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
                         },
                         {
                             "level": 6,
@@ -17316,26 +17316,26 @@
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 3177 Damage and Choose 2 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='3177' data-variable-name='damage'>3177</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
+                            "text": "Deal 3177 Damage and Choose 3 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='3177' data-variable-name='damage'>3177</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Column(s) to Destroy."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 3548 Damage and Choose 2 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='3548' data-variable-name='damage'>3548</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
+                            "text": "Deal 3548 Damage and Choose 3 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='3548' data-variable-name='damage'>3548</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Column(s) to Destroy."
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "Deal 3919 Damage and Choose 2 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='3919' data-variable-name='damage'>3919</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
+                            "text": "Deal 3919 Damage and Choose 3 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='3919' data-variable-name='damage'>3919</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Column(s) to Destroy."
                         },
                         {
                             "level": 10,
                             "talentScore": 1456,
-                            "text": "Deal 4291 Damage and Choose 3 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='4291' data-variable-name='damage'>4291</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Column(s) to Destroy."
+                            "text": "Deal 4291 Damage and Choose 4 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='4291' data-variable-name='damage'>4291</span> Damage and Choose <span data-variable-value='4' data-variable-name='val1'>4</span> Column(s) to Destroy."
                         }
                     ]
                 },
@@ -19008,56 +19008,56 @@
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "FINISHER! Deal 2312 plus 641 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='2312' data-variable-name='damage'>2312</span> plus <span data-variable-value='641' data-variable-name='val1'>641</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 2312 plus 866 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='2312' data-variable-name='damage'>2312</span> plus <span data-variable-value='866' data-variable-name='val1'>866</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "FINISHER! Deal 3815 plus 735 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3815' data-variable-name='damage'>3815</span> plus <span data-variable-value='735' data-variable-name='val1'>735</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 3815 plus 1185 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='3815' data-variable-name='damage'>3815</span> plus <span data-variable-value='1185' data-variable-name='val1'>1185</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "FINISHER! Deal 5319 plus 830 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='5319' data-variable-name='damage'>5319</span> plus <span data-variable-value='830' data-variable-name='val1'>830</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 5319 plus 1505 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='5319' data-variable-name='damage'>5319</span> plus <span data-variable-value='1505' data-variable-name='val1'>1505</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "FINISHER! Deal 6822 plus 924 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='6822' data-variable-name='damage'>6822</span> plus <span data-variable-value='924' data-variable-name='val1'>924</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 6822 plus 1824 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='6822' data-variable-name='damage'>6822</span> plus <span data-variable-value='1824' data-variable-name='val1'>1824</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "FINISHER! Deal 8326 plus 1018 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='8326' data-variable-name='damage'>8326</span> plus <span data-variable-value='1018' data-variable-name='val1'>1018</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 8326 plus 2144 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='8326' data-variable-name='damage'>8326</span> plus <span data-variable-value='2144' data-variable-name='val1'>2144</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "FINISHER! Deal 9829 plus 1113 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='9829' data-variable-name='damage'>9829</span> plus <span data-variable-value='1113' data-variable-name='val1'>1113</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 9829 plus 2463 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='9829' data-variable-name='damage'>9829</span> plus <span data-variable-value='2463' data-variable-name='val1'>2463</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "FINISHER! Deal 11333 plus 1207 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='11333' data-variable-name='damage'>11333</span> plus <span data-variable-value='1207' data-variable-name='val1'>1207</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 11333 plus 2783 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='11333' data-variable-name='damage'>11333</span> plus <span data-variable-value='2783' data-variable-name='val1'>2783</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "FINISHER! Deal 12836 plus 1301 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='12836' data-variable-name='damage'>12836</span> plus <span data-variable-value='1301' data-variable-name='val1'>1301</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 12836 plus 3102 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='12836' data-variable-name='damage'>12836</span> plus <span data-variable-value='3102' data-variable-name='val1'>3102</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 10,
                             "talentScore": 1456,
-                            "text": "FINISHER! Deal 14340 plus 1396 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='14340' data-variable-name='damage'>14340</span> plus <span data-variable-value='1396' data-variable-name='val1'>1396</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 14340 plus 3422 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='14340' data-variable-name='damage'>14340</span> plus <span data-variable-value='3422' data-variable-name='val1'>3422</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         }
                     ]
                 },
@@ -19097,14 +19097,14 @@
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 4550 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='4550' data-variable-name='damage'>4550</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 4550 Damage and Make 2 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='4550' data-variable-name='damage'>4550</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 5866 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='5866' data-variable-name='damage'>5866</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 5866 Damage and Make 2 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='5866' data-variable-name='damage'>5866</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 6,
@@ -19115,26 +19115,26 @@
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 8499 Damage and Make 4 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='8499' data-variable-name='damage'>8499</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 8499 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='8499' data-variable-name='damage'>8499</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 9815 Damage and Make 4 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='9815' data-variable-name='damage'>9815</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 9815 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='9815' data-variable-name='damage'>9815</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "Deal 11131 Damage and Make 4 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='11131' data-variable-name='damage'>11131</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 11131 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='11131' data-variable-name='damage'>11131</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 10,
                             "talentScore": 1456,
-                            "text": "Deal 12448 Damage and Make 5 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='12448' data-variable-name='damage'>12448</span> Damage and Make <span data-variable-value='5' data-variable-name='val1'>5</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 12448 Damage and Make 4 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='12448' data-variable-name='damage'>12448</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         }
                     ]
                 },
@@ -19219,7 +19219,7 @@
                 {
                     "ID": "ABL_HacksawJimDuggan_3Star_04",
                     "levelCap": 10,
-                    "cost": 8,
+                    "cost": 14,
                     "gemType": "Yellow",
                     "name": "2x4 Hit",
                     "move": {
@@ -19252,14 +19252,14 @@
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 2063 Damage and Choose 1 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='2063' data-variable-name='damage'>2063</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
+                            "text": "Deal 2063 Damage and Choose 2 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='2063' data-variable-name='damage'>2063</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 2434 Damage and Choose 1 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='2434' data-variable-name='damage'>2434</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
+                            "text": "Deal 2434 Damage and Choose 2 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='2434' data-variable-name='damage'>2434</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
                         },
                         {
                             "level": 6,
@@ -19270,26 +19270,26 @@
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 3177 Damage and Choose 2 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='3177' data-variable-name='damage'>3177</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
+                            "text": "Deal 3177 Damage and Choose 3 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='3177' data-variable-name='damage'>3177</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Column(s) to Destroy."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 3548 Damage and Choose 2 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='3548' data-variable-name='damage'>3548</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
+                            "text": "Deal 3548 Damage and Choose 3 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='3548' data-variable-name='damage'>3548</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Column(s) to Destroy."
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "Deal 3919 Damage and Choose 2 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='3919' data-variable-name='damage'>3919</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
+                            "text": "Deal 3919 Damage and Choose 3 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='3919' data-variable-name='damage'>3919</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Column(s) to Destroy."
                         },
                         {
                             "level": 10,
                             "talentScore": 1456,
-                            "text": "Deal 4291 Damage and Choose 3 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='4291' data-variable-name='damage'>4291</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Column(s) to Destroy."
+                            "text": "Deal 4291 Damage and Choose 4 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='4291' data-variable-name='damage'>4291</span> Damage and Choose <span data-variable-value='4' data-variable-name='val1'>4</span> Column(s) to Destroy."
                         }
                     ]
                 },
@@ -20962,56 +20962,56 @@
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "FINISHER! Deal 2312 plus 641 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='2312' data-variable-name='damage'>2312</span> plus <span data-variable-value='641' data-variable-name='val1'>641</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 2312 plus 866 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='2312' data-variable-name='damage'>2312</span> plus <span data-variable-value='866' data-variable-name='val1'>866</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "FINISHER! Deal 3815 plus 735 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3815' data-variable-name='damage'>3815</span> plus <span data-variable-value='735' data-variable-name='val1'>735</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 3815 plus 1185 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='3815' data-variable-name='damage'>3815</span> plus <span data-variable-value='1185' data-variable-name='val1'>1185</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "FINISHER! Deal 5319 plus 830 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='5319' data-variable-name='damage'>5319</span> plus <span data-variable-value='830' data-variable-name='val1'>830</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 5319 plus 1505 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='5319' data-variable-name='damage'>5319</span> plus <span data-variable-value='1505' data-variable-name='val1'>1505</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "FINISHER! Deal 6822 plus 924 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='6822' data-variable-name='damage'>6822</span> plus <span data-variable-value='924' data-variable-name='val1'>924</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 6822 plus 1824 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='6822' data-variable-name='damage'>6822</span> plus <span data-variable-value='1824' data-variable-name='val1'>1824</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "FINISHER! Deal 8326 plus 1018 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='8326' data-variable-name='damage'>8326</span> plus <span data-variable-value='1018' data-variable-name='val1'>1018</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 8326 plus 2144 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='8326' data-variable-name='damage'>8326</span> plus <span data-variable-value='2144' data-variable-name='val1'>2144</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "FINISHER! Deal 9829 plus 1113 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='9829' data-variable-name='damage'>9829</span> plus <span data-variable-value='1113' data-variable-name='val1'>1113</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 9829 plus 2463 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='9829' data-variable-name='damage'>9829</span> plus <span data-variable-value='2463' data-variable-name='val1'>2463</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "FINISHER! Deal 11333 plus 1207 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='11333' data-variable-name='damage'>11333</span> plus <span data-variable-value='1207' data-variable-name='val1'>1207</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 11333 plus 2783 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='11333' data-variable-name='damage'>11333</span> plus <span data-variable-value='2783' data-variable-name='val1'>2783</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "FINISHER! Deal 12836 plus 1301 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='12836' data-variable-name='damage'>12836</span> plus <span data-variable-value='1301' data-variable-name='val1'>1301</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 12836 plus 3102 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='12836' data-variable-name='damage'>12836</span> plus <span data-variable-value='3102' data-variable-name='val1'>3102</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 10,
                             "talentScore": 1456,
-                            "text": "FINISHER! Deal 14340 plus 1396 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='14340' data-variable-name='damage'>14340</span> plus <span data-variable-value='1396' data-variable-name='val1'>1396</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 14340 plus 3422 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='14340' data-variable-name='damage'>14340</span> plus <span data-variable-value='3422' data-variable-name='val1'>3422</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         }
                     ]
                 },
@@ -21051,14 +21051,14 @@
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 4550 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='4550' data-variable-name='damage'>4550</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 4550 Damage and Make 2 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='4550' data-variable-name='damage'>4550</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 5866 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='5866' data-variable-name='damage'>5866</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 5866 Damage and Make 2 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='5866' data-variable-name='damage'>5866</span> Damage and Make <span data-variable-value='2' data-variable-name='val1'>2</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 6,
@@ -21069,26 +21069,26 @@
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 8499 Damage and Make 4 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='8499' data-variable-name='damage'>8499</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 8499 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='8499' data-variable-name='damage'>8499</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 9815 Damage and Make 4 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='9815' data-variable-name='damage'>9815</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 9815 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='9815' data-variable-name='damage'>9815</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "Deal 11131 Damage and Make 4 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='11131' data-variable-name='damage'>11131</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 11131 Damage and Make 3 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='11131' data-variable-name='damage'>11131</span> Damage and Make <span data-variable-value='3' data-variable-name='val1'>3</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         },
                         {
                             "level": 10,
                             "talentScore": 1456,
-                            "text": "Deal 12448 Damage and Make 5 Random Gem(s) into Yellow Gem(s).",
-                            "html": "Deal <span data-variable-value='12448' data-variable-name='damage'>12448</span> Damage and Make <span data-variable-value='5' data-variable-name='val1'>5</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
+                            "text": "Deal 12448 Damage and Make 4 Random Gem(s) into Yellow Gem(s).",
+                            "html": "Deal <span data-variable-value='12448' data-variable-name='damage'>12448</span> Damage and Make <span data-variable-value='4' data-variable-name='val1'>4</span> Random Gem(s) into <span data-variable-value='Yellow' data-variable-name='min2'>Yellow</span> Gem(s)."
                         }
                     ]
                 },
@@ -21173,7 +21173,7 @@
                 {
                     "ID": "ABL_HacksawJimDuggan_3Star_04",
                     "levelCap": 10,
-                    "cost": 8,
+                    "cost": 14,
                     "gemType": "Yellow",
                     "name": "2x4 Hit",
                     "move": {
@@ -21206,14 +21206,14 @@
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 2063 Damage and Choose 1 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='2063' data-variable-name='damage'>2063</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
+                            "text": "Deal 2063 Damage and Choose 2 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='2063' data-variable-name='damage'>2063</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 2434 Damage and Choose 1 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='2434' data-variable-name='damage'>2434</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
+                            "text": "Deal 2434 Damage and Choose 2 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='2434' data-variable-name='damage'>2434</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
                         },
                         {
                             "level": 6,
@@ -21224,26 +21224,26 @@
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 3177 Damage and Choose 2 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='3177' data-variable-name='damage'>3177</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
+                            "text": "Deal 3177 Damage and Choose 3 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='3177' data-variable-name='damage'>3177</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Column(s) to Destroy."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 3548 Damage and Choose 2 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='3548' data-variable-name='damage'>3548</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
+                            "text": "Deal 3548 Damage and Choose 3 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='3548' data-variable-name='damage'>3548</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Column(s) to Destroy."
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "Deal 3919 Damage and Choose 2 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='3919' data-variable-name='damage'>3919</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Column(s) to Destroy."
+                            "text": "Deal 3919 Damage and Choose 3 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='3919' data-variable-name='damage'>3919</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Column(s) to Destroy."
                         },
                         {
                             "level": 10,
                             "talentScore": 1456,
-                            "text": "Deal 4291 Damage and Choose 3 Column(s) to Destroy.",
-                            "html": "Deal <span data-variable-value='4291' data-variable-name='damage'>4291</span> Damage and Choose <span data-variable-value='3' data-variable-name='val1'>3</span> Column(s) to Destroy."
+                            "text": "Deal 4291 Damage and Choose 4 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='4291' data-variable-name='damage'>4291</span> Damage and Choose <span data-variable-value='4' data-variable-name='val1'>4</span> Column(s) to Destroy."
                         }
                     ]
                 },
