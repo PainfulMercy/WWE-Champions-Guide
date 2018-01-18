@@ -1,0 +1,74 @@
+[
+    {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the Goal for Faction Feuds?",
+    "answers": [
+        {
+            "text": "Score as many points as possible, as efficiently as possible, while working together as a team",
+            "isCorrect": true
+        },
+        {
+            "text": "If outmatched, use props to help ensure a victory",
+            "isCorrect": false
+        },
+        {
+            "text": "Work hard and fast to score as many points as you personally can",
+            "isCorrect": false
+        },
+        {
+            "text": "Beat your opponent at all costs",
+            "isCorrect": false
+        }
+    ]
+    },
+    {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "When helping your teammates, always heal ______",
+    "answers": [
+        {
+            "text": "From the top first, then work your way down",
+            "isCorrect": true
+        },
+        {
+            "text": "From the bottom first, then work your way up",
+            "isCorrect": false
+        },
+        {
+            "text": "anyone you can quickly see on your screen then get back into the next feud ASAP",
+            "isCorrect": false
+        },
+        {
+            "text": "only when you need heals youself",
+            "isCorrect": false
+        }
+    ]
+    },
+    {
+    "category": "Science: Mathematics",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "If The upcomming Feud requirements are: 2 Legends, 2 Raw Power Houses, 1 Raw Striker. Select the superstar below that CANNOT be posted for faction heal requests during the feud.",
+    "answers": [
+        {
+            "text": "3* Doink The Clown",
+            "isCorrect": true
+        },
+        {
+            "text": "3* Bray Wyatt",
+            "isCorrect": false
+        },
+        {
+            "text": "3* Andre The Giant",
+            "isCorrect": false
+        },
+        {
+            "text": "3* Titus O'Neil",
+            "isCorrect": false
+        }
+    ]
+    }
+]
