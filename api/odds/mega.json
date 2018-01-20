@@ -1,6 +1,6 @@
 {
-  "ID": "GWeight_EddieG_Attitude_011718",
-  "Slug": "gweight-eddieg-attitude-011718",
+  "ID": "GWeight_Undertaker_Robe_011918",
+  "Slug": "gweight-undertaker-robe-011918",
   "Pools": [
     {
       "Chance": "58.60",
@@ -237,11 +237,11 @@
       "Drops": [
         {
           "Chance": "100.00",
-          "Item": "Eddie Guerrero \"Latino Heat\" 3 Star Silver",
-          "ItemID": "Poster_EddieGuerrero_3Star_Silver"
+          "Item": "Undertaker \"The Phenom\" 3 Star Silver",
+          "ItemID": "Poster_Undertaker_Robe_3Star_Silver"
         }
       ]
     }
   ],
-  "Description": "Chance for 3-Star Silver Eddie Guerrero \"Latino Heat\" and other Attitude Era Superstars!"
+  "Description": "FIRST EVER chance for 3-Star Silver Undertaker \"The Phenom\""
 }
