@@ -383,3 +383,7 @@ fieldset {
   color: #000;
   text-decoration: none;
 }
+
+#pullContent li {
+  display: none;
+}
