@@ -83,6 +83,11 @@ textarea,
 
 .list-subscribe {
   margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.patreon-sidebar {
+  margin-bottom: 10px;
 }
 
 .body-container {
