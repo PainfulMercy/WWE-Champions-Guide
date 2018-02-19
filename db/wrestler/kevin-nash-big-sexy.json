@@ -137,7 +137,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_1Star_01",
                     "levelCap": 2,
-                    "cost": 15,
+                    "cost": 14,
                     "gemType": "Red",
                     "name": "K.O. Punch",
                     "move": {
@@ -163,7 +163,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_1Star_02",
                     "levelCap": 2,
-                    "cost": 10,
+                    "cost": 8,
                     "gemType": "Green",
                     "name": "Sidewalk Slam",
                     "move": {
@@ -193,7 +193,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_1Star_03",
                     "levelCap": 2,
-                    "cost": 6,
+                    "cost": 9,
                     "gemType": "Black",
                     "name": "Short-arm Clothesline",
                     "move": {
@@ -750,7 +750,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_2Star_01",
                     "levelCap": 5,
-                    "cost": 15,
+                    "cost": 14,
                     "gemType": "Red",
                     "name": "K.O. Punch",
                     "move": {
@@ -794,7 +794,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_2Star_02",
                     "levelCap": 5,
-                    "cost": 10,
+                    "cost": 8,
                     "gemType": "Green",
                     "name": "Sidewalk Slam",
                     "move": {
@@ -842,7 +842,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_2Star_03",
                     "levelCap": 5,
-                    "cost": 6,
+                    "cost": 9,
                     "gemType": "Black",
                     "name": "Short-arm Clothesline",
                     "move": {
@@ -889,7 +889,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_2Star_04",
                     "levelCap": 5,
-                    "cost": 11,
+                    "cost": 9,
                     "gemType": "Red",
                     "name": "Snake Eyes",
                     "move": {
@@ -1465,7 +1465,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_2Star_01",
                     "levelCap": 5,
-                    "cost": 15,
+                    "cost": 14,
                     "gemType": "Red",
                     "name": "K.O. Punch",
                     "move": {
@@ -1509,7 +1509,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_2Star_02",
                     "levelCap": 5,
-                    "cost": 10,
+                    "cost": 8,
                     "gemType": "Green",
                     "name": "Sidewalk Slam",
                     "move": {
@@ -1557,7 +1557,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_2Star_03",
                     "levelCap": 5,
-                    "cost": 6,
+                    "cost": 9,
                     "gemType": "Black",
                     "name": "Short-arm Clothesline",
                     "move": {
@@ -1604,7 +1604,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_2Star_04",
                     "levelCap": 5,
-                    "cost": 11,
+                    "cost": 9,
                     "gemType": "Red",
                     "name": "Snake Eyes",
                     "move": {
@@ -2700,7 +2700,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_3Star_01",
                     "levelCap": 8,
-                    "cost": 15,
+                    "cost": 14,
                     "gemType": "Red",
                     "name": "K.O. Punch",
                     "move": {
@@ -2762,7 +2762,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_3Star_02",
                     "levelCap": 8,
-                    "cost": 10,
+                    "cost": 8,
                     "gemType": "Green",
                     "name": "Sidewalk Slam",
                     "move": {
@@ -2828,7 +2828,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_3Star_03",
                     "levelCap": 8,
-                    "cost": 6,
+                    "cost": 9,
                     "gemType": "Black",
                     "name": "Short-arm Clothesline",
                     "move": {
@@ -2893,7 +2893,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_3Star_04",
                     "levelCap": 8,
-                    "cost": 11,
+                    "cost": 9,
                     "gemType": "Red",
                     "name": "Snake Eyes",
                     "move": {
@@ -4072,7 +4072,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_3Star_01",
                     "levelCap": 8,
-                    "cost": 15,
+                    "cost": 14,
                     "gemType": "Red",
                     "name": "K.O. Punch",
                     "move": {
@@ -4134,7 +4134,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_3Star_02",
                     "levelCap": 8,
-                    "cost": 10,
+                    "cost": 8,
                     "gemType": "Green",
                     "name": "Sidewalk Slam",
                     "move": {
@@ -4200,7 +4200,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_3Star_03",
                     "levelCap": 8,
-                    "cost": 6,
+                    "cost": 9,
                     "gemType": "Black",
                     "name": "Short-arm Clothesline",
                     "move": {
@@ -4265,7 +4265,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_3Star_04",
                     "levelCap": 8,
-                    "cost": 11,
+                    "cost": 9,
                     "gemType": "Red",
                     "name": "Snake Eyes",
                     "move": {
@@ -5444,7 +5444,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_3Star_01",
                     "levelCap": 8,
-                    "cost": 15,
+                    "cost": 14,
                     "gemType": "Red",
                     "name": "K.O. Punch",
                     "move": {
@@ -5506,7 +5506,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_3Star_02",
                     "levelCap": 8,
-                    "cost": 10,
+                    "cost": 8,
                     "gemType": "Green",
                     "name": "Sidewalk Slam",
                     "move": {
@@ -5572,7 +5572,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_3Star_03",
                     "levelCap": 8,
-                    "cost": 6,
+                    "cost": 9,
                     "gemType": "Black",
                     "name": "Short-arm Clothesline",
                     "move": {
@@ -5637,7 +5637,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_3Star_04",
                     "levelCap": 8,
-                    "cost": 11,
+                    "cost": 9,
                     "gemType": "Red",
                     "name": "Snake Eyes",
                     "move": {
@@ -6038,7 +6038,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_1Star_01",
                     "levelCap": 3,
-                    "cost": 15,
+                    "cost": 14,
                     "gemType": "Red",
                     "name": "K.O. Punch",
                     "move": {
@@ -6070,7 +6070,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_1Star_02",
                     "levelCap": 3,
-                    "cost": 10,
+                    "cost": 8,
                     "gemType": "Green",
                     "name": "Sidewalk Slam",
                     "move": {
@@ -6106,7 +6106,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_1Star_03",
                     "levelCap": 3,
-                    "cost": 6,
+                    "cost": 9,
                     "gemType": "Black",
                     "name": "Short-arm Clothesline",
                     "move": {
@@ -6799,7 +6799,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_2Star_01",
                     "levelCap": 6,
-                    "cost": 15,
+                    "cost": 14,
                     "gemType": "Red",
                     "name": "K.O. Punch",
                     "move": {
@@ -6849,7 +6849,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_2Star_02",
                     "levelCap": 6,
-                    "cost": 10,
+                    "cost": 8,
                     "gemType": "Green",
                     "name": "Sidewalk Slam",
                     "move": {
@@ -6903,7 +6903,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_2Star_03",
                     "levelCap": 6,
-                    "cost": 6,
+                    "cost": 9,
                     "gemType": "Black",
                     "name": "Short-arm Clothesline",
                     "move": {
@@ -6956,7 +6956,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_2Star_04",
                     "levelCap": 6,
-                    "cost": 11,
+                    "cost": 9,
                     "gemType": "Red",
                     "name": "Snake Eyes",
                     "move": {
@@ -7668,7 +7668,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_2Star_01",
                     "levelCap": 6,
-                    "cost": 15,
+                    "cost": 14,
                     "gemType": "Red",
                     "name": "K.O. Punch",
                     "move": {
@@ -7718,7 +7718,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_2Star_02",
                     "levelCap": 6,
-                    "cost": 10,
+                    "cost": 8,
                     "gemType": "Green",
                     "name": "Sidewalk Slam",
                     "move": {
@@ -7772,7 +7772,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_2Star_03",
                     "levelCap": 6,
-                    "cost": 6,
+                    "cost": 9,
                     "gemType": "Black",
                     "name": "Short-arm Clothesline",
                     "move": {
@@ -7825,7 +7825,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_2Star_04",
                     "levelCap": 6,
-                    "cost": 11,
+                    "cost": 9,
                     "gemType": "Red",
                     "name": "Snake Eyes",
                     "move": {
@@ -9187,7 +9187,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_3Star_01",
                     "levelCap": 9,
-                    "cost": 15,
+                    "cost": 14,
                     "gemType": "Red",
                     "name": "K.O. Punch",
                     "move": {
@@ -9255,7 +9255,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_3Star_02",
                     "levelCap": 9,
-                    "cost": 10,
+                    "cost": 8,
                     "gemType": "Green",
                     "name": "Sidewalk Slam",
                     "move": {
@@ -9327,7 +9327,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_3Star_03",
                     "levelCap": 9,
-                    "cost": 6,
+                    "cost": 9,
                     "gemType": "Black",
                     "name": "Short-arm Clothesline",
                     "move": {
@@ -9398,7 +9398,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_3Star_04",
                     "levelCap": 9,
-                    "cost": 11,
+                    "cost": 9,
                     "gemType": "Red",
                     "name": "Snake Eyes",
                     "move": {
@@ -10849,7 +10849,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_3Star_01",
                     "levelCap": 9,
-                    "cost": 15,
+                    "cost": 14,
                     "gemType": "Red",
                     "name": "K.O. Punch",
                     "move": {
@@ -10917,7 +10917,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_3Star_02",
                     "levelCap": 9,
-                    "cost": 10,
+                    "cost": 8,
                     "gemType": "Green",
                     "name": "Sidewalk Slam",
                     "move": {
@@ -10989,7 +10989,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_3Star_03",
                     "levelCap": 9,
-                    "cost": 6,
+                    "cost": 9,
                     "gemType": "Black",
                     "name": "Short-arm Clothesline",
                     "move": {
@@ -11060,7 +11060,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_3Star_04",
                     "levelCap": 9,
-                    "cost": 11,
+                    "cost": 9,
                     "gemType": "Red",
                     "name": "Snake Eyes",
                     "move": {
@@ -12511,7 +12511,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_3Star_01",
                     "levelCap": 9,
-                    "cost": 15,
+                    "cost": 14,
                     "gemType": "Red",
                     "name": "K.O. Punch",
                     "move": {
@@ -12579,7 +12579,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_3Star_02",
                     "levelCap": 9,
-                    "cost": 10,
+                    "cost": 8,
                     "gemType": "Green",
                     "name": "Sidewalk Slam",
                     "move": {
@@ -12651,7 +12651,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_3Star_03",
                     "levelCap": 9,
-                    "cost": 6,
+                    "cost": 9,
                     "gemType": "Black",
                     "name": "Short-arm Clothesline",
                     "move": {
@@ -12722,7 +12722,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_3Star_04",
                     "levelCap": 9,
-                    "cost": 11,
+                    "cost": 9,
                     "gemType": "Red",
                     "name": "Snake Eyes",
                     "move": {
@@ -13265,7 +13265,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_1Star_01",
                     "levelCap": 4,
-                    "cost": 15,
+                    "cost": 14,
                     "gemType": "Red",
                     "name": "K.O. Punch",
                     "move": {
@@ -13303,7 +13303,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_1Star_02",
                     "levelCap": 4,
-                    "cost": 10,
+                    "cost": 8,
                     "gemType": "Green",
                     "name": "Sidewalk Slam",
                     "move": {
@@ -13345,7 +13345,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_1Star_03",
                     "levelCap": 4,
-                    "cost": 6,
+                    "cost": 9,
                     "gemType": "Black",
                     "name": "Short-arm Clothesline",
                     "move": {
@@ -14174,7 +14174,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_2Star_01",
                     "levelCap": 7,
-                    "cost": 15,
+                    "cost": 14,
                     "gemType": "Red",
                     "name": "K.O. Punch",
                     "move": {
@@ -14230,7 +14230,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_2Star_02",
                     "levelCap": 7,
-                    "cost": 10,
+                    "cost": 8,
                     "gemType": "Green",
                     "name": "Sidewalk Slam",
                     "move": {
@@ -14290,7 +14290,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_2Star_03",
                     "levelCap": 7,
-                    "cost": 6,
+                    "cost": 9,
                     "gemType": "Black",
                     "name": "Short-arm Clothesline",
                     "move": {
@@ -14349,7 +14349,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_2Star_04",
                     "levelCap": 7,
-                    "cost": 11,
+                    "cost": 9,
                     "gemType": "Red",
                     "name": "Snake Eyes",
                     "move": {
@@ -15197,7 +15197,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_2Star_01",
                     "levelCap": 7,
-                    "cost": 15,
+                    "cost": 14,
                     "gemType": "Red",
                     "name": "K.O. Punch",
                     "move": {
@@ -15253,7 +15253,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_2Star_02",
                     "levelCap": 7,
-                    "cost": 10,
+                    "cost": 8,
                     "gemType": "Green",
                     "name": "Sidewalk Slam",
                     "move": {
@@ -15313,7 +15313,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_2Star_03",
                     "levelCap": 7,
-                    "cost": 6,
+                    "cost": 9,
                     "gemType": "Black",
                     "name": "Short-arm Clothesline",
                     "move": {
@@ -15372,7 +15372,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_2Star_04",
                     "levelCap": 7,
-                    "cost": 11,
+                    "cost": 9,
                     "gemType": "Red",
                     "name": "Snake Eyes",
                     "move": {
@@ -17000,7 +17000,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_3Star_01",
                     "levelCap": 10,
-                    "cost": 15,
+                    "cost": 14,
                     "gemType": "Red",
                     "name": "K.O. Punch",
                     "move": {
@@ -17074,7 +17074,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_3Star_02",
                     "levelCap": 10,
-                    "cost": 10,
+                    "cost": 8,
                     "gemType": "Green",
                     "name": "Sidewalk Slam",
                     "move": {
@@ -17152,7 +17152,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_3Star_03",
                     "levelCap": 10,
-                    "cost": 6,
+                    "cost": 9,
                     "gemType": "Black",
                     "name": "Short-arm Clothesline",
                     "move": {
@@ -17229,7 +17229,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_3Star_04",
                     "levelCap": 10,
-                    "cost": 11,
+                    "cost": 9,
                     "gemType": "Red",
                     "name": "Snake Eyes",
                     "move": {
@@ -18952,7 +18952,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_3Star_01",
                     "levelCap": 10,
-                    "cost": 15,
+                    "cost": 14,
                     "gemType": "Red",
                     "name": "K.O. Punch",
                     "move": {
@@ -19026,7 +19026,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_3Star_02",
                     "levelCap": 10,
-                    "cost": 10,
+                    "cost": 8,
                     "gemType": "Green",
                     "name": "Sidewalk Slam",
                     "move": {
@@ -19104,7 +19104,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_3Star_03",
                     "levelCap": 10,
-                    "cost": 6,
+                    "cost": 9,
                     "gemType": "Black",
                     "name": "Short-arm Clothesline",
                     "move": {
@@ -19181,7 +19181,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_3Star_04",
                     "levelCap": 10,
-                    "cost": 11,
+                    "cost": 9,
                     "gemType": "Red",
                     "name": "Snake Eyes",
                     "move": {
@@ -20904,7 +20904,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_3Star_01",
                     "levelCap": 10,
-                    "cost": 15,
+                    "cost": 14,
                     "gemType": "Red",
                     "name": "K.O. Punch",
                     "move": {
@@ -20978,7 +20978,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_3Star_02",
                     "levelCap": 10,
-                    "cost": 10,
+                    "cost": 8,
                     "gemType": "Green",
                     "name": "Sidewalk Slam",
                     "move": {
@@ -21056,7 +21056,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_3Star_03",
                     "levelCap": 10,
-                    "cost": 6,
+                    "cost": 9,
                     "gemType": "Black",
                     "name": "Short-arm Clothesline",
                     "move": {
@@ -21133,7 +21133,7 @@
                 {
                     "ID": "ABL_KevinNash_Wolfpac_3Star_04",
                     "levelCap": 10,
-                    "cost": 11,
+                    "cost": 9,
                     "gemType": "Red",
                     "name": "Snake Eyes",
                     "move": {
