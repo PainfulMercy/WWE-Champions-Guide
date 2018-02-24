@@ -139,7 +139,7 @@
                     "levelCap": 2,
                     "cost": 11,
                     "gemType": "Green",
-                    "name": "Sleeper Hold",
+                    "name": "DDT",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -169,7 +169,7 @@
                     "levelCap": 2,
                     "cost": 7,
                     "gemType": "Yellow",
-                    "name": "Scoop Slam",
+                    "name": "Sleeper Hold",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -199,7 +199,7 @@
                     "levelCap": 2,
                     "cost": 7,
                     "gemType": "Black",
-                    "name": "Snake Eyes",
+                    "name": "Arm Wrench Clothesline",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -757,7 +757,7 @@
                     "levelCap": 5,
                     "cost": 11,
                     "gemType": "Green",
-                    "name": "Sleeper Hold",
+                    "name": "DDT",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -805,7 +805,7 @@
                     "levelCap": 5,
                     "cost": 7,
                     "gemType": "Yellow",
-                    "name": "Scoop Slam",
+                    "name": "Sleeper Hold",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -853,7 +853,7 @@
                     "levelCap": 5,
                     "cost": 7,
                     "gemType": "Black",
-                    "name": "Snake Eyes",
+                    "name": "Arm Wrench Clothesline",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -901,7 +901,7 @@
                     "levelCap": 5,
                     "cost": 9,
                     "gemType": "Green",
-                    "name": "Arm Drag",
+                    "name": "Snake Eyes",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -1476,7 +1476,7 @@
                     "levelCap": 5,
                     "cost": 11,
                     "gemType": "Green",
-                    "name": "Sleeper Hold",
+                    "name": "DDT",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -1524,7 +1524,7 @@
                     "levelCap": 5,
                     "cost": 7,
                     "gemType": "Yellow",
-                    "name": "Scoop Slam",
+                    "name": "Sleeper Hold",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -1572,7 +1572,7 @@
                     "levelCap": 5,
                     "cost": 7,
                     "gemType": "Black",
-                    "name": "Snake Eyes",
+                    "name": "Arm Wrench Clothesline",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -1620,7 +1620,7 @@
                     "levelCap": 5,
                     "cost": 9,
                     "gemType": "Green",
-                    "name": "Arm Drag",
+                    "name": "Snake Eyes",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -2715,7 +2715,7 @@
                     "levelCap": 8,
                     "cost": 11,
                     "gemType": "Green",
-                    "name": "Sleeper Hold",
+                    "name": "DDT",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -2781,7 +2781,7 @@
                     "levelCap": 8,
                     "cost": 7,
                     "gemType": "Yellow",
-                    "name": "Scoop Slam",
+                    "name": "Sleeper Hold",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -2847,7 +2847,7 @@
                     "levelCap": 8,
                     "cost": 7,
                     "gemType": "Black",
-                    "name": "Snake Eyes",
+                    "name": "Arm Wrench Clothesline",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -2913,7 +2913,7 @@
                     "levelCap": 8,
                     "cost": 9,
                     "gemType": "Green",
-                    "name": "Arm Drag",
+                    "name": "Snake Eyes",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -2978,7 +2978,7 @@
                     "levelCap": 8,
                     "cost": 8,
                     "gemType": "Yellow",
-                    "name": "Back Body Drop",
+                    "name": "Arm Drag",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -4092,7 +4092,7 @@
                     "levelCap": 8,
                     "cost": 11,
                     "gemType": "Green",
-                    "name": "Sleeper Hold",
+                    "name": "DDT",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -4158,7 +4158,7 @@
                     "levelCap": 8,
                     "cost": 7,
                     "gemType": "Yellow",
-                    "name": "Scoop Slam",
+                    "name": "Sleeper Hold",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -4224,7 +4224,7 @@
                     "levelCap": 8,
                     "cost": 7,
                     "gemType": "Black",
-                    "name": "Snake Eyes",
+                    "name": "Arm Wrench Clothesline",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -4290,7 +4290,7 @@
                     "levelCap": 8,
                     "cost": 9,
                     "gemType": "Green",
-                    "name": "Arm Drag",
+                    "name": "Snake Eyes",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -4355,7 +4355,7 @@
                     "levelCap": 8,
                     "cost": 8,
                     "gemType": "Yellow",
-                    "name": "Back Body Drop",
+                    "name": "Arm Drag",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -5469,7 +5469,7 @@
                     "levelCap": 8,
                     "cost": 11,
                     "gemType": "Green",
-                    "name": "Sleeper Hold",
+                    "name": "DDT",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -5535,7 +5535,7 @@
                     "levelCap": 8,
                     "cost": 7,
                     "gemType": "Yellow",
-                    "name": "Scoop Slam",
+                    "name": "Sleeper Hold",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -5601,7 +5601,7 @@
                     "levelCap": 8,
                     "cost": 7,
                     "gemType": "Black",
-                    "name": "Snake Eyes",
+                    "name": "Arm Wrench Clothesline",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -5667,7 +5667,7 @@
                     "levelCap": 8,
                     "cost": 9,
                     "gemType": "Green",
-                    "name": "Arm Drag",
+                    "name": "Snake Eyes",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -5732,7 +5732,7 @@
                     "levelCap": 8,
                     "cost": 8,
                     "gemType": "Yellow",
-                    "name": "Back Body Drop",
+                    "name": "Arm Drag",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -6068,7 +6068,7 @@
                     "levelCap": 3,
                     "cost": 11,
                     "gemType": "Green",
-                    "name": "Sleeper Hold",
+                    "name": "DDT",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -6104,7 +6104,7 @@
                     "levelCap": 3,
                     "cost": 7,
                     "gemType": "Yellow",
-                    "name": "Scoop Slam",
+                    "name": "Sleeper Hold",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -6140,7 +6140,7 @@
                     "levelCap": 3,
                     "cost": 7,
                     "gemType": "Black",
-                    "name": "Snake Eyes",
+                    "name": "Arm Wrench Clothesline",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -6834,7 +6834,7 @@
                     "levelCap": 6,
                     "cost": 11,
                     "gemType": "Green",
-                    "name": "Sleeper Hold",
+                    "name": "DDT",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -6888,7 +6888,7 @@
                     "levelCap": 6,
                     "cost": 7,
                     "gemType": "Yellow",
-                    "name": "Scoop Slam",
+                    "name": "Sleeper Hold",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -6942,7 +6942,7 @@
                     "levelCap": 6,
                     "cost": 7,
                     "gemType": "Black",
-                    "name": "Snake Eyes",
+                    "name": "Arm Wrench Clothesline",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -6996,7 +6996,7 @@
                     "levelCap": 6,
                     "cost": 9,
                     "gemType": "Green",
-                    "name": "Arm Drag",
+                    "name": "Snake Eyes",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -7707,7 +7707,7 @@
                     "levelCap": 6,
                     "cost": 11,
                     "gemType": "Green",
-                    "name": "Sleeper Hold",
+                    "name": "DDT",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -7761,7 +7761,7 @@
                     "levelCap": 6,
                     "cost": 7,
                     "gemType": "Yellow",
-                    "name": "Scoop Slam",
+                    "name": "Sleeper Hold",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -7815,7 +7815,7 @@
                     "levelCap": 6,
                     "cost": 7,
                     "gemType": "Black",
-                    "name": "Snake Eyes",
+                    "name": "Arm Wrench Clothesline",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -7869,7 +7869,7 @@
                     "levelCap": 6,
                     "cost": 9,
                     "gemType": "Green",
-                    "name": "Arm Drag",
+                    "name": "Snake Eyes",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -9230,7 +9230,7 @@
                     "levelCap": 9,
                     "cost": 11,
                     "gemType": "Green",
-                    "name": "Sleeper Hold",
+                    "name": "DDT",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -9302,7 +9302,7 @@
                     "levelCap": 9,
                     "cost": 7,
                     "gemType": "Yellow",
-                    "name": "Scoop Slam",
+                    "name": "Sleeper Hold",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -9374,7 +9374,7 @@
                     "levelCap": 9,
                     "cost": 7,
                     "gemType": "Black",
-                    "name": "Snake Eyes",
+                    "name": "Arm Wrench Clothesline",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -9446,7 +9446,7 @@
                     "levelCap": 9,
                     "cost": 9,
                     "gemType": "Green",
-                    "name": "Arm Drag",
+                    "name": "Snake Eyes",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -9517,7 +9517,7 @@
                     "levelCap": 9,
                     "cost": 8,
                     "gemType": "Yellow",
-                    "name": "Back Body Drop",
+                    "name": "Arm Drag",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -10897,7 +10897,7 @@
                     "levelCap": 9,
                     "cost": 11,
                     "gemType": "Green",
-                    "name": "Sleeper Hold",
+                    "name": "DDT",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -10969,7 +10969,7 @@
                     "levelCap": 9,
                     "cost": 7,
                     "gemType": "Yellow",
-                    "name": "Scoop Slam",
+                    "name": "Sleeper Hold",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -11041,7 +11041,7 @@
                     "levelCap": 9,
                     "cost": 7,
                     "gemType": "Black",
-                    "name": "Snake Eyes",
+                    "name": "Arm Wrench Clothesline",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -11113,7 +11113,7 @@
                     "levelCap": 9,
                     "cost": 9,
                     "gemType": "Green",
-                    "name": "Arm Drag",
+                    "name": "Snake Eyes",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -11184,7 +11184,7 @@
                     "levelCap": 9,
                     "cost": 8,
                     "gemType": "Yellow",
-                    "name": "Back Body Drop",
+                    "name": "Arm Drag",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -12564,7 +12564,7 @@
                     "levelCap": 9,
                     "cost": 11,
                     "gemType": "Green",
-                    "name": "Sleeper Hold",
+                    "name": "DDT",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -12636,7 +12636,7 @@
                     "levelCap": 9,
                     "cost": 7,
                     "gemType": "Yellow",
-                    "name": "Scoop Slam",
+                    "name": "Sleeper Hold",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -12708,7 +12708,7 @@
                     "levelCap": 9,
                     "cost": 7,
                     "gemType": "Black",
-                    "name": "Snake Eyes",
+                    "name": "Arm Wrench Clothesline",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -12780,7 +12780,7 @@
                     "levelCap": 9,
                     "cost": 9,
                     "gemType": "Green",
-                    "name": "Arm Drag",
+                    "name": "Snake Eyes",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -12851,7 +12851,7 @@
                     "levelCap": 9,
                     "cost": 8,
                     "gemType": "Yellow",
-                    "name": "Back Body Drop",
+                    "name": "Arm Drag",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -13323,7 +13323,7 @@
                     "levelCap": 4,
                     "cost": 11,
                     "gemType": "Green",
-                    "name": "Sleeper Hold",
+                    "name": "DDT",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -13365,7 +13365,7 @@
                     "levelCap": 4,
                     "cost": 7,
                     "gemType": "Yellow",
-                    "name": "Scoop Slam",
+                    "name": "Sleeper Hold",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -13407,7 +13407,7 @@
                     "levelCap": 4,
                     "cost": 7,
                     "gemType": "Black",
-                    "name": "Snake Eyes",
+                    "name": "Arm Wrench Clothesline",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -14237,7 +14237,7 @@
                     "levelCap": 7,
                     "cost": 11,
                     "gemType": "Green",
-                    "name": "Sleeper Hold",
+                    "name": "DDT",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -14297,7 +14297,7 @@
                     "levelCap": 7,
                     "cost": 7,
                     "gemType": "Yellow",
-                    "name": "Scoop Slam",
+                    "name": "Sleeper Hold",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -14357,7 +14357,7 @@
                     "levelCap": 7,
                     "cost": 7,
                     "gemType": "Black",
-                    "name": "Snake Eyes",
+                    "name": "Arm Wrench Clothesline",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -14417,7 +14417,7 @@
                     "levelCap": 7,
                     "cost": 9,
                     "gemType": "Green",
-                    "name": "Arm Drag",
+                    "name": "Snake Eyes",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -15264,7 +15264,7 @@
                     "levelCap": 7,
                     "cost": 11,
                     "gemType": "Green",
-                    "name": "Sleeper Hold",
+                    "name": "DDT",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -15324,7 +15324,7 @@
                     "levelCap": 7,
                     "cost": 7,
                     "gemType": "Yellow",
-                    "name": "Scoop Slam",
+                    "name": "Sleeper Hold",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -15384,7 +15384,7 @@
                     "levelCap": 7,
                     "cost": 7,
                     "gemType": "Black",
-                    "name": "Snake Eyes",
+                    "name": "Arm Wrench Clothesline",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -15444,7 +15444,7 @@
                     "levelCap": 7,
                     "cost": 9,
                     "gemType": "Green",
-                    "name": "Arm Drag",
+                    "name": "Snake Eyes",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -17071,7 +17071,7 @@
                     "levelCap": 10,
                     "cost": 11,
                     "gemType": "Green",
-                    "name": "Sleeper Hold",
+                    "name": "DDT",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -17149,7 +17149,7 @@
                     "levelCap": 10,
                     "cost": 7,
                     "gemType": "Yellow",
-                    "name": "Scoop Slam",
+                    "name": "Sleeper Hold",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -17227,7 +17227,7 @@
                     "levelCap": 10,
                     "cost": 7,
                     "gemType": "Black",
-                    "name": "Snake Eyes",
+                    "name": "Arm Wrench Clothesline",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -17305,7 +17305,7 @@
                     "levelCap": 10,
                     "cost": 9,
                     "gemType": "Green",
-                    "name": "Arm Drag",
+                    "name": "Snake Eyes",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -17382,7 +17382,7 @@
                     "levelCap": 10,
                     "cost": 8,
                     "gemType": "Yellow",
-                    "name": "Back Body Drop",
+                    "name": "Arm Drag",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -19028,7 +19028,7 @@
                     "levelCap": 10,
                     "cost": 11,
                     "gemType": "Green",
-                    "name": "Sleeper Hold",
+                    "name": "DDT",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -19106,7 +19106,7 @@
                     "levelCap": 10,
                     "cost": 7,
                     "gemType": "Yellow",
-                    "name": "Scoop Slam",
+                    "name": "Sleeper Hold",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -19184,7 +19184,7 @@
                     "levelCap": 10,
                     "cost": 7,
                     "gemType": "Black",
-                    "name": "Snake Eyes",
+                    "name": "Arm Wrench Clothesline",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -19262,7 +19262,7 @@
                     "levelCap": 10,
                     "cost": 9,
                     "gemType": "Green",
-                    "name": "Arm Drag",
+                    "name": "Snake Eyes",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -19339,7 +19339,7 @@
                     "levelCap": 10,
                     "cost": 8,
                     "gemType": "Yellow",
-                    "name": "Back Body Drop",
+                    "name": "Arm Drag",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -20985,7 +20985,7 @@
                     "levelCap": 10,
                     "cost": 11,
                     "gemType": "Green",
-                    "name": "Sleeper Hold",
+                    "name": "DDT",
                     "move": {
                         "ID": "GenericSubmission",
                         "Effects": [
@@ -21063,7 +21063,7 @@
                     "levelCap": 10,
                     "cost": 7,
                     "gemType": "Yellow",
-                    "name": "Scoop Slam",
+                    "name": "Sleeper Hold",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -21141,7 +21141,7 @@
                     "levelCap": 10,
                     "cost": 7,
                     "gemType": "Black",
-                    "name": "Snake Eyes",
+                    "name": "Arm Wrench Clothesline",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
@@ -21219,7 +21219,7 @@
                     "levelCap": 10,
                     "cost": 9,
                     "gemType": "Green",
-                    "name": "Arm Drag",
+                    "name": "Snake Eyes",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -21296,7 +21296,7 @@
                     "levelCap": 10,
                     "cost": 8,
                     "gemType": "Yellow",
-                    "name": "Back Body Drop",
+                    "name": "Arm Drag",
                     "move": {
                         "ID": "ModifyRandomGemsByModifier",
                         "Effects": [
