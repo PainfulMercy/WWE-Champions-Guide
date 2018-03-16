@@ -774,26 +774,26 @@
                         {
                             "level": 2,
                             "talentScore": 97,
-                            "text": "FINISHER! Deal 1235 plus 199 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='1235' data-variable-name='damage'>1235</span> plus <span data-variable-value='199' data-variable-name='val1'>199</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 1575 plus 199 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='1575' data-variable-name='damage'>1575</span> plus <span data-variable-value='199' data-variable-name='val1'>199</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "FINISHER! Deal 2008 plus 359 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='2008' data-variable-name='damage'>2008</span> plus <span data-variable-value='359' data-variable-name='val1'>359</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 2689 plus 359 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='2689' data-variable-name='damage'>2689</span> plus <span data-variable-value='359' data-variable-name='val1'>359</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "FINISHER! Deal 2781 plus 520 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='2781' data-variable-name='damage'>2781</span> plus <span data-variable-value='520' data-variable-name='val1'>520</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 3803 plus 520 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='3803' data-variable-name='damage'>3803</span> plus <span data-variable-value='520' data-variable-name='val1'>520</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "FINISHER! Deal 3554 plus 680 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3554' data-variable-name='damage'>3554</span> plus <span data-variable-value='680' data-variable-name='val1'>680</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 4917 plus 680 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='4917' data-variable-name='damage'>4917</span> plus <span data-variable-value='680' data-variable-name='val1'>680</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         }
                     ]
                 },
@@ -909,26 +909,26 @@
                         {
                             "level": 2,
                             "talentScore": 97,
-                            "text": "Deal 812 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
-                            "html": "Deal <span data-variable-value='812' data-variable-name='damage'>812</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
+                            "text": "Deal 997 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='997' data-variable-name='damage'>997</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "Deal 1285 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
-                            "html": "Deal <span data-variable-value='1285' data-variable-name='damage'>1285</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
+                            "text": "Deal 1655 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='1655' data-variable-name='damage'>1655</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 1758 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
-                            "html": "Deal <span data-variable-value='1758' data-variable-name='damage'>1758</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
+                            "text": "Deal 2313 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='2313' data-variable-name='damage'>2313</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "Deal 2231 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
-                            "html": "Deal <span data-variable-value='2231' data-variable-name='damage'>2231</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
+                            "text": "Deal 2971 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='2971' data-variable-name='damage'>2971</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         }
                     ]
                 }
@@ -1484,26 +1484,26 @@
                         {
                             "level": 2,
                             "talentScore": 97,
-                            "text": "FINISHER! Deal 1235 plus 199 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='1235' data-variable-name='damage'>1235</span> plus <span data-variable-value='199' data-variable-name='val1'>199</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 1575 plus 199 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='1575' data-variable-name='damage'>1575</span> plus <span data-variable-value='199' data-variable-name='val1'>199</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "FINISHER! Deal 2008 plus 359 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='2008' data-variable-name='damage'>2008</span> plus <span data-variable-value='359' data-variable-name='val1'>359</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 2689 plus 359 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='2689' data-variable-name='damage'>2689</span> plus <span data-variable-value='359' data-variable-name='val1'>359</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "FINISHER! Deal 2781 plus 520 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='2781' data-variable-name='damage'>2781</span> plus <span data-variable-value='520' data-variable-name='val1'>520</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 3803 plus 520 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='3803' data-variable-name='damage'>3803</span> plus <span data-variable-value='520' data-variable-name='val1'>520</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "FINISHER! Deal 3554 plus 680 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3554' data-variable-name='damage'>3554</span> plus <span data-variable-value='680' data-variable-name='val1'>680</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 4917 plus 680 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='4917' data-variable-name='damage'>4917</span> plus <span data-variable-value='680' data-variable-name='val1'>680</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         }
                     ]
                 },
@@ -1619,26 +1619,26 @@
                         {
                             "level": 2,
                             "talentScore": 97,
-                            "text": "Deal 812 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
-                            "html": "Deal <span data-variable-value='812' data-variable-name='damage'>812</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
+                            "text": "Deal 997 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='997' data-variable-name='damage'>997</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "Deal 1285 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
-                            "html": "Deal <span data-variable-value='1285' data-variable-name='damage'>1285</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
+                            "text": "Deal 1655 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='1655' data-variable-name='damage'>1655</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 1758 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
-                            "html": "Deal <span data-variable-value='1758' data-variable-name='damage'>1758</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
+                            "text": "Deal 2313 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='2313' data-variable-name='damage'>2313</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "Deal 2231 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
-                            "html": "Deal <span data-variable-value='2231' data-variable-name='damage'>2231</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
+                            "text": "Deal 2971 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='2971' data-variable-name='damage'>2971</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         }
                     ]
                 }
@@ -2947,7 +2947,7 @@
                 {
                     "ID": "ABL_HHH_KoK_3Star_05",
                     "levelCap": 8,
-                    "cost": 6,
+                    "cost": 8,
                     "gemType": "Yellow",
                     "name": "Jawbreaker",
                     "move": {
@@ -4315,7 +4315,7 @@
                 {
                     "ID": "ABL_HHH_KoK_3Star_05",
                     "levelCap": 8,
-                    "cost": 6,
+                    "cost": 8,
                     "gemType": "Yellow",
                     "name": "Jawbreaker",
                     "move": {
@@ -5683,7 +5683,7 @@
                 {
                     "ID": "ABL_HHH_KoK_3Star_05",
                     "levelCap": 8,
-                    "cost": 6,
+                    "cost": 8,
                     "gemType": "Yellow",
                     "name": "Jawbreaker",
                     "move": {
@@ -6804,32 +6804,32 @@
                         {
                             "level": 2,
                             "talentScore": 97,
-                            "text": "FINISHER! Deal 1235 plus 199 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='1235' data-variable-name='damage'>1235</span> plus <span data-variable-value='199' data-variable-name='val1'>199</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 1575 plus 199 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='1575' data-variable-name='damage'>1575</span> plus <span data-variable-value='199' data-variable-name='val1'>199</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "FINISHER! Deal 2008 plus 359 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='2008' data-variable-name='damage'>2008</span> plus <span data-variable-value='359' data-variable-name='val1'>359</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 2689 plus 359 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='2689' data-variable-name='damage'>2689</span> plus <span data-variable-value='359' data-variable-name='val1'>359</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "FINISHER! Deal 2781 plus 520 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='2781' data-variable-name='damage'>2781</span> plus <span data-variable-value='520' data-variable-name='val1'>520</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 3803 plus 520 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='3803' data-variable-name='damage'>3803</span> plus <span data-variable-value='520' data-variable-name='val1'>520</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "FINISHER! Deal 3554 plus 680 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3554' data-variable-name='damage'>3554</span> plus <span data-variable-value='680' data-variable-name='val1'>680</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 4917 plus 680 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='4917' data-variable-name='damage'>4917</span> plus <span data-variable-value='680' data-variable-name='val1'>680</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "FINISHER! Deal 4327 plus 840 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='4327' data-variable-name='damage'>4327</span> plus <span data-variable-value='840' data-variable-name='val1'>840</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 6031 plus 840 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='6031' data-variable-name='damage'>6031</span> plus <span data-variable-value='840' data-variable-name='val1'>840</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         }
                     ]
                 },
@@ -6957,32 +6957,32 @@
                         {
                             "level": 2,
                             "talentScore": 97,
-                            "text": "Deal 812 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
-                            "html": "Deal <span data-variable-value='812' data-variable-name='damage'>812</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
+                            "text": "Deal 997 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='997' data-variable-name='damage'>997</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "Deal 1285 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
-                            "html": "Deal <span data-variable-value='1285' data-variable-name='damage'>1285</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
+                            "text": "Deal 1655 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='1655' data-variable-name='damage'>1655</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 1758 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
-                            "html": "Deal <span data-variable-value='1758' data-variable-name='damage'>1758</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
+                            "text": "Deal 2313 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='2313' data-variable-name='damage'>2313</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "Deal 2231 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
-                            "html": "Deal <span data-variable-value='2231' data-variable-name='damage'>2231</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
+                            "text": "Deal 2971 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='2971' data-variable-name='damage'>2971</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "Deal 2704 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
-                            "html": "Deal <span data-variable-value='2704' data-variable-name='damage'>2704</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
+                            "text": "Deal 3629 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='3629' data-variable-name='damage'>3629</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         }
                     ]
                 }
@@ -7668,32 +7668,32 @@
                         {
                             "level": 2,
                             "talentScore": 97,
-                            "text": "FINISHER! Deal 1235 plus 199 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='1235' data-variable-name='damage'>1235</span> plus <span data-variable-value='199' data-variable-name='val1'>199</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 1575 plus 199 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='1575' data-variable-name='damage'>1575</span> plus <span data-variable-value='199' data-variable-name='val1'>199</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "FINISHER! Deal 2008 plus 359 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='2008' data-variable-name='damage'>2008</span> plus <span data-variable-value='359' data-variable-name='val1'>359</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 2689 plus 359 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='2689' data-variable-name='damage'>2689</span> plus <span data-variable-value='359' data-variable-name='val1'>359</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "FINISHER! Deal 2781 plus 520 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='2781' data-variable-name='damage'>2781</span> plus <span data-variable-value='520' data-variable-name='val1'>520</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 3803 plus 520 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='3803' data-variable-name='damage'>3803</span> plus <span data-variable-value='520' data-variable-name='val1'>520</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "FINISHER! Deal 3554 plus 680 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3554' data-variable-name='damage'>3554</span> plus <span data-variable-value='680' data-variable-name='val1'>680</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 4917 plus 680 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='4917' data-variable-name='damage'>4917</span> plus <span data-variable-value='680' data-variable-name='val1'>680</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "FINISHER! Deal 4327 plus 840 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='4327' data-variable-name='damage'>4327</span> plus <span data-variable-value='840' data-variable-name='val1'>840</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 6031 plus 840 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='6031' data-variable-name='damage'>6031</span> plus <span data-variable-value='840' data-variable-name='val1'>840</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         }
                     ]
                 },
@@ -7821,32 +7821,32 @@
                         {
                             "level": 2,
                             "talentScore": 97,
-                            "text": "Deal 812 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
-                            "html": "Deal <span data-variable-value='812' data-variable-name='damage'>812</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
+                            "text": "Deal 997 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='997' data-variable-name='damage'>997</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "Deal 1285 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
-                            "html": "Deal <span data-variable-value='1285' data-variable-name='damage'>1285</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
+                            "text": "Deal 1655 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='1655' data-variable-name='damage'>1655</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 1758 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
-                            "html": "Deal <span data-variable-value='1758' data-variable-name='damage'>1758</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
+                            "text": "Deal 2313 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='2313' data-variable-name='damage'>2313</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "Deal 2231 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
-                            "html": "Deal <span data-variable-value='2231' data-variable-name='damage'>2231</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
+                            "text": "Deal 2971 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='2971' data-variable-name='damage'>2971</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "Deal 2704 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
-                            "html": "Deal <span data-variable-value='2704' data-variable-name='damage'>2704</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
+                            "text": "Deal 3629 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='3629' data-variable-name='damage'>3629</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         }
                     ]
                 }
@@ -9439,7 +9439,7 @@
                 {
                     "ID": "ABL_HHH_KoK_3Star_05",
                     "levelCap": 9,
-                    "cost": 6,
+                    "cost": 8,
                     "gemType": "Yellow",
                     "name": "Jawbreaker",
                     "move": {
@@ -11097,7 +11097,7 @@
                 {
                     "ID": "ABL_HHH_KoK_3Star_05",
                     "levelCap": 9,
-                    "cost": 6,
+                    "cost": 8,
                     "gemType": "Yellow",
                     "name": "Jawbreaker",
                     "move": {
@@ -12755,7 +12755,7 @@
                 {
                     "ID": "ABL_HHH_KoK_3Star_05",
                     "levelCap": 9,
-                    "cost": 6,
+                    "cost": 8,
                     "gemType": "Yellow",
                     "name": "Jawbreaker",
                     "move": {
@@ -14160,38 +14160,38 @@
                         {
                             "level": 2,
                             "talentScore": 97,
-                            "text": "FINISHER! Deal 1235 plus 199 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='1235' data-variable-name='damage'>1235</span> plus <span data-variable-value='199' data-variable-name='val1'>199</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 1575 plus 199 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='1575' data-variable-name='damage'>1575</span> plus <span data-variable-value='199' data-variable-name='val1'>199</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "FINISHER! Deal 2008 plus 359 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='2008' data-variable-name='damage'>2008</span> plus <span data-variable-value='359' data-variable-name='val1'>359</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 2689 plus 359 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='2689' data-variable-name='damage'>2689</span> plus <span data-variable-value='359' data-variable-name='val1'>359</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "FINISHER! Deal 2781 plus 520 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='2781' data-variable-name='damage'>2781</span> plus <span data-variable-value='520' data-variable-name='val1'>520</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 3803 plus 520 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='3803' data-variable-name='damage'>3803</span> plus <span data-variable-value='520' data-variable-name='val1'>520</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "FINISHER! Deal 3554 plus 680 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3554' data-variable-name='damage'>3554</span> plus <span data-variable-value='680' data-variable-name='val1'>680</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 4917 plus 680 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='4917' data-variable-name='damage'>4917</span> plus <span data-variable-value='680' data-variable-name='val1'>680</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "FINISHER! Deal 4327 plus 840 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='4327' data-variable-name='damage'>4327</span> plus <span data-variable-value='840' data-variable-name='val1'>840</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 6031 plus 840 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='6031' data-variable-name='damage'>6031</span> plus <span data-variable-value='840' data-variable-name='val1'>840</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 7,
                             "talentScore": 439,
-                            "text": "FINISHER! Deal 5101 plus 1001 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='5101' data-variable-name='damage'>5101</span> plus <span data-variable-value='1001' data-variable-name='val1'>1001</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 7145 plus 1001 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='7145' data-variable-name='damage'>7145</span> plus <span data-variable-value='1001' data-variable-name='val1'>1001</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         }
                     ]
                 },
@@ -14331,38 +14331,38 @@
                         {
                             "level": 2,
                             "talentScore": 97,
-                            "text": "Deal 812 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
-                            "html": "Deal <span data-variable-value='812' data-variable-name='damage'>812</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
+                            "text": "Deal 997 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='997' data-variable-name='damage'>997</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "Deal 1285 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
-                            "html": "Deal <span data-variable-value='1285' data-variable-name='damage'>1285</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
+                            "text": "Deal 1655 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='1655' data-variable-name='damage'>1655</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 1758 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
-                            "html": "Deal <span data-variable-value='1758' data-variable-name='damage'>1758</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
+                            "text": "Deal 2313 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='2313' data-variable-name='damage'>2313</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "Deal 2231 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
-                            "html": "Deal <span data-variable-value='2231' data-variable-name='damage'>2231</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
+                            "text": "Deal 2971 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='2971' data-variable-name='damage'>2971</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "Deal 2704 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
-                            "html": "Deal <span data-variable-value='2704' data-variable-name='damage'>2704</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
+                            "text": "Deal 3629 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='3629' data-variable-name='damage'>3629</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 7,
                             "talentScore": 439,
-                            "text": "Deal 3177 Damage and Choose a 2 x 2 area to Swap into Yellow Gems!",
-                            "html": "Deal <span data-variable-value='3177' data-variable-name='damage'>3177</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
+                            "text": "Deal 4288 Damage and Choose a 2 x 2 area to Swap into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='4288' data-variable-name='damage'>4288</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         }
                     ]
                 }
@@ -15178,38 +15178,38 @@
                         {
                             "level": 2,
                             "talentScore": 97,
-                            "text": "FINISHER! Deal 1235 plus 199 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='1235' data-variable-name='damage'>1235</span> plus <span data-variable-value='199' data-variable-name='val1'>199</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 1575 plus 199 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='1575' data-variable-name='damage'>1575</span> plus <span data-variable-value='199' data-variable-name='val1'>199</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "FINISHER! Deal 2008 plus 359 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='2008' data-variable-name='damage'>2008</span> plus <span data-variable-value='359' data-variable-name='val1'>359</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 2689 plus 359 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='2689' data-variable-name='damage'>2689</span> plus <span data-variable-value='359' data-variable-name='val1'>359</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "FINISHER! Deal 2781 plus 520 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='2781' data-variable-name='damage'>2781</span> plus <span data-variable-value='520' data-variable-name='val1'>520</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 3803 plus 520 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='3803' data-variable-name='damage'>3803</span> plus <span data-variable-value='520' data-variable-name='val1'>520</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "FINISHER! Deal 3554 plus 680 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='3554' data-variable-name='damage'>3554</span> plus <span data-variable-value='680' data-variable-name='val1'>680</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 4917 plus 680 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='4917' data-variable-name='damage'>4917</span> plus <span data-variable-value='680' data-variable-name='val1'>680</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "FINISHER! Deal 4327 plus 840 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='4327' data-variable-name='damage'>4327</span> plus <span data-variable-value='840' data-variable-name='val1'>840</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 6031 plus 840 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='6031' data-variable-name='damage'>6031</span> plus <span data-variable-value='840' data-variable-name='val1'>840</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         },
                         {
                             "level": 7,
                             "talentScore": 439,
-                            "text": "FINISHER! Deal 5101 plus 1001 Bonus Damage for every Reinforce Gem and PIN the opponent!",
-                            "html": "FINISHER! Deal <span data-variable-value='5101' data-variable-name='damage'>5101</span> plus <span data-variable-value='1001' data-variable-name='val1'>1001</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
+                            "text": "FINISHER! Deal 7145 plus 1001 Bonus Damage for every Reinforce Gem and PIN the opponent!",
+                            "html": "FINISHER! Deal <span data-variable-value='7145' data-variable-name='damage'>7145</span> plus <span data-variable-value='1001' data-variable-name='val1'>1001</span> Bonus Damage for every <span data-variable-value='Reinforced' data-variable-name='min2'>Reinforce</span> Gem and PIN the opponent!"
                         }
                     ]
                 },
@@ -15349,38 +15349,38 @@
                         {
                             "level": 2,
                             "talentScore": 97,
-                            "text": "Deal 812 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
-                            "html": "Deal <span data-variable-value='812' data-variable-name='damage'>812</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
+                            "text": "Deal 997 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='997' data-variable-name='damage'>997</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "Deal 1285 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
-                            "html": "Deal <span data-variable-value='1285' data-variable-name='damage'>1285</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
+                            "text": "Deal 1655 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='1655' data-variable-name='damage'>1655</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 1758 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
-                            "html": "Deal <span data-variable-value='1758' data-variable-name='damage'>1758</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
+                            "text": "Deal 2313 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='2313' data-variable-name='damage'>2313</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "Deal 2231 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
-                            "html": "Deal <span data-variable-value='2231' data-variable-name='damage'>2231</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
+                            "text": "Deal 2971 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='2971' data-variable-name='damage'>2971</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "Deal 2704 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
-                            "html": "Deal <span data-variable-value='2704' data-variable-name='damage'>2704</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
+                            "text": "Deal 3629 Damage and Choose a 1 x 2 area to Swap into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='3629' data-variable-name='damage'>3629</span> Damage and Choose a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 7,
                             "talentScore": 439,
-                            "text": "Deal 3177 Damage and Choose a 2 x 2 area to Swap into Yellow Gems!",
-                            "html": "Deal <span data-variable-value='3177' data-variable-name='damage'>3177</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
+                            "text": "Deal 4288 Damage and Choose a 2 x 2 area to Swap into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='4288' data-variable-name='damage'>4288</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> area to Swap into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         }
                     ]
                 }
@@ -17257,7 +17257,7 @@
                 {
                     "ID": "ABL_HHH_KoK_3Star_05",
                     "levelCap": 10,
-                    "cost": 6,
+                    "cost": 8,
                     "gemType": "Yellow",
                     "name": "Jawbreaker",
                     "move": {
@@ -19205,7 +19205,7 @@
                 {
                     "ID": "ABL_HHH_KoK_3Star_05",
                     "levelCap": 10,
-                    "cost": 6,
+                    "cost": 8,
                     "gemType": "Yellow",
                     "name": "Jawbreaker",
                     "move": {
@@ -21153,7 +21153,7 @@
                 {
                     "ID": "ABL_HHH_KoK_3Star_05",
                     "levelCap": 10,
-                    "cost": 6,
+                    "cost": 8,
                     "gemType": "Yellow",
                     "name": "Jawbreaker",
                     "move": {
