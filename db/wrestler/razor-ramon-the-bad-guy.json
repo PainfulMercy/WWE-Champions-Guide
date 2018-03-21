@@ -902,7 +902,8 @@
                         "ID": "ChooseAreaAndModify",
                         "Effects": [
                             "MoveEffectImprove",
-                            "GenerateArea"
+                            "GenerateArea",
+                            "GemEffectImprove"
                         ],
                         "AffectedValueID": "min3"
                     },
@@ -1619,7 +1620,8 @@
                         "ID": "ChooseAreaAndModify",
                         "Effects": [
                             "MoveEffectImprove",
-                            "GenerateArea"
+                            "GenerateArea",
+                            "GemEffectImprove"
                         ],
                         "AffectedValueID": "min3"
                     },
@@ -2910,7 +2912,8 @@
                         "ID": "ChooseAreaAndModify",
                         "Effects": [
                             "MoveEffectImprove",
-                            "GenerateArea"
+                            "GenerateArea",
+                            "GemEffectImprove"
                         ],
                         "AffectedValueID": "min3"
                     },
@@ -4285,7 +4288,8 @@
                         "ID": "ChooseAreaAndModify",
                         "Effects": [
                             "MoveEffectImprove",
-                            "GenerateArea"
+                            "GenerateArea",
+                            "GemEffectImprove"
                         ],
                         "AffectedValueID": "min3"
                     },
@@ -5660,7 +5664,8 @@
                         "ID": "ChooseAreaAndModify",
                         "Effects": [
                             "MoveEffectImprove",
-                            "GenerateArea"
+                            "GenerateArea",
+                            "GemEffectImprove"
                         ],
                         "AffectedValueID": "min3"
                     },
@@ -6985,7 +6990,8 @@
                         "ID": "ChooseAreaAndModify",
                         "Effects": [
                             "MoveEffectImprove",
-                            "GenerateArea"
+                            "GenerateArea",
+                            "GemEffectImprove"
                         ],
                         "AffectedValueID": "min3"
                     },
@@ -7856,7 +7862,8 @@
                         "ID": "ChooseAreaAndModify",
                         "Effects": [
                             "MoveEffectImprove",
-                            "GenerateArea"
+                            "GenerateArea",
+                            "GemEffectImprove"
                         ],
                         "AffectedValueID": "min3"
                     },
@@ -9431,7 +9438,8 @@
                         "ID": "ChooseAreaAndModify",
                         "Effects": [
                             "MoveEffectImprove",
-                            "GenerateArea"
+                            "GenerateArea",
+                            "GemEffectImprove"
                         ],
                         "AffectedValueID": "min3"
                     },
@@ -11096,7 +11104,8 @@
                         "ID": "ChooseAreaAndModify",
                         "Effects": [
                             "MoveEffectImprove",
-                            "GenerateArea"
+                            "GenerateArea",
+                            "GemEffectImprove"
                         ],
                         "AffectedValueID": "min3"
                     },
@@ -12761,7 +12770,8 @@
                         "ID": "ChooseAreaAndModify",
                         "Effects": [
                             "MoveEffectImprove",
-                            "GenerateArea"
+                            "GenerateArea",
+                            "GemEffectImprove"
                         ],
                         "AffectedValueID": "min3"
                     },
@@ -14394,7 +14404,8 @@
                         "ID": "ChooseAreaAndModify",
                         "Effects": [
                             "MoveEffectImprove",
-                            "GenerateArea"
+                            "GenerateArea",
+                            "GemEffectImprove"
                         ],
                         "AffectedValueID": "min3"
                     },
@@ -15419,7 +15430,8 @@
                         "ID": "ChooseAreaAndModify",
                         "Effects": [
                             "MoveEffectImprove",
-                            "GenerateArea"
+                            "GenerateArea",
+                            "GemEffectImprove"
                         ],
                         "AffectedValueID": "min3"
                     },
@@ -17278,7 +17290,8 @@
                         "ID": "ChooseAreaAndModify",
                         "Effects": [
                             "MoveEffectImprove",
-                            "GenerateArea"
+                            "GenerateArea",
+                            "GemEffectImprove"
                         ],
                         "AffectedValueID": "min3"
                     },
@@ -19233,7 +19246,8 @@
                         "ID": "ChooseAreaAndModify",
                         "Effects": [
                             "MoveEffectImprove",
-                            "GenerateArea"
+                            "GenerateArea",
+                            "GemEffectImprove"
                         ],
                         "AffectedValueID": "min3"
                     },
@@ -21188,7 +21202,8 @@
                         "ID": "ChooseAreaAndModify",
                         "Effects": [
                             "MoveEffectImprove",
-                            "GenerateArea"
+                            "GenerateArea",
+                            "GemEffectImprove"
                         ],
                         "AffectedValueID": "min3"
                     },
