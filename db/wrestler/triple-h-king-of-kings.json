@@ -168,7 +168,7 @@
                     "levelCap": 2,
                     "cost": 6,
                     "gemType": "Green",
-                    "name": "Spinebuster",
+                    "name": "Sledge Body Shot",
                     "move": {
                         "ID": "ModifyRandomArea",
                         "Effects": [
@@ -198,7 +198,7 @@
                     "levelCap": 2,
                     "cost": 7,
                     "gemType": "Red",
-                    "name": "Flowing DDT",
+                    "name": "Spinebuster",
                     "move": {
                         "ID": "SwapRandomGems",
                         "Effects": [
@@ -802,7 +802,7 @@
                     "levelCap": 5,
                     "cost": 6,
                     "gemType": "Green",
-                    "name": "Spinebuster",
+                    "name": "Sledge Body Shot",
                     "move": {
                         "ID": "ModifyRandomArea",
                         "Effects": [
@@ -850,7 +850,7 @@
                     "levelCap": 5,
                     "cost": 7,
                     "gemType": "Red",
-                    "name": "Flowing DDT",
+                    "name": "Spinebuster",
                     "move": {
                         "ID": "SwapRandomGems",
                         "Effects": [
@@ -1512,7 +1512,7 @@
                     "levelCap": 5,
                     "cost": 6,
                     "gemType": "Green",
-                    "name": "Spinebuster",
+                    "name": "Sledge Body Shot",
                     "move": {
                         "ID": "ModifyRandomArea",
                         "Effects": [
@@ -1560,7 +1560,7 @@
                     "levelCap": 5,
                     "cost": 7,
                     "gemType": "Red",
-                    "name": "Flowing DDT",
+                    "name": "Spinebuster",
                     "move": {
                         "ID": "SwapRandomGems",
                         "Effects": [
@@ -2760,7 +2760,7 @@
                     "levelCap": 8,
                     "cost": 6,
                     "gemType": "Green",
-                    "name": "Spinebuster",
+                    "name": "Sledge Body Shot",
                     "move": {
                         "ID": "ModifyRandomArea",
                         "Effects": [
@@ -2826,7 +2826,7 @@
                     "levelCap": 8,
                     "cost": 7,
                     "gemType": "Red",
-                    "name": "Flowing DDT",
+                    "name": "Spinebuster",
                     "move": {
                         "ID": "SwapRandomGems",
                         "Effects": [
@@ -4128,7 +4128,7 @@
                     "levelCap": 8,
                     "cost": 6,
                     "gemType": "Green",
-                    "name": "Spinebuster",
+                    "name": "Sledge Body Shot",
                     "move": {
                         "ID": "ModifyRandomArea",
                         "Effects": [
@@ -4194,7 +4194,7 @@
                     "levelCap": 8,
                     "cost": 7,
                     "gemType": "Red",
-                    "name": "Flowing DDT",
+                    "name": "Spinebuster",
                     "move": {
                         "ID": "SwapRandomGems",
                         "Effects": [
@@ -5496,7 +5496,7 @@
                     "levelCap": 8,
                     "cost": 6,
                     "gemType": "Green",
-                    "name": "Spinebuster",
+                    "name": "Sledge Body Shot",
                     "move": {
                         "ID": "ModifyRandomArea",
                         "Effects": [
@@ -5562,7 +5562,7 @@
                     "levelCap": 8,
                     "cost": 7,
                     "gemType": "Red",
-                    "name": "Flowing DDT",
+                    "name": "Spinebuster",
                     "move": {
                         "ID": "SwapRandomGems",
                         "Effects": [
@@ -6056,7 +6056,7 @@
                     "levelCap": 3,
                     "cost": 6,
                     "gemType": "Green",
-                    "name": "Spinebuster",
+                    "name": "Sledge Body Shot",
                     "move": {
                         "ID": "ModifyRandomArea",
                         "Effects": [
@@ -6092,7 +6092,7 @@
                     "levelCap": 3,
                     "cost": 7,
                     "gemType": "Red",
-                    "name": "Flowing DDT",
+                    "name": "Spinebuster",
                     "move": {
                         "ID": "SwapRandomGems",
                         "Effects": [
@@ -6838,7 +6838,7 @@
                     "levelCap": 6,
                     "cost": 6,
                     "gemType": "Green",
-                    "name": "Spinebuster",
+                    "name": "Sledge Body Shot",
                     "move": {
                         "ID": "ModifyRandomArea",
                         "Effects": [
@@ -6892,7 +6892,7 @@
                     "levelCap": 6,
                     "cost": 7,
                     "gemType": "Red",
-                    "name": "Flowing DDT",
+                    "name": "Spinebuster",
                     "move": {
                         "ID": "SwapRandomGems",
                         "Effects": [
@@ -7702,7 +7702,7 @@
                     "levelCap": 6,
                     "cost": 6,
                     "gemType": "Green",
-                    "name": "Spinebuster",
+                    "name": "Sledge Body Shot",
                     "move": {
                         "ID": "ModifyRandomArea",
                         "Effects": [
@@ -7756,7 +7756,7 @@
                     "levelCap": 6,
                     "cost": 7,
                     "gemType": "Red",
-                    "name": "Flowing DDT",
+                    "name": "Spinebuster",
                     "move": {
                         "ID": "SwapRandomGems",
                         "Effects": [
@@ -9234,7 +9234,7 @@
                     "levelCap": 9,
                     "cost": 6,
                     "gemType": "Green",
-                    "name": "Spinebuster",
+                    "name": "Sledge Body Shot",
                     "move": {
                         "ID": "ModifyRandomArea",
                         "Effects": [
@@ -9306,7 +9306,7 @@
                     "levelCap": 9,
                     "cost": 7,
                     "gemType": "Red",
-                    "name": "Flowing DDT",
+                    "name": "Spinebuster",
                     "move": {
                         "ID": "SwapRandomGems",
                         "Effects": [
@@ -10892,7 +10892,7 @@
                     "levelCap": 9,
                     "cost": 6,
                     "gemType": "Green",
-                    "name": "Spinebuster",
+                    "name": "Sledge Body Shot",
                     "move": {
                         "ID": "ModifyRandomArea",
                         "Effects": [
@@ -10964,7 +10964,7 @@
                     "levelCap": 9,
                     "cost": 7,
                     "gemType": "Red",
-                    "name": "Flowing DDT",
+                    "name": "Spinebuster",
                     "move": {
                         "ID": "SwapRandomGems",
                         "Effects": [
@@ -12550,7 +12550,7 @@
                     "levelCap": 9,
                     "cost": 6,
                     "gemType": "Green",
-                    "name": "Spinebuster",
+                    "name": "Sledge Body Shot",
                     "move": {
                         "ID": "ModifyRandomArea",
                         "Effects": [
@@ -12622,7 +12622,7 @@
                     "levelCap": 9,
                     "cost": 7,
                     "gemType": "Red",
-                    "name": "Flowing DDT",
+                    "name": "Spinebuster",
                     "move": {
                         "ID": "SwapRandomGems",
                         "Effects": [
@@ -13270,7 +13270,7 @@
                     "levelCap": 4,
                     "cost": 6,
                     "gemType": "Green",
-                    "name": "Spinebuster",
+                    "name": "Sledge Body Shot",
                     "move": {
                         "ID": "ModifyRandomArea",
                         "Effects": [
@@ -13312,7 +13312,7 @@
                     "levelCap": 4,
                     "cost": 7,
                     "gemType": "Red",
-                    "name": "Flowing DDT",
+                    "name": "Spinebuster",
                     "move": {
                         "ID": "SwapRandomGems",
                         "Effects": [
@@ -14200,7 +14200,7 @@
                     "levelCap": 7,
                     "cost": 6,
                     "gemType": "Green",
-                    "name": "Spinebuster",
+                    "name": "Sledge Body Shot",
                     "move": {
                         "ID": "ModifyRandomArea",
                         "Effects": [
@@ -14260,7 +14260,7 @@
                     "levelCap": 7,
                     "cost": 7,
                     "gemType": "Red",
-                    "name": "Flowing DDT",
+                    "name": "Spinebuster",
                     "move": {
                         "ID": "SwapRandomGems",
                         "Effects": [
@@ -15218,7 +15218,7 @@
                     "levelCap": 7,
                     "cost": 6,
                     "gemType": "Green",
-                    "name": "Spinebuster",
+                    "name": "Sledge Body Shot",
                     "move": {
                         "ID": "ModifyRandomArea",
                         "Effects": [
@@ -15278,7 +15278,7 @@
                     "levelCap": 7,
                     "cost": 7,
                     "gemType": "Red",
-                    "name": "Flowing DDT",
+                    "name": "Spinebuster",
                     "move": {
                         "ID": "SwapRandomGems",
                         "Effects": [
@@ -17034,7 +17034,7 @@
                     "levelCap": 10,
                     "cost": 6,
                     "gemType": "Green",
-                    "name": "Spinebuster",
+                    "name": "Sledge Body Shot",
                     "move": {
                         "ID": "ModifyRandomArea",
                         "Effects": [
@@ -17112,7 +17112,7 @@
                     "levelCap": 10,
                     "cost": 7,
                     "gemType": "Red",
-                    "name": "Flowing DDT",
+                    "name": "Spinebuster",
                     "move": {
                         "ID": "SwapRandomGems",
                         "Effects": [
@@ -18982,7 +18982,7 @@
                     "levelCap": 10,
                     "cost": 6,
                     "gemType": "Green",
-                    "name": "Spinebuster",
+                    "name": "Sledge Body Shot",
                     "move": {
                         "ID": "ModifyRandomArea",
                         "Effects": [
@@ -19060,7 +19060,7 @@
                     "levelCap": 10,
                     "cost": 7,
                     "gemType": "Red",
-                    "name": "Flowing DDT",
+                    "name": "Spinebuster",
                     "move": {
                         "ID": "SwapRandomGems",
                         "Effects": [
@@ -20930,7 +20930,7 @@
                     "levelCap": 10,
                     "cost": 6,
                     "gemType": "Green",
-                    "name": "Spinebuster",
+                    "name": "Sledge Body Shot",
                     "move": {
                         "ID": "ModifyRandomArea",
                         "Effects": [
@@ -21008,7 +21008,7 @@
                     "levelCap": 10,
                     "cost": 7,
                     "gemType": "Red",
-                    "name": "Flowing DDT",
+                    "name": "Spinebuster",
                     "move": {
                         "ID": "SwapRandomGems",
                         "Effects": [

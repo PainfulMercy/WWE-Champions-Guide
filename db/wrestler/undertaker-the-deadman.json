@@ -2967,50 +2967,50 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 385 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='385' data-variable-name='damage'>385</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 385 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='385' data-variable-name='damage'>385</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1087 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='1087' data-variable-name='damage'>1087</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 1087 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='1087' data-variable-name='damage'>1087</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 1790 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='1790' data-variable-name='damage'>1790</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 1790 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='1790' data-variable-name='damage'>1790</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 2493 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='2493' data-variable-name='damage'>2493</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 2493 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='2493' data-variable-name='damage'>2493</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 3195 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='3195' data-variable-name='damage'>3195</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 3195 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='3195' data-variable-name='damage'>3195</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 3898 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='3898' data-variable-name='damage'>3898</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 3898 Damage and Choose a 3 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='3898' data-variable-name='damage'>3898</span> Damage and Choose a <span data-variable-value='3' data-variable-name='val1'>3</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 4601 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='4601' data-variable-name='damage'>4601</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 4601 Damage and Choose a 3 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='4601' data-variable-name='damage'>4601</span> Damage and Choose a <span data-variable-value='3' data-variable-name='val1'>3</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 5303 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='5303' data-variable-name='damage'>5303</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 5303 Damage and Choose a 3 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='5303' data-variable-name='damage'>5303</span> Damage and Choose a <span data-variable-value='3' data-variable-name='val1'>3</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         }
                     ]
                 }
@@ -4332,50 +4332,50 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 385 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='385' data-variable-name='damage'>385</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 385 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='385' data-variable-name='damage'>385</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1087 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='1087' data-variable-name='damage'>1087</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 1087 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='1087' data-variable-name='damage'>1087</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 1790 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='1790' data-variable-name='damage'>1790</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 1790 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='1790' data-variable-name='damage'>1790</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 2493 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='2493' data-variable-name='damage'>2493</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 2493 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='2493' data-variable-name='damage'>2493</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 3195 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='3195' data-variable-name='damage'>3195</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 3195 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='3195' data-variable-name='damage'>3195</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 3898 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='3898' data-variable-name='damage'>3898</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 3898 Damage and Choose a 3 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='3898' data-variable-name='damage'>3898</span> Damage and Choose a <span data-variable-value='3' data-variable-name='val1'>3</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 4601 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='4601' data-variable-name='damage'>4601</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 4601 Damage and Choose a 3 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='4601' data-variable-name='damage'>4601</span> Damage and Choose a <span data-variable-value='3' data-variable-name='val1'>3</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 5303 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='5303' data-variable-name='damage'>5303</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 5303 Damage and Choose a 3 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='5303' data-variable-name='damage'>5303</span> Damage and Choose a <span data-variable-value='3' data-variable-name='val1'>3</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         }
                     ]
                 }
@@ -5697,50 +5697,50 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 385 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='385' data-variable-name='damage'>385</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 385 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='385' data-variable-name='damage'>385</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1087 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='1087' data-variable-name='damage'>1087</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 1087 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='1087' data-variable-name='damage'>1087</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 1790 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='1790' data-variable-name='damage'>1790</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 1790 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='1790' data-variable-name='damage'>1790</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 2493 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='2493' data-variable-name='damage'>2493</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 2493 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='2493' data-variable-name='damage'>2493</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 3195 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='3195' data-variable-name='damage'>3195</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 3195 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='3195' data-variable-name='damage'>3195</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 3898 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='3898' data-variable-name='damage'>3898</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 3898 Damage and Choose a 3 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='3898' data-variable-name='damage'>3898</span> Damage and Choose a <span data-variable-value='3' data-variable-name='val1'>3</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 4601 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='4601' data-variable-name='damage'>4601</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 4601 Damage and Choose a 3 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='4601' data-variable-name='damage'>4601</span> Damage and Choose a <span data-variable-value='3' data-variable-name='val1'>3</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 5303 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='5303' data-variable-name='damage'>5303</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 5303 Damage and Choose a 3 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='5303' data-variable-name='damage'>5303</span> Damage and Choose a <span data-variable-value='3' data-variable-name='val1'>3</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         }
                     ]
                 }
@@ -9457,56 +9457,56 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 385 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='385' data-variable-name='damage'>385</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 385 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='385' data-variable-name='damage'>385</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1087 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='1087' data-variable-name='damage'>1087</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 1087 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='1087' data-variable-name='damage'>1087</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 1790 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='1790' data-variable-name='damage'>1790</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 1790 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='1790' data-variable-name='damage'>1790</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 2493 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='2493' data-variable-name='damage'>2493</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 2493 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='2493' data-variable-name='damage'>2493</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 3195 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='3195' data-variable-name='damage'>3195</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 3195 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='3195' data-variable-name='damage'>3195</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 3898 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='3898' data-variable-name='damage'>3898</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 3898 Damage and Choose a 3 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='3898' data-variable-name='damage'>3898</span> Damage and Choose a <span data-variable-value='3' data-variable-name='val1'>3</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 4601 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='4601' data-variable-name='damage'>4601</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 4601 Damage and Choose a 3 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='4601' data-variable-name='damage'>4601</span> Damage and Choose a <span data-variable-value='3' data-variable-name='val1'>3</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 5303 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='5303' data-variable-name='damage'>5303</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 5303 Damage and Choose a 3 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='5303' data-variable-name='damage'>5303</span> Damage and Choose a <span data-variable-value='3' data-variable-name='val1'>3</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 6006 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='6006' data-variable-name='damage'>6006</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 6006 Damage and Choose a 3 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='6006' data-variable-name='damage'>6006</span> Damage and Choose a <span data-variable-value='3' data-variable-name='val1'>3</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         }
                     ]
                 }
@@ -11112,56 +11112,56 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 385 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='385' data-variable-name='damage'>385</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 385 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='385' data-variable-name='damage'>385</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1087 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='1087' data-variable-name='damage'>1087</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 1087 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='1087' data-variable-name='damage'>1087</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 1790 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='1790' data-variable-name='damage'>1790</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 1790 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='1790' data-variable-name='damage'>1790</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 2493 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='2493' data-variable-name='damage'>2493</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 2493 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='2493' data-variable-name='damage'>2493</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 3195 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='3195' data-variable-name='damage'>3195</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 3195 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='3195' data-variable-name='damage'>3195</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 3898 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='3898' data-variable-name='damage'>3898</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 3898 Damage and Choose a 3 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='3898' data-variable-name='damage'>3898</span> Damage and Choose a <span data-variable-value='3' data-variable-name='val1'>3</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 4601 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='4601' data-variable-name='damage'>4601</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 4601 Damage and Choose a 3 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='4601' data-variable-name='damage'>4601</span> Damage and Choose a <span data-variable-value='3' data-variable-name='val1'>3</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 5303 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='5303' data-variable-name='damage'>5303</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 5303 Damage and Choose a 3 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='5303' data-variable-name='damage'>5303</span> Damage and Choose a <span data-variable-value='3' data-variable-name='val1'>3</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 6006 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='6006' data-variable-name='damage'>6006</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 6006 Damage and Choose a 3 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='6006' data-variable-name='damage'>6006</span> Damage and Choose a <span data-variable-value='3' data-variable-name='val1'>3</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         }
                     ]
                 }
@@ -12767,56 +12767,56 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 385 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='385' data-variable-name='damage'>385</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 385 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='385' data-variable-name='damage'>385</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1087 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='1087' data-variable-name='damage'>1087</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 1087 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='1087' data-variable-name='damage'>1087</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 1790 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='1790' data-variable-name='damage'>1790</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 1790 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='1790' data-variable-name='damage'>1790</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 2493 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='2493' data-variable-name='damage'>2493</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 2493 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='2493' data-variable-name='damage'>2493</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 3195 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='3195' data-variable-name='damage'>3195</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 3195 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='3195' data-variable-name='damage'>3195</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 3898 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='3898' data-variable-name='damage'>3898</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 3898 Damage and Choose a 3 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='3898' data-variable-name='damage'>3898</span> Damage and Choose a <span data-variable-value='3' data-variable-name='val1'>3</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 4601 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='4601' data-variable-name='damage'>4601</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 4601 Damage and Choose a 3 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='4601' data-variable-name='damage'>4601</span> Damage and Choose a <span data-variable-value='3' data-variable-name='val1'>3</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 5303 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='5303' data-variable-name='damage'>5303</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 5303 Damage and Choose a 3 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='5303' data-variable-name='damage'>5303</span> Damage and Choose a <span data-variable-value='3' data-variable-name='val1'>3</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 6006 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='6006' data-variable-name='damage'>6006</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 6006 Damage and Choose a 3 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='6006' data-variable-name='damage'>6006</span> Damage and Choose a <span data-variable-value='3' data-variable-name='val1'>3</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         }
                     ]
                 }
@@ -17273,56 +17273,56 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 385 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='385' data-variable-name='damage'>385</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 385 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='385' data-variable-name='damage'>385</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1087 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='1087' data-variable-name='damage'>1087</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 1087 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='1087' data-variable-name='damage'>1087</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 1790 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='1790' data-variable-name='damage'>1790</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 1790 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='1790' data-variable-name='damage'>1790</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 2493 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='2493' data-variable-name='damage'>2493</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 2493 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='2493' data-variable-name='damage'>2493</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 3195 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='3195' data-variable-name='damage'>3195</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 3195 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='3195' data-variable-name='damage'>3195</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 3898 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='3898' data-variable-name='damage'>3898</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 3898 Damage and Choose a 3 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='3898' data-variable-name='damage'>3898</span> Damage and Choose a <span data-variable-value='3' data-variable-name='val1'>3</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 4601 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='4601' data-variable-name='damage'>4601</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 4601 Damage and Choose a 3 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='4601' data-variable-name='damage'>4601</span> Damage and Choose a <span data-variable-value='3' data-variable-name='val1'>3</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 5303 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='5303' data-variable-name='damage'>5303</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 5303 Damage and Choose a 3 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='5303' data-variable-name='damage'>5303</span> Damage and Choose a <span data-variable-value='3' data-variable-name='val1'>3</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 6006 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='6006' data-variable-name='damage'>6006</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 6006 Damage and Choose a 3 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='6006' data-variable-name='damage'>6006</span> Damage and Choose a <span data-variable-value='3' data-variable-name='val1'>3</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 10,
@@ -19218,56 +19218,56 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 385 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='385' data-variable-name='damage'>385</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 385 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='385' data-variable-name='damage'>385</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1087 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='1087' data-variable-name='damage'>1087</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 1087 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='1087' data-variable-name='damage'>1087</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 1790 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='1790' data-variable-name='damage'>1790</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 1790 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='1790' data-variable-name='damage'>1790</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 2493 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='2493' data-variable-name='damage'>2493</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 2493 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='2493' data-variable-name='damage'>2493</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 3195 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='3195' data-variable-name='damage'>3195</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 3195 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='3195' data-variable-name='damage'>3195</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 3898 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='3898' data-variable-name='damage'>3898</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 3898 Damage and Choose a 3 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='3898' data-variable-name='damage'>3898</span> Damage and Choose a <span data-variable-value='3' data-variable-name='val1'>3</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 4601 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='4601' data-variable-name='damage'>4601</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 4601 Damage and Choose a 3 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='4601' data-variable-name='damage'>4601</span> Damage and Choose a <span data-variable-value='3' data-variable-name='val1'>3</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 5303 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='5303' data-variable-name='damage'>5303</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 5303 Damage and Choose a 3 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='5303' data-variable-name='damage'>5303</span> Damage and Choose a <span data-variable-value='3' data-variable-name='val1'>3</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 6006 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='6006' data-variable-name='damage'>6006</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 6006 Damage and Choose a 3 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='6006' data-variable-name='damage'>6006</span> Damage and Choose a <span data-variable-value='3' data-variable-name='val1'>3</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 10,
@@ -21163,56 +21163,56 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 385 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='385' data-variable-name='damage'>385</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 385 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='385' data-variable-name='damage'>385</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1087 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='1087' data-variable-name='damage'>1087</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 1087 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='1087' data-variable-name='damage'>1087</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 1790 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='1790' data-variable-name='damage'>1790</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 1790 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='1790' data-variable-name='damage'>1790</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 2493 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='2493' data-variable-name='damage'>2493</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 2493 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='2493' data-variable-name='damage'>2493</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 3195 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='3195' data-variable-name='damage'>3195</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 3195 Damage and Choose a 2 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='3195' data-variable-name='damage'>3195</span> Damage and Choose a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 3898 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='3898' data-variable-name='damage'>3898</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 3898 Damage and Choose a 3 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='3898' data-variable-name='damage'>3898</span> Damage and Choose a <span data-variable-value='3' data-variable-name='val1'>3</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 4601 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='4601' data-variable-name='damage'>4601</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 4601 Damage and Choose a 3 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='4601' data-variable-name='damage'>4601</span> Damage and Choose a <span data-variable-value='3' data-variable-name='val1'>3</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 5303 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='5303' data-variable-name='damage'>5303</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 5303 Damage and Choose a 3 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='5303' data-variable-name='damage'>5303</span> Damage and Choose a <span data-variable-value='3' data-variable-name='val1'>3</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 6006 Damage and Choose a 4 x 1 area to Swap into Purple Gems!",
-                            "html": "Deal <span data-variable-value='6006' data-variable-name='damage'>6006</span> Damage and Choose a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
+                            "text": "Deal 6006 Damage and Choose a 3 x 1 area to Swap into Purple Gems!",
+                            "html": "Deal <span data-variable-value='6006' data-variable-name='damage'>6006</span> Damage and Choose a <span data-variable-value='3' data-variable-name='val1'>3</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> area to Swap into <span data-variable-value='Purple' data-variable-name='min3'>Purple</span> Gems!"
                         },
                         {
                             "level": 10,

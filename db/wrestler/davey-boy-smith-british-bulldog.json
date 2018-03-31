@@ -181,14 +181,14 @@
                         {
                             "level": 1,
                             "talentScore": 20,
-                            "text": "Deal 50 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='50' data-variable-name='damage'>50</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 50 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='50' data-variable-name='damage'>50</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 2,
                             "talentScore": 70,
-                            "text": "Deal 167 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='167' data-variable-name='damage'>167</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 167 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='167' data-variable-name='damage'>167</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         }
                     ]
                 },
@@ -814,32 +814,32 @@
                         {
                             "level": 1,
                             "talentScore": 29,
-                            "text": "Deal 74 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='74' data-variable-name='damage'>74</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 74 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='74' data-variable-name='damage'>74</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 2,
                             "talentScore": 97,
-                            "text": "Deal 289 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='289' data-variable-name='damage'>289</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 289 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='289' data-variable-name='damage'>289</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "Deal 505 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='505' data-variable-name='damage'>505</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 505 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='505' data-variable-name='damage'>505</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 720 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='720' data-variable-name='damage'>720</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 720 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='720' data-variable-name='damage'>720</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "Deal 936 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='936' data-variable-name='damage'>936</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 936 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='936' data-variable-name='damage'>936</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         }
                     ]
                 },
@@ -1531,32 +1531,32 @@
                         {
                             "level": 1,
                             "talentScore": 29,
-                            "text": "Deal 74 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='74' data-variable-name='damage'>74</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 74 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='74' data-variable-name='damage'>74</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 2,
                             "talentScore": 97,
-                            "text": "Deal 289 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='289' data-variable-name='damage'>289</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 289 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='289' data-variable-name='damage'>289</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "Deal 505 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='505' data-variable-name='damage'>505</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 505 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='505' data-variable-name='damage'>505</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 720 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='720' data-variable-name='damage'>720</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 720 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='720' data-variable-name='damage'>720</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "Deal 936 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='936' data-variable-name='damage'>936</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 936 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='936' data-variable-name='damage'>936</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         }
                     ]
                 },
@@ -2786,50 +2786,50 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 129 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='129' data-variable-name='damage'>129</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 129 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='129' data-variable-name='damage'>129</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 631 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='631' data-variable-name='damage'>631</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 631 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='631' data-variable-name='damage'>631</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 1133 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1133' data-variable-name='damage'>1133</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 1133 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='1133' data-variable-name='damage'>1133</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 1636 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1636' data-variable-name='damage'>1636</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 1636 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='1636' data-variable-name='damage'>1636</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 2138 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='2138' data-variable-name='damage'>2138</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 2138 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='2138' data-variable-name='damage'>2138</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 2641 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='2641' data-variable-name='damage'>2641</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 2641 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='2641' data-variable-name='damage'>2641</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 3143 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='3143' data-variable-name='damage'>3143</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 3143 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='3143' data-variable-name='damage'>3143</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 3646 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='3646' data-variable-name='damage'>3646</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 3646 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='3646' data-variable-name='damage'>3646</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         }
                     ]
                 },
@@ -4160,50 +4160,50 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 129 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='129' data-variable-name='damage'>129</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 129 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='129' data-variable-name='damage'>129</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 631 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='631' data-variable-name='damage'>631</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 631 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='631' data-variable-name='damage'>631</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 1133 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1133' data-variable-name='damage'>1133</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 1133 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='1133' data-variable-name='damage'>1133</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 1636 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1636' data-variable-name='damage'>1636</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 1636 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='1636' data-variable-name='damage'>1636</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 2138 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='2138' data-variable-name='damage'>2138</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 2138 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='2138' data-variable-name='damage'>2138</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 2641 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='2641' data-variable-name='damage'>2641</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 2641 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='2641' data-variable-name='damage'>2641</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 3143 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='3143' data-variable-name='damage'>3143</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 3143 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='3143' data-variable-name='damage'>3143</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 3646 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='3646' data-variable-name='damage'>3646</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 3646 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='3646' data-variable-name='damage'>3646</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         }
                     ]
                 },
@@ -5534,50 +5534,50 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 129 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='129' data-variable-name='damage'>129</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 129 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='129' data-variable-name='damage'>129</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 631 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='631' data-variable-name='damage'>631</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 631 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='631' data-variable-name='damage'>631</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 1133 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1133' data-variable-name='damage'>1133</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 1133 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='1133' data-variable-name='damage'>1133</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 1636 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1636' data-variable-name='damage'>1636</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 1636 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='1636' data-variable-name='damage'>1636</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 2138 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='2138' data-variable-name='damage'>2138</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 2138 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='2138' data-variable-name='damage'>2138</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 2641 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='2641' data-variable-name='damage'>2641</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 2641 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='2641' data-variable-name='damage'>2641</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 3143 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='3143' data-variable-name='damage'>3143</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 3143 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='3143' data-variable-name='damage'>3143</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 3646 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='3646' data-variable-name='damage'>3646</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 3646 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='3646' data-variable-name='damage'>3646</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         }
                     ]
                 },
@@ -6100,20 +6100,20 @@
                         {
                             "level": 1,
                             "talentScore": 20,
-                            "text": "Deal 50 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='50' data-variable-name='damage'>50</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 50 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='50' data-variable-name='damage'>50</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 2,
                             "talentScore": 70,
-                            "text": "Deal 167 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='167' data-variable-name='damage'>167</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 167 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='167' data-variable-name='damage'>167</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 3,
                             "talentScore": 120,
-                            "text": "Deal 284 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='284' data-variable-name='damage'>284</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 284 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='284' data-variable-name='damage'>284</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         }
                     ]
                 },
@@ -6881,38 +6881,38 @@
                         {
                             "level": 1,
                             "talentScore": 29,
-                            "text": "Deal 74 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='74' data-variable-name='damage'>74</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 74 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='74' data-variable-name='damage'>74</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 2,
                             "talentScore": 97,
-                            "text": "Deal 289 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='289' data-variable-name='damage'>289</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 289 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='289' data-variable-name='damage'>289</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "Deal 505 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='505' data-variable-name='damage'>505</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 505 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='505' data-variable-name='damage'>505</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 720 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='720' data-variable-name='damage'>720</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 720 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='720' data-variable-name='damage'>720</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "Deal 936 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='936' data-variable-name='damage'>936</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 936 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='936' data-variable-name='damage'>936</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "Deal 1151 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1151' data-variable-name='damage'>1151</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 1151 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='1151' data-variable-name='damage'>1151</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         }
                     ]
                 },
@@ -7752,38 +7752,38 @@
                         {
                             "level": 1,
                             "talentScore": 29,
-                            "text": "Deal 74 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='74' data-variable-name='damage'>74</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 74 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='74' data-variable-name='damage'>74</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 2,
                             "talentScore": 97,
-                            "text": "Deal 289 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='289' data-variable-name='damage'>289</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 289 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='289' data-variable-name='damage'>289</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "Deal 505 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='505' data-variable-name='damage'>505</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 505 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='505' data-variable-name='damage'>505</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 720 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='720' data-variable-name='damage'>720</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 720 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='720' data-variable-name='damage'>720</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "Deal 936 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='936' data-variable-name='damage'>936</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 936 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='936' data-variable-name='damage'>936</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "Deal 1151 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1151' data-variable-name='damage'>1151</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 1151 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='1151' data-variable-name='damage'>1151</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         }
                     ]
                 },
@@ -9291,56 +9291,56 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 129 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='129' data-variable-name='damage'>129</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 129 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='129' data-variable-name='damage'>129</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 631 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='631' data-variable-name='damage'>631</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 631 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='631' data-variable-name='damage'>631</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 1133 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1133' data-variable-name='damage'>1133</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 1133 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='1133' data-variable-name='damage'>1133</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 1636 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1636' data-variable-name='damage'>1636</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 1636 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='1636' data-variable-name='damage'>1636</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 2138 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='2138' data-variable-name='damage'>2138</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 2138 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='2138' data-variable-name='damage'>2138</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 2641 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='2641' data-variable-name='damage'>2641</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 2641 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='2641' data-variable-name='damage'>2641</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 3143 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='3143' data-variable-name='damage'>3143</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 3143 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='3143' data-variable-name='damage'>3143</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 3646 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='3646' data-variable-name='damage'>3646</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 3646 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='3646' data-variable-name='damage'>3646</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 4148 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='4148' data-variable-name='damage'>4148</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 4148 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='4148' data-variable-name='damage'>4148</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         }
                     ]
                 },
@@ -10955,56 +10955,56 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 129 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='129' data-variable-name='damage'>129</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 129 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='129' data-variable-name='damage'>129</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 631 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='631' data-variable-name='damage'>631</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 631 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='631' data-variable-name='damage'>631</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 1133 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1133' data-variable-name='damage'>1133</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 1133 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='1133' data-variable-name='damage'>1133</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 1636 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1636' data-variable-name='damage'>1636</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 1636 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='1636' data-variable-name='damage'>1636</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 2138 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='2138' data-variable-name='damage'>2138</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 2138 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='2138' data-variable-name='damage'>2138</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 2641 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='2641' data-variable-name='damage'>2641</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 2641 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='2641' data-variable-name='damage'>2641</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 3143 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='3143' data-variable-name='damage'>3143</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 3143 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='3143' data-variable-name='damage'>3143</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 3646 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='3646' data-variable-name='damage'>3646</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 3646 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='3646' data-variable-name='damage'>3646</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 4148 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='4148' data-variable-name='damage'>4148</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 4148 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='4148' data-variable-name='damage'>4148</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         }
                     ]
                 },
@@ -12619,56 +12619,56 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 129 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='129' data-variable-name='damage'>129</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 129 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='129' data-variable-name='damage'>129</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 631 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='631' data-variable-name='damage'>631</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 631 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='631' data-variable-name='damage'>631</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 1133 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1133' data-variable-name='damage'>1133</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 1133 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='1133' data-variable-name='damage'>1133</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 1636 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1636' data-variable-name='damage'>1636</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 1636 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='1636' data-variable-name='damage'>1636</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 2138 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='2138' data-variable-name='damage'>2138</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 2138 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='2138' data-variable-name='damage'>2138</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 2641 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='2641' data-variable-name='damage'>2641</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 2641 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='2641' data-variable-name='damage'>2641</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 3143 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='3143' data-variable-name='damage'>3143</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 3143 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='3143' data-variable-name='damage'>3143</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 3646 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='3646' data-variable-name='damage'>3646</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 3646 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='3646' data-variable-name='damage'>3646</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 4148 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='4148' data-variable-name='damage'>4148</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 4148 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='4148' data-variable-name='damage'>4148</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         }
                     ]
                 },
@@ -13345,26 +13345,26 @@
                         {
                             "level": 1,
                             "talentScore": 20,
-                            "text": "Deal 50 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='50' data-variable-name='damage'>50</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 50 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='50' data-variable-name='damage'>50</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 2,
                             "talentScore": 70,
-                            "text": "Deal 167 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='167' data-variable-name='damage'>167</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 167 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='167' data-variable-name='damage'>167</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 3,
                             "talentScore": 120,
-                            "text": "Deal 284 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='284' data-variable-name='damage'>284</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 284 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='284' data-variable-name='damage'>284</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 4,
                             "talentScore": 170,
-                            "text": "Deal 401 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='401' data-variable-name='damage'>401</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 401 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='401' data-variable-name='damage'>401</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         }
                     ]
                 },
@@ -14274,44 +14274,44 @@
                         {
                             "level": 1,
                             "talentScore": 29,
-                            "text": "Deal 74 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='74' data-variable-name='damage'>74</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 74 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='74' data-variable-name='damage'>74</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 2,
                             "talentScore": 97,
-                            "text": "Deal 289 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='289' data-variable-name='damage'>289</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 289 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='289' data-variable-name='damage'>289</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "Deal 505 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='505' data-variable-name='damage'>505</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 505 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='505' data-variable-name='damage'>505</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 720 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='720' data-variable-name='damage'>720</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 720 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='720' data-variable-name='damage'>720</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "Deal 936 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='936' data-variable-name='damage'>936</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 936 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='936' data-variable-name='damage'>936</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "Deal 1151 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1151' data-variable-name='damage'>1151</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 1151 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='1151' data-variable-name='damage'>1151</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 7,
                             "talentScore": 439,
-                            "text": "Deal 1367 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1367' data-variable-name='damage'>1367</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 1367 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='1367' data-variable-name='damage'>1367</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         }
                     ]
                 },
@@ -15299,44 +15299,44 @@
                         {
                             "level": 1,
                             "talentScore": 29,
-                            "text": "Deal 74 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='74' data-variable-name='damage'>74</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 74 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='74' data-variable-name='damage'>74</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 2,
                             "talentScore": 97,
-                            "text": "Deal 289 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='289' data-variable-name='damage'>289</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 289 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='289' data-variable-name='damage'>289</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "Deal 505 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='505' data-variable-name='damage'>505</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 505 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='505' data-variable-name='damage'>505</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 720 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='720' data-variable-name='damage'>720</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 720 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='720' data-variable-name='damage'>720</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "Deal 936 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='936' data-variable-name='damage'>936</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 936 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='936' data-variable-name='damage'>936</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "Deal 1151 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1151' data-variable-name='damage'>1151</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 1151 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='1151' data-variable-name='damage'>1151</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 7,
                             "talentScore": 439,
-                            "text": "Deal 1367 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1367' data-variable-name='damage'>1367</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 1367 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='1367' data-variable-name='damage'>1367</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         }
                     ]
                 },
@@ -17122,62 +17122,62 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 129 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='129' data-variable-name='damage'>129</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 129 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='129' data-variable-name='damage'>129</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 631 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='631' data-variable-name='damage'>631</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 631 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='631' data-variable-name='damage'>631</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 1133 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1133' data-variable-name='damage'>1133</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 1133 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='1133' data-variable-name='damage'>1133</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 1636 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1636' data-variable-name='damage'>1636</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 1636 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='1636' data-variable-name='damage'>1636</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 2138 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='2138' data-variable-name='damage'>2138</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 2138 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='2138' data-variable-name='damage'>2138</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 2641 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='2641' data-variable-name='damage'>2641</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 2641 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='2641' data-variable-name='damage'>2641</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 3143 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='3143' data-variable-name='damage'>3143</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 3143 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='3143' data-variable-name='damage'>3143</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 3646 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='3646' data-variable-name='damage'>3646</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 3646 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='3646' data-variable-name='damage'>3646</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 4148 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='4148' data-variable-name='damage'>4148</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 4148 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='4148' data-variable-name='damage'>4148</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 10,
                             "talentScore": 1586,
-                            "text": "Deal 4651 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='4651' data-variable-name='damage'>4651</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 4651 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='4651' data-variable-name='damage'>4651</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         }
                     ]
                 },
@@ -19076,62 +19076,62 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 129 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='129' data-variable-name='damage'>129</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 129 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='129' data-variable-name='damage'>129</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 631 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='631' data-variable-name='damage'>631</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 631 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='631' data-variable-name='damage'>631</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 1133 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1133' data-variable-name='damage'>1133</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 1133 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='1133' data-variable-name='damage'>1133</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 1636 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1636' data-variable-name='damage'>1636</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 1636 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='1636' data-variable-name='damage'>1636</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 2138 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='2138' data-variable-name='damage'>2138</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 2138 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='2138' data-variable-name='damage'>2138</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 2641 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='2641' data-variable-name='damage'>2641</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 2641 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='2641' data-variable-name='damage'>2641</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 3143 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='3143' data-variable-name='damage'>3143</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 3143 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='3143' data-variable-name='damage'>3143</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 3646 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='3646' data-variable-name='damage'>3646</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 3646 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='3646' data-variable-name='damage'>3646</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 4148 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='4148' data-variable-name='damage'>4148</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 4148 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='4148' data-variable-name='damage'>4148</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 10,
                             "talentScore": 1586,
-                            "text": "Deal 4651 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='4651' data-variable-name='damage'>4651</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 4651 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='4651' data-variable-name='damage'>4651</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         }
                     ]
                 },
@@ -21030,62 +21030,62 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 129 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='129' data-variable-name='damage'>129</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 129 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='129' data-variable-name='damage'>129</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 631 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='631' data-variable-name='damage'>631</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 631 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='631' data-variable-name='damage'>631</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 1133 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1133' data-variable-name='damage'>1133</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 1133 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='1133' data-variable-name='damage'>1133</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 1636 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1636' data-variable-name='damage'>1636</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 1636 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='1636' data-variable-name='damage'>1636</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 2138 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='2138' data-variable-name='damage'>2138</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 2138 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='2138' data-variable-name='damage'>2138</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 2641 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='2641' data-variable-name='damage'>2641</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 2641 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='2641' data-variable-name='damage'>2641</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 3143 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='3143' data-variable-name='damage'>3143</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 3143 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='3143' data-variable-name='damage'>3143</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 3646 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='3646' data-variable-name='damage'>3646</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 3646 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='3646' data-variable-name='damage'>3646</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 4148 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='4148' data-variable-name='damage'>4148</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 4148 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='4148' data-variable-name='damage'>4148</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         },
                         {
                             "level": 10,
                             "talentScore": 1586,
-                            "text": "Deal 4651 Damage and Choose 1 Column(s) to Destroy. The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='4651' data-variable-name='damage'>4651</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy. The Pin Bar will not move."
+                            "text": "Deal 4651 Damage and Choose 1 Column(s) to Destroy.",
+                            "html": "Deal <span data-variable-value='4651' data-variable-name='damage'>4651</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Column(s) to Destroy."
                         }
                     ]
                 },

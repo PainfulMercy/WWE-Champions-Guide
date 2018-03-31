@@ -181,14 +181,14 @@
                         {
                             "level": 1,
                             "talentScore": 20,
-                            "text": "Deal 190 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='190' data-variable-name='damage'>190</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 190 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='190' data-variable-name='damage'>190</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 2,
                             "talentScore": 70,
-                            "text": "Deal 276 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='276' data-variable-name='damage'>276</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 276 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='276' data-variable-name='damage'>276</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         }
                     ]
                 },
@@ -815,32 +815,32 @@
                         {
                             "level": 1,
                             "talentScore": 29,
-                            "text": "Deal 275 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='275' data-variable-name='damage'>275</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 275 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='275' data-variable-name='damage'>275</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 2,
                             "talentScore": 97,
-                            "text": "Deal 490 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='490' data-variable-name='damage'>490</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 490 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='490' data-variable-name='damage'>490</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "Deal 705 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='705' data-variable-name='damage'>705</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 705 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='705' data-variable-name='damage'>705</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 920 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='920' data-variable-name='damage'>920</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 920 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='920' data-variable-name='damage'>920</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "Deal 1135 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1135' data-variable-name='damage'>1135</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 1135 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='1135' data-variable-name='damage'>1135</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         }
                     ]
                 },
@@ -1533,32 +1533,32 @@
                         {
                             "level": 1,
                             "talentScore": 29,
-                            "text": "Deal 275 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='275' data-variable-name='damage'>275</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 275 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='275' data-variable-name='damage'>275</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 2,
                             "talentScore": 97,
-                            "text": "Deal 490 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='490' data-variable-name='damage'>490</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 490 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='490' data-variable-name='damage'>490</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "Deal 705 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='705' data-variable-name='damage'>705</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 705 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='705' data-variable-name='damage'>705</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 920 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='920' data-variable-name='damage'>920</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 920 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='920' data-variable-name='damage'>920</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "Deal 1135 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1135' data-variable-name='damage'>1135</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 1135 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='1135' data-variable-name='damage'>1135</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         }
                     ]
                 },
@@ -2789,50 +2789,50 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 470 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='470' data-variable-name='damage'>470</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 470 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='470' data-variable-name='damage'>470</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1135 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1135' data-variable-name='damage'>1135</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 1135 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='1135' data-variable-name='damage'>1135</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 1800 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1800' data-variable-name='damage'>1800</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 1800 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='1800' data-variable-name='damage'>1800</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 2466 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='2466' data-variable-name='damage'>2466</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 2466 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='2466' data-variable-name='damage'>2466</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 3131 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='3131' data-variable-name='damage'>3131</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 3131 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='3131' data-variable-name='damage'>3131</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 3796 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='3796' data-variable-name='damage'>3796</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 3796 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='3796' data-variable-name='damage'>3796</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 4462 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='4462' data-variable-name='damage'>4462</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 4462 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='4462' data-variable-name='damage'>4462</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 5127 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='5127' data-variable-name='damage'>5127</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 5127 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='5127' data-variable-name='damage'>5127</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         }
                     ]
                 },
@@ -4164,50 +4164,50 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 470 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='470' data-variable-name='damage'>470</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 470 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='470' data-variable-name='damage'>470</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1135 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1135' data-variable-name='damage'>1135</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 1135 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='1135' data-variable-name='damage'>1135</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 1800 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1800' data-variable-name='damage'>1800</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 1800 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='1800' data-variable-name='damage'>1800</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 2466 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='2466' data-variable-name='damage'>2466</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 2466 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='2466' data-variable-name='damage'>2466</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 3131 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='3131' data-variable-name='damage'>3131</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 3131 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='3131' data-variable-name='damage'>3131</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 3796 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='3796' data-variable-name='damage'>3796</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 3796 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='3796' data-variable-name='damage'>3796</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 4462 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='4462' data-variable-name='damage'>4462</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 4462 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='4462' data-variable-name='damage'>4462</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 5127 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='5127' data-variable-name='damage'>5127</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 5127 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='5127' data-variable-name='damage'>5127</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         }
                     ]
                 },
@@ -5539,50 +5539,50 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 470 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='470' data-variable-name='damage'>470</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 470 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='470' data-variable-name='damage'>470</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1135 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1135' data-variable-name='damage'>1135</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 1135 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='1135' data-variable-name='damage'>1135</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 1800 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1800' data-variable-name='damage'>1800</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 1800 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='1800' data-variable-name='damage'>1800</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 2466 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='2466' data-variable-name='damage'>2466</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 2466 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='2466' data-variable-name='damage'>2466</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 3131 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='3131' data-variable-name='damage'>3131</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 3131 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='3131' data-variable-name='damage'>3131</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 3796 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='3796' data-variable-name='damage'>3796</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 3796 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='3796' data-variable-name='damage'>3796</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 4462 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='4462' data-variable-name='damage'>4462</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 4462 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='4462' data-variable-name='damage'>4462</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 5127 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='5127' data-variable-name='damage'>5127</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 5127 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='5127' data-variable-name='damage'>5127</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         }
                     ]
                 },
@@ -6106,20 +6106,20 @@
                         {
                             "level": 1,
                             "talentScore": 20,
-                            "text": "Deal 190 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='190' data-variable-name='damage'>190</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 190 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='190' data-variable-name='damage'>190</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 2,
                             "talentScore": 70,
-                            "text": "Deal 276 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='276' data-variable-name='damage'>276</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 276 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='276' data-variable-name='damage'>276</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 3,
                             "talentScore": 120,
-                            "text": "Deal 362 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='362' data-variable-name='damage'>362</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 362 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='362' data-variable-name='damage'>362</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         }
                     ]
                 },
@@ -6888,38 +6888,38 @@
                         {
                             "level": 1,
                             "talentScore": 29,
-                            "text": "Deal 275 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='275' data-variable-name='damage'>275</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 275 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='275' data-variable-name='damage'>275</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 2,
                             "talentScore": 97,
-                            "text": "Deal 490 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='490' data-variable-name='damage'>490</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 490 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='490' data-variable-name='damage'>490</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "Deal 705 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='705' data-variable-name='damage'>705</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 705 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='705' data-variable-name='damage'>705</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 920 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='920' data-variable-name='damage'>920</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 920 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='920' data-variable-name='damage'>920</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "Deal 1135 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1135' data-variable-name='damage'>1135</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 1135 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='1135' data-variable-name='damage'>1135</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "Deal 1350 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1350' data-variable-name='damage'>1350</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 1350 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='1350' data-variable-name='damage'>1350</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         }
                     ]
                 },
@@ -7760,38 +7760,38 @@
                         {
                             "level": 1,
                             "talentScore": 29,
-                            "text": "Deal 275 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='275' data-variable-name='damage'>275</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 275 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='275' data-variable-name='damage'>275</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 2,
                             "talentScore": 97,
-                            "text": "Deal 490 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='490' data-variable-name='damage'>490</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 490 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='490' data-variable-name='damage'>490</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "Deal 705 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='705' data-variable-name='damage'>705</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 705 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='705' data-variable-name='damage'>705</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 920 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='920' data-variable-name='damage'>920</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 920 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='920' data-variable-name='damage'>920</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "Deal 1135 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1135' data-variable-name='damage'>1135</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 1135 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='1135' data-variable-name='damage'>1135</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "Deal 1350 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1350' data-variable-name='damage'>1350</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 1350 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='1350' data-variable-name='damage'>1350</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         }
                     ]
                 },
@@ -9300,56 +9300,56 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 470 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='470' data-variable-name='damage'>470</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 470 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='470' data-variable-name='damage'>470</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1135 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1135' data-variable-name='damage'>1135</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 1135 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='1135' data-variable-name='damage'>1135</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 1800 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1800' data-variable-name='damage'>1800</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 1800 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='1800' data-variable-name='damage'>1800</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 2466 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='2466' data-variable-name='damage'>2466</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 2466 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='2466' data-variable-name='damage'>2466</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 3131 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='3131' data-variable-name='damage'>3131</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 3131 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='3131' data-variable-name='damage'>3131</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 3796 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='3796' data-variable-name='damage'>3796</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 3796 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='3796' data-variable-name='damage'>3796</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 4462 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='4462' data-variable-name='damage'>4462</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 4462 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='4462' data-variable-name='damage'>4462</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 5127 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='5127' data-variable-name='damage'>5127</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 5127 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='5127' data-variable-name='damage'>5127</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 5792 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='5792' data-variable-name='damage'>5792</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 5792 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='5792' data-variable-name='damage'>5792</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         }
                     ]
                 },
@@ -10965,56 +10965,56 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 470 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='470' data-variable-name='damage'>470</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 470 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='470' data-variable-name='damage'>470</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1135 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1135' data-variable-name='damage'>1135</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 1135 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='1135' data-variable-name='damage'>1135</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 1800 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1800' data-variable-name='damage'>1800</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 1800 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='1800' data-variable-name='damage'>1800</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 2466 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='2466' data-variable-name='damage'>2466</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 2466 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='2466' data-variable-name='damage'>2466</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 3131 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='3131' data-variable-name='damage'>3131</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 3131 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='3131' data-variable-name='damage'>3131</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 3796 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='3796' data-variable-name='damage'>3796</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 3796 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='3796' data-variable-name='damage'>3796</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 4462 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='4462' data-variable-name='damage'>4462</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 4462 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='4462' data-variable-name='damage'>4462</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 5127 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='5127' data-variable-name='damage'>5127</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 5127 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='5127' data-variable-name='damage'>5127</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 5792 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='5792' data-variable-name='damage'>5792</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 5792 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='5792' data-variable-name='damage'>5792</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         }
                     ]
                 },
@@ -12630,56 +12630,56 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 470 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='470' data-variable-name='damage'>470</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 470 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='470' data-variable-name='damage'>470</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1135 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1135' data-variable-name='damage'>1135</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 1135 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='1135' data-variable-name='damage'>1135</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 1800 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1800' data-variable-name='damage'>1800</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 1800 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='1800' data-variable-name='damage'>1800</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 2466 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='2466' data-variable-name='damage'>2466</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 2466 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='2466' data-variable-name='damage'>2466</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 3131 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='3131' data-variable-name='damage'>3131</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 3131 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='3131' data-variable-name='damage'>3131</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 3796 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='3796' data-variable-name='damage'>3796</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 3796 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='3796' data-variable-name='damage'>3796</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 4462 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='4462' data-variable-name='damage'>4462</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 4462 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='4462' data-variable-name='damage'>4462</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 5127 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='5127' data-variable-name='damage'>5127</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 5127 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='5127' data-variable-name='damage'>5127</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 5792 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='5792' data-variable-name='damage'>5792</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 5792 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='5792' data-variable-name='damage'>5792</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         }
                     ]
                 },
@@ -13357,26 +13357,26 @@
                         {
                             "level": 1,
                             "talentScore": 20,
-                            "text": "Deal 190 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='190' data-variable-name='damage'>190</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 190 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='190' data-variable-name='damage'>190</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 2,
                             "talentScore": 70,
-                            "text": "Deal 276 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='276' data-variable-name='damage'>276</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 276 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='276' data-variable-name='damage'>276</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 3,
                             "talentScore": 120,
-                            "text": "Deal 362 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='362' data-variable-name='damage'>362</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 362 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='362' data-variable-name='damage'>362</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 4,
                             "talentScore": 170,
-                            "text": "Deal 448 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='448' data-variable-name='damage'>448</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 448 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='448' data-variable-name='damage'>448</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         }
                     ]
                 },
@@ -14287,44 +14287,44 @@
                         {
                             "level": 1,
                             "talentScore": 29,
-                            "text": "Deal 275 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='275' data-variable-name='damage'>275</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 275 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='275' data-variable-name='damage'>275</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 2,
                             "talentScore": 97,
-                            "text": "Deal 490 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='490' data-variable-name='damage'>490</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 490 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='490' data-variable-name='damage'>490</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "Deal 705 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='705' data-variable-name='damage'>705</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 705 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='705' data-variable-name='damage'>705</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 920 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='920' data-variable-name='damage'>920</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 920 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='920' data-variable-name='damage'>920</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "Deal 1135 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1135' data-variable-name='damage'>1135</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 1135 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='1135' data-variable-name='damage'>1135</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "Deal 1350 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1350' data-variable-name='damage'>1350</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 1350 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='1350' data-variable-name='damage'>1350</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 7,
                             "talentScore": 439,
-                            "text": "Deal 1566 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1566' data-variable-name='damage'>1566</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 1566 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='1566' data-variable-name='damage'>1566</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         }
                     ]
                 },
@@ -15313,44 +15313,44 @@
                         {
                             "level": 1,
                             "talentScore": 29,
-                            "text": "Deal 275 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='275' data-variable-name='damage'>275</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 275 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='275' data-variable-name='damage'>275</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 2,
                             "talentScore": 97,
-                            "text": "Deal 490 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='490' data-variable-name='damage'>490</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 490 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='490' data-variable-name='damage'>490</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 3,
                             "talentScore": 165,
-                            "text": "Deal 705 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='705' data-variable-name='damage'>705</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 705 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='705' data-variable-name='damage'>705</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 4,
                             "talentScore": 234,
-                            "text": "Deal 920 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='920' data-variable-name='damage'>920</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 920 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='920' data-variable-name='damage'>920</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 302,
-                            "text": "Deal 1135 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1135' data-variable-name='damage'>1135</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 1135 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='1135' data-variable-name='damage'>1135</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 6,
                             "talentScore": 370,
-                            "text": "Deal 1350 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1350' data-variable-name='damage'>1350</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 1350 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='1350' data-variable-name='damage'>1350</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 7,
                             "talentScore": 439,
-                            "text": "Deal 1566 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1566' data-variable-name='damage'>1566</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 1566 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='1566' data-variable-name='damage'>1566</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         }
                     ]
                 },
@@ -17137,62 +17137,62 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 470 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='470' data-variable-name='damage'>470</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 470 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='470' data-variable-name='damage'>470</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1135 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1135' data-variable-name='damage'>1135</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 1135 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='1135' data-variable-name='damage'>1135</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 1800 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1800' data-variable-name='damage'>1800</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 1800 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='1800' data-variable-name='damage'>1800</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 2466 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='2466' data-variable-name='damage'>2466</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 2466 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='2466' data-variable-name='damage'>2466</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 3131 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='3131' data-variable-name='damage'>3131</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 3131 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='3131' data-variable-name='damage'>3131</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 3796 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='3796' data-variable-name='damage'>3796</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 3796 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='3796' data-variable-name='damage'>3796</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 4462 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='4462' data-variable-name='damage'>4462</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 4462 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='4462' data-variable-name='damage'>4462</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 5127 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='5127' data-variable-name='damage'>5127</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 5127 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='5127' data-variable-name='damage'>5127</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 5792 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='5792' data-variable-name='damage'>5792</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 5792 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='5792' data-variable-name='damage'>5792</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 10,
                             "talentScore": 1586,
-                            "text": "Deal 6458 Damage and Choose 2 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='6458' data-variable-name='damage'>6458</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 6458 Damage and Choose 2 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='6458' data-variable-name='damage'>6458</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         }
                     ]
                 },
@@ -19092,62 +19092,62 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 470 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='470' data-variable-name='damage'>470</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 470 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='470' data-variable-name='damage'>470</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1135 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1135' data-variable-name='damage'>1135</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 1135 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='1135' data-variable-name='damage'>1135</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 1800 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1800' data-variable-name='damage'>1800</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 1800 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='1800' data-variable-name='damage'>1800</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 2466 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='2466' data-variable-name='damage'>2466</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 2466 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='2466' data-variable-name='damage'>2466</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 3131 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='3131' data-variable-name='damage'>3131</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 3131 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='3131' data-variable-name='damage'>3131</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 3796 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='3796' data-variable-name='damage'>3796</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 3796 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='3796' data-variable-name='damage'>3796</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 4462 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='4462' data-variable-name='damage'>4462</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 4462 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='4462' data-variable-name='damage'>4462</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 5127 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='5127' data-variable-name='damage'>5127</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 5127 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='5127' data-variable-name='damage'>5127</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 5792 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='5792' data-variable-name='damage'>5792</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 5792 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='5792' data-variable-name='damage'>5792</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 10,
                             "talentScore": 1586,
-                            "text": "Deal 6458 Damage and Choose 2 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='6458' data-variable-name='damage'>6458</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 6458 Damage and Choose 2 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='6458' data-variable-name='damage'>6458</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         }
                     ]
                 },
@@ -21047,62 +21047,62 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 470 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='470' data-variable-name='damage'>470</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 470 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='470' data-variable-name='damage'>470</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1135 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1135' data-variable-name='damage'>1135</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 1135 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='1135' data-variable-name='damage'>1135</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 1800 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='1800' data-variable-name='damage'>1800</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 1800 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='1800' data-variable-name='damage'>1800</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 2466 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='2466' data-variable-name='damage'>2466</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 2466 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='2466' data-variable-name='damage'>2466</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 3131 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='3131' data-variable-name='damage'>3131</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 3131 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='3131' data-variable-name='damage'>3131</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 3796 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='3796' data-variable-name='damage'>3796</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 3796 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='3796' data-variable-name='damage'>3796</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 4462 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='4462' data-variable-name='damage'>4462</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 4462 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='4462' data-variable-name='damage'>4462</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 5127 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='5127' data-variable-name='damage'>5127</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 5127 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='5127' data-variable-name='damage'>5127</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 5792 Damage and Choose 1 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='5792' data-variable-name='damage'>5792</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 5792 Damage and Choose 1 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='5792' data-variable-name='damage'>5792</span> Damage and Choose <span data-variable-value='1' data-variable-name='val1'>1</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         },
                         {
                             "level": 10,
                             "talentScore": 1586,
-                            "text": "Deal 6458 Damage and Choose 2 Gem(s) to Make into Blue Gem(s). The Pin Bar will not move.",
-                            "html": "Deal <span data-variable-value='6458' data-variable-name='damage'>6458</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s). The Pin Bar will not move."
+                            "text": "Deal 6458 Damage and Choose 2 Gem(s) to Make into Blue Gem(s).",
+                            "html": "Deal <span data-variable-value='6458' data-variable-name='damage'>6458</span> Damage and Choose <span data-variable-value='2' data-variable-name='val1'>2</span> Gem(s) to Make into <span data-variable-value='Blue' data-variable-name='min2'>Blue</span> Gem(s)."
                         }
                     ]
                 },
