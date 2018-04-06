@@ -1,0 +1,37 @@
+[
+    {
+        "Class": "Acrobat",
+        "Builds": [
+            {
+                "Name": "AJ Styles \"The Phenomenal One\"",
+                "Portrait": "portraitfull_ajstyles_phenomenal_hirez.png",
+                "Trainers": [
+                    {
+                        "Name": "Xavier Woods \"The New Day\"",
+                        "Portrait": "portraitfull_xwoods_newday_hirez.png"
+                    },
+                    {
+                        "Name": "Seth Rollins \"NXT\"",
+                        "Portrait": "portraitfull_srollins_nxt_hirez.png"
+                    }
+                ],
+                "Moves": [
+                    {
+                        "Name": "Styles Clash",
+                        "GemType": "Blue"
+                    },
+                    {
+                        "Name": "Super Frankensteiner",
+                        "GemType": "Purple"
+                    },
+                    {
+                        "Name": "Spine Breaker",
+                        "GemType": "Purple"
+                    }
+                ],
+                "Tag": "SmackDown",
+                "Description": "The second best Acrobat in the game with SmackDown link, it’s a turn-1 win."
+            }
+        ]
+    }
+]

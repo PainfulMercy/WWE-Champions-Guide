@@ -169,6 +169,8 @@ fieldset {
 }
 
 .added-trainer-thumbnail,
+.build-superstar-thumbnail,
+.build-trainer-thumbnail,
 .wrestler-thumbnail {
   position:relative;
   width: 100%;
@@ -192,8 +194,17 @@ fieldset {
 }
 
 @media screen and (max-width: 767px) {
+  .build-superstar-thumbnail {
+    background-size: 350%;
+  }
   .added-trainer-thumbnail {
     padding-bottom: 175%;
+  }
+  .build-superstar-thumbnail {
+    padding-bottom: 175%;
+  }
+  .build-trainer-thumbnail {
+    padding-bottom: 130%;
   }
   .vertical-center-block {
     display: block;
