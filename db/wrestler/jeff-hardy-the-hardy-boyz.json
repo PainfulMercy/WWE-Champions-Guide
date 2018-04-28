@@ -139,7 +139,7 @@
                     "levelCap": 2,
                     "cost": 12,
                     "gemType": "Blue",
-                    "name": "Sister Abigail",
+                    "name": "Swanton Bomb",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -168,7 +168,7 @@
                     "levelCap": 2,
                     "cost": 7,
                     "gemType": "Green",
-                    "name": "Running Clothesline",
+                    "name": "Midsection Double Leg Drop",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -197,7 +197,7 @@
                     "levelCap": 2,
                     "cost": 7,
                     "gemType": "Yellow",
-                    "name": "Running Crossbody Block",
+                    "name": "Twist of Fate",
                     "move": {},
                     "levels": [
                         {
@@ -747,7 +747,7 @@
                     "levelCap": 5,
                     "cost": 12,
                     "gemType": "Blue",
-                    "name": "Sister Abigail",
+                    "name": "Swanton Bomb",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -794,7 +794,7 @@
                     "levelCap": 5,
                     "cost": 7,
                     "gemType": "Green",
-                    "name": "Running Clothesline",
+                    "name": "Midsection Double Leg Drop",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -841,7 +841,7 @@
                     "levelCap": 5,
                     "cost": 7,
                     "gemType": "Yellow",
-                    "name": "Running Crossbody Block",
+                    "name": "Twist of Fate",
                     "move": {},
                     "levels": [
                         {
@@ -881,45 +881,38 @@
                     "levelCap": 5,
                     "cost": 9,
                     "gemType": "Blue",
-                    "name": "Ura-nage",
-                    "move": {
-                        "ID": "DestroyModifiedGems",
-                        "Effects": [
-                            "MoveEffectImprove",
-                            "GemDestroy"
-                        ],
-                        "AffectedValueID": "min2"
-                    },
+                    "name": "Sunset Flip Powerbomb",
+                    "move": {},
                     "levels": [
                         {
                             "level": 1,
                             "talentScore": 27,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 2,
                             "talentScore": 89,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 3,
                             "talentScore": 152,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 4,
                             "talentScore": 215,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 5,
                             "talentScore": 277,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         }
                     ]
                 }
@@ -1456,7 +1449,7 @@
                     "levelCap": 5,
                     "cost": 12,
                     "gemType": "Blue",
-                    "name": "Sister Abigail",
+                    "name": "Swanton Bomb",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -1503,7 +1496,7 @@
                     "levelCap": 5,
                     "cost": 7,
                     "gemType": "Green",
-                    "name": "Running Clothesline",
+                    "name": "Midsection Double Leg Drop",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -1550,7 +1543,7 @@
                     "levelCap": 5,
                     "cost": 7,
                     "gemType": "Yellow",
-                    "name": "Running Crossbody Block",
+                    "name": "Twist of Fate",
                     "move": {},
                     "levels": [
                         {
@@ -1590,45 +1583,38 @@
                     "levelCap": 5,
                     "cost": 9,
                     "gemType": "Blue",
-                    "name": "Ura-nage",
-                    "move": {
-                        "ID": "DestroyModifiedGems",
-                        "Effects": [
-                            "MoveEffectImprove",
-                            "GemDestroy"
-                        ],
-                        "AffectedValueID": "min2"
-                    },
+                    "name": "Sunset Flip Powerbomb",
+                    "move": {},
                     "levels": [
                         {
                             "level": 1,
                             "talentScore": 27,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 2,
                             "talentScore": 89,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 3,
                             "talentScore": 152,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 4,
                             "talentScore": 215,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 5,
                             "talentScore": 277,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         }
                     ]
                 }
@@ -2685,7 +2671,7 @@
                     "levelCap": 8,
                     "cost": 12,
                     "gemType": "Blue",
-                    "name": "Sister Abigail",
+                    "name": "Swanton Bomb",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -2750,7 +2736,7 @@
                     "levelCap": 8,
                     "cost": 7,
                     "gemType": "Green",
-                    "name": "Running Clothesline",
+                    "name": "Midsection Double Leg Drop",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -2815,7 +2801,7 @@
                     "levelCap": 8,
                     "cost": 7,
                     "gemType": "Yellow",
-                    "name": "Running Crossbody Block",
+                    "name": "Twist of Fate",
                     "move": {},
                     "levels": [
                         {
@@ -2873,63 +2859,56 @@
                     "levelCap": 8,
                     "cost": 9,
                     "gemType": "Blue",
-                    "name": "Ura-nage",
-                    "move": {
-                        "ID": "DestroyModifiedGems",
-                        "Effects": [
-                            "MoveEffectImprove",
-                            "GemDestroy"
-                        ],
-                        "AffectedValueID": "min2"
-                    },
+                    "name": "Sunset Flip Powerbomb",
+                    "move": {},
                     "levels": [
                         {
                             "level": 1,
                             "talentScore": 45,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         }
                     ]
                 },
@@ -2938,7 +2917,7 @@
                     "levelCap": 8,
                     "cost": 8,
                     "gemType": "Green",
-                    "name": "Lariat Clothesline",
+                    "name": "Enzuigiri",
                     "move": {
                         "ID": "StealGems",
                         "Effects": [
@@ -4051,7 +4030,7 @@
                     "levelCap": 8,
                     "cost": 12,
                     "gemType": "Blue",
-                    "name": "Sister Abigail",
+                    "name": "Swanton Bomb",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -4116,7 +4095,7 @@
                     "levelCap": 8,
                     "cost": 7,
                     "gemType": "Green",
-                    "name": "Running Clothesline",
+                    "name": "Midsection Double Leg Drop",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -4181,7 +4160,7 @@
                     "levelCap": 8,
                     "cost": 7,
                     "gemType": "Yellow",
-                    "name": "Running Crossbody Block",
+                    "name": "Twist of Fate",
                     "move": {},
                     "levels": [
                         {
@@ -4239,63 +4218,56 @@
                     "levelCap": 8,
                     "cost": 9,
                     "gemType": "Blue",
-                    "name": "Ura-nage",
-                    "move": {
-                        "ID": "DestroyModifiedGems",
-                        "Effects": [
-                            "MoveEffectImprove",
-                            "GemDestroy"
-                        ],
-                        "AffectedValueID": "min2"
-                    },
+                    "name": "Sunset Flip Powerbomb",
+                    "move": {},
                     "levels": [
                         {
                             "level": 1,
                             "talentScore": 45,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         }
                     ]
                 },
@@ -4304,7 +4276,7 @@
                     "levelCap": 8,
                     "cost": 8,
                     "gemType": "Green",
-                    "name": "Lariat Clothesline",
+                    "name": "Enzuigiri",
                     "move": {
                         "ID": "StealGems",
                         "Effects": [
@@ -5417,7 +5389,7 @@
                     "levelCap": 8,
                     "cost": 12,
                     "gemType": "Blue",
-                    "name": "Sister Abigail",
+                    "name": "Swanton Bomb",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -5482,7 +5454,7 @@
                     "levelCap": 8,
                     "cost": 7,
                     "gemType": "Green",
-                    "name": "Running Clothesline",
+                    "name": "Midsection Double Leg Drop",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -5547,7 +5519,7 @@
                     "levelCap": 8,
                     "cost": 7,
                     "gemType": "Yellow",
-                    "name": "Running Crossbody Block",
+                    "name": "Twist of Fate",
                     "move": {},
                     "levels": [
                         {
@@ -5605,63 +5577,56 @@
                     "levelCap": 8,
                     "cost": 9,
                     "gemType": "Blue",
-                    "name": "Ura-nage",
-                    "move": {
-                        "ID": "DestroyModifiedGems",
-                        "Effects": [
-                            "MoveEffectImprove",
-                            "GemDestroy"
-                        ],
-                        "AffectedValueID": "min2"
-                    },
+                    "name": "Sunset Flip Powerbomb",
+                    "move": {},
                     "levels": [
                         {
                             "level": 1,
                             "talentScore": 45,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         }
                     ]
                 },
@@ -5670,7 +5635,7 @@
                     "levelCap": 8,
                     "cost": 8,
                     "gemType": "Green",
-                    "name": "Lariat Clothesline",
+                    "name": "Enzuigiri",
                     "move": {
                         "ID": "StealGems",
                         "Effects": [
@@ -6005,7 +5970,7 @@
                     "levelCap": 3,
                     "cost": 12,
                     "gemType": "Blue",
-                    "name": "Sister Abigail",
+                    "name": "Swanton Bomb",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -6040,7 +6005,7 @@
                     "levelCap": 3,
                     "cost": 7,
                     "gemType": "Green",
-                    "name": "Running Clothesline",
+                    "name": "Midsection Double Leg Drop",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -6075,7 +6040,7 @@
                     "levelCap": 3,
                     "cost": 7,
                     "gemType": "Yellow",
-                    "name": "Running Crossbody Block",
+                    "name": "Twist of Fate",
                     "move": {},
                     "levels": [
                         {
@@ -6761,7 +6726,7 @@
                     "levelCap": 6,
                     "cost": 12,
                     "gemType": "Blue",
-                    "name": "Sister Abigail",
+                    "name": "Swanton Bomb",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -6814,7 +6779,7 @@
                     "levelCap": 6,
                     "cost": 7,
                     "gemType": "Green",
-                    "name": "Running Clothesline",
+                    "name": "Midsection Double Leg Drop",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -6867,7 +6832,7 @@
                     "levelCap": 6,
                     "cost": 7,
                     "gemType": "Yellow",
-                    "name": "Running Crossbody Block",
+                    "name": "Twist of Fate",
                     "move": {},
                     "levels": [
                         {
@@ -6913,51 +6878,44 @@
                     "levelCap": 6,
                     "cost": 9,
                     "gemType": "Blue",
-                    "name": "Ura-nage",
-                    "move": {
-                        "ID": "DestroyModifiedGems",
-                        "Effects": [
-                            "MoveEffectImprove",
-                            "GemDestroy"
-                        ],
-                        "AffectedValueID": "min2"
-                    },
+                    "name": "Sunset Flip Powerbomb",
+                    "move": {},
                     "levels": [
                         {
                             "level": 1,
                             "talentScore": 27,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 2,
                             "talentScore": 89,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 3,
                             "talentScore": 152,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 4,
                             "talentScore": 215,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 5,
                             "talentScore": 277,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 6,
                             "talentScore": 340,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         }
                     ]
                 }
@@ -7624,7 +7582,7 @@
                     "levelCap": 6,
                     "cost": 12,
                     "gemType": "Blue",
-                    "name": "Sister Abigail",
+                    "name": "Swanton Bomb",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -7677,7 +7635,7 @@
                     "levelCap": 6,
                     "cost": 7,
                     "gemType": "Green",
-                    "name": "Running Clothesline",
+                    "name": "Midsection Double Leg Drop",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -7730,7 +7688,7 @@
                     "levelCap": 6,
                     "cost": 7,
                     "gemType": "Yellow",
-                    "name": "Running Crossbody Block",
+                    "name": "Twist of Fate",
                     "move": {},
                     "levels": [
                         {
@@ -7776,51 +7734,44 @@
                     "levelCap": 6,
                     "cost": 9,
                     "gemType": "Blue",
-                    "name": "Ura-nage",
-                    "move": {
-                        "ID": "DestroyModifiedGems",
-                        "Effects": [
-                            "MoveEffectImprove",
-                            "GemDestroy"
-                        ],
-                        "AffectedValueID": "min2"
-                    },
+                    "name": "Sunset Flip Powerbomb",
+                    "move": {},
                     "levels": [
                         {
                             "level": 1,
                             "talentScore": 27,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 2,
                             "talentScore": 89,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 3,
                             "talentScore": 152,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 4,
                             "talentScore": 215,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 5,
                             "talentScore": 277,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 6,
                             "talentScore": 340,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         }
                     ]
                 }
@@ -9137,7 +9088,7 @@
                     "levelCap": 9,
                     "cost": 12,
                     "gemType": "Blue",
-                    "name": "Sister Abigail",
+                    "name": "Swanton Bomb",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -9208,7 +9159,7 @@
                     "levelCap": 9,
                     "cost": 7,
                     "gemType": "Green",
-                    "name": "Running Clothesline",
+                    "name": "Midsection Double Leg Drop",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -9279,7 +9230,7 @@
                     "levelCap": 9,
                     "cost": 7,
                     "gemType": "Yellow",
-                    "name": "Running Crossbody Block",
+                    "name": "Twist of Fate",
                     "move": {},
                     "levels": [
                         {
@@ -9343,69 +9294,62 @@
                     "levelCap": 9,
                     "cost": 9,
                     "gemType": "Blue",
-                    "name": "Ura-nage",
-                    "move": {
-                        "ID": "DestroyModifiedGems",
-                        "Effects": [
-                            "MoveEffectImprove",
-                            "GemDestroy"
-                        ],
-                        "AffectedValueID": "min2"
-                    },
+                    "name": "Sunset Flip Powerbomb",
+                    "move": {},
                     "levels": [
                         {
                             "level": 1,
                             "talentScore": 45,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         }
                     ]
                 },
@@ -9414,7 +9358,7 @@
                     "levelCap": 9,
                     "cost": 8,
                     "gemType": "Green",
-                    "name": "Lariat Clothesline",
+                    "name": "Enzuigiri",
                     "move": {
                         "ID": "StealGems",
                         "Effects": [
@@ -10793,7 +10737,7 @@
                     "levelCap": 9,
                     "cost": 12,
                     "gemType": "Blue",
-                    "name": "Sister Abigail",
+                    "name": "Swanton Bomb",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -10864,7 +10808,7 @@
                     "levelCap": 9,
                     "cost": 7,
                     "gemType": "Green",
-                    "name": "Running Clothesline",
+                    "name": "Midsection Double Leg Drop",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -10935,7 +10879,7 @@
                     "levelCap": 9,
                     "cost": 7,
                     "gemType": "Yellow",
-                    "name": "Running Crossbody Block",
+                    "name": "Twist of Fate",
                     "move": {},
                     "levels": [
                         {
@@ -10999,69 +10943,62 @@
                     "levelCap": 9,
                     "cost": 9,
                     "gemType": "Blue",
-                    "name": "Ura-nage",
-                    "move": {
-                        "ID": "DestroyModifiedGems",
-                        "Effects": [
-                            "MoveEffectImprove",
-                            "GemDestroy"
-                        ],
-                        "AffectedValueID": "min2"
-                    },
+                    "name": "Sunset Flip Powerbomb",
+                    "move": {},
                     "levels": [
                         {
                             "level": 1,
                             "talentScore": 45,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         }
                     ]
                 },
@@ -11070,7 +11007,7 @@
                     "levelCap": 9,
                     "cost": 8,
                     "gemType": "Green",
-                    "name": "Lariat Clothesline",
+                    "name": "Enzuigiri",
                     "move": {
                         "ID": "StealGems",
                         "Effects": [
@@ -12449,7 +12386,7 @@
                     "levelCap": 9,
                     "cost": 12,
                     "gemType": "Blue",
-                    "name": "Sister Abigail",
+                    "name": "Swanton Bomb",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -12520,7 +12457,7 @@
                     "levelCap": 9,
                     "cost": 7,
                     "gemType": "Green",
-                    "name": "Running Clothesline",
+                    "name": "Midsection Double Leg Drop",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -12591,7 +12528,7 @@
                     "levelCap": 9,
                     "cost": 7,
                     "gemType": "Yellow",
-                    "name": "Running Crossbody Block",
+                    "name": "Twist of Fate",
                     "move": {},
                     "levels": [
                         {
@@ -12655,69 +12592,62 @@
                     "levelCap": 9,
                     "cost": 9,
                     "gemType": "Blue",
-                    "name": "Ura-nage",
-                    "move": {
-                        "ID": "DestroyModifiedGems",
-                        "Effects": [
-                            "MoveEffectImprove",
-                            "GemDestroy"
-                        ],
-                        "AffectedValueID": "min2"
-                    },
+                    "name": "Sunset Flip Powerbomb",
+                    "move": {},
                     "levels": [
                         {
                             "level": 1,
                             "talentScore": 45,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         }
                     ]
                 },
@@ -12726,7 +12656,7 @@
                     "levelCap": 9,
                     "cost": 8,
                     "gemType": "Green",
-                    "name": "Lariat Clothesline",
+                    "name": "Enzuigiri",
                     "move": {
                         "ID": "StealGems",
                         "Effects": [
@@ -13197,7 +13127,7 @@
                     "levelCap": 4,
                     "cost": 12,
                     "gemType": "Blue",
-                    "name": "Sister Abigail",
+                    "name": "Swanton Bomb",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -13238,7 +13168,7 @@
                     "levelCap": 4,
                     "cost": 7,
                     "gemType": "Green",
-                    "name": "Running Clothesline",
+                    "name": "Midsection Double Leg Drop",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -13279,7 +13209,7 @@
                     "levelCap": 4,
                     "cost": 7,
                     "gemType": "Yellow",
-                    "name": "Running Crossbody Block",
+                    "name": "Twist of Fate",
                     "move": {},
                     "levels": [
                         {
@@ -14101,7 +14031,7 @@
                     "levelCap": 7,
                     "cost": 12,
                     "gemType": "Blue",
-                    "name": "Sister Abigail",
+                    "name": "Swanton Bomb",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -14160,7 +14090,7 @@
                     "levelCap": 7,
                     "cost": 7,
                     "gemType": "Green",
-                    "name": "Running Clothesline",
+                    "name": "Midsection Double Leg Drop",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -14219,7 +14149,7 @@
                     "levelCap": 7,
                     "cost": 7,
                     "gemType": "Yellow",
-                    "name": "Running Crossbody Block",
+                    "name": "Twist of Fate",
                     "move": {},
                     "levels": [
                         {
@@ -14271,57 +14201,50 @@
                     "levelCap": 7,
                     "cost": 9,
                     "gemType": "Blue",
-                    "name": "Ura-nage",
-                    "move": {
-                        "ID": "DestroyModifiedGems",
-                        "Effects": [
-                            "MoveEffectImprove",
-                            "GemDestroy"
-                        ],
-                        "AffectedValueID": "min2"
-                    },
+                    "name": "Sunset Flip Powerbomb",
+                    "move": {},
                     "levels": [
                         {
                             "level": 1,
                             "talentScore": 27,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 2,
                             "talentScore": 89,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 3,
                             "talentScore": 152,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 4,
                             "talentScore": 215,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 5,
                             "talentScore": 277,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 6,
                             "talentScore": 340,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 7,
                             "talentScore": 403,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         }
                     ]
                 }
@@ -15118,7 +15041,7 @@
                     "levelCap": 7,
                     "cost": 12,
                     "gemType": "Blue",
-                    "name": "Sister Abigail",
+                    "name": "Swanton Bomb",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -15177,7 +15100,7 @@
                     "levelCap": 7,
                     "cost": 7,
                     "gemType": "Green",
-                    "name": "Running Clothesline",
+                    "name": "Midsection Double Leg Drop",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -15236,7 +15159,7 @@
                     "levelCap": 7,
                     "cost": 7,
                     "gemType": "Yellow",
-                    "name": "Running Crossbody Block",
+                    "name": "Twist of Fate",
                     "move": {},
                     "levels": [
                         {
@@ -15288,57 +15211,50 @@
                     "levelCap": 7,
                     "cost": 9,
                     "gemType": "Blue",
-                    "name": "Ura-nage",
-                    "move": {
-                        "ID": "DestroyModifiedGems",
-                        "Effects": [
-                            "MoveEffectImprove",
-                            "GemDestroy"
-                        ],
-                        "AffectedValueID": "min2"
-                    },
+                    "name": "Sunset Flip Powerbomb",
+                    "move": {},
                     "levels": [
                         {
                             "level": 1,
                             "talentScore": 27,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 2,
                             "talentScore": 89,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 3,
                             "talentScore": 152,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 4,
                             "talentScore": 215,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 5,
                             "talentScore": 277,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 6,
                             "talentScore": 340,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 7,
                             "talentScore": 403,
-                            "text": "Deal 0 Damage and Destroy 1 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='1' data-variable-name='val1'>1</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         }
                     ]
                 }
@@ -16915,7 +16831,7 @@
                     "levelCap": 10,
                     "cost": 12,
                     "gemType": "Blue",
-                    "name": "Sister Abigail",
+                    "name": "Swanton Bomb",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -16992,7 +16908,7 @@
                     "levelCap": 10,
                     "cost": 7,
                     "gemType": "Green",
-                    "name": "Running Clothesline",
+                    "name": "Midsection Double Leg Drop",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -17069,7 +16985,7 @@
                     "levelCap": 10,
                     "cost": 7,
                     "gemType": "Yellow",
-                    "name": "Running Crossbody Block",
+                    "name": "Twist of Fate",
                     "move": {},
                     "levels": [
                         {
@@ -17139,75 +17055,68 @@
                     "levelCap": 10,
                     "cost": 9,
                     "gemType": "Blue",
-                    "name": "Ura-nage",
-                    "move": {
-                        "ID": "DestroyModifiedGems",
-                        "Effects": [
-                            "MoveEffectImprove",
-                            "GemDestroy"
-                        ],
-                        "AffectedValueID": "min2"
-                    },
+                    "name": "Sunset Flip Powerbomb",
+                    "move": {},
                     "levels": [
                         {
                             "level": 1,
                             "talentScore": 45,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 10,
                             "talentScore": 1456,
-                            "text": "Deal 0 Damage and Destroy 3 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         }
                     ]
                 },
@@ -17216,7 +17125,7 @@
                     "levelCap": 10,
                     "cost": 8,
                     "gemType": "Green",
-                    "name": "Lariat Clothesline",
+                    "name": "Enzuigiri",
                     "move": {
                         "ID": "StealGems",
                         "Effects": [
@@ -18861,7 +18770,7 @@
                     "levelCap": 10,
                     "cost": 12,
                     "gemType": "Blue",
-                    "name": "Sister Abigail",
+                    "name": "Swanton Bomb",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -18938,7 +18847,7 @@
                     "levelCap": 10,
                     "cost": 7,
                     "gemType": "Green",
-                    "name": "Running Clothesline",
+                    "name": "Midsection Double Leg Drop",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -19015,7 +18924,7 @@
                     "levelCap": 10,
                     "cost": 7,
                     "gemType": "Yellow",
-                    "name": "Running Crossbody Block",
+                    "name": "Twist of Fate",
                     "move": {},
                     "levels": [
                         {
@@ -19085,75 +18994,68 @@
                     "levelCap": 10,
                     "cost": 9,
                     "gemType": "Blue",
-                    "name": "Ura-nage",
-                    "move": {
-                        "ID": "DestroyModifiedGems",
-                        "Effects": [
-                            "MoveEffectImprove",
-                            "GemDestroy"
-                        ],
-                        "AffectedValueID": "min2"
-                    },
+                    "name": "Sunset Flip Powerbomb",
+                    "move": {},
                     "levels": [
                         {
                             "level": 1,
                             "talentScore": 45,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 10,
                             "talentScore": 1456,
-                            "text": "Deal 0 Damage and Destroy 3 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         }
                     ]
                 },
@@ -19162,7 +19064,7 @@
                     "levelCap": 10,
                     "cost": 8,
                     "gemType": "Green",
-                    "name": "Lariat Clothesline",
+                    "name": "Enzuigiri",
                     "move": {
                         "ID": "StealGems",
                         "Effects": [
@@ -20807,7 +20709,7 @@
                     "levelCap": 10,
                     "cost": 12,
                     "gemType": "Blue",
-                    "name": "Sister Abigail",
+                    "name": "Swanton Bomb",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -20884,7 +20786,7 @@
                     "levelCap": 10,
                     "cost": 7,
                     "gemType": "Green",
-                    "name": "Running Clothesline",
+                    "name": "Midsection Double Leg Drop",
                     "move": {
                         "ID": "SwapRandomGemsByColor",
                         "Effects": [
@@ -20961,7 +20863,7 @@
                     "levelCap": 10,
                     "cost": 7,
                     "gemType": "Yellow",
-                    "name": "Running Crossbody Block",
+                    "name": "Twist of Fate",
                     "move": {},
                     "levels": [
                         {
@@ -21031,75 +20933,68 @@
                     "levelCap": 10,
                     "cost": 9,
                     "gemType": "Blue",
-                    "name": "Ura-nage",
-                    "move": {
-                        "ID": "DestroyModifiedGems",
-                        "Effects": [
-                            "MoveEffectImprove",
-                            "GemDestroy"
-                        ],
-                        "AffectedValueID": "min2"
-                    },
+                    "name": "Sunset Flip Powerbomb",
+                    "move": {},
                     "levels": [
                         {
                             "level": 1,
                             "talentScore": 45,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 2,
                             "talentScore": 201,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 3,
                             "talentScore": 358,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 4,
                             "talentScore": 515,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 5,
                             "talentScore": 672,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 6,
                             "talentScore": 828,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 7,
                             "talentScore": 985,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 8,
                             "talentScore": 1142,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 9,
                             "talentScore": 1299,
-                            "text": "Deal 0 Damage and Destroy 2 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='2' data-variable-name='val1'>2</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         },
                         {
                             "level": 10,
                             "talentScore": 1456,
-                            "text": "Deal 0 Damage and Destroy 3 Random Blast Gem(s).",
-                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Destroy <span data-variable-value='3' data-variable-name='val1'>3</span> Random <span data-variable-value='Blast' data-variable-name='min2'>Blast</span> Gem(s)."
+                            "text": "Deal 0 Damage and Force your Opponent to Tag.",
+                            "html": "Deal <span data-variable-value='0' data-variable-name='damage'>0</span> Damage and Force your Opponent to Tag."
                         }
                     ]
                 },
@@ -21108,7 +21003,7 @@
                     "levelCap": 10,
                     "cost": 8,
                     "gemType": "Green",
-                    "name": "Lariat Clothesline",
+                    "name": "Enzuigiri",
                     "move": {
                         "ID": "StealGems",
                         "Effects": [
