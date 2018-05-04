@@ -897,40 +897,40 @@
                 {
                     "ID": "ABL_MHardy_HardyBoyz_2Star_04",
                     "levelCap": 5,
-                    "cost": 4,
-                    "gemType": "Yellow",
-                    "name": "Diving Elbow Drop",
+                    "cost": 8,
+                    "gemType": "Green",
+                    "name": "Tornado DDT",
                     "move": {},
                     "levels": [
                         {
                             "level": 1,
                             "talentScore": 27,
-                            "text": "Deal 108 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='108' data-variable-name='damage'>108</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
+                            "text": "Deal 184 Damage and Swap a 1 x 1 Random area to into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='184' data-variable-name='damage'>184</span> Damage and Swap a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 2,
                             "talentScore": 89,
-                            "text": "Deal 184 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='184' data-variable-name='damage'>184</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
+                            "text": "Deal 488 Damage and Swap a 1 x 1 Random area to into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='488' data-variable-name='damage'>488</span> Damage and Swap a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 3,
                             "talentScore": 152,
-                            "text": "Deal 261 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='261' data-variable-name='damage'>261</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
+                            "text": "Deal 792 Damage and Swap a 1 x 1 Random area to into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='792' data-variable-name='damage'>792</span> Damage and Swap a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 4,
                             "talentScore": 215,
-                            "text": "Deal 337 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='337' data-variable-name='damage'>337</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
+                            "text": "Deal 1096 Damage and Swap a 2 x 1 Random area to into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='1096' data-variable-name='damage'>1096</span> Damage and Swap a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 5,
                             "talentScore": 277,
-                            "text": "Deal 414 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='414' data-variable-name='damage'>414</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
+                            "text": "Deal 1400 Damage and Swap a 2 x 1 Random area to into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='1400' data-variable-name='damage'>1400</span> Damage and Swap a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         }
                     ]
                 }
@@ -1608,40 +1608,40 @@
                 {
                     "ID": "ABL_MHardy_HardyBoyz_2Star_04",
                     "levelCap": 5,
-                    "cost": 4,
-                    "gemType": "Yellow",
-                    "name": "Diving Elbow Drop",
+                    "cost": 8,
+                    "gemType": "Green",
+                    "name": "Tornado DDT",
                     "move": {},
                     "levels": [
                         {
                             "level": 1,
                             "talentScore": 27,
-                            "text": "Deal 108 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='108' data-variable-name='damage'>108</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
+                            "text": "Deal 184 Damage and Swap a 1 x 1 Random area to into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='184' data-variable-name='damage'>184</span> Damage and Swap a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 2,
                             "talentScore": 89,
-                            "text": "Deal 184 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='184' data-variable-name='damage'>184</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
+                            "text": "Deal 488 Damage and Swap a 1 x 1 Random area to into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='488' data-variable-name='damage'>488</span> Damage and Swap a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 3,
                             "talentScore": 152,
-                            "text": "Deal 261 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='261' data-variable-name='damage'>261</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
+                            "text": "Deal 792 Damage and Swap a 1 x 1 Random area to into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='792' data-variable-name='damage'>792</span> Damage and Swap a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 4,
                             "talentScore": 215,
-                            "text": "Deal 337 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='337' data-variable-name='damage'>337</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
+                            "text": "Deal 1096 Damage and Swap a 2 x 1 Random area to into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='1096' data-variable-name='damage'>1096</span> Damage and Swap a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 5,
                             "talentScore": 277,
-                            "text": "Deal 414 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='414' data-variable-name='damage'>414</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
+                            "text": "Deal 1400 Damage and Swap a 2 x 1 Random area to into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='1400' data-variable-name='damage'>1400</span> Damage and Swap a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         }
                     ]
                 }
@@ -2893,64 +2893,6 @@
                 {
                     "ID": "ABL_MHardy_HardyBoyz_3Star_04",
                     "levelCap": 8,
-                    "cost": 4,
-                    "gemType": "Yellow",
-                    "name": "Diving Elbow Drop",
-                    "move": {},
-                    "levels": [
-                        {
-                            "level": 1,
-                            "talentScore": 45,
-                            "text": "Deal 204 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='204' data-variable-name='damage'>204</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 2,
-                            "talentScore": 201,
-                            "text": "Deal 352 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='352' data-variable-name='damage'>352</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 3,
-                            "talentScore": 358,
-                            "text": "Deal 501 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='501' data-variable-name='damage'>501</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 4,
-                            "talentScore": 515,
-                            "text": "Deal 650 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='650' data-variable-name='damage'>650</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 5,
-                            "talentScore": 672,
-                            "text": "Deal 799 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='799' data-variable-name='damage'>799</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 6,
-                            "talentScore": 828,
-                            "text": "Deal 948 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='948' data-variable-name='damage'>948</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 7,
-                            "talentScore": 985,
-                            "text": "Deal 1097 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='1097' data-variable-name='damage'>1097</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 8,
-                            "talentScore": 1142,
-                            "text": "Deal 1246 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='1246' data-variable-name='damage'>1246</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        }
-                    ]
-                },
-                {
-                    "ID": "ABL_MHardy_HardyBoyz_3Star_05",
-                    "levelCap": 8,
                     "cost": 8,
                     "gemType": "Green",
                     "name": "Tornado DDT",
@@ -3003,6 +2945,64 @@
                             "talentScore": 1142,
                             "text": "Deal 5303 Damage and Swap a 3 x 1 Random area to into Yellow Gems!",
                             "html": "Deal <span data-variable-value='5303' data-variable-name='damage'>5303</span> Damage and Swap a <span data-variable-value='3' data-variable-name='val1'>3</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
+                        }
+                    ]
+                },
+                {
+                    "ID": "ABL_MHardy_HardyBoyz_3Star_05",
+                    "levelCap": 8,
+                    "cost": 4,
+                    "gemType": "Yellow",
+                    "name": "Diving Elbow Drop",
+                    "move": {},
+                    "levels": [
+                        {
+                            "level": 1,
+                            "talentScore": 45,
+                            "text": "Deal 204 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='204' data-variable-name='damage'>204</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 2,
+                            "talentScore": 201,
+                            "text": "Deal 352 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='352' data-variable-name='damage'>352</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 3,
+                            "talentScore": 358,
+                            "text": "Deal 501 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='501' data-variable-name='damage'>501</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 4,
+                            "talentScore": 515,
+                            "text": "Deal 650 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='650' data-variable-name='damage'>650</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 5,
+                            "talentScore": 672,
+                            "text": "Deal 799 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='799' data-variable-name='damage'>799</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 6,
+                            "talentScore": 828,
+                            "text": "Deal 948 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='948' data-variable-name='damage'>948</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 7,
+                            "talentScore": 985,
+                            "text": "Deal 1097 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='1097' data-variable-name='damage'>1097</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 8,
+                            "talentScore": 1142,
+                            "text": "Deal 1246 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='1246' data-variable-name='damage'>1246</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
                         }
                     ]
                 }
@@ -4254,64 +4254,6 @@
                 {
                     "ID": "ABL_MHardy_HardyBoyz_3Star_04",
                     "levelCap": 8,
-                    "cost": 4,
-                    "gemType": "Yellow",
-                    "name": "Diving Elbow Drop",
-                    "move": {},
-                    "levels": [
-                        {
-                            "level": 1,
-                            "talentScore": 45,
-                            "text": "Deal 204 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='204' data-variable-name='damage'>204</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 2,
-                            "talentScore": 201,
-                            "text": "Deal 352 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='352' data-variable-name='damage'>352</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 3,
-                            "talentScore": 358,
-                            "text": "Deal 501 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='501' data-variable-name='damage'>501</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 4,
-                            "talentScore": 515,
-                            "text": "Deal 650 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='650' data-variable-name='damage'>650</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 5,
-                            "talentScore": 672,
-                            "text": "Deal 799 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='799' data-variable-name='damage'>799</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 6,
-                            "talentScore": 828,
-                            "text": "Deal 948 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='948' data-variable-name='damage'>948</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 7,
-                            "talentScore": 985,
-                            "text": "Deal 1097 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='1097' data-variable-name='damage'>1097</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 8,
-                            "talentScore": 1142,
-                            "text": "Deal 1246 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='1246' data-variable-name='damage'>1246</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        }
-                    ]
-                },
-                {
-                    "ID": "ABL_MHardy_HardyBoyz_3Star_05",
-                    "levelCap": 8,
                     "cost": 8,
                     "gemType": "Green",
                     "name": "Tornado DDT",
@@ -4364,6 +4306,64 @@
                             "talentScore": 1142,
                             "text": "Deal 5303 Damage and Swap a 3 x 1 Random area to into Yellow Gems!",
                             "html": "Deal <span data-variable-value='5303' data-variable-name='damage'>5303</span> Damage and Swap a <span data-variable-value='3' data-variable-name='val1'>3</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
+                        }
+                    ]
+                },
+                {
+                    "ID": "ABL_MHardy_HardyBoyz_3Star_05",
+                    "levelCap": 8,
+                    "cost": 4,
+                    "gemType": "Yellow",
+                    "name": "Diving Elbow Drop",
+                    "move": {},
+                    "levels": [
+                        {
+                            "level": 1,
+                            "talentScore": 45,
+                            "text": "Deal 204 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='204' data-variable-name='damage'>204</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 2,
+                            "talentScore": 201,
+                            "text": "Deal 352 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='352' data-variable-name='damage'>352</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 3,
+                            "talentScore": 358,
+                            "text": "Deal 501 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='501' data-variable-name='damage'>501</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 4,
+                            "talentScore": 515,
+                            "text": "Deal 650 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='650' data-variable-name='damage'>650</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 5,
+                            "talentScore": 672,
+                            "text": "Deal 799 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='799' data-variable-name='damage'>799</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 6,
+                            "talentScore": 828,
+                            "text": "Deal 948 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='948' data-variable-name='damage'>948</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 7,
+                            "talentScore": 985,
+                            "text": "Deal 1097 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='1097' data-variable-name='damage'>1097</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 8,
+                            "talentScore": 1142,
+                            "text": "Deal 1246 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='1246' data-variable-name='damage'>1246</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
                         }
                     ]
                 }
@@ -5615,64 +5615,6 @@
                 {
                     "ID": "ABL_MHardy_HardyBoyz_3Star_04",
                     "levelCap": 8,
-                    "cost": 4,
-                    "gemType": "Yellow",
-                    "name": "Diving Elbow Drop",
-                    "move": {},
-                    "levels": [
-                        {
-                            "level": 1,
-                            "talentScore": 45,
-                            "text": "Deal 204 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='204' data-variable-name='damage'>204</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 2,
-                            "talentScore": 201,
-                            "text": "Deal 352 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='352' data-variable-name='damage'>352</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 3,
-                            "talentScore": 358,
-                            "text": "Deal 501 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='501' data-variable-name='damage'>501</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 4,
-                            "talentScore": 515,
-                            "text": "Deal 650 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='650' data-variable-name='damage'>650</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 5,
-                            "talentScore": 672,
-                            "text": "Deal 799 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='799' data-variable-name='damage'>799</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 6,
-                            "talentScore": 828,
-                            "text": "Deal 948 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='948' data-variable-name='damage'>948</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 7,
-                            "talentScore": 985,
-                            "text": "Deal 1097 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='1097' data-variable-name='damage'>1097</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 8,
-                            "talentScore": 1142,
-                            "text": "Deal 1246 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='1246' data-variable-name='damage'>1246</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        }
-                    ]
-                },
-                {
-                    "ID": "ABL_MHardy_HardyBoyz_3Star_05",
-                    "levelCap": 8,
                     "cost": 8,
                     "gemType": "Green",
                     "name": "Tornado DDT",
@@ -5725,6 +5667,64 @@
                             "talentScore": 1142,
                             "text": "Deal 5303 Damage and Swap a 3 x 1 Random area to into Yellow Gems!",
                             "html": "Deal <span data-variable-value='5303' data-variable-name='damage'>5303</span> Damage and Swap a <span data-variable-value='3' data-variable-name='val1'>3</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
+                        }
+                    ]
+                },
+                {
+                    "ID": "ABL_MHardy_HardyBoyz_3Star_05",
+                    "levelCap": 8,
+                    "cost": 4,
+                    "gemType": "Yellow",
+                    "name": "Diving Elbow Drop",
+                    "move": {},
+                    "levels": [
+                        {
+                            "level": 1,
+                            "talentScore": 45,
+                            "text": "Deal 204 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='204' data-variable-name='damage'>204</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 2,
+                            "talentScore": 201,
+                            "text": "Deal 352 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='352' data-variable-name='damage'>352</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 3,
+                            "talentScore": 358,
+                            "text": "Deal 501 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='501' data-variable-name='damage'>501</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 4,
+                            "talentScore": 515,
+                            "text": "Deal 650 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='650' data-variable-name='damage'>650</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 5,
+                            "talentScore": 672,
+                            "text": "Deal 799 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='799' data-variable-name='damage'>799</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 6,
+                            "talentScore": 828,
+                            "text": "Deal 948 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='948' data-variable-name='damage'>948</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 7,
+                            "talentScore": 985,
+                            "text": "Deal 1097 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='1097' data-variable-name='damage'>1097</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 8,
+                            "talentScore": 1142,
+                            "text": "Deal 1246 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='1246' data-variable-name='damage'>1246</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
                         }
                     ]
                 }
@@ -6927,46 +6927,46 @@
                 {
                     "ID": "ABL_MHardy_HardyBoyz_2Star_04",
                     "levelCap": 6,
-                    "cost": 4,
-                    "gemType": "Yellow",
-                    "name": "Diving Elbow Drop",
+                    "cost": 8,
+                    "gemType": "Green",
+                    "name": "Tornado DDT",
                     "move": {},
                     "levels": [
                         {
                             "level": 1,
                             "talentScore": 27,
-                            "text": "Deal 108 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='108' data-variable-name='damage'>108</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
+                            "text": "Deal 184 Damage and Swap a 1 x 1 Random area to into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='184' data-variable-name='damage'>184</span> Damage and Swap a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 2,
                             "talentScore": 89,
-                            "text": "Deal 184 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='184' data-variable-name='damage'>184</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
+                            "text": "Deal 488 Damage and Swap a 1 x 1 Random area to into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='488' data-variable-name='damage'>488</span> Damage and Swap a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 3,
                             "talentScore": 152,
-                            "text": "Deal 261 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='261' data-variable-name='damage'>261</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
+                            "text": "Deal 792 Damage and Swap a 1 x 1 Random area to into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='792' data-variable-name='damage'>792</span> Damage and Swap a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 4,
                             "talentScore": 215,
-                            "text": "Deal 337 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='337' data-variable-name='damage'>337</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
+                            "text": "Deal 1096 Damage and Swap a 2 x 1 Random area to into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='1096' data-variable-name='damage'>1096</span> Damage and Swap a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 5,
                             "talentScore": 277,
-                            "text": "Deal 414 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='414' data-variable-name='damage'>414</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
+                            "text": "Deal 1400 Damage and Swap a 2 x 1 Random area to into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='1400' data-variable-name='damage'>1400</span> Damage and Swap a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 6,
                             "talentScore": 340,
-                            "text": "Deal 490 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='490' data-variable-name='damage'>490</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
+                            "text": "Deal 1704 Damage and Swap a 2 x 1 Random area to into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='1704' data-variable-name='damage'>1704</span> Damage and Swap a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         }
                     ]
                 }
@@ -7792,46 +7792,46 @@
                 {
                     "ID": "ABL_MHardy_HardyBoyz_2Star_04",
                     "levelCap": 6,
-                    "cost": 4,
-                    "gemType": "Yellow",
-                    "name": "Diving Elbow Drop",
+                    "cost": 8,
+                    "gemType": "Green",
+                    "name": "Tornado DDT",
                     "move": {},
                     "levels": [
                         {
                             "level": 1,
                             "talentScore": 27,
-                            "text": "Deal 108 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='108' data-variable-name='damage'>108</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
+                            "text": "Deal 184 Damage and Swap a 1 x 1 Random area to into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='184' data-variable-name='damage'>184</span> Damage and Swap a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 2,
                             "talentScore": 89,
-                            "text": "Deal 184 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='184' data-variable-name='damage'>184</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
+                            "text": "Deal 488 Damage and Swap a 1 x 1 Random area to into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='488' data-variable-name='damage'>488</span> Damage and Swap a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 3,
                             "talentScore": 152,
-                            "text": "Deal 261 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='261' data-variable-name='damage'>261</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
+                            "text": "Deal 792 Damage and Swap a 1 x 1 Random area to into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='792' data-variable-name='damage'>792</span> Damage and Swap a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 4,
                             "talentScore": 215,
-                            "text": "Deal 337 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='337' data-variable-name='damage'>337</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
+                            "text": "Deal 1096 Damage and Swap a 2 x 1 Random area to into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='1096' data-variable-name='damage'>1096</span> Damage and Swap a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 5,
                             "talentScore": 277,
-                            "text": "Deal 414 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='414' data-variable-name='damage'>414</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
+                            "text": "Deal 1400 Damage and Swap a 2 x 1 Random area to into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='1400' data-variable-name='damage'>1400</span> Damage and Swap a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 6,
                             "talentScore": 340,
-                            "text": "Deal 490 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='490' data-variable-name='damage'>490</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
+                            "text": "Deal 1704 Damage and Swap a 2 x 1 Random area to into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='1704' data-variable-name='damage'>1704</span> Damage and Swap a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         }
                     ]
                 }
@@ -9361,70 +9361,6 @@
                 {
                     "ID": "ABL_MHardy_HardyBoyz_3Star_04",
                     "levelCap": 9,
-                    "cost": 4,
-                    "gemType": "Yellow",
-                    "name": "Diving Elbow Drop",
-                    "move": {},
-                    "levels": [
-                        {
-                            "level": 1,
-                            "talentScore": 45,
-                            "text": "Deal 204 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='204' data-variable-name='damage'>204</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 2,
-                            "talentScore": 201,
-                            "text": "Deal 352 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='352' data-variable-name='damage'>352</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 3,
-                            "talentScore": 358,
-                            "text": "Deal 501 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='501' data-variable-name='damage'>501</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 4,
-                            "talentScore": 515,
-                            "text": "Deal 650 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='650' data-variable-name='damage'>650</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 5,
-                            "talentScore": 672,
-                            "text": "Deal 799 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='799' data-variable-name='damage'>799</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 6,
-                            "talentScore": 828,
-                            "text": "Deal 948 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='948' data-variable-name='damage'>948</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 7,
-                            "talentScore": 985,
-                            "text": "Deal 1097 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='1097' data-variable-name='damage'>1097</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 8,
-                            "talentScore": 1142,
-                            "text": "Deal 1246 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='1246' data-variable-name='damage'>1246</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 9,
-                            "talentScore": 1299,
-                            "text": "Deal 1395 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='1395' data-variable-name='damage'>1395</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        }
-                    ]
-                },
-                {
-                    "ID": "ABL_MHardy_HardyBoyz_3Star_05",
-                    "levelCap": 9,
                     "cost": 8,
                     "gemType": "Green",
                     "name": "Tornado DDT",
@@ -9483,6 +9419,70 @@
                             "talentScore": 1299,
                             "text": "Deal 6006 Damage and Swap a 3 x 1 Random area to into Yellow Gems!",
                             "html": "Deal <span data-variable-value='6006' data-variable-name='damage'>6006</span> Damage and Swap a <span data-variable-value='3' data-variable-name='val1'>3</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
+                        }
+                    ]
+                },
+                {
+                    "ID": "ABL_MHardy_HardyBoyz_3Star_05",
+                    "levelCap": 9,
+                    "cost": 4,
+                    "gemType": "Yellow",
+                    "name": "Diving Elbow Drop",
+                    "move": {},
+                    "levels": [
+                        {
+                            "level": 1,
+                            "talentScore": 45,
+                            "text": "Deal 204 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='204' data-variable-name='damage'>204</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 2,
+                            "talentScore": 201,
+                            "text": "Deal 352 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='352' data-variable-name='damage'>352</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 3,
+                            "talentScore": 358,
+                            "text": "Deal 501 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='501' data-variable-name='damage'>501</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 4,
+                            "talentScore": 515,
+                            "text": "Deal 650 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='650' data-variable-name='damage'>650</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 5,
+                            "talentScore": 672,
+                            "text": "Deal 799 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='799' data-variable-name='damage'>799</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 6,
+                            "talentScore": 828,
+                            "text": "Deal 948 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='948' data-variable-name='damage'>948</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 7,
+                            "talentScore": 985,
+                            "text": "Deal 1097 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='1097' data-variable-name='damage'>1097</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 8,
+                            "talentScore": 1142,
+                            "text": "Deal 1246 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='1246' data-variable-name='damage'>1246</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 9,
+                            "talentScore": 1299,
+                            "text": "Deal 1395 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='1395' data-variable-name='damage'>1395</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
                         }
                     ]
                 }
@@ -11012,70 +11012,6 @@
                 {
                     "ID": "ABL_MHardy_HardyBoyz_3Star_04",
                     "levelCap": 9,
-                    "cost": 4,
-                    "gemType": "Yellow",
-                    "name": "Diving Elbow Drop",
-                    "move": {},
-                    "levels": [
-                        {
-                            "level": 1,
-                            "talentScore": 45,
-                            "text": "Deal 204 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='204' data-variable-name='damage'>204</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 2,
-                            "talentScore": 201,
-                            "text": "Deal 352 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='352' data-variable-name='damage'>352</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 3,
-                            "talentScore": 358,
-                            "text": "Deal 501 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='501' data-variable-name='damage'>501</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 4,
-                            "talentScore": 515,
-                            "text": "Deal 650 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='650' data-variable-name='damage'>650</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 5,
-                            "talentScore": 672,
-                            "text": "Deal 799 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='799' data-variable-name='damage'>799</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 6,
-                            "talentScore": 828,
-                            "text": "Deal 948 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='948' data-variable-name='damage'>948</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 7,
-                            "talentScore": 985,
-                            "text": "Deal 1097 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='1097' data-variable-name='damage'>1097</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 8,
-                            "talentScore": 1142,
-                            "text": "Deal 1246 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='1246' data-variable-name='damage'>1246</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 9,
-                            "talentScore": 1299,
-                            "text": "Deal 1395 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='1395' data-variable-name='damage'>1395</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        }
-                    ]
-                },
-                {
-                    "ID": "ABL_MHardy_HardyBoyz_3Star_05",
-                    "levelCap": 9,
                     "cost": 8,
                     "gemType": "Green",
                     "name": "Tornado DDT",
@@ -11134,6 +11070,70 @@
                             "talentScore": 1299,
                             "text": "Deal 6006 Damage and Swap a 3 x 1 Random area to into Yellow Gems!",
                             "html": "Deal <span data-variable-value='6006' data-variable-name='damage'>6006</span> Damage and Swap a <span data-variable-value='3' data-variable-name='val1'>3</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
+                        }
+                    ]
+                },
+                {
+                    "ID": "ABL_MHardy_HardyBoyz_3Star_05",
+                    "levelCap": 9,
+                    "cost": 4,
+                    "gemType": "Yellow",
+                    "name": "Diving Elbow Drop",
+                    "move": {},
+                    "levels": [
+                        {
+                            "level": 1,
+                            "talentScore": 45,
+                            "text": "Deal 204 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='204' data-variable-name='damage'>204</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 2,
+                            "talentScore": 201,
+                            "text": "Deal 352 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='352' data-variable-name='damage'>352</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 3,
+                            "talentScore": 358,
+                            "text": "Deal 501 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='501' data-variable-name='damage'>501</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 4,
+                            "talentScore": 515,
+                            "text": "Deal 650 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='650' data-variable-name='damage'>650</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 5,
+                            "talentScore": 672,
+                            "text": "Deal 799 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='799' data-variable-name='damage'>799</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 6,
+                            "talentScore": 828,
+                            "text": "Deal 948 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='948' data-variable-name='damage'>948</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 7,
+                            "talentScore": 985,
+                            "text": "Deal 1097 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='1097' data-variable-name='damage'>1097</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 8,
+                            "talentScore": 1142,
+                            "text": "Deal 1246 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='1246' data-variable-name='damage'>1246</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 9,
+                            "talentScore": 1299,
+                            "text": "Deal 1395 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='1395' data-variable-name='damage'>1395</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
                         }
                     ]
                 }
@@ -12663,70 +12663,6 @@
                 {
                     "ID": "ABL_MHardy_HardyBoyz_3Star_04",
                     "levelCap": 9,
-                    "cost": 4,
-                    "gemType": "Yellow",
-                    "name": "Diving Elbow Drop",
-                    "move": {},
-                    "levels": [
-                        {
-                            "level": 1,
-                            "talentScore": 45,
-                            "text": "Deal 204 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='204' data-variable-name='damage'>204</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 2,
-                            "talentScore": 201,
-                            "text": "Deal 352 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='352' data-variable-name='damage'>352</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 3,
-                            "talentScore": 358,
-                            "text": "Deal 501 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='501' data-variable-name='damage'>501</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 4,
-                            "talentScore": 515,
-                            "text": "Deal 650 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='650' data-variable-name='damage'>650</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 5,
-                            "talentScore": 672,
-                            "text": "Deal 799 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='799' data-variable-name='damage'>799</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 6,
-                            "talentScore": 828,
-                            "text": "Deal 948 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='948' data-variable-name='damage'>948</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 7,
-                            "talentScore": 985,
-                            "text": "Deal 1097 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='1097' data-variable-name='damage'>1097</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 8,
-                            "talentScore": 1142,
-                            "text": "Deal 1246 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='1246' data-variable-name='damage'>1246</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 9,
-                            "talentScore": 1299,
-                            "text": "Deal 1395 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='1395' data-variable-name='damage'>1395</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        }
-                    ]
-                },
-                {
-                    "ID": "ABL_MHardy_HardyBoyz_3Star_05",
-                    "levelCap": 9,
                     "cost": 8,
                     "gemType": "Green",
                     "name": "Tornado DDT",
@@ -12785,6 +12721,70 @@
                             "talentScore": 1299,
                             "text": "Deal 6006 Damage and Swap a 3 x 1 Random area to into Yellow Gems!",
                             "html": "Deal <span data-variable-value='6006' data-variable-name='damage'>6006</span> Damage and Swap a <span data-variable-value='3' data-variable-name='val1'>3</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
+                        }
+                    ]
+                },
+                {
+                    "ID": "ABL_MHardy_HardyBoyz_3Star_05",
+                    "levelCap": 9,
+                    "cost": 4,
+                    "gemType": "Yellow",
+                    "name": "Diving Elbow Drop",
+                    "move": {},
+                    "levels": [
+                        {
+                            "level": 1,
+                            "talentScore": 45,
+                            "text": "Deal 204 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='204' data-variable-name='damage'>204</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 2,
+                            "talentScore": 201,
+                            "text": "Deal 352 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='352' data-variable-name='damage'>352</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 3,
+                            "talentScore": 358,
+                            "text": "Deal 501 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='501' data-variable-name='damage'>501</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 4,
+                            "talentScore": 515,
+                            "text": "Deal 650 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='650' data-variable-name='damage'>650</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 5,
+                            "talentScore": 672,
+                            "text": "Deal 799 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='799' data-variable-name='damage'>799</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 6,
+                            "talentScore": 828,
+                            "text": "Deal 948 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='948' data-variable-name='damage'>948</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 7,
+                            "talentScore": 985,
+                            "text": "Deal 1097 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='1097' data-variable-name='damage'>1097</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 8,
+                            "talentScore": 1142,
+                            "text": "Deal 1246 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='1246' data-variable-name='damage'>1246</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 9,
+                            "talentScore": 1299,
+                            "text": "Deal 1395 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='1395' data-variable-name='damage'>1395</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
                         }
                     ]
                 }
@@ -14283,52 +14283,52 @@
                 {
                     "ID": "ABL_MHardy_HardyBoyz_2Star_04",
                     "levelCap": 7,
-                    "cost": 4,
-                    "gemType": "Yellow",
-                    "name": "Diving Elbow Drop",
+                    "cost": 8,
+                    "gemType": "Green",
+                    "name": "Tornado DDT",
                     "move": {},
                     "levels": [
                         {
                             "level": 1,
                             "talentScore": 27,
-                            "text": "Deal 108 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='108' data-variable-name='damage'>108</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
+                            "text": "Deal 184 Damage and Swap a 1 x 1 Random area to into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='184' data-variable-name='damage'>184</span> Damage and Swap a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 2,
                             "talentScore": 89,
-                            "text": "Deal 184 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='184' data-variable-name='damage'>184</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
+                            "text": "Deal 488 Damage and Swap a 1 x 1 Random area to into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='488' data-variable-name='damage'>488</span> Damage and Swap a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 3,
                             "talentScore": 152,
-                            "text": "Deal 261 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='261' data-variable-name='damage'>261</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
+                            "text": "Deal 792 Damage and Swap a 1 x 1 Random area to into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='792' data-variable-name='damage'>792</span> Damage and Swap a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 4,
                             "talentScore": 215,
-                            "text": "Deal 337 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='337' data-variable-name='damage'>337</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
+                            "text": "Deal 1096 Damage and Swap a 2 x 1 Random area to into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='1096' data-variable-name='damage'>1096</span> Damage and Swap a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 5,
                             "talentScore": 277,
-                            "text": "Deal 414 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='414' data-variable-name='damage'>414</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
+                            "text": "Deal 1400 Damage and Swap a 2 x 1 Random area to into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='1400' data-variable-name='damage'>1400</span> Damage and Swap a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 6,
                             "talentScore": 340,
-                            "text": "Deal 490 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='490' data-variable-name='damage'>490</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
+                            "text": "Deal 1704 Damage and Swap a 2 x 1 Random area to into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='1704' data-variable-name='damage'>1704</span> Damage and Swap a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 7,
                             "talentScore": 403,
-                            "text": "Deal 567 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='567' data-variable-name='damage'>567</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
+                            "text": "Deal 2009 Damage and Swap a 3 x 1 Random area to into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='2009' data-variable-name='damage'>2009</span> Damage and Swap a <span data-variable-value='3' data-variable-name='val1'>3</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         }
                     ]
                 }
@@ -15302,52 +15302,52 @@
                 {
                     "ID": "ABL_MHardy_HardyBoyz_2Star_04",
                     "levelCap": 7,
-                    "cost": 4,
-                    "gemType": "Yellow",
-                    "name": "Diving Elbow Drop",
+                    "cost": 8,
+                    "gemType": "Green",
+                    "name": "Tornado DDT",
                     "move": {},
                     "levels": [
                         {
                             "level": 1,
                             "talentScore": 27,
-                            "text": "Deal 108 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='108' data-variable-name='damage'>108</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
+                            "text": "Deal 184 Damage and Swap a 1 x 1 Random area to into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='184' data-variable-name='damage'>184</span> Damage and Swap a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 2,
                             "talentScore": 89,
-                            "text": "Deal 184 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='184' data-variable-name='damage'>184</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
+                            "text": "Deal 488 Damage and Swap a 1 x 1 Random area to into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='488' data-variable-name='damage'>488</span> Damage and Swap a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 3,
                             "talentScore": 152,
-                            "text": "Deal 261 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='261' data-variable-name='damage'>261</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
+                            "text": "Deal 792 Damage and Swap a 1 x 1 Random area to into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='792' data-variable-name='damage'>792</span> Damage and Swap a <span data-variable-value='1' data-variable-name='val1'>1</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 4,
                             "talentScore": 215,
-                            "text": "Deal 337 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='337' data-variable-name='damage'>337</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
+                            "text": "Deal 1096 Damage and Swap a 2 x 1 Random area to into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='1096' data-variable-name='damage'>1096</span> Damage and Swap a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 5,
                             "talentScore": 277,
-                            "text": "Deal 414 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='414' data-variable-name='damage'>414</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
+                            "text": "Deal 1400 Damage and Swap a 2 x 1 Random area to into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='1400' data-variable-name='damage'>1400</span> Damage and Swap a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 6,
                             "talentScore": 340,
-                            "text": "Deal 490 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='490' data-variable-name='damage'>490</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
+                            "text": "Deal 1704 Damage and Swap a 2 x 1 Random area to into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='1704' data-variable-name='damage'>1704</span> Damage and Swap a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         },
                         {
                             "level": 7,
                             "talentScore": 403,
-                            "text": "Deal 567 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='567' data-variable-name='damage'>567</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
+                            "text": "Deal 2009 Damage and Swap a 3 x 1 Random area to into Yellow Gems!",
+                            "html": "Deal <span data-variable-value='2009' data-variable-name='damage'>2009</span> Damage and Swap a <span data-variable-value='3' data-variable-name='val1'>3</span> x <span data-variable-value='1' data-variable-name='val2'>1</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
                         }
                     ]
                 }
@@ -17155,76 +17155,6 @@
                 {
                     "ID": "ABL_MHardy_HardyBoyz_3Star_04",
                     "levelCap": 10,
-                    "cost": 4,
-                    "gemType": "Yellow",
-                    "name": "Diving Elbow Drop",
-                    "move": {},
-                    "levels": [
-                        {
-                            "level": 1,
-                            "talentScore": 45,
-                            "text": "Deal 204 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='204' data-variable-name='damage'>204</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 2,
-                            "talentScore": 201,
-                            "text": "Deal 352 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='352' data-variable-name='damage'>352</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 3,
-                            "talentScore": 358,
-                            "text": "Deal 501 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='501' data-variable-name='damage'>501</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 4,
-                            "talentScore": 515,
-                            "text": "Deal 650 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='650' data-variable-name='damage'>650</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 5,
-                            "talentScore": 672,
-                            "text": "Deal 799 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='799' data-variable-name='damage'>799</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 6,
-                            "talentScore": 828,
-                            "text": "Deal 948 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='948' data-variable-name='damage'>948</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 7,
-                            "talentScore": 985,
-                            "text": "Deal 1097 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='1097' data-variable-name='damage'>1097</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 8,
-                            "talentScore": 1142,
-                            "text": "Deal 1246 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='1246' data-variable-name='damage'>1246</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 9,
-                            "talentScore": 1299,
-                            "text": "Deal 1395 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='1395' data-variable-name='damage'>1395</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 10,
-                            "talentScore": 1456,
-                            "text": "Deal 1544 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='1544' data-variable-name='damage'>1544</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        }
-                    ]
-                },
-                {
-                    "ID": "ABL_MHardy_HardyBoyz_3Star_05",
-                    "levelCap": 10,
                     "cost": 8,
                     "gemType": "Green",
                     "name": "Tornado DDT",
@@ -17289,6 +17219,76 @@
                             "talentScore": 1456,
                             "text": "Deal 6709 Damage and Swap a 4 x 2 Random area to into Yellow Gems!",
                             "html": "Deal <span data-variable-value='6709' data-variable-name='damage'>6709</span> Damage and Swap a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
+                        }
+                    ]
+                },
+                {
+                    "ID": "ABL_MHardy_HardyBoyz_3Star_05",
+                    "levelCap": 10,
+                    "cost": 4,
+                    "gemType": "Yellow",
+                    "name": "Diving Elbow Drop",
+                    "move": {},
+                    "levels": [
+                        {
+                            "level": 1,
+                            "talentScore": 45,
+                            "text": "Deal 204 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='204' data-variable-name='damage'>204</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 2,
+                            "talentScore": 201,
+                            "text": "Deal 352 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='352' data-variable-name='damage'>352</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 3,
+                            "talentScore": 358,
+                            "text": "Deal 501 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='501' data-variable-name='damage'>501</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 4,
+                            "talentScore": 515,
+                            "text": "Deal 650 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='650' data-variable-name='damage'>650</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 5,
+                            "talentScore": 672,
+                            "text": "Deal 799 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='799' data-variable-name='damage'>799</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 6,
+                            "talentScore": 828,
+                            "text": "Deal 948 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='948' data-variable-name='damage'>948</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 7,
+                            "talentScore": 985,
+                            "text": "Deal 1097 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='1097' data-variable-name='damage'>1097</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 8,
+                            "talentScore": 1142,
+                            "text": "Deal 1246 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='1246' data-variable-name='damage'>1246</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 9,
+                            "talentScore": 1299,
+                            "text": "Deal 1395 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='1395' data-variable-name='damage'>1395</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 10,
+                            "talentScore": 1456,
+                            "text": "Deal 1544 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='1544' data-variable-name='damage'>1544</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
                         }
                     ]
                 }
@@ -19096,76 +19096,6 @@
                 {
                     "ID": "ABL_MHardy_HardyBoyz_3Star_04",
                     "levelCap": 10,
-                    "cost": 4,
-                    "gemType": "Yellow",
-                    "name": "Diving Elbow Drop",
-                    "move": {},
-                    "levels": [
-                        {
-                            "level": 1,
-                            "talentScore": 45,
-                            "text": "Deal 204 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='204' data-variable-name='damage'>204</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 2,
-                            "talentScore": 201,
-                            "text": "Deal 352 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='352' data-variable-name='damage'>352</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 3,
-                            "talentScore": 358,
-                            "text": "Deal 501 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='501' data-variable-name='damage'>501</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 4,
-                            "talentScore": 515,
-                            "text": "Deal 650 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='650' data-variable-name='damage'>650</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 5,
-                            "talentScore": 672,
-                            "text": "Deal 799 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='799' data-variable-name='damage'>799</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 6,
-                            "talentScore": 828,
-                            "text": "Deal 948 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='948' data-variable-name='damage'>948</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 7,
-                            "talentScore": 985,
-                            "text": "Deal 1097 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='1097' data-variable-name='damage'>1097</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 8,
-                            "talentScore": 1142,
-                            "text": "Deal 1246 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='1246' data-variable-name='damage'>1246</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 9,
-                            "talentScore": 1299,
-                            "text": "Deal 1395 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='1395' data-variable-name='damage'>1395</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 10,
-                            "talentScore": 1456,
-                            "text": "Deal 1544 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='1544' data-variable-name='damage'>1544</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        }
-                    ]
-                },
-                {
-                    "ID": "ABL_MHardy_HardyBoyz_3Star_05",
-                    "levelCap": 10,
                     "cost": 8,
                     "gemType": "Green",
                     "name": "Tornado DDT",
@@ -19230,6 +19160,76 @@
                             "talentScore": 1456,
                             "text": "Deal 6709 Damage and Swap a 4 x 2 Random area to into Yellow Gems!",
                             "html": "Deal <span data-variable-value='6709' data-variable-name='damage'>6709</span> Damage and Swap a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
+                        }
+                    ]
+                },
+                {
+                    "ID": "ABL_MHardy_HardyBoyz_3Star_05",
+                    "levelCap": 10,
+                    "cost": 4,
+                    "gemType": "Yellow",
+                    "name": "Diving Elbow Drop",
+                    "move": {},
+                    "levels": [
+                        {
+                            "level": 1,
+                            "talentScore": 45,
+                            "text": "Deal 204 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='204' data-variable-name='damage'>204</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 2,
+                            "talentScore": 201,
+                            "text": "Deal 352 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='352' data-variable-name='damage'>352</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 3,
+                            "talentScore": 358,
+                            "text": "Deal 501 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='501' data-variable-name='damage'>501</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 4,
+                            "talentScore": 515,
+                            "text": "Deal 650 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='650' data-variable-name='damage'>650</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 5,
+                            "talentScore": 672,
+                            "text": "Deal 799 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='799' data-variable-name='damage'>799</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 6,
+                            "talentScore": 828,
+                            "text": "Deal 948 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='948' data-variable-name='damage'>948</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 7,
+                            "talentScore": 985,
+                            "text": "Deal 1097 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='1097' data-variable-name='damage'>1097</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 8,
+                            "talentScore": 1142,
+                            "text": "Deal 1246 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='1246' data-variable-name='damage'>1246</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 9,
+                            "talentScore": 1299,
+                            "text": "Deal 1395 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='1395' data-variable-name='damage'>1395</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 10,
+                            "talentScore": 1456,
+                            "text": "Deal 1544 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='1544' data-variable-name='damage'>1544</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
                         }
                     ]
                 }
@@ -21037,76 +21037,6 @@
                 {
                     "ID": "ABL_MHardy_HardyBoyz_3Star_04",
                     "levelCap": 10,
-                    "cost": 4,
-                    "gemType": "Yellow",
-                    "name": "Diving Elbow Drop",
-                    "move": {},
-                    "levels": [
-                        {
-                            "level": 1,
-                            "talentScore": 45,
-                            "text": "Deal 204 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='204' data-variable-name='damage'>204</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 2,
-                            "talentScore": 201,
-                            "text": "Deal 352 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='352' data-variable-name='damage'>352</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 3,
-                            "talentScore": 358,
-                            "text": "Deal 501 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='501' data-variable-name='damage'>501</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 4,
-                            "talentScore": 515,
-                            "text": "Deal 650 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='650' data-variable-name='damage'>650</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 5,
-                            "talentScore": 672,
-                            "text": "Deal 799 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='799' data-variable-name='damage'>799</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 6,
-                            "talentScore": 828,
-                            "text": "Deal 948 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='948' data-variable-name='damage'>948</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 7,
-                            "talentScore": 985,
-                            "text": "Deal 1097 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='1097' data-variable-name='damage'>1097</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 8,
-                            "talentScore": 1142,
-                            "text": "Deal 1246 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='1246' data-variable-name='damage'>1246</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 9,
-                            "talentScore": 1299,
-                            "text": "Deal 1395 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='1395' data-variable-name='damage'>1395</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        },
-                        {
-                            "level": 10,
-                            "talentScore": 1456,
-                            "text": "Deal 1544 Damage and Force your Opponent to Tag.  Has no effect in Singles matches.",
-                            "html": "Deal <span data-variable-value='1544' data-variable-name='damage'>1544</span> Damage and Force your Opponent to Tag.  Has no effect in Singles matches."
-                        }
-                    ]
-                },
-                {
-                    "ID": "ABL_MHardy_HardyBoyz_3Star_05",
-                    "levelCap": 10,
                     "cost": 8,
                     "gemType": "Green",
                     "name": "Tornado DDT",
@@ -21171,6 +21101,76 @@
                             "talentScore": 1456,
                             "text": "Deal 6709 Damage and Swap a 4 x 2 Random area to into Yellow Gems!",
                             "html": "Deal <span data-variable-value='6709' data-variable-name='damage'>6709</span> Damage and Swap a <span data-variable-value='4' data-variable-name='val1'>4</span> x <span data-variable-value='2' data-variable-name='val2'>2</span> Random area to into <span data-variable-value='Yellow' data-variable-name='min3'>Yellow</span> Gems!"
+                        }
+                    ]
+                },
+                {
+                    "ID": "ABL_MHardy_HardyBoyz_3Star_05",
+                    "levelCap": 10,
+                    "cost": 4,
+                    "gemType": "Yellow",
+                    "name": "Diving Elbow Drop",
+                    "move": {},
+                    "levels": [
+                        {
+                            "level": 1,
+                            "talentScore": 45,
+                            "text": "Deal 204 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='204' data-variable-name='damage'>204</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 2,
+                            "talentScore": 201,
+                            "text": "Deal 352 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='352' data-variable-name='damage'>352</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 3,
+                            "talentScore": 358,
+                            "text": "Deal 501 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='501' data-variable-name='damage'>501</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 4,
+                            "talentScore": 515,
+                            "text": "Deal 650 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='650' data-variable-name='damage'>650</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 5,
+                            "talentScore": 672,
+                            "text": "Deal 799 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='799' data-variable-name='damage'>799</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 6,
+                            "talentScore": 828,
+                            "text": "Deal 948 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='948' data-variable-name='damage'>948</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 7,
+                            "talentScore": 985,
+                            "text": "Deal 1097 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='1097' data-variable-name='damage'>1097</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 8,
+                            "talentScore": 1142,
+                            "text": "Deal 1246 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='1246' data-variable-name='damage'>1246</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 9,
+                            "talentScore": 1299,
+                            "text": "Deal 1395 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='1395' data-variable-name='damage'>1395</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
+                        },
+                        {
+                            "level": 10,
+                            "talentScore": 1456,
+                            "text": "Deal 1544 Damage and Force your Opponent to Tag.  Do not use in Singles matches.",
+                            "html": "Deal <span data-variable-value='1544' data-variable-name='damage'>1544</span> Damage and Force your Opponent to Tag.  Do not use in Singles matches."
                         }
                     ]
                 }
