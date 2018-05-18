@@ -148,7 +148,8 @@ textarea,
 }
 
 .body-container {
-  min-height: 1470px;
+  min-height: 1512px;
+  /* Each menu item adds 42 px in height */
 }
 
 .jumbotron {
