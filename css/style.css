@@ -119,6 +119,7 @@ input[type='text'],
 input[type='number'],
 input[type='email'],
 input#search,
+.player-stats-search,
 textarea,
 #gbCalcForm input[type='number'],
 .input-text-xs-fix,
@@ -148,7 +149,7 @@ textarea,
 }
 
 .body-container {
-  min-height: 1512px;
+  min-height: 1554px;
   /* Each menu item adds 42 px in height */
 }
 
