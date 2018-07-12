@@ -2921,50 +2921,50 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 470 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='470' data-variable-name='damage'>470</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 470 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='470' data-variable-name='damage'>470</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1421 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='1421' data-variable-name='damage'>1421</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 1421 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='1421' data-variable-name='damage'>1421</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 2373 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='2373' data-variable-name='damage'>2373</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 2373 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='2373' data-variable-name='damage'>2373</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 3325 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='3325' data-variable-name='damage'>3325</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 3325 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='3325' data-variable-name='damage'>3325</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 4277 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='4277' data-variable-name='damage'>4277</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 4277 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='4277' data-variable-name='damage'>4277</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 5229 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='5229' data-variable-name='damage'>5229</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 5229 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='5229' data-variable-name='damage'>5229</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 6181 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='6181' data-variable-name='damage'>6181</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 6181 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='6181' data-variable-name='damage'>6181</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 7133 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='7133' data-variable-name='damage'>7133</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 7133 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='7133' data-variable-name='damage'>7133</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         }
                     ]
                 },
@@ -4296,50 +4296,50 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 470 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='470' data-variable-name='damage'>470</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 470 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='470' data-variable-name='damage'>470</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1421 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='1421' data-variable-name='damage'>1421</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 1421 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='1421' data-variable-name='damage'>1421</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 2373 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='2373' data-variable-name='damage'>2373</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 2373 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='2373' data-variable-name='damage'>2373</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 3325 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='3325' data-variable-name='damage'>3325</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 3325 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='3325' data-variable-name='damage'>3325</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 4277 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='4277' data-variable-name='damage'>4277</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 4277 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='4277' data-variable-name='damage'>4277</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 5229 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='5229' data-variable-name='damage'>5229</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 5229 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='5229' data-variable-name='damage'>5229</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 6181 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='6181' data-variable-name='damage'>6181</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 6181 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='6181' data-variable-name='damage'>6181</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 7133 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='7133' data-variable-name='damage'>7133</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 7133 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='7133' data-variable-name='damage'>7133</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         }
                     ]
                 },
@@ -5671,50 +5671,50 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 470 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='470' data-variable-name='damage'>470</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 470 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='470' data-variable-name='damage'>470</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1421 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='1421' data-variable-name='damage'>1421</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 1421 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='1421' data-variable-name='damage'>1421</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 2373 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='2373' data-variable-name='damage'>2373</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 2373 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='2373' data-variable-name='damage'>2373</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 3325 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='3325' data-variable-name='damage'>3325</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 3325 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='3325' data-variable-name='damage'>3325</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 4277 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='4277' data-variable-name='damage'>4277</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 4277 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='4277' data-variable-name='damage'>4277</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 5229 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='5229' data-variable-name='damage'>5229</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 5229 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='5229' data-variable-name='damage'>5229</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 6181 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='6181' data-variable-name='damage'>6181</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 6181 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='6181' data-variable-name='damage'>6181</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 7133 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='7133' data-variable-name='damage'>7133</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 7133 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='7133' data-variable-name='damage'>7133</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         }
                     ]
                 },
@@ -7880,68 +7880,68 @@
                         {
                             "level": 1,
                             "talentScore": 220,
-                            "text": "Deal 1028 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='1028' data-variable-name='damage'>1028</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 1028 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='1028' data-variable-name='damage'>1028</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 2,
                             "talentScore": 466,
-                            "text": "Deal 3084 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='3084' data-variable-name='damage'>3084</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 3084 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='3084' data-variable-name='damage'>3084</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 3,
                             "talentScore": 712,
-                            "text": "Deal 5141 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='5141' data-variable-name='damage'>5141</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 5141 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='5141' data-variable-name='damage'>5141</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 4,
                             "talentScore": 958,
-                            "text": "Deal 7197 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='7197' data-variable-name='damage'>7197</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 7197 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='7197' data-variable-name='damage'>7197</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 5,
                             "talentScore": 1204,
-                            "text": "Deal 9254 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='9254' data-variable-name='damage'>9254</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 9254 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='9254' data-variable-name='damage'>9254</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 6,
                             "talentScore": 1450,
-                            "text": "Deal 11310 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='11310' data-variable-name='damage'>11310</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 11310 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='11310' data-variable-name='damage'>11310</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 7,
                             "talentScore": 1696,
-                            "text": "Deal 13367 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='13367' data-variable-name='damage'>13367</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 13367 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='13367' data-variable-name='damage'>13367</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 8,
                             "talentScore": 1942,
-                            "text": "Deal 15424 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='15424' data-variable-name='damage'>15424</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 15424 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='15424' data-variable-name='damage'>15424</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 9,
                             "talentScore": 2188,
-                            "text": "Deal 17480 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='17480' data-variable-name='damage'>17480</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 17480 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='17480' data-variable-name='damage'>17480</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 10,
                             "talentScore": 2434,
-                            "text": "Deal 19537 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='19537' data-variable-name='damage'>19537</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 19537 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='19537' data-variable-name='damage'>19537</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 11,
                             "talentScore": 2680,
-                            "text": "Deal 21593 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='21593' data-variable-name='damage'>21593</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 21593 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='21593' data-variable-name='damage'>21593</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         }
                     ]
                 },
@@ -11772,56 +11772,56 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 470 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='470' data-variable-name='damage'>470</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 470 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='470' data-variable-name='damage'>470</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1421 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='1421' data-variable-name='damage'>1421</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 1421 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='1421' data-variable-name='damage'>1421</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 2373 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='2373' data-variable-name='damage'>2373</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 2373 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='2373' data-variable-name='damage'>2373</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 3325 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='3325' data-variable-name='damage'>3325</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 3325 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='3325' data-variable-name='damage'>3325</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 4277 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='4277' data-variable-name='damage'>4277</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 4277 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='4277' data-variable-name='damage'>4277</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 5229 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='5229' data-variable-name='damage'>5229</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 5229 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='5229' data-variable-name='damage'>5229</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 6181 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='6181' data-variable-name='damage'>6181</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 6181 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='6181' data-variable-name='damage'>6181</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 7133 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='7133' data-variable-name='damage'>7133</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 7133 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='7133' data-variable-name='damage'>7133</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 8085 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='8085' data-variable-name='damage'>8085</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 8085 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='8085' data-variable-name='damage'>8085</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         }
                     ]
                 },
@@ -13437,56 +13437,56 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 470 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='470' data-variable-name='damage'>470</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 470 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='470' data-variable-name='damage'>470</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1421 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='1421' data-variable-name='damage'>1421</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 1421 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='1421' data-variable-name='damage'>1421</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 2373 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='2373' data-variable-name='damage'>2373</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 2373 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='2373' data-variable-name='damage'>2373</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 3325 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='3325' data-variable-name='damage'>3325</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 3325 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='3325' data-variable-name='damage'>3325</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 4277 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='4277' data-variable-name='damage'>4277</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 4277 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='4277' data-variable-name='damage'>4277</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 5229 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='5229' data-variable-name='damage'>5229</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 5229 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='5229' data-variable-name='damage'>5229</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 6181 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='6181' data-variable-name='damage'>6181</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 6181 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='6181' data-variable-name='damage'>6181</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 7133 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='7133' data-variable-name='damage'>7133</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 7133 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='7133' data-variable-name='damage'>7133</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 8085 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='8085' data-variable-name='damage'>8085</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 8085 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='8085' data-variable-name='damage'>8085</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         }
                     ]
                 },
@@ -15102,56 +15102,56 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 470 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='470' data-variable-name='damage'>470</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 470 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='470' data-variable-name='damage'>470</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1421 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='1421' data-variable-name='damage'>1421</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 1421 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='1421' data-variable-name='damage'>1421</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 2373 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='2373' data-variable-name='damage'>2373</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 2373 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='2373' data-variable-name='damage'>2373</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 3325 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='3325' data-variable-name='damage'>3325</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 3325 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='3325' data-variable-name='damage'>3325</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 4277 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='4277' data-variable-name='damage'>4277</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 4277 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='4277' data-variable-name='damage'>4277</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 5229 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='5229' data-variable-name='damage'>5229</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 5229 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='5229' data-variable-name='damage'>5229</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 6181 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='6181' data-variable-name='damage'>6181</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 6181 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='6181' data-variable-name='damage'>6181</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 7133 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='7133' data-variable-name='damage'>7133</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 7133 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='7133' data-variable-name='damage'>7133</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 8085 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='8085' data-variable-name='damage'>8085</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 8085 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='8085' data-variable-name='damage'>8085</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         }
                     ]
                 },
@@ -17601,74 +17601,74 @@
                         {
                             "level": 1,
                             "talentScore": 220,
-                            "text": "Deal 1028 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='1028' data-variable-name='damage'>1028</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 1028 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='1028' data-variable-name='damage'>1028</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 2,
                             "talentScore": 466,
-                            "text": "Deal 3084 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='3084' data-variable-name='damage'>3084</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 3084 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='3084' data-variable-name='damage'>3084</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 3,
                             "talentScore": 712,
-                            "text": "Deal 5141 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='5141' data-variable-name='damage'>5141</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 5141 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='5141' data-variable-name='damage'>5141</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 4,
                             "talentScore": 958,
-                            "text": "Deal 7197 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='7197' data-variable-name='damage'>7197</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 7197 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='7197' data-variable-name='damage'>7197</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 5,
                             "talentScore": 1204,
-                            "text": "Deal 9254 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='9254' data-variable-name='damage'>9254</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 9254 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='9254' data-variable-name='damage'>9254</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 6,
                             "talentScore": 1450,
-                            "text": "Deal 11310 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='11310' data-variable-name='damage'>11310</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 11310 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='11310' data-variable-name='damage'>11310</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 7,
                             "talentScore": 1696,
-                            "text": "Deal 13367 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='13367' data-variable-name='damage'>13367</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 13367 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='13367' data-variable-name='damage'>13367</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 8,
                             "talentScore": 1942,
-                            "text": "Deal 15424 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='15424' data-variable-name='damage'>15424</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 15424 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='15424' data-variable-name='damage'>15424</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 9,
                             "talentScore": 2188,
-                            "text": "Deal 17480 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='17480' data-variable-name='damage'>17480</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 17480 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='17480' data-variable-name='damage'>17480</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 10,
                             "talentScore": 2434,
-                            "text": "Deal 19537 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='19537' data-variable-name='damage'>19537</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 19537 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='19537' data-variable-name='damage'>19537</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 11,
                             "talentScore": 2680,
-                            "text": "Deal 21593 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='21593' data-variable-name='damage'>21593</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 21593 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='21593' data-variable-name='damage'>21593</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 12,
                             "talentScore": 2926,
-                            "text": "Deal 23650 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='23650' data-variable-name='damage'>23650</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 23650 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='23650' data-variable-name='damage'>23650</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         }
                     ]
                 },
@@ -22245,62 +22245,62 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 470 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='470' data-variable-name='damage'>470</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 470 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='470' data-variable-name='damage'>470</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1421 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='1421' data-variable-name='damage'>1421</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 1421 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='1421' data-variable-name='damage'>1421</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 2373 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='2373' data-variable-name='damage'>2373</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 2373 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='2373' data-variable-name='damage'>2373</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 3325 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='3325' data-variable-name='damage'>3325</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 3325 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='3325' data-variable-name='damage'>3325</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 4277 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='4277' data-variable-name='damage'>4277</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 4277 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='4277' data-variable-name='damage'>4277</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 5229 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='5229' data-variable-name='damage'>5229</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 5229 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='5229' data-variable-name='damage'>5229</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 6181 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='6181' data-variable-name='damage'>6181</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 6181 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='6181' data-variable-name='damage'>6181</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 7133 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='7133' data-variable-name='damage'>7133</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 7133 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='7133' data-variable-name='damage'>7133</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 8085 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='8085' data-variable-name='damage'>8085</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 8085 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='8085' data-variable-name='damage'>8085</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 10,
                             "talentScore": 1586,
-                            "text": "Deal 9037 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='9037' data-variable-name='damage'>9037</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 9037 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='9037' data-variable-name='damage'>9037</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         }
                     ]
                 },
@@ -24200,62 +24200,62 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 470 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='470' data-variable-name='damage'>470</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 470 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='470' data-variable-name='damage'>470</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1421 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='1421' data-variable-name='damage'>1421</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 1421 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='1421' data-variable-name='damage'>1421</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 2373 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='2373' data-variable-name='damage'>2373</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 2373 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='2373' data-variable-name='damage'>2373</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 3325 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='3325' data-variable-name='damage'>3325</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 3325 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='3325' data-variable-name='damage'>3325</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 4277 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='4277' data-variable-name='damage'>4277</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 4277 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='4277' data-variable-name='damage'>4277</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 5229 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='5229' data-variable-name='damage'>5229</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 5229 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='5229' data-variable-name='damage'>5229</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 6181 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='6181' data-variable-name='damage'>6181</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 6181 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='6181' data-variable-name='damage'>6181</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 7133 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='7133' data-variable-name='damage'>7133</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 7133 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='7133' data-variable-name='damage'>7133</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 8085 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='8085' data-variable-name='damage'>8085</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 8085 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='8085' data-variable-name='damage'>8085</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 10,
                             "talentScore": 1586,
-                            "text": "Deal 9037 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='9037' data-variable-name='damage'>9037</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 9037 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='9037' data-variable-name='damage'>9037</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         }
                     ]
                 },
@@ -26155,62 +26155,62 @@
                         {
                             "level": 1,
                             "talentScore": 49,
-                            "text": "Deal 470 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='470' data-variable-name='damage'>470</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 470 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='470' data-variable-name='damage'>470</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 2,
                             "talentScore": 219,
-                            "text": "Deal 1421 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='1421' data-variable-name='damage'>1421</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 1421 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='1421' data-variable-name='damage'>1421</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 3,
                             "talentScore": 390,
-                            "text": "Deal 2373 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='2373' data-variable-name='damage'>2373</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 2373 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='2373' data-variable-name='damage'>2373</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 4,
                             "talentScore": 561,
-                            "text": "Deal 3325 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='3325' data-variable-name='damage'>3325</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 3325 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='3325' data-variable-name='damage'>3325</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 5,
                             "talentScore": 732,
-                            "text": "Deal 4277 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='4277' data-variable-name='damage'>4277</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 4277 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='4277' data-variable-name='damage'>4277</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 6,
                             "talentScore": 902,
-                            "text": "Deal 5229 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='5229' data-variable-name='damage'>5229</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 5229 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='5229' data-variable-name='damage'>5229</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 7,
                             "talentScore": 1073,
-                            "text": "Deal 6181 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='6181' data-variable-name='damage'>6181</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 6181 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='6181' data-variable-name='damage'>6181</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 8,
                             "talentScore": 1244,
-                            "text": "Deal 7133 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='7133' data-variable-name='damage'>7133</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 7133 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='7133' data-variable-name='damage'>7133</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 9,
                             "talentScore": 1415,
-                            "text": "Deal 8085 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='8085' data-variable-name='damage'>8085</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 8085 Damage and Modify a 2 x 4 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='8085' data-variable-name='damage'>8085</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='4' data-variable-name='val2'>4</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 10,
                             "talentScore": 1586,
-                            "text": "Deal 9037 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='9037' data-variable-name='damage'>9037</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 9037 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='9037' data-variable-name='damage'>9037</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         }
                     ]
                 },
@@ -28944,80 +28944,80 @@
                         {
                             "level": 1,
                             "talentScore": 220,
-                            "text": "Deal 1028 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='1028' data-variable-name='damage'>1028</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 1028 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='1028' data-variable-name='damage'>1028</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 2,
                             "talentScore": 466,
-                            "text": "Deal 3084 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='3084' data-variable-name='damage'>3084</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 3084 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='3084' data-variable-name='damage'>3084</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 3,
                             "talentScore": 712,
-                            "text": "Deal 5141 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='5141' data-variable-name='damage'>5141</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 5141 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='5141' data-variable-name='damage'>5141</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 4,
                             "talentScore": 958,
-                            "text": "Deal 7197 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='7197' data-variable-name='damage'>7197</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 7197 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='7197' data-variable-name='damage'>7197</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 5,
                             "talentScore": 1204,
-                            "text": "Deal 9254 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='9254' data-variable-name='damage'>9254</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 9254 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='9254' data-variable-name='damage'>9254</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 6,
                             "talentScore": 1450,
-                            "text": "Deal 11310 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='11310' data-variable-name='damage'>11310</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 11310 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='11310' data-variable-name='damage'>11310</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 7,
                             "talentScore": 1696,
-                            "text": "Deal 13367 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='13367' data-variable-name='damage'>13367</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 13367 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='13367' data-variable-name='damage'>13367</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 8,
                             "talentScore": 1942,
-                            "text": "Deal 15424 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='15424' data-variable-name='damage'>15424</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 15424 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='15424' data-variable-name='damage'>15424</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 9,
                             "talentScore": 2188,
-                            "text": "Deal 17480 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='17480' data-variable-name='damage'>17480</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 17480 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='17480' data-variable-name='damage'>17480</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 10,
                             "talentScore": 2434,
-                            "text": "Deal 19537 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='19537' data-variable-name='damage'>19537</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 19537 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='19537' data-variable-name='damage'>19537</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 11,
                             "talentScore": 2680,
-                            "text": "Deal 21593 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='21593' data-variable-name='damage'>21593</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 21593 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='21593' data-variable-name='damage'>21593</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 12,
                             "talentScore": 2926,
-                            "text": "Deal 23650 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='23650' data-variable-name='damage'>23650</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 23650 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='23650' data-variable-name='damage'>23650</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         },
                         {
                             "level": 13,
                             "talentScore": 3172,
-                            "text": "Deal 25707 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 3.",
-                            "html": "Deal <span data-variable-value='25707' data-variable-name='damage'>25707</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='3' data-variable-name='val4'>3</span>."
+                            "text": "Deal 25707 Damage and Modify a 2 x 5 Random area into Multiply Gems of Strength 2.",
+                            "html": "Deal <span data-variable-value='25707' data-variable-name='damage'>25707</span> Damage and Modify a <span data-variable-value='2' data-variable-name='val1'>2</span> x <span data-variable-value='5' data-variable-name='val2'>5</span> Random area into <span data-variable-value='Multiplier' data-variable-name='min3'>Multiply</span> Gems of Strength <span data-variable-value='2' data-variable-name='val4'>2</span>."
                         }
                     ]
                 },
